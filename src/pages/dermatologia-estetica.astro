@@ -1,0 +1,45 @@
+---
+import Service from '../layouts/Service.astro';
+
+const groups = [
+  {
+    title: 'Procedimentos',
+    items: [
+      { t: 'Toxina botulínica', d: 'Suaviza linhas de expressão relaxando músculos específicos, preservando a sua expressão.' },
+      { t: 'Preenchimento com ácido hialurônico', d: 'Repõe volume e contorno em áreas selecionadas, com quantidade e pontos definidos na avaliação.' },
+      { t: 'Bioestimuladores de colágeno', d: 'Estimulam a produção de colágeno para melhorar a firmeza da pele de forma gradual.' },
+      { t: 'Lasers', d: 'Indicados para manchas, vasinhos, textura e cicatrizes, de acordo com o tipo de pele.' },
+      { t: 'Cicatrizes de acne', d: 'Combinação de técnicas para melhorar a textura da pele marcada pela acne.' },
+    ],
+  },
+];
+
+const faq = [
+  {
+    q: 'A toxina botulínica deixa o rosto artificial?',
+    a: 'Não deveria. O aspecto artificial costuma vir de dose ou pontos inadequados. Na avaliação, observo como o rosto se movimenta para tratar só o necessário, mantendo a expressão.',
+  },
+  {
+    q: 'Quanto tempo dura o efeito da toxina botulínica?',
+    a: 'Em geral, de 3 a 6 meses, variando de pessoa para pessoa e conforme a região tratada.',
+  },
+  {
+    q: 'Qual a diferença entre preenchimento e bioestimulador?',
+    a: 'O preenchimento com ácido hialurônico repõe volume de forma imediata em pontos específicos. O bioestimulador age aos poucos, estimulando a pele a produzir colágeno, e melhora a firmeza ao longo de semanas a meses.',
+  },
+  {
+    q: 'Todo mundo pode fazer procedimentos estéticos?',
+    a: 'Não. Gestação, amamentação, algumas doenças e medicamentos podem contraindicar procedimentos. Por isso a avaliação vem sempre antes, e às vezes a recomendação é não fazer.',
+  },
+];
+---
+<Service
+  slug="dermatologia-estetica"
+  eyebrow="Dermatologia estética"
+  h1="O melhor resultado é aquele <em>que ninguém aponta</em>"
+  title="Dermatologia estética: toxina botulínica, preenchimento e lasers"
+  description="Dermatologia estética com o Dr. Alexandre Okubo: toxina botulínica, preenchimento com ácido hialurônico, bioestimuladores e lasers, com indicação criteriosa e resultado natural. Vila Clementino, São Paulo."
+  lead="Procedimentos estéticos feitos por dermatologista, com avaliação antes da aplicação, indicação só do que faz sentido e foco em resultado natural."
+  groups={groups}
+  faq={faq}
+/>

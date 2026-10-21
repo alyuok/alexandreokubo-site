@@ -1,0 +1,63 @@
+---
+import Base from './Base.astro';
+import Cta from '../components/Cta.astro';
+import Faq from '../components/Faq.astro';
+import { SITE_URL } from '../data/site';
+import { medicalPageSchema, faqSchema } from '../data/schema';
+
+interface Props {
+  slug: string;
+  eyebrow: string;
+  h1: string;
+  title: string;
+  description: string;
+  lead: string;
+  groups: { title: string; items: { t: string; d: string }[] }[];
+  faq: { q: string; a: string }[];
+  about?: string[];
+}
+
+const { slug, eyebrow, h1, title, description, lead, groups, faq, about } = Astro.props;
+const url = `${SITE_URL}/${slug}/`;
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: eyebrow, href: `/${slug}/` }]}
+  schema={[medicalPageSchema({ url, name: title, description, about }), faqSchema(faq)]}
+>
+  <div class="wrap page-head">
+    <p class="eyebrow">{eyebrow}</p>
+    <h1 set:html={h1} />
+    <p class="lead">{lead}</p>
+  </div>
+
+  {groups.map((g, i) => (
+    <section class={`section ${i % 2 === 0 ? 'section--white' : ''}`}>
+      <div class="wrap">
+        <h2 class="mt0">{g.title}</h2>
+        <div class="grid grid--3">
+          {g.items.map((it) => (
+            <div class="card">
+              <h3>{it.t}</h3>
+              <p>{it.d}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  ))}
+
+  <section class="section">
+    <div class="wrap">
+      <slot />
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <Cta />
+</Base>
+
+<style>
+  .mt0 { margin-top: 0; }
+</style>

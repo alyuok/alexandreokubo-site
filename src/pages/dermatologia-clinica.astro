@@ -1,0 +1,55 @@
+---
+import Service from '../layouts/Service.astro';
+
+const groups = [
+  {
+    title: 'Pele',
+    items: [
+      { t: 'Acne', d: 'Na adolescência e na vida adulta, com atenção às cicatrizes e ao impacto na autoestima.' },
+      { t: 'Rosácea', d: 'Vermelhidão, sensibilidade e "espinhas" no centro do rosto: identificar gatilhos e controlar as crises.' },
+      { t: 'Melasma e manchas', d: 'Diagnóstico do tipo de mancha e plano de controle a longo prazo, com fotoproteção como base.' },
+      { t: 'Dermatites', d: 'Dermatite atópica, seborreica e de contato: cuidar da barreira da pele e evitar recaídas.' },
+      { t: 'Psoríase', d: 'Avaliação da extensão, das articulações e escolha do tratamento adequado a cada fase.' },
+      { t: 'Urticária', d: 'Investigação das causas possíveis e controle dos sintomas.' },
+    ],
+  },
+  {
+    title: 'Cabelos, unhas e pintas',
+    items: [
+      { t: 'Queda de cabelo', d: 'Investigação com exame clínico e tricoscopia para separar quedas temporárias de quadros que exigem tratamento contínuo.' },
+      { t: 'Unhas', d: 'Micose de unha, unhas frágeis e alterações de cor ou formato, que às vezes sinalizam outras condições.' },
+      { t: 'Avaliação de pintas', d: 'Exame com dermatoscopia para acompanhar pintas e identificar precocemente sinais de câncer de pele.' },
+    ],
+  },
+];
+
+const faq = [
+  {
+    q: 'Quando uma pinta precisa ser avaliada por um dermatologista?',
+    a: 'Procure avaliação se a pinta for assimétrica, tiver bordas irregulares, mais de uma cor, diâmetro acima de 6 mm ou estiver mudando de tamanho, forma ou cor (a regra do ABCDE). Pintas que coçam, sangram ou surgem depois dos 30 anos também merecem exame.',
+  },
+  {
+    q: 'Quanto cabelo cair por dia é normal?',
+    a: 'Perder cerca de 50 a 100 fios por dia é considerado normal. Quando a queda aumenta de forma perceptível, dura mais de alguns meses ou o volume do cabelo diminui, vale investigar a causa.',
+  },
+  {
+    q: 'Melasma tem cura?',
+    a: 'O melasma é uma condição crônica: tem controle, mas tende a voltar com sol, calor e alterações hormonais. Por isso o tratamento combina fotoproteção diária, produtos clareadores e, em casos selecionados, procedimentos, com acompanhamento.',
+  },
+  {
+    q: 'Acne em adulto é normal?',
+    a: 'Sim, a acne pode surgir ou persistir na vida adulta, principalmente em mulheres. Fatores hormonais, cosméticos e hábitos podem estar envolvidos, e há tratamentos eficazes para cada caso.',
+  },
+];
+---
+<Service
+  slug="dermatologia-clinica"
+  eyebrow="Dermatologia clínica"
+  h1="Diagnóstico com calma, tratamento com critério"
+  title="Dermatologia clínica: acne, melasma, queda de cabelo e pintas"
+  description="Dermatologia clínica com o Dr. Alexandre Okubo: acne, rosácea, melasma, dermatites, psoríase, queda de cabelo, unhas e avaliação de pintas com dermatoscopia. Vila Clementino (SP) e Santo André."
+  lead="A maior parte das consultas começa com uma queixa que incomoda há tempo. O primeiro passo é chegar ao diagnóstico certo; o segundo, explicar o que ele significa e quais são as opções."
+  groups={groups}
+  faq={faq}
+  about={['Acne', 'Rosácea', 'Melasma', 'Dermatite atópica', 'Psoríase', 'Alopecia', 'Onicomicose', 'Melanoma']}
+/>

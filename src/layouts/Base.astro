@@ -1,0 +1,159 @@
+---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/fraunces/wght-italic.css';
+import '@fontsource/dm-sans/400.css';
+import '@fontsource/dm-sans/500.css';
+import '@fontsource/dm-sans/600.css';
+import '../styles/global.css';
+import { doctor, booking, locations, nav, SITE_URL } from '../data/site';
+import { personSchema, websiteSchema, clinicSchema, breadcrumbSchema } from '../data/schema';
+
+interface Props {
+  title: string;
+  description: string;
+  schema?: object[];
+  breadcrumbs?: { name: string; href: string }[];
+  ogType?: string;
+}
+
+const { title, description, schema = [], breadcrumbs, ogType = 'website' } = Astro.props;
+const canonical = new URL(Astro.url.pathname, SITE_URL).href;
+const fullTitle = Astro.url.pathname === '/' ? title : `${title} | ${doctor.name}`;
+
+const crumbs = breadcrumbs ? [{ name: 'Início', href: '/' }, ...breadcrumbs] : null;
+
+const graph = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    personSchema(),
+    websiteSchema(),
+    ...locations.map(clinicSchema),
+    ...(crumbs ? [breadcrumbSchema(crumbs.map((c) => ({ name: c.name, url: new URL(c.href, SITE_URL).href })))] : []),
+    ...schema,
+  ],
+};
+const year = new Date().getFullYear();
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta name="theme-color" content="#343538" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:site_name" content={doctor.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json" set:html={JSON.stringify(graph)} />
+  </head>
+  <body>
+    <a class="skip" href="#conteudo">Pular para o conteúdo</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a href="/" class="brand" aria-label={`${doctor.name}, página inicial`}>
+          <span class="brand-name">{doctor.name}</span>
+          <span class="brand-sub">Dermatologista</span>
+        </a>
+        <nav aria-label="Principal" class="nav-desktop">
+          <ul>
+            {nav.map((n) => (
+              <li><a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>
+            ))}
+            <li><a class="btn btn--sm" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar</a></li>
+          </ul>
+        </nav>
+        <details class="menu">
+          <summary aria-label="Abrir menu"><span></span><span></span></summary>
+          <nav aria-label="Principal (celular)">
+            <ul>
+              {nav.map((n) => (
+                <li><a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>
+              ))}
+              <li class="menu-cta"><a class="btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a></li>
+            </ul>
+          </nav>
+        </details>
+      </div>
+    </header>
+
+    {crumbs && (
+      <nav class="wrap breadcrumb" aria-label="Trilha">
+        {crumbs.map((c, i) => (
+          <>
+            {i > 0 && <span aria-hidden="true"> / </span>}
+            {i < crumbs.length - 1 ? <a href={c.href}>{c.name}</a> : <span aria-current="page">{c.name}</span>}
+          </>
+        ))}
+      </nav>
+    )}
+
+    <main id="conteudo">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap footer-grid">
+        <div>
+          <p class="footer-name">{doctor.name}</p>
+          <p>Dermatologista · {doctor.crm} · {doctor.rqe}<br />Membro da Sociedade Brasileira de Dermatologia</p>
+          <p><a href={doctor.instagram} rel="me noopener" target="_blank">Instagram @alexandreokubodermato</a></p>
+        </div>
+        {locations.map((l) => (
+          <div>
+            <p class="footer-label">{l.city}</p>
+            <p><a href={`/onde-atendo/${l.slug}/`}>{l.shortName}</a><br />{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}</p>
+          </div>
+        ))}
+      </div>
+      <div class="wrap footer-legal">
+        <p>Responsável técnico: {doctor.name} · {doctor.crm} · {doctor.rqe}. O conteúdo deste site é informativo e não substitui a consulta médica.</p>
+        <p>© {year} {doctor.legalName} · <a href="/privacidade/">Privacidade</a></p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .skip { position: absolute; left: -999px; }
+  .skip:focus { left: 16px; top: 16px; background: var(--white); padding: 8px 12px; z-index: 10; }
+
+  .site-header { background: var(--sand); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 5; }
+  .header-inner { display: flex; align-items: center; justify-content: space-between; min-height: 72px; gap: 16px; }
+  .brand { text-decoration: none; color: var(--graphite); display: flex; flex-direction: column; line-height: 1.1; }
+  .brand-name { font-family: var(--serif); font-size: 1.35rem; }
+  .brand-sub { font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold-text); margin-top: 4px; padding-top: 4px; border-top: 1px solid var(--gold); align-self: flex-start; }
+
+  .nav-desktop { display: none; }
+  .nav-desktop ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 22px; align-items: center; }
+  .nav-desktop a:not(.btn) { color: var(--graphite); text-decoration: none; font-size: 0.95rem; }
+  .nav-desktop a:not(.btn):hover, .nav-desktop a[aria-current='page'] { color: var(--gold-text); }
+  .btn--sm { min-height: 40px; padding: 0.5rem 1.1rem; font-size: 0.9rem; }
+
+  .menu summary { list-style: none; cursor: pointer; width: 44px; height: 44px; display: flex; flex-direction: column; justify-content: center; gap: 7px; padding: 10px; }
+  .menu summary::-webkit-details-marker { display: none; }
+  .menu summary span { display: block; height: 1px; background: var(--graphite); }
+  .menu ul { list-style: none; margin: 0; padding: 16px var(--gutter) 24px; position: absolute; left: 0; right: 0; top: 72px; background: var(--sand); border-bottom: 1px solid var(--line); }
+  .menu li a:not(.btn) { display: block; padding: 10px 0; color: var(--graphite); text-decoration: none; font-size: 1.05rem; }
+  .menu li a[aria-current='page'] { color: var(--gold-text); }
+  .menu-cta { margin-top: 12px; }
+
+  @media (min-width: 1000px) {
+    .nav-desktop { display: block; }
+    .menu { display: none; }
+  }
+
+  .site-footer { background: var(--graphite); color: var(--sand); padding: 56px 0 24px; font-size: 0.95rem; margin-top: 0; }
+  .site-footer a { color: var(--gold); }
+  .footer-grid { display: grid; gap: 32px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+  .footer-name { font-family: var(--serif); font-size: 1.4rem; margin-bottom: 0.4rem; }
+  .footer-label { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.4rem; }
+  .footer-legal { border-top: 1px solid rgba(245, 239, 230, 0.15); margin-top: 32px; padding-top: 20px; font-size: 0.82rem; color: #c9c3b8; }
+</style>

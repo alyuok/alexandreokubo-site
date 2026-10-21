@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import Cta from '../../components/Cta.astro';
+import { locations, booking, doctor, SITE_URL } from '../../data/site';
+import { clinicId, PERSON_ID } from '../../data/schema';
+
+export function getStaticPaths() {
+  return locations.map((l) => ({ params: { slug: l.slug }, props: { loc: l } }));
+}
+
+const { loc } = Astro.props;
+const place = `${loc.district ? loc.district + ', ' : ''}${loc.city}`;
+const title = `Dermatologista em ${place} – ${loc.shortName}`;
+const description = `${doctor.name}, dermatologista, atende na ${loc.name}: ${loc.street}, ${place} – ${loc.region}. ${loc.payment}.`;
+const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
+const mapQuery = encodeURIComponent(`${loc.name}, ${loc.street}, ${loc.city} - ${loc.region}`);
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Onde atendo', href: '/onde-atendo/' }, { name: loc.shortName, href: `/onde-atendo/${loc.slug}/` }]}
+  schema={[{ '@type': 'WebPage', '@id': `${url}#webpage`, url, name: title, description, inLanguage: 'pt-BR', about: { '@id': clinicId(loc.slug) }, mentions: { '@id': PERSON_ID } }]}
+>
+  <div class="wrap page-head">
+    <p class="eyebrow">{loc.city}</p>
+    <h1>{loc.name}</h1>
+    <p class="lead">{loc.note}</p>
+  </div>
+
+  <section class="section section--white">
+    <div class="wrap grid grid--2">
+      <dl class="facts">
+        <dt>Endereço</dt>
+        <dd>{loc.street}{loc.district && `, ${loc.district}`}<br />{loc.city} – {loc.region}{loc.postalCode && `, ${loc.postalCode}`}</dd>
+        {loc.phone && (<><dt>Telefone</dt><dd><a href={`tel:${loc.phone.replace(/\D/g, '')}`}>{loc.phone}</a></dd></>)}
+        <dt>Forma de atendimento</dt>
+        <dd>{loc.payment}</dd>
+        <dt>Site da clínica</dt>
+        <dd><a href={loc.url} rel="noopener" target="_blank">{loc.url.replace(/^https?:\/\/(www\.)?/, '')}</a></dd>
+      </dl>
+      <div>
+        <p><a class="btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a></p>
+        <p><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`} rel="noopener" target="_blank">Abrir no Google Maps →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <Cta />
+</Base>
+
+<style>
+  .facts { margin: 0; }
+  .facts dt { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--gold-text); margin-top: 16px; }
+  .facts dd { margin: 4px 0 0; font-size: 1.1rem; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+</style>

@@ -1,0 +1,16 @@
+---
+import Base from '../layouts/Base.astro';
+import { doctor } from '../data/site';
+
+const title = 'Política de privacidade';
+const description = 'Como este site trata dados pessoais, em conformidade com a Lei Geral de Proteção de Dados (LGPD).';
+---
+<Base title={title} description={description} breadcrumbs={[{ name: 'Privacidade', href: '/privacidade/' }]}>
+  <div class="wrap page-head prose">
+    <h1>Política de privacidade</h1>
+    <p>Este site é informativo e não coleta dados pessoais por formulários. O agendamento é feito em plataformas externas, que têm suas próprias políticas de privacidade.</p>
+    <p>Podemos usar ferramentas de medição de audiência (como Google Analytics) para entender, de forma agregada, como o site é usado. Esses dados não identificam você individualmente.</p>
+    <p>Nenhuma informação sobre pacientes é publicada neste site.</p>
+    <p>Dúvidas sobre privacidade podem ser enviadas pelos canais de contato das clínicas onde {doctor.name} atende.</p>
+  </div>
+</Base>

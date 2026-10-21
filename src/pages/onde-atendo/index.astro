@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import Cta from '../../components/Cta.astro';
+import { locations } from '../../data/site';
+
+const title = 'Onde atendo: Vila Clementino (SP) e Santo André';
+const description =
+  'Locais de atendimento do Dr. Alexandre Okubo, dermatologista: Prime Dermatologia, na Vila Clementino, em São Paulo, e Clínica Portugal, em Santo André.';
+---
+<Base title={title} description={description} breadcrumbs={[{ name: 'Onde atendo', href: '/onde-atendo/' }]}>
+  <div class="wrap page-head">
+    <p class="eyebrow">Onde atendo</p>
+    <h1>Dois endereços, o mesmo cuidado</h1>
+    <p class="lead">Atendo na zona sul de São Paulo e no ABC. Escolha o local mais conveniente para você.</p>
+  </div>
+  <section class="section section--white">
+    <div class="wrap grid grid--2">
+      {locations.map((l) => (
+        <div class="card">
+          <h2 class="h3">{l.name}</h2>
+          <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}</p>
+          <p class="signature">{l.payment}<br />{l.note}</p>
+          <a href={`/onde-atendo/${l.slug}/`}>Detalhes e como chegar →</a>
+        </div>
+      ))}
+    </div>
+  </section>
+  <Cta />
+</Base>
+
+<style>
+  .h3 { font-size: 1.4rem; margin-top: 0; }
+</style>

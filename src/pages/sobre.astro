@@ -1,0 +1,94 @@
+---
+import Base from '../layouts/Base.astro';
+import Cta from '../components/Cta.astro';
+import { doctor, locations, SITE_URL } from '../data/site';
+import { PERSON_ID } from '../data/schema';
+
+const title = 'Sobre o Dr. Alexandre Okubo';
+const description =
+  'Formação, registros e trajetória do Dr. Alexandre Okubo, dermatologista formado pela FMUSP, com residência no HC-FMUSP e estágio na University of Michigan. CRM-SP 90.743 · RQE 30.051.';
+const url = `${SITE_URL}/sobre/`;
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Sobre', href: '/sobre/' }]}
+  schema={[{ '@type': 'ProfilePage', '@id': `${url}#webpage`, url, name: title, description, inLanguage: 'pt-BR', mainEntity: { '@id': PERSON_ID } }]}
+>
+  <div class="wrap page-head">
+    <p class="eyebrow">Sobre</p>
+    <h1>Dr. Alexandre Okubo</h1>
+    <p class="lead">Dermatologista desde 2000. Formado pela Faculdade de Medicina da USP, com residência no Hospital das Clínicas.</p>
+  </div>
+
+  <section class="section section--white">
+    <div class="wrap grid grid--2 about">
+      <div class="photo-placeholder" role="img" aria-label="Foto do Dr. Alexandre Okubo (a inserir)">Foto: retrato de jaleco</div>
+      <div class="prose">
+        <p>
+          Sou dermatologista e atendo adultos com queixas de pele, cabelos e unhas, da acne à queda de cabelo, das
+          manchas à avaliação de pintas. Também realizo pequenas cirurgias dermatológicas em consultório e
+          procedimentos estéticos.
+        </p>
+        <p>
+          Ao longo dos anos, aprendi que o diagnóstico começa antes do exame: começa na conversa. Muitos pacientes
+          chegam depois de tentar vários tratamentos. Nesses casos, o primeiro passo é entender a história com calma,
+          revisar o que já foi feito e explicar o que está acontecendo.
+        </p>
+        <p>
+          Sou {doctor.role.charAt(0).toLowerCase() + doctor.role.slice(1)}, na Vila Clementino, e também atendo na
+          Clínica Portugal, em Santo André.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap grid grid--2">
+      <div>
+        <p class="eyebrow">Formação</p>
+        <h2 class="mt0">Trajetória acadêmica</h2>
+      </div>
+      <ol class="timeline">
+        {doctor.education.map((e) => (
+          <li>
+            <span class="year">{e.year}</span>
+            <div>
+              <strong>{e.title}</strong>
+              <br />{e.institution}
+            </div>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap grid grid--2">
+      <div>
+        <p class="eyebrow">Registros</p>
+        <h2 class="mt0">Registro profissional e especialidade</h2>
+      </div>
+      <dl class="facts">
+        <dt>Registro no CREMESP</dt><dd>{doctor.crm}</dd>
+        <dt>Especialidade</dt><dd>Dermatologia · {doctor.rqe}</dd>
+        <dt>Sociedade</dt><dd>{doctor.memberships.join(', ')}</dd>
+        <dt>Locais de atendimento</dt><dd>{locations.map((l) => `${l.shortName} (${l.city})`).join(' · ')}</dd>
+      </dl>
+    </div>
+  </section>
+
+  <Cta />
+</Base>
+
+<style>
+  .mt0 { margin-top: 0; }
+  .about { align-items: start; }
+  .timeline { list-style: none; padding: 0; margin: 0; border-left: 1px solid var(--gold); }
+  .timeline li { display: grid; grid-template-columns: 64px 1fr; gap: 16px; padding: 0 0 28px 24px; position: relative; }
+  .timeline li::before { content: ''; position: absolute; left: -4px; top: 10px; width: 7px; height: 7px; background: var(--gold); border-radius: 50%; }
+  .year { font-family: var(--serif); font-size: 1.3rem; color: var(--gold-text); }
+  .facts { margin: 0; display: grid; grid-template-columns: 1fr; }
+  .facts dt { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--gold-text); margin-top: 16px; }
+  .facts dd { margin: 4px 0 0; font-size: 1.1rem; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+</style>

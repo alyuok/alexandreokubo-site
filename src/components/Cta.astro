@@ -1,0 +1,32 @@
+---
+import { booking, doctor } from '../data/site';
+interface Props {
+  title?: string;
+  text?: string;
+}
+const {
+  title = 'Vamos entender o que a sua pele precisa',
+  text = 'A consulta começa pela sua história. Depois vêm o exame, o diagnóstico explicado com calma e um plano que faça sentido para você.',
+} = Astro.props;
+---
+<section class="section section--dark">
+  <div class="wrap cta">
+    <p class="eyebrow">Agendamento</p>
+    <h2>{title}</h2>
+    <p class="cta-text">{text}</p>
+    <div class="cta-actions">
+      <a class="btn cta-btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a>
+      <a href="/onde-atendo/">Ver locais de atendimento</a>
+    </div>
+    <p class="signature cta-sig">{doctor.name} · {doctor.crm} · {doctor.rqe}</p>
+  </div>
+</section>
+
+<style>
+  .cta h2 { margin-top: 0; max-width: 18ch; }
+  .cta-text { max-width: 56ch; color: #d9d3c8; }
+  .cta-actions { display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 28px; }
+  .cta-btn { background: var(--gold); border-color: var(--gold); color: var(--graphite); }
+  .cta-btn:hover { background: transparent; color: var(--gold); }
+  .cta-sig { color: #a9a39a; margin-top: 32px; }
+</style>

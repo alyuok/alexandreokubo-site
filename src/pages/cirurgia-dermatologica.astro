@@ -1,0 +1,46 @@
+---
+import Service from '../layouts/Service.astro';
+
+const groups = [
+  {
+    title: 'Procedimentos em consultório',
+    items: [
+      { t: 'Retirada de pintas', d: 'Remoção de pintas suspeitas ou que incomodam, com envio para análise laboratorial quando indicado.' },
+      { t: 'Cistos e lipomas', d: 'Retirada de cistos e lipomas pequenos e superficiais, com anestesia local.' },
+      { t: 'Biópsia de pele', d: 'Coleta de um pequeno fragmento para confirmar o diagnóstico de lesões que não são claras ao exame.' },
+      { t: 'Lesões benignas', d: 'Ceratoses seborreicas, verrugas, acrocórdons ("verruguinhas" do pescoço) e outras lesões benignas.' },
+      { t: 'Xantelasma', d: 'Placas amareladas nas pálpebras: avaliação clínica, pedido de exames quando necessário e tratamento.' },
+    ],
+  },
+];
+
+const faq = [
+  {
+    q: 'A cirurgia dermatológica é feita com anestesia geral?',
+    a: 'Não. Os procedimentos desta página são feitos em consultório, com anestesia local, e o paciente vai para casa logo depois.',
+  },
+  {
+    q: 'Toda pinta retirada vai para exame?',
+    a: 'Lesões com qualquer suspeita são enviadas para exame anatomopatológico, que confirma o diagnóstico ao microscópio. É ele que define se é preciso algum cuidado adicional.',
+  },
+  {
+    q: 'Fica cicatriz?',
+    a: 'Toda retirada cirúrgica deixa alguma cicatriz. O planejamento busca deixá-la o mais discreta possível, e o resultado depende também da região do corpo e da cicatrização de cada pessoa.',
+  },
+  {
+    q: 'Como é a recuperação?',
+    a: 'Em geral, é possível retomar as atividades no mesmo dia ou no seguinte, com cuidados com o curativo e, às vezes, retirada de pontos depois de 7 a 14 dias, conforme o local.',
+  },
+];
+---
+<Service
+  slug="cirurgia-dermatologica"
+  eyebrow="Cirurgia dermatológica"
+  h1="Pequenas cirurgias, feitas com cuidado"
+  title="Cirurgia dermatológica: retirada de pintas, cistos e biópsias"
+  description="Cirurgia dermatológica em consultório com o Dr. Alexandre Okubo: retirada de pintas, cistos e lipomas, biópsias e lesões benignas, com anestesia local. Vila Clementino (SP) e Santo André."
+  lead="Procedimentos simples, com anestesia local e em consultório. A indicação vem de uma avaliação, e cada etapa é explicada antes de começar."
+  groups={groups}
+  faq={faq}
+  about={['Nevo melanocítico', 'Cisto epidérmico', 'Lipoma', 'Ceratose seborreica', 'Xantelasma']}
+/>

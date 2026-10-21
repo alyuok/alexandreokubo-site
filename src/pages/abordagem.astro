@@ -1,0 +1,83 @@
+---
+import Base from '../layouts/Base.astro';
+import Cta from '../components/Cta.astro';
+import Faq from '../components/Faq.astro';
+import { SITE_URL } from '../data/site';
+import { medicalPageSchema, faqSchema } from '../data/schema';
+
+const title = 'Abordagem: dermatologia com olhar para o estilo de vida';
+const description =
+  'Como o Dr. Alexandre Okubo integra o exame dermatológico com sono, alimentação, estresse e hábitos, com base nos pilares da Medicina do Estilo de Vida.';
+const url = `${SITE_URL}/abordagem/`;
+
+const pillars = [
+  { t: 'Sono', d: 'Noites mal dormidas costumam coincidir com piora de dermatites, acne e da aparência da pele. Perguntar sobre o sono faz parte da consulta.' },
+  { t: 'Estresse', d: 'O estresse pode desencadear ou agravar quadros como dermatite, psoríase, acne e queda de cabelo. Reconhecer essa relação ajuda a planejar o tratamento.' },
+  { t: 'Alimentação', d: 'Em algumas condições, como a acne, há estudos sobre a relação com a dieta. Quando faz sentido, conversamos sobre isso sem dietas restritivas sem indicação.' },
+  { t: 'Atividade física', d: 'O movimento contribui para a saúde geral, e a rotina de exercício também influencia cuidados com a pele, como suor, atrito e fotoproteção.' },
+  { t: 'Tabaco e álcool', d: 'O tabagismo está associado ao envelhecimento da pele e a pior cicatrização. Falar sobre isso é parte do cuidado, sem julgamento.' },
+  { t: 'Relações e autoestima', d: 'Uma acne, uma mancha ou uma queda de cabelo podem afetar como a pessoa se sente. Esse impacto merece ser ouvido.' },
+];
+
+const faq = [
+  {
+    q: 'O que é Medicina do Estilo de Vida?',
+    a: 'É uma abordagem que usa mudanças de hábitos, como sono, alimentação, atividade física, manejo do estresse, relações sociais e evitar substâncias nocivas, para prevenir e ajudar a tratar doenças. Na dermatologia, ela complementa o tratamento médico; não o substitui.',
+  },
+  {
+    q: 'Vou deixar de usar medicamentos?',
+    a: 'Não necessariamente. Quando há indicação de medicamento, procedimento ou cirurgia, eles fazem parte do plano. Os hábitos entram como apoio, para melhorar a resposta ao tratamento e reduzir recaídas quando isso é possível.',
+  },
+  {
+    q: 'A consulta demora mais por causa disso?',
+    a: 'A primeira consulta reserva tempo para ouvir a história completa, porque muitas vezes é nela que está a pista do diagnóstico. As consultas de retorno acompanham a evolução e ajustam o plano.',
+  },
+];
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Abordagem', href: '/abordagem/' }]}
+  schema={[medicalPageSchema({ url, name: title, description }), faqSchema(faq)]}
+>
+  <div class="wrap page-head">
+    <p class="eyebrow">Abordagem</p>
+    <h1>A pele conta o que o corpo vive</h1>
+    <p class="lead">
+      O exame dermatológico continua no centro da consulta. Mas, para muitas queixas, entender a rotina do paciente
+      é o que separa um tratamento que funciona de um que só alivia por um tempo.
+    </p>
+  </div>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <p class="eyebrow">Os pilares que observo</p>
+      <h2 class="mt0">Seis pontos que entram na conversa</h2>
+      <div class="grid grid--3">
+        {pillars.map((p) => (
+          <div class="card">
+            <h3>{p.t}</h3>
+            <p>{p.d}</p>
+          </div>
+        ))}
+      </div>
+      <p class="notice mt">
+        Essa abordagem não é uma especialidade médica nem substitui o tratamento dermatológico. É a forma como
+        organizo a consulta para que o plano faça sentido na vida real de cada paciente.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <Cta />
+</Base>
+
+<style>
+  .mt0 { margin-top: 0; }
+  .mt { margin-top: 32px; max-width: var(--text); }
+</style>

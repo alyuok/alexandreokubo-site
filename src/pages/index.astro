@@ -1,0 +1,120 @@
+---
+import Base from '../layouts/Base.astro';
+import Cta from '../components/Cta.astro';
+import { doctor, booking, locations, SITE_URL } from '../data/site';
+import { medicalPageSchema } from '../data/schema';
+
+const title = 'Dr. Alexandre Okubo | Dermatologista em São Paulo e Santo André';
+const description =
+  'Dermatologista formado pela FMUSP, com residência no HC-FMUSP. Dermatologia clínica, cirúrgica e estética na Vila Clementino (SP) e em Santo André. CRM-SP 90.743 · RQE 30.051.';
+
+const areas = [
+  {
+    href: '/dermatologia-clinica/',
+    title: 'Dermatologia clínica',
+    text: 'Acne, rosácea, melasma, dermatites, queda de cabelo, unhas e avaliação de pintas.',
+  },
+  {
+    href: '/cirurgia-dermatologica/',
+    title: 'Cirurgia dermatológica',
+    text: 'Retirada de pintas, cistos e lipomas, biópsias e tratamento de lesões benignas, em consultório.',
+  },
+  {
+    href: '/dermatologia-estetica/',
+    title: 'Dermatologia estética',
+    text: 'Toxina botulínica, preenchimento, bioestimuladores e lasers, com indicação criteriosa e resultado natural.',
+  },
+];
+---
+<Base
+  title={title}
+  description={description}
+  schema={[medicalPageSchema({ url: `${SITE_URL}/`, name: title, description })]}
+>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Dermatologista · {doctor.rqe}</p>
+        <h1>Tratar a pele sem esquecer <em>a pessoa</em> que vive nela.</h1>
+        <p class="lead">
+          Sou o Dr. Alexandre Okubo, dermatologista formado pela Faculdade de Medicina da USP, com residência no
+          Hospital das Clínicas. Atendo na Vila Clementino, em São Paulo, e em Santo André.
+        </p>
+        <div class="hero-actions">
+          <a class="btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a>
+          <a class="btn btn--ghost" href="/sobre/">Conheça minha formação</a>
+        </div>
+      </div>
+      <div class="photo-placeholder" role="img" aria-label="Foto do Dr. Alexandre Okubo (a inserir)">Foto: retrato em consultório, luz natural</div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <p class="eyebrow">O que eu trato</p>
+      <h2 class="mt0">Dermatologia clínica, cirúrgica e estética</h2>
+      <div class="grid grid--3">
+        {areas.map((a) => (
+          <a class="card card-link" href={a.href}>
+            <h3>{a.title}</h3>
+            <p>{a.text}</p>
+            <span class="more">Saiba mais →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap grid grid--2 approach">
+      <div>
+        <p class="eyebrow">Abordagem</p>
+        <h2 class="mt0">A consulta começa pela sua história</h2>
+      </div>
+      <div class="prose">
+        <p>
+          Muitas queixas de pele têm relação com sono, alimentação, estresse e rotina. Por isso, além do exame
+          dermatológico, olho para os hábitos que podem estar influenciando o quadro, com base nos pilares da
+          Medicina do Estilo de Vida.
+        </p>
+        <p>
+          O objetivo é que você saia entendendo o que tem, por que o tratamento foi indicado e o que esperar dele,
+          inclusive quando a melhor resposta é que não precisa tratar.
+        </p>
+        <p><a href="/abordagem/">Como funciona essa abordagem →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <p class="eyebrow">Onde atendo</p>
+      <h2 class="mt0">Dois endereços</h2>
+      <div class="grid grid--2">
+        {locations.map((l) => (
+          <div class="card">
+            <h3>{l.shortName}</h3>
+            <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}</p>
+            <p class="signature">{l.payment}</p>
+            <a href={`/onde-atendo/${l.slug}/`}>Como chegar e agendar →</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <Cta />
+</Base>
+
+<style>
+  .hero { padding: clamp(40px, 8vw, 96px) 0; }
+  .hero-grid { display: grid; gap: 40px; align-items: center; }
+  @media (min-width: 860px) { .hero-grid { grid-template-columns: 1.3fr 1fr; gap: 64px; } }
+  .lead { font-size: 1.2rem; color: var(--muted); max-width: 52ch; }
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+  .mt0 { margin-top: 0; }
+  .card-link { text-decoration: none; color: inherit; display: block; transition: transform 0.2s; }
+  .card-link:hover { transform: translateY(-2px); color: inherit; }
+  .more { color: var(--gold-text); font-size: 0.95rem; }
+  .approach { align-items: start; }
+</style>

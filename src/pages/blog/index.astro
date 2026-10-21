@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getPosts, formatDate } from '../../lib/posts';
+
+const posts = await getPosts();
+const title = 'Blog: dermatologia explicada';
+const description = 'Artigos do Dr. Alexandre Okubo, dermatologista, com respostas claras e baseadas em evidência sobre pele, cabelos e unhas.';
+---
+<Base title={title} description={description} breadcrumbs={[{ name: 'Blog', href: '/blog/' }]}>
+  <div class="wrap page-head">
+    <p class="eyebrow">Blog</p>
+    <h1>Dermatologia explicada</h1>
+    <p class="lead">Respostas para as dúvidas que mais ouço no consultório, escritas e revisadas por mim.</p>
+  </div>
+  <section class="section section--white">
+    <div class="wrap">
+      {posts.length === 0 && <p>Os primeiros artigos estão a caminho.</p>}
+      <ul class="posts">
+        {posts.map((p) => (
+          <li>
+            <p class="meta">{p.data.category} · {formatDate(p.data.pubDate)}{p.data.status === 'rascunho' && ' · RASCUNHO'}</p>
+            <h2><a href={`/blog/${p.id}/`}>{p.data.title}</a></h2>
+            <p>{p.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .posts { list-style: none; padding: 0; margin: 0; max-width: var(--text); }
+  .posts li { padding: 28px 0; border-bottom: 1px solid var(--line); }
+  .posts li:first-child { padding-top: 0; }
+  .posts h2 { font-size: 1.5rem; margin: 0.2em 0 0.4em; }
+  .posts h2 a { color: var(--graphite); text-decoration: none; }
+  .posts h2 a:hover { color: var(--gold-text); }
+  .meta { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold-text); margin: 0; }
+</style>
