@@ -1,0 +1,6 @@
+# Endereço provisório da Cloudflare não deve ser indexado (evita conteúdo duplicado).
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex
