@@ -1,0 +1,170 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import heroPhoto from '../assets/dermatoscopia-dr-alexandre-okubo.webp';
+import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
+import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
+
+// Página de destino do tráfego pago (unhas). Atendimento na Prime.
+const prime = locations.find((l) => l.slug === 'prime-dermatologia')!;
+const url = `${SITE_URL}/micose-de-unha/`;
+const title = 'Tratamento de micose de unha em São Paulo – Vila Clementino';
+const description =
+  'Avaliação e tratamento de micose de unha (onicomicose) com dermatologista na Vila Clementino, São Paulo: confirmação do diagnóstico, tratamento individualizado e laser Lunula como complemento.';
+
+const steps = [
+  { t: 'Avaliação', d: 'Exame das unhas e da pele dos pés, revisão dos tratamentos já feitos, das doenças e dos medicamentos em uso.' },
+  { t: 'Confirmação do diagnóstico', d: 'Quando indicado, coleta de fragmento da unha para exame micológico. Nem toda unha grossa ou amarelada é micose.' },
+  { t: 'Plano de tratamento', d: 'Tratamento tópico, oral ou combinado, conforme a extensão da micose, o tipo de fungo e o seu histórico de saúde.' },
+  { t: 'Acompanhamento', d: 'Consultas periódicas para acompanhar o crescimento da unha nova e ajustar o plano até o fim do tratamento.' },
+];
+
+const faq = [
+  {
+    q: 'Como saber se é mesmo micose de unha?',
+    a: 'Psoríase, traumas repetidos e alterações de circulação podem deixar a unha com aparência parecida. Por isso, o diagnóstico é feito com exame clínico e, quando indicado, com exame micológico de um fragmento da unha.',
+  },
+  {
+    q: 'O laser Lunula substitui o remédio?',
+    a: 'Na maioria dos casos, não. O Lunula é um laser de baixa intensidade usado como complemento ao tratamento, e é uma opção útil para quem não pode tomar antifúngico por via oral. A indicação é definida na avaliação.',
+  },
+  {
+    q: 'O laser dói?',
+    a: 'Não. O Lunula não aquece a unha e não exige anestesia. Durante a sessão, o paciente fica sentado com o pé posicionado no aparelho.',
+  },
+  {
+    q: 'Quanto tempo leva o tratamento?',
+    a: 'Depende da extensão da micose. A unha do pé leva cerca de um ano, ou mais, para se renovar por completo, e a parte afetada só sai à medida que a unha nova cresce. O acompanhamento é feito em consultas periódicas.',
+  },
+  {
+    q: 'Quem tem diabetes pode tratar?',
+    a: 'Sim, e deve tratar mais cedo, porque a micose pode facilitar outras infecções nos pés. A escolha do tratamento leva em conta a doença e os medicamentos em uso.',
+  },
+  {
+    q: 'A micose pode voltar?',
+    a: 'Pode. Por isso o plano inclui o tratamento do pé de atleta, quando presente, e orientações para reduzir o risco de nova infecção, como cuidados com calçados e com materiais de manicure.',
+  },
+];
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Micose de unha', href: '/micose-de-unha/' }]}
+  schema={[
+    medicalPageSchema({ url, name: title, description, about: ['Onicomicose'] }),
+    {
+      '@type': 'MedicalProcedure',
+      name: 'Tratamento de onicomicose',
+      procedureType: 'https://schema.org/NoninvasiveProcedure',
+      howPerformed: 'Tratamento antifúngico tópico, oral ou combinado, com laser de baixa intensidade como complemento quando indicado.',
+      provider: { '@id': clinicId(prime.slug) },
+    },
+    faqSchema(faq),
+  ]}
+>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Unhas · Vila Clementino, São Paulo</p>
+        <h1>Micose de unha tem tratamento, <em>com diagnóstico certo</em></h1>
+        <p class="lead">
+          Unha amarelada, grossa ou descolando? Antes de tratar, é preciso confirmar se é fungo. Na Prime Dermatologia,
+          a avaliação é feita por dermatologista, e o tratamento é planejado para o seu caso.
+        </p>
+        <div class="actions">
+          <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_unha">Agendar pelo WhatsApp</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_unha">Agendar pelo Doctoralia</a>
+        </div>
+        <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
+      </div>
+      <figure class="framed-photo">
+        <Image
+          src={heroPhoto}
+          alt="Dr. Alexandre Okubo durante exame dermatológico no consultório"
+          widths={[400, 640, 960]}
+          sizes="(min-width: 860px) 40vw, 100vw"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <p class="eyebrow">Como funciona</p>
+      <h2 class="mt0">Do diagnóstico ao acompanhamento</h2>
+      <ol class="grid grid--2 steps">
+        {steps.map((s, i) => (
+          <li class="card">
+            <span class="num">{i + 1}</span>
+            <h3>{s.t}</h3>
+            <p>{s.d}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap grid grid--2">
+      <div>
+        <p class="eyebrow">Laser Lunula</p>
+        <h2 class="mt0">Um complemento sem dor ao tratamento</h2>
+      </div>
+      <div class="prose">
+        <p>
+          Na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos
+          iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas.
+        </p>
+        <p>
+          Ele entra como complemento ao tratamento e é uma opção especialmente útil para quem não pode tomar
+          antifúngico por via oral. Se ele faz sentido no seu caso, e quantas sessões são necessárias, é definido na
+          avaliação.
+        </p>
+        <p><a href="/blog/micose-de-unha-onicomicose/">Entenda a micose de unha em detalhes →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="wrap grid grid--2 where">
+      <div>
+        <p class="eyebrow">Onde</p>
+        <h2 class="mt0">{prime.name}</h2>
+        <p>{prime.street}, {prime.district}<br />{prime.city} – {prime.region}, {prime.postalCode}<br />{prime.payment}</p>
+      </div>
+      <div class="where-actions">
+        <a class="btn cta-btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_unha">Agendar pelo WhatsApp</a>
+        <p><a href={`tel:${telIntl(prime.phone)}`}>{prime.phone}</a> · <a href={booking.primaryUrl} rel="noopener" target="_blank">Doctoralia</a></p>
+        <p class="small">Atendo também na Clínica Portugal, em Santo André. <a href="/onde-atendo/clinica-portugal/">Ver endereço</a></p>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: clamp(40px, 7vw, 88px) 0; }
+  .hero-grid { display: grid; gap: 40px; align-items: center; }
+  @media (min-width: 860px) { .hero-grid { grid-template-columns: 1.3fr 1fr; gap: 64px; } }
+  .lead { font-size: 1.15rem; color: var(--muted); max-width: 52ch; }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 20px; }
+  .mt0 { margin-top: 0; }
+  .steps { list-style: none; padding: 0; margin: 0; }
+  @media (min-width: 600px) { .steps { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1000px) { .steps { grid-template-columns: repeat(4, 1fr); } }
+  .num { font-family: var(--serif); font-size: 2rem; color: var(--gold-text); line-height: 1; }
+  .steps h3 { margin-top: 0.4em; }
+  .where p { color: #d9d3c8; }
+  .where-actions { display: flex; flex-direction: column; gap: 8px; align-items: flex-start; justify-content: center; }
+  .cta-btn { background: var(--gold); border-color: var(--gold); color: var(--graphite); }
+  .cta-btn:hover { background: transparent; color: var(--gold); }
+  .small { font-size: 0.9rem; }
+</style>

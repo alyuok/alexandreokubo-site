@@ -19,6 +19,8 @@ sources:
     url: 'https://doi.org/10.1111/ddg.14988'
   - label: 'Nasereddin SM et al. Understanding global access to topical onychomycosis therapy: a systematic review and meta-analysis. Mycoses, 2024'
     url: 'https://doi.org/10.1111/myc.13797'
+  - label: 'Zang K, Sullivan R, Shanks S. A retrospective study of non-thermal laser therapy for the treatment of toenail onychomycosis. J Clin Aesthet Dermatol, 2017'
+    url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC5479474/'
   - label: 'Maskan Bermudez N et al. Onychomycosis: old and new. J Fungi, 2023'
     url: 'https://doi.org/10.3390/jof9050559'
 status: rascunho
@@ -62,7 +64,7 @@ O tratamento é escolhido de acordo com a quantidade de unhas afetadas, a extens
 - **Tratamento oral**: é o mais eficaz nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
 - **Tratamento combinado**: unir tratamento oral e tópico aumenta as chances de cura em vários casos.
 - **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir.
-- **Lasers e outras tecnologias**: podem melhorar o aspecto da unha e entrar como complemento em casos selecionados. Até o momento, porém, os estudos não comprovam que funcionem bem como tratamento isolado.
+- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. Uso o laser como complemento ao tratamento, e ele é uma opção especialmente útil para quem não pode tomar antifúngico por via oral. Como os estudos ainda são poucos, ele não substitui, na maioria dos casos, o tratamento com medicamentos.
 
 Um ponto de atenção: já existem fungos resistentes a alguns antifúngicos em vários países. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
 
@@ -84,3 +86,5 @@ A onicomicose volta em cerca de um em cada quatro pacientes. Algumas medidas red
 ## Quando procurar um dermatologista
 
 Procure avaliação se uma ou mais unhas mudarem de cor, engrossarem ou descolarem, se houver dor, ou se você já tentou tratar por conta própria sem resultado. Quem tem diabetes, má circulação ou imunidade baixa deve buscar avaliação mais cedo.
+
+Saiba como é o [tratamento de micose de unha na Prime Dermatologia](/micose-de-unha/), na Vila Clementino.
