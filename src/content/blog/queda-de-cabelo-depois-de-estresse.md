@@ -2,7 +2,7 @@
 title: 'Queda de cabelo depois de um período de estresse: o que é o eflúvio telógeno'
 description: 'Por que o cabelo pode cair semanas ou meses depois de estresse, febre, cirurgia, parto ou do uso de canetas emagrecedoras, quanto tempo isso dura e quando procurar um dermatologista.'
 answer: 'O eflúvio telógeno é uma queda de cabelo difusa que costuma começar de 2 a 3 meses depois de um gatilho, como estresse intenso, febre alta, cirurgia ou parto. Na maioria das vezes é temporário, mas só a avaliação dermatológica separa esse quadro de outras causas de queda.'
-pubDate: 2026-10-27
+pubDate: 2026-10-22
 reviewedDate: 2026-10-22
 category: 'Cabelos'
 about: ['Eflúvio telógeno', 'Alopecia', 'Agonistas do receptor de GLP-1']
@@ -17,7 +17,7 @@ sources:
     url: 'https://doi.org/10.1177/00368504261444578'
   - label: 'Viquez Burboa GU et al. GLP-1 receptor agonists and alopecia: a systematic review and meta-analysis. Skin Appendage Disord, 2026'
     url: 'https://doi.org/10.1159/000553070'
-status: rascunho
+status: aprovado
 ---
 
 No consultório, uma das frases que mais ouço é: "meu cabelo começou a cair, mas eu não estou passando por nada agora". Muitas vezes a explicação está alguns meses antes.
