@@ -35,8 +35,16 @@ Um evento forte para o organismo pode fazer muitos fios entrarem juntos na fase 
 - Cirurgias e internações
 - Parto
 - **Perda de peso rápida**, seja por dietas muito restritivas, cirurgia bariátrica ou canetas emagrecedoras (veja abaixo)
-- Início ou suspensão de alguns medicamentos
+- **Medicamentos**: início, troca ou suspensão de alguns remédios (veja abaixo)
 - Alterações de tireoide e deficiências nutricionais, como a de ferro
+
+## Medicamentos: uma causa frequente e muitas vezes esquecida
+
+Vários medicamentos de uso comum podem desencadear o eflúvio telógeno, tanto quando são iniciados quanto quando são suspensos ou trocados. Entre os exemplos estão anticoncepcionais hormonais (principalmente na suspensão), anticoagulantes, alguns remédios para pressão, retinoides orais, anticonvulsivantes e medicamentos para a tireoide.
+
+Como a queda aparece meses depois, raramente a pessoa faz essa ligação. Por isso, na consulta, reviso todos os medicamentos, suplementos e vitaminas usados nos últimos meses. Se puder, traga essa lista com as datas aproximadas de início e de suspensão.
+
+Assim como no caso das canetas emagrecedoras, a regra é a mesma: não suspenda nenhum medicamento por conta própria. Quando há suspeita, o ajuste é combinado com o médico que o prescreveu.
 
 ## Canetas emagrecedoras e queda de cabelo
 
@@ -46,7 +54,7 @@ O principal fator parece ser a própria perda de peso rápida, que muitas vezes 
 
 Se você usa uma dessas canetas e notou queda de cabelo:
 
-- Não suspenda o medicamento por conta própria. Converse com o médico que o prescreveu.
+- Não interrompa o tratamento sem orientação. Converse com o médico que o prescreveu.
 - Procure um dermatologista para confirmar o tipo de queda, já que o uso dessas medicações também foi associado à piora da alopecia androgenética.
 - Cuide da alimentação, com atenção à quantidade de proteína, e investigue possíveis deficiências nutricionais.
 

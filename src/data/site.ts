@@ -21,6 +21,7 @@ export const doctor = {
     'https://www.instagram.com/alexandreokubodermato/',
     'https://www.doctoralia.com.br/alexandre-yuji-okubo/dermatologista-medico-clinico-geral/sao-paulo',
     'https://www.linkedin.com/in/alexandre-okubo-dermato',
+    'https://www.sbd.org.br/membro/?id=5500',
   ],
   instagram: 'https://www.instagram.com/alexandreokubodermato/',
 };
