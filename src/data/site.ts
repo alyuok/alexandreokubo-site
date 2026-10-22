@@ -26,12 +26,13 @@ export const doctor = {
 };
 
 export const booking = {
-  // Canal principal hoje: Doctoralia (agenda centralizada).
-  // PENDENTE: WhatsApp da Prime para particulares.
+  // Agenda única: Doctoralia. Cada clínica também agenda pelo próprio telefone.
   primaryUrl: 'https://www.doctoralia.com.br/alexandre-yuji-okubo/dermatologista-medico-clinico-geral/sao-paulo',
   primaryLabel: 'Agende sua avaliação dermatológica',
-  whatsapp: null as string | null,
 };
+
+// Telefone no formato internacional, para links tel: e dados estruturados.
+export const telIntl = (phone: string) => '+55' + phone.replace(/\D/g, '');
 
 export const locations = [
   {
@@ -39,12 +40,12 @@ export const locations = [
     name: 'Prime Dermatologia e Saúde Emocional',
     shortName: 'Prime Dermatologia',
     url: 'https://primedermatologia.com',
-    street: 'Rua Borges Lagoa, 1065, conj. 144', // PENDENTE: confirmar conjunto e CEP
+    street: 'Rua Borges Lagoa, 1065, conj. 144',
     district: 'Vila Clementino',
     city: 'São Paulo',
     region: 'SP',
-    postalCode: '', // PENDENTE
-    phone: '', // PENDENTE
+    postalCode: '04038-032',
+    phone: '(11) 94174-6037',
     payment: 'Atendimento particular',
     note: 'Dermatologia clínica, cirúrgica e estética.',
   },
@@ -54,11 +55,11 @@ export const locations = [
     shortName: 'Clínica Portugal',
     url: 'https://www.clinicaportugal.net.br',
     street: 'Av. Portugal, 1676',
-    district: '', // PENDENTE
+    district: 'Jardim Bela Vista',
     city: 'Santo André',
     region: 'SP',
-    postalCode: '', // PENDENTE
-    phone: '', // PENDENTE
+    postalCode: '09041-320',
+    phone: '(11) 4438-6333',
     payment: 'Particular e alguns convênios (consulte a clínica)',
     note: 'Dermatologia clínica e cirúrgica.',
   },

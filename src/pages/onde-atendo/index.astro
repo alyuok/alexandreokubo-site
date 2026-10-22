@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Cta from '../../components/Cta.astro';
-import { locations } from '../../data/site';
+import { locations, telIntl } from '../../data/site';
 
 const title = 'Onde atendo: Vila Clementino (SP) e Santo André';
 const description =
@@ -18,7 +18,7 @@ const description =
       {locations.map((l) => (
         <div class="card">
           <h2 class="h3">{l.name}</h2>
-          <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}</p>
+          <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
           <p class="signature">{l.payment}<br />{l.note}</p>
           <a href={`/onde-atendo/${l.slug}/`}>Detalhes e como chegar →</a>
         </div>

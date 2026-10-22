@@ -3,7 +3,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import heroPhoto from '../assets/dermatoscopia-dr-alexandre-okubo.webp';
 import Cta from '../components/Cta.astro';
-import { doctor, booking, locations, SITE_URL } from '../data/site';
+import { doctor, booking, locations, SITE_URL, telIntl } from '../data/site';
 import { medicalPageSchema } from '../data/schema';
 
 const title = 'Dr. Alexandre Okubo | Dermatologista em São Paulo e Santo André';
@@ -105,7 +105,7 @@ const areas = [
         {locations.map((l) => (
           <div class="card">
             <h3>{l.shortName}</h3>
-            <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}</p>
+            <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
             <p class="signature">{l.payment}</p>
             <a href={`/onde-atendo/${l.slug}/`}>Como chegar e agendar →</a>
           </div>
