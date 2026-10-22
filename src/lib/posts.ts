@@ -1,7 +1,9 @@
 import { getCollection } from 'astro:content';
 
-// Rascunhos só entram quando PREVIEW_DRAFTS=1 (prévia para aprovação).
-const showDrafts = process.env.PREVIEW_DRAFTS === '1';
+// Rascunhos aparecem só na prévia: com PREVIEW_DRAFTS=1 ou em qualquer branch
+// diferente de main na Cloudflare (ex.: rascunhos.alexandreokubo-site.pages.dev).
+const branch = process.env.CF_PAGES_BRANCH;
+const showDrafts = process.env.PREVIEW_DRAFTS === '1' || (!!branch && branch !== 'main');
 
 export async function getPosts() {
   const posts = await getCollection('blog', ({ data }) => showDrafts || data.status === 'aprovado');
