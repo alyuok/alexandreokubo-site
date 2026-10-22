@@ -1,5 +1,7 @@
 ---
+import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
+import consultaPhoto from '../assets/consulta-dr-alexandre-okubo.webp';
 import Cta from '../components/Cta.astro';
 import Faq from '../components/Faq.astro';
 import { SITE_URL } from '../data/site';
@@ -40,13 +42,24 @@ const faq = [
   breadcrumbs={[{ name: 'Abordagem', href: '/abordagem/' }]}
   schema={[medicalPageSchema({ url, name: title, description }), faqSchema(faq)]}
 >
-  <div class="wrap page-head">
-    <p class="eyebrow">Abordagem</p>
-    <h1>A pele conta o que o corpo vive</h1>
-    <p class="lead">
-      O exame dermatológico continua no centro da consulta. Mas, para muitas queixas, entender a rotina do paciente
-      é o que separa um tratamento que funciona de um que só alivia por um tempo.
-    </p>
+  <div class="wrap page-head head-split">
+    <div>
+      <p class="eyebrow">Abordagem</p>
+      <h1>A pele conta o que o corpo vive</h1>
+      <p class="lead">
+        O exame dermatológico continua no centro da consulta. Mas, para muitas queixas, entender a rotina do paciente
+        é o que separa um tratamento que funciona de um que só alivia por um tempo.
+      </p>
+    </div>
+    <figure class="framed-photo">
+      <Image
+        src={consultaPhoto}
+        alt="Dr. Alexandre Okubo conversando durante a consulta, sentado à mesa do consultório"
+        widths={[400, 735]}
+        sizes="(min-width: 860px) 36vw, 100vw"
+        loading="eager"
+      />
+    </figure>
   </div>
 
   <section class="section section--white">
@@ -79,5 +92,8 @@ const faq = [
 
 <style>
   .mt0 { margin-top: 0; }
+  .head-split { display: grid; gap: 40px; align-items: center; }
+  @media (min-width: 860px) { .head-split { grid-template-columns: 1.4fr 1fr; gap: 64px; } }
+  .head-split .framed-photo :global(img) { object-position: 50% 28%; }
   .mt { margin-top: 32px; max-width: var(--text); }
 </style>

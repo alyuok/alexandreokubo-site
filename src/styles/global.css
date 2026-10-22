@@ -131,7 +131,7 @@ p { margin: 0 0 1.1em; }
 .breadcrumb { font-size: 0.85rem; color: var(--muted); padding-top: 24px; }
 .breadcrumb a { color: var(--muted); }
 
-.page-head { padding: clamp(40px, 7vw, 88px) 0 clamp(24px, 4vw, 40px); }
+.page-head { padding-top: clamp(40px, 7vw, 88px); padding-bottom: clamp(24px, 4vw, 40px); }
 .page-head p.lead { font-size: 1.2rem; max-width: var(--text); color: var(--muted); }
 
 .photo-placeholder {
@@ -152,3 +152,7 @@ p { margin: 0 0 1.1em; }
   border: 1px solid var(--gold);
   pointer-events: none;
 }
+
+.framed-photo { margin: 0; position: relative; aspect-ratio: 4 / 5; overflow: hidden; background: var(--sand-deep); }
+.framed-photo img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 30%; }
+.framed-photo::after { content: ''; position: absolute; inset: 12px; border: 1px solid var(--gold); pointer-events: none; }
