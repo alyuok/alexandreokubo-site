@@ -1,5 +1,7 @@
 ---
+import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
+import photo from '../assets/dr-alexandre-okubo-dermatologista.webp';
 import Cta from '../components/Cta.astro';
 import { doctor, locations, SITE_URL } from '../data/site';
 import { PERSON_ID } from '../data/schema';
@@ -23,7 +25,16 @@ const url = `${SITE_URL}/sobre/`;
 
   <section class="section section--white">
     <div class="wrap grid grid--2 about">
-      <div class="photo-placeholder" role="img" aria-label="Foto do Dr. Alexandre Okubo (a inserir)">Foto: retrato de jaleco</div>
+      <figure class="about-photo">
+        <Image
+          src={photo}
+          alt="Dr. Alexandre Okubo, dermatologista, de jaleco branco no consultório"
+          widths={[400, 640, 900, 1122]}
+          sizes="(min-width: 1120px) 528px, (min-width: 700px) 45vw, 100vw"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </figure>
       <div class="prose">
         <p>
           Sou médico dermatologista e atendo adultos e crianças com queixas de pele, cabelos e unhas. Minha prática
@@ -91,7 +102,16 @@ const url = `${SITE_URL}/sobre/`;
 
 <style>
   .mt0 { margin-top: 0; }
-  .about { align-items: start; }
+  .about { align-items: stretch; }
+  .about .prose p:last-child { margin-bottom: 0; }
+  .about-photo { margin: 0; position: relative; aspect-ratio: 4 / 5; }
+  .about-photo :global(img) { width: 100%; height: 100%; object-fit: cover; object-position: 50% 25%; }
+  .about-photo::after { content: ''; position: absolute; inset: 12px; border: 1px solid var(--gold); pointer-events: none; }
+  @media (min-width: 700px) {
+    .about { grid-template-columns: 1fr 1fr; }
+    .about-photo { aspect-ratio: auto; min-height: 100%; }
+    .about-photo :global(img) { position: absolute; inset: 0; }
+  }
   .timeline { list-style: none; padding: 0; margin: 0; border-left: 1px solid var(--gold); }
   .timeline li { display: grid; grid-template-columns: 64px 1fr; gap: 16px; padding: 0 0 28px 24px; position: relative; }
   .timeline li::before { content: ''; position: absolute; left: -4px; top: 10px; width: 7px; height: 7px; background: var(--gold); border-radius: 50%; }

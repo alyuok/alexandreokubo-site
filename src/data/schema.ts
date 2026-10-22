@@ -30,6 +30,7 @@ export function personSchema() {
     name: doctor.name,
     alternateName: doctor.legalName,
     url: `${SITE_URL}/`,
+    image: `${SITE_URL}/images/dr-alexandre-okubo-dermatologista.jpg`,
     jobTitle: doctor.specialty,
     hasOccupation: { '@type': 'Occupation', name: 'Dermatologista' },
     alumniOf: [
