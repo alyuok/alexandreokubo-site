@@ -37,7 +37,7 @@ export function personSchema() {
       { '@type': 'CollegeOrUniversity', name: 'Faculdade de Medicina da Universidade de São Paulo' },
       { '@type': 'CollegeOrUniversity', name: 'University of Michigan' },
     ],
-    memberOf: { '@type': 'MedicalOrganization', name: 'Sociedade Brasileira de Dermatologia' },
+    memberOf: { '@type': 'MedicalOrganization', name: 'Sociedade Brasileira de Dermatologia', url: 'https://www.sbd.org.br/' },
     hasCredential: [
       { '@type': 'EducationalOccupationalCredential', credentialCategory: 'Registro profissional', name: doctor.crm, recognizedBy: { '@type': 'Organization', name: 'Conselho Regional de Medicina do Estado de São Paulo' } },
       { '@type': 'EducationalOccupationalCredential', credentialCategory: 'Registro de Qualificação de Especialista', name: `${doctor.rqe} — Dermatologia` },

@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Cta from '../../components/Cta.astro';
-import { locations, booking, doctor, SITE_URL, telIntl } from '../../data/site';
+import { locations, booking, doctor, SITE_URL, telIntl, waLink } from '../../data/site';
 import { clinicId, PERSON_ID } from '../../data/schema';
 
 export function getStaticPaths() {
@@ -32,7 +32,7 @@ const mapQuery = encodeURIComponent(`${loc.name}, ${loc.street}, ${loc.city} - $
       <dl class="facts">
         <dt>Endereço</dt>
         <dd>{loc.street}{loc.district && `, ${loc.district}`}<br />{loc.city} – {loc.region}{loc.postalCode && `, ${loc.postalCode}`}</dd>
-        {loc.phone && (<><dt>Telefone</dt><dd><a href={`tel:${telIntl(loc.phone)}`}>{loc.phone}</a></dd></>)}
+        {loc.phone && (<><dt>{loc.whatsapp ? 'Telefone e WhatsApp' : 'Telefone'}</dt><dd><a href={`tel:${telIntl(loc.phone)}`}>{loc.phone}</a></dd></>)}
         <dt>Forma de atendimento</dt>
         <dd>{loc.payment}</dd>
         <dt>Site da clínica</dt>
@@ -41,7 +41,9 @@ const mapQuery = encodeURIComponent(`${loc.name}, ${loc.street}, ${loc.city} - $
       <div>
         <p class="book-title">Como agendar</p>
         <p class="book-actions">
-          {loc.phone && <a class="btn" href={`tel:${telIntl(loc.phone)}`}>Ligar para a {loc.shortName}</a>}
+          {loc.whatsapp
+            ? <a class="btn" href={waLink(loc.phone)} rel="noopener" target="_blank">Agendar pelo WhatsApp</a>
+            : <a class="btn" href={`tel:${telIntl(loc.phone)}`}>Ligar para a {loc.shortName}</a>}
           <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar pelo Doctoralia</a>
         </p>
         <p><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`} rel="noopener" target="_blank">Abrir no Google Maps →</a></p>

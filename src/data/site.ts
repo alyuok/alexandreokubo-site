@@ -20,7 +20,7 @@ export const doctor = {
   sameAs: [
     'https://www.instagram.com/alexandreokubodermato/',
     'https://www.doctoralia.com.br/alexandre-yuji-okubo/dermatologista-medico-clinico-geral/sao-paulo',
-    // PENDENTE: LinkedIn, perfil SBD, Lattes.
+    'https://www.linkedin.com/in/alexandre-okubo-dermato',
   ],
   instagram: 'https://www.instagram.com/alexandreokubodermato/',
 };
@@ -34,6 +34,10 @@ export const booking = {
 // Telefone no formato internacional, para links tel: e dados estruturados.
 export const telIntl = (phone: string) => '+55' + phone.replace(/\D/g, '');
 
+// Link de WhatsApp com mensagem inicial.
+export const waLink = (phone: string) =>
+  `https://wa.me/${telIntl(phone).slice(1)}?text=${encodeURIComponent('Olá! Gostaria de agendar uma consulta com o Dr. Alexandre Okubo.')}`;
+
 export const locations = [
   {
     slug: 'prime-dermatologia',
@@ -46,6 +50,7 @@ export const locations = [
     region: 'SP',
     postalCode: '04038-032',
     phone: '(11) 94174-6037',
+    whatsapp: true,
     payment: 'Atendimento particular',
     note: 'Dermatologia clínica, cirúrgica e estética.',
   },
@@ -60,6 +65,7 @@ export const locations = [
     region: 'SP',
     postalCode: '09041-320',
     phone: '(11) 4438-6333',
+    whatsapp: false,
     payment: 'Particular e alguns convênios (consulte a clínica)',
     note: 'Dermatologia clínica e cirúrgica.',
   },

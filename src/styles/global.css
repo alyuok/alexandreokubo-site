@@ -91,6 +91,7 @@ p { margin: 0 0 1.1em; }
 .btn:hover { background: transparent; color: var(--graphite); }
 .btn--ghost { background: transparent; color: var(--graphite); }
 .btn--ghost:hover { background: var(--graphite); color: var(--white); }
+.btn--sm { min-height: 40px; padding: 0.5rem 1.1rem; font-size: 0.9rem; }
 
 .section { padding: clamp(56px, 9vw, 112px) 0; }
 .section--white { background: var(--white); }

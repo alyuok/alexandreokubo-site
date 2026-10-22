@@ -1,16 +1,22 @@
 ---
 title: 'Queda de cabelo depois de um período de estresse: o que é o eflúvio telógeno'
-description: 'Por que o cabelo pode cair semanas ou meses depois de estresse, febre, cirurgia ou parto, quanto tempo isso dura e quando procurar um dermatologista.'
+description: 'Por que o cabelo pode cair semanas ou meses depois de estresse, febre, cirurgia, parto ou do uso de canetas emagrecedoras, quanto tempo isso dura e quando procurar um dermatologista.'
 answer: 'O eflúvio telógeno é uma queda de cabelo difusa que costuma começar de 2 a 3 meses depois de um gatilho, como estresse intenso, febre alta, cirurgia ou parto. Na maioria das vezes é temporário, mas só a avaliação dermatológica separa esse quadro de outras causas de queda.'
 pubDate: 2026-10-27
-reviewedDate: 2026-10-21
+reviewedDate: 2026-10-22
 category: 'Cabelos'
-about: ['Eflúvio telógeno', 'Alopecia']
+about: ['Eflúvio telógeno', 'Alopecia', 'Agonistas do receptor de GLP-1']
 sources:
   - label: 'Telogen Effluvium. StatPearls (NCBI Bookshelf)'
     url: 'https://www.ncbi.nlm.nih.gov/books/NBK430848/'
   - label: 'Asghar F et al. Telogen Effluvium: A Review of the Literature. Cureus, 2020'
     url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC7320655/'
+  - label: 'Cheng PL, Chang HC. Glucagon-like peptide-1 receptor agonists and hair loss: a systematic review and meta-analysis. Diabetes Res Clin Pract, 2026'
+    url: 'https://doi.org/10.1016/j.diabres.2026.113333'
+  - label: 'Gupta AK et al. GLP-1 therapies and hair loss: a systematic review of current evidence and implications for counseling. Sci Prog, 2026'
+    url: 'https://doi.org/10.1177/00368504261444578'
+  - label: 'Viquez Burboa GU et al. GLP-1 receptor agonists and alopecia: a systematic review and meta-analysis. Skin Appendage Disord, 2026'
+    url: 'https://doi.org/10.1159/000553070'
 status: rascunho
 ---
 
@@ -28,9 +34,23 @@ Um evento forte para o organismo pode fazer muitos fios entrarem juntos na fase 
 - Febre alta ou infecções, incluindo COVID-19
 - Cirurgias e internações
 - Parto
-- Perda de peso importante ou dietas muito restritivas
+- **Perda de peso rápida**, seja por dietas muito restritivas, cirurgia bariátrica ou canetas emagrecedoras (veja abaixo)
 - Início ou suspensão de alguns medicamentos
 - Alterações de tireoide e deficiências nutricionais, como a de ferro
+
+## Canetas emagrecedoras e queda de cabelo
+
+Os medicamentos injetáveis para perda de peso, como a semaglutida e a tirzepatida (as chamadas canetas emagrecedoras), se tornaram uma causa cada vez mais comum de eflúvio telógeno. Em estudos clínicos, a queda de cabelo foi cerca de três vezes mais frequente entre quem usou esses medicamentos do que entre quem recebeu placebo, chegando a aproximadamente 4 em cada 100 usuários.
+
+O principal fator parece ser a própria perda de peso rápida, que muitas vezes vem acompanhada de menor ingestão de proteínas, ferro e outros nutrientes. A queda é relatada com mais frequência em doses mais altas e em mulheres.
+
+Se você usa uma dessas canetas e notou queda de cabelo:
+
+- Não suspenda o medicamento por conta própria. Converse com o médico que o prescreveu.
+- Procure um dermatologista para confirmar o tipo de queda, já que o uso dessas medicações também foi associado à piora da alopecia androgenética.
+- Cuide da alimentação, com atenção à quantidade de proteína, e investigue possíveis deficiências nutricionais.
+
+Na maioria dos casos, o cabelo se recupera com esses cuidados, muitas vezes sem necessidade de interromper o tratamento para perda de peso.
 
 ## Como saber se é eflúvio telógeno
 
