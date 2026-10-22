@@ -10,7 +10,6 @@ export const doctor = {
   specialty: 'Dermatologista',
   crm: 'CRM-SP 90.743',
   rqe: 'RQE 30.051',
-  // PENDENTE: confirmar cargo oficial (diretor técnico x diretor clínico).
   role: 'Diretor técnico da Prime Dermatologia e Saúde Emocional',
   education: [
     { year: '1997', title: 'Graduação em Medicina', institution: 'Faculdade de Medicina da Universidade de São Paulo (FMUSP)' },
