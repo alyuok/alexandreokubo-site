@@ -1,7 +1,7 @@
 ---
 title: 'Suplemento para cabelo e unha funciona? O que a alimentação, e principalmente a proteína, faz por eles'
-description: 'Por que cabelos e unhas sofrem quando falta proteína, por que o polivitamínico sozinho não resolve, quando a biotina e outros suplementos podem atrapalhar e quais exames fazem sentido.'
-answer: 'Cabelos e unhas são feitos principalmente de proteína, e o organismo deixa de priorizá-los quando a alimentação não cobre as necessidades. Em quem não tem deficiência comprovada, não há evidência de que suplementos vitamínicos melhorem cabelos e unhas, e alguns, em excesso, podem piorar a queda. O primeiro passo é avaliar a alimentação, principalmente a quantidade de proteína, e investigar deficiências quando a história indicar.'
+description: 'Por que cabelos e unhas sofrem quando falta proteína, por que o polivitamínico sozinho não resolve, quando a biotina ajuda, como ela interfere nos exames e quais exames fazem sentido.'
+answer: 'Cabelos e unhas são feitos principalmente de proteína, e o organismo deixa de priorizá-los quando a alimentação não cobre as necessidades. Suplementos podem complementar o tratamento, mas não compensam uma alimentação com pouca proteína, e alguns, em excesso, podem piorar a queda. O primeiro passo é avaliar a alimentação, principalmente a quantidade de proteína, e investigar deficiências quando a história indicar.'
 pubDate: 2026-10-30
 reviewedDate: 2026-10-30
 category: 'Estilo de vida e pele'
@@ -11,8 +11,16 @@ sources:
     url: 'https://doi.org/10.5826/dpc.0701a01'
   - label: 'Almohanna HM et al. The role of vitamins and minerals in hair loss: a review. Dermatol Ther (Heidelb), 2019'
     url: 'https://doi.org/10.1007/s13555-018-0278-6'
+  - label: 'Drake L et al. Evaluation of the safety and effectiveness of nutritional supplements for treating hair loss: a systematic review. JAMA Dermatol, 2023'
+    url: 'https://doi.org/10.1001/jamadermatol.2022.4867'
   - label: 'Lipner SR. Rethinking biotin therapy for hair, nail, and skin disorders. J Am Acad Dermatol, 2018'
     url: 'https://doi.org/10.1016/j.jaad.2018.02.018'
+  - label: 'Colombo VE et al. Treatment of brittle fingernails and onychoschizia with biotin: scanning electron microscopy. J Am Acad Dermatol, 1990'
+    url: 'https://doi.org/10.1016/0190-9622(90)70345-i'
+  - label: 'Hochman LG, Scher RK, Meyerson MS. Brittle nails: response to daily biotin supplementation. Cutis, 1993'
+    url: 'https://pubmed.ncbi.nlm.nih.gov/8477615/'
+  - label: 'Praharaj SK et al. Valproate-associated hair abnormalities: pathophysiology and management strategies. Hum Psychopharmacol, 2022'
+    url: 'https://doi.org/10.1002/hup.2814'
   - label: 'Cashman MW, Sloan SB. Nutrition and nail disease. Clin Dermatol, 2010'
     url: 'https://doi.org/10.1016/j.clindermatol.2010.03.037'
   - label: 'Bauer J et al. Evidence-based recommendations for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group. J Am Med Dir Assoc, 2013'
@@ -56,14 +64,17 @@ Distribuir a proteína entre as refeições, em vez de concentrá-la no jantar, 
 ## Por que só o polivitamínico não resolve
 
 - **Vitamina não substitui proteína.** Um polivitamínico praticamente não tem proteína nem calorias. Se a base da alimentação está insuficiente, o cabelo continua sem matéria-prima.
-- **Sem deficiência, não há benefício comprovado.** Em pessoas que não têm falta de nenhum nutriente, não há evidência de que suplementos melhorem o crescimento do cabelo ou a força das unhas.
+- **O benefício depende do caso.** Quando há deficiência, corrigi-la é parte do tratamento. Sem deficiência, alguns suplementos com combinações de nutrientes mostraram possível benefício para a queda de cabelo em estudos, mas a maioria desses estudos é pequena e de qualidade limitada. Eles podem complementar o tratamento, não substituí-lo.
 - **Em excesso, alguns pioram.** Vitamina A e selênio em doses altas podem causar queda de cabelo. Somar vários suplementos "para cabelo" aumenta esse risco.
 
 ## E a biotina?
 
-A biotina é o suplemento mais vendido para cabelo e unha. A deficiência real é rara, e os estudos que mostraram melhora foram feitos, em sua maioria, em pessoas com deficiência ou com doenças específicas. Para quem não tem falta, o benefício não foi demonstrado.
+A biotina, uma vitamina do complexo B, está presente na maioria dos suplementos para cabelo e unha. O que os estudos mostram depende do problema:
 
-Há um cuidado importante: doses altas de biotina podem alterar o resultado de exames de sangue, como os de tireoide e alguns exames do coração, levando a diagnósticos errados. Se você toma biotina, avise o médico antes de qualquer exame.
+- **Unhas quebradiças**: é uma das opções mais estudadas. Em estudos pequenos, a biotina aumentou a espessura da unha e reduziu as fissuras em parte dos pacientes, com uso por vários meses. Faltam estudos maiores, mas, por ter poucos efeitos colaterais, pode ser uma opção associada aos cuidados com as unhas.
+- **Queda de cabelo**: o benefício está bem estabelecido quando há deficiência de biotina, que é incomum, mas pode ocorrer, por exemplo, com o uso de alguns anticonvulsivantes, como o valproato, e com o consumo excessivo de álcool. Sem deficiência, a biotina isolada não tem efeito comprovado, e por isso ela costuma fazer parte de um plano maior, não ser o tratamento principal.
+
+**Atenção aos exames de sangue.** A biotina pode alterar o resultado de vários exames, como os de tireoide e alguns exames do coração, levando a resultados falsamente alterados. Como ela está em muitos suplementos, às vezes a pessoa nem sabe que está tomando. Se você usa suplemento para cabelo, pele ou unha, confira o rótulo, avise o médico e suspenda o uso alguns dias antes de colher exames, conforme a orientação do seu médico ou do laboratório.
 
 ## Quais exames fazem sentido
 
