@@ -5,6 +5,7 @@ import '@fontsource/dm-sans/400.css';
 import '@fontsource/dm-sans/500.css';
 import '@fontsource/dm-sans/600.css';
 import '../styles/global.css';
+import Analytics from '../components/Analytics.astro';
 import { doctor, booking, locations, nav, SITE_URL, telIntl } from '../data/site';
 import { personSchema, websiteSchema, clinicSchema, breadcrumbSchema } from '../data/schema';
 
@@ -119,6 +120,7 @@ const year = new Date().getFullYear();
         <p>© {year} {doctor.legalName} · <a href="/privacidade/">Privacidade</a></p>
       </div>
     </footer>
+    <Analytics />
   </body>
 </html>
 

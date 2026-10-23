@@ -32,6 +32,16 @@ export const booking = {
   primaryLabel: 'Agende sua avaliação dermatológica',
 };
 
+// Medição. Vazio = nada é carregado.
+// ga4: ID de medição do fluxo web (formato G-XXXXXXXXXX).
+// googleAds: ID da tag do Google Ads (formato AW-XXXXXXXXXX), não o número da conta.
+// adsConversions: rótulo de cada ação de conversão criada no Google Ads.
+export const analytics = {
+  ga4: '',
+  googleAds: '',
+  adsConversions: { whatsapp: '', doctoralia: '', telefone: '' } as Record<string, string>,
+};
+
 // Telefone no formato internacional, para links tel: e dados estruturados.
 export const telIntl = (phone: string) => '+55' + phone.replace(/\D/g, '');
 

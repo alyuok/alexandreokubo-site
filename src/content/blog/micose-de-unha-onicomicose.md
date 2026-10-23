@@ -3,7 +3,7 @@ title: 'Micose de unha (onicomicose): por que nem toda unha grossa é fungo e co
 description: 'O que é a onicomicose, como confirmar o diagnóstico antes de tratar, quais são as opções de tratamento, quanto tempo leva e como evitar que a micose de unha volte.'
 answer: 'A onicomicose é a infecção da unha por fungos e é a doença de unha mais comum no consultório. Como outras condições deixam a unha com aparência parecida, o diagnóstico deve ser confirmado por exame antes do tratamento, que pode ser tópico, oral ou combinado, e costuma levar meses.'
 pubDate: 2026-10-29
-reviewedDate: 2026-10-22
+reviewedDate: 2026-10-23
 category: 'Unhas'
 about: ['Onicomicose', 'Doenças das unhas']
 sources:
@@ -17,6 +17,8 @@ sources:
     url: 'https://doi.org/10.1016/j.hansur.2024.101638'
   - label: 'Nenoff P et al. S1 Guideline onychomycosis. J Dtsch Dermatol Ges, 2023'
     url: 'https://doi.org/10.1111/ddg.14988'
+  - label: 'Fillus Neto J, Tchornobay AM. Como o clipping pode auxiliar o dermatologista. An Bras Dermatol, 2009'
+    url: 'https://doi.org/10.1590/s0365-05962009000200010'
   - label: 'Nasereddin SM et al. Understanding global access to topical onychomycosis therapy: a systematic review and meta-analysis. Mycoses, 2024'
     url: 'https://doi.org/10.1111/myc.13797'
   - label: 'Zang K, Sullivan R, Shanks S. A retrospective study of non-thermal laser therapy for the treatment of toenail onychomycosis. J Clin Aesthet Dermatol, 2017'
@@ -47,7 +49,9 @@ Não é só uma questão estética. Sem tratamento, a unha pode ficar dolorosa, 
 
 Psoríase, traumas repetidos (como o atrito do tênis na corrida), alterações de circulação e o próprio envelhecimento podem deixar a unha grossa e com a cor alterada. Em estudos que usaram exames moleculares, apenas cerca de metade das unhas com aparência de micose tinha, de fato, fungo.
 
-Por isso, as diretrizes recomendam confirmar o diagnóstico antes de começar o tratamento. Na consulta, examino as unhas e a pele dos pés e, quando indicado, colho um fragmento da unha para exame micológico, que identifica a presença do fungo. Isso evita meses de tratamento para uma doença que a pessoa não tem.
+Por isso, as diretrizes recomendam confirmar o diagnóstico antes de começar o tratamento. Na consulta, examino as unhas e a pele dos pés e, quando indicado, faço o clipping ungueal: corto um pequeno fragmento da ponta da unha afetada e envio para análise em laboratório de patologia. É um exame simples, que não dói e não deixa sequela. Ele mostra se há fungo na unha e também ajuda a diferenciar a micose de outras doenças, como a psoríase.
+
+Isso evita meses de tratamento para uma doença que a pessoa não tem.
 
 ## Por que a automedicação costuma falhar
 
@@ -64,7 +68,7 @@ O tratamento é escolhido de acordo com a quantidade de unhas afetadas, a extens
 - **Tratamento oral**: é o mais eficaz nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
 - **Tratamento combinado**: unir tratamento oral e tópico aumenta as chances de cura em vários casos.
 - **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir.
-- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. Uso o laser como complemento ao tratamento, e ele é uma opção especialmente útil para quem não pode tomar antifúngico por via oral. Como os estudos ainda são poucos, ele não substitui, na maioria dos casos, o tratamento com medicamentos.
+- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. Uso o laser como complemento ao tratamento, em geral com pelo menos 8 sessões semanais, e ele é uma opção especialmente útil para quem não pode tomar antifúngico por via oral. Como os estudos ainda são poucos, ele não substitui, na maioria dos casos, o tratamento com medicamentos.
 
 Um ponto de atenção: já existem fungos resistentes a alguns antifúngicos em vários países. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
 
