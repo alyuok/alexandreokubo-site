@@ -2,7 +2,7 @@
 title: 'Micose de unha (onicomicose): por que nem toda unha grossa é fungo e como tratar'
 description: 'O que é a onicomicose, como confirmar o diagnóstico antes de tratar, quais são as opções de tratamento, quanto tempo leva e como evitar que a micose de unha volte.'
 answer: 'A onicomicose é a infecção da unha por fungos e é a doença de unha mais comum no consultório. Como outras condições deixam a unha com aparência parecida, o diagnóstico deve ser confirmado por exame antes do tratamento, que pode ser tópico, oral ou combinado, e costuma levar meses.'
-pubDate: 2026-10-29
+pubDate: 2026-10-23
 reviewedDate: 2026-10-23
 category: 'Unhas'
 about: ['Onicomicose', 'Doenças das unhas']
@@ -29,7 +29,7 @@ sources:
     url: 'https://doi.org/10.1007/s10103-020-03054-7'
   - label: 'Maskan Bermudez N et al. Onychomycosis: old and new. J Fungi, 2023'
     url: 'https://doi.org/10.3390/jof9050559'
-status: rascunho
+status: aprovado
 ---
 
 Unha amarelada, grossa, quebradiça ou descolando da pele. A primeira suspeita costuma ser micose, e muita gente já chega ao consultório depois de meses passando esmalte antifúngico comprado na farmácia, sem melhora.
