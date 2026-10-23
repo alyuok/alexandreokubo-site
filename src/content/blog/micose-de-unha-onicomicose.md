@@ -23,6 +23,10 @@ sources:
     url: 'https://doi.org/10.1111/myc.13797'
   - label: 'Zang K, Sullivan R, Shanks S. A retrospective study of non-thermal laser therapy for the treatment of toenail onychomycosis. J Clin Aesthet Dermatol, 2017'
     url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC5479474/'
+  - label: 'Han Y et al. The effects of CO2 laser and topical agent combination therapy for onychomycosis: a meta-analysis. Dermatol Ther, 2021'
+    url: 'https://doi.org/10.1111/dth.15136'
+  - label: 'Zhang J et al. Fractional 2940-nm Er:YAG laser and 5% amorolfine lacquer combination therapy versus amorolfine monotherapy for onychomycosis: a randomized controlled trial. Lasers Med Sci, 2021'
+    url: 'https://doi.org/10.1007/s10103-020-03054-7'
   - label: 'Maskan Bermudez N et al. Onychomycosis: old and new. J Fungi, 2023'
     url: 'https://doi.org/10.3390/jof9050559'
 status: rascunho
@@ -68,7 +72,7 @@ O tratamento é escolhido de acordo com a quantidade de unhas afetadas, a extens
 - **Tratamento oral**: é o mais eficaz nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
 - **Tratamento combinado**: unir tratamento oral e tópico aumenta as chances de cura em vários casos.
 - **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir. Quando necessário, faço o desbaste no próprio consultório.
-- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. Uso o laser como complemento ao tratamento, em geral com pelo menos 8 sessões semanais, e ele é uma opção especialmente útil para quem não pode tomar antifúngico por via oral. Como os estudos ainda são poucos, ele não substitui, na maioria dos casos, o tratamento com medicamentos.
+- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. O protocolo costuma ter pelo menos 8 sessões, uma por semana. O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que possível, porém, associo o laser aos antifúngicos: em estudos com outros tipos de laser, a combinação com antifúngicos tópicos teve resultados melhores do que o antifúngico tópico sozinho.
 
 Um ponto de atenção: já existem fungos resistentes a alguns antifúngicos em vários países. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
 
