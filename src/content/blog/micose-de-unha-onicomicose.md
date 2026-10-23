@@ -67,7 +67,7 @@ O tratamento é escolhido de acordo com a quantidade de unhas afetadas, a extens
 - **Tratamento tópico** (esmaltes e soluções antifúngicas): indicado para casos leves a moderados, ou quando o tratamento oral não é possível. Tem poucos efeitos colaterais, mas exige uso diário por muitos meses.
 - **Tratamento oral**: é o mais eficaz nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
 - **Tratamento combinado**: unir tratamento oral e tópico aumenta as chances de cura em vários casos.
-- **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir.
+- **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir. Quando necessário, faço o desbaste no próprio consultório.
 - **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. Uso o laser como complemento ao tratamento, em geral com pelo menos 8 sessões semanais, e ele é uma opção especialmente útil para quem não pode tomar antifúngico por via oral. Como os estudos ainda são poucos, ele não substitui, na maioria dos casos, o tratamento com medicamentos.
 
 Um ponto de atenção: já existem fungos resistentes a alguns antifúngicos em vários países. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
