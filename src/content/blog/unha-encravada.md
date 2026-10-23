@@ -2,8 +2,8 @@
 title: 'Unha encravada: o que fazer, o que evitar e quando a cantoplastia é a melhor saída'
 description: 'Por que a unha encrava, como reconhecer a gravidade, o que fazer e o que evitar em casa, como é a cantoplastia (cirurgia da unha encravada) e como evitar que o problema volte.'
 answer: 'A unha encravada acontece quando a borda da unha penetra a pele ao lado dela, causando dor, inflamação e, às vezes, infecção. Casos leves podem melhorar com cuidados e técnicas simples. Quando há pus, carne esponjosa ou episódios repetidos, o tratamento mais eficaz é a cirurgia conhecida como cantoplastia, feita com anestesia local, que retira só a borda que encrava e impede que ela volte a crescer.'
-pubDate: 2026-10-30
-reviewedDate: 2026-10-30
+pubDate: 2026-10-23
+reviewedDate: 2026-10-23
 category: 'Unhas'
 about: ['Unha encravada', 'Onicocriptose', 'Cantoplastia', 'Matricectomia']
 sources:
@@ -19,7 +19,7 @@ sources:
     url: 'https://doi.org/10.1097/DSS.0000000000003692'
   - label: 'Morioka D et al. Comparative effectiveness of ingrown toenail treatments: systematic review and network meta-analysis. J Foot Ankle Surg, 2026'
     url: 'https://doi.org/10.1053/j.jfas.2026.08.021'
-status: rascunho
+status: aprovado
 ---
 
 Dor no canto da unha do dedão, vermelhidão, inchaço e, às vezes, pus. A unha encravada é um dos problemas mais comuns dos pés, e muita gente passa meses entre manicure, antibiótico e "cantinho" cortado em casa, com melhora por alguns dias e volta da dor logo depois.
