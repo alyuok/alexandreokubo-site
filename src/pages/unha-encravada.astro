@@ -1,0 +1,184 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import heroPhoto from '../assets/consulta-dr-alexandre-okubo.webp';
+import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
+import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
+
+// Página de destino do tráfego pago (unha encravada / cantoplastia). Atendimento nas duas clínicas.
+const prime = locations.find((l) => l.slug === 'prime-dermatologia')!;
+const url = `${SITE_URL}/unha-encravada/`;
+const title = 'Unha encravada: cantoplastia em São Paulo e Santo André';
+const description =
+  'Tratamento de unha encravada com dermatologista: avaliação, cuidados para casos leves e cantoplastia com anestesia local no consultório, na Vila Clementino (SP) e em Santo André.';
+
+const steps = [
+  { t: 'Avaliação', d: 'Exame da unha e do dedo para definir o grau da unha encravada e verificar se há infecção, granuloma, micose ou outras condições, como diabetes.' },
+  { t: 'Casos leves', d: 'Técnicas simples que afastam a borda da unha da pele e aliviam a dor, além de orientações de corte, calçados e cuidados em casa.' },
+  { t: 'Cantoplastia', d: 'Nos casos moderados a graves ou que voltam: retirada só da borda que encrava e matricectomia, com anestesia local, no próprio consultório.' },
+  { t: 'Acompanhamento', d: 'Orientação sobre curativos e volta às atividades, retorno para avaliar a cicatrização e cuidados para evitar que o problema volte.' },
+];
+
+const faq = [
+  {
+    q: 'O que é cantoplastia?',
+    a: 'É o nome mais usado no Brasil para a cirurgia da unha encravada. Inclui a retirada da faixa lateral da unha que está encravando e a matricectomia, que remove a raiz dessa faixa para que ela não volte a crescer contra a pele.',
+  },
+  {
+    q: 'Precisa tirar a unha inteira?',
+    a: 'Não. Retirar a unha inteira é o tratamento com maior chance de o problema voltar, porque ela cresce de novo com o mesmo formato. Na cantoplastia, só a borda que encrava é retirada, e a unha fica um pouco mais estreita.',
+  },
+  {
+    q: 'O procedimento dói?',
+    a: 'É feito com anestesia local, aplicada na base do dedo. Depois que o efeito passa, pode haver desconforto, que costuma ser controlado com as medicações orientadas na consulta.',
+  },
+  {
+    q: 'Quanto tempo leva a recuperação?',
+    a: 'Varia de caso a caso, conforme o grau da unha encravada e a presença de infecção ou granuloma. Os cuidados com o curativo e a volta ao trabalho e ao esporte são orientados na consulta.',
+  },
+  {
+    q: 'Antibiótico resolve unha encravada?',
+    a: 'Ele ajuda a controlar a infecção, mas não resolve a causa: enquanto a borda da unha continuar entrando na pele, a inflamação tende a voltar.',
+  },
+  {
+    q: 'Por que não é usado fenol?',
+    a: 'Em outros países, a raiz da unha costuma ser tratada com fenol, mas no Brasil o uso dessa substância em procedimentos está proibido pela Anvisa. Os estudos mostram que a matricectomia cirúrgica tem resultado semelhante na prevenção da volta do problema.',
+  },
+  {
+    q: 'Quem tem diabetes pode fazer?',
+    a: 'Sim, e deve buscar avaliação cedo, porque feridas nos pés podem complicar mais em quem tem diabetes ou má circulação. A indicação e os cuidados são definidos na consulta, considerando a doença e os medicamentos em uso.',
+  },
+];
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Unha encravada', href: '/unha-encravada/' }]}
+  schema={[
+    medicalPageSchema({ url, name: title, description, about: ['Unha encravada', 'Onicocriptose', 'Cantoplastia'] }),
+    {
+      '@type': 'MedicalProcedure',
+      name: 'Cantoplastia (cirurgia da unha encravada)',
+      alternateName: ['Matricectomia parcial', 'Tratamento cirúrgico da onicocriptose'],
+      procedureType: 'https://schema.org/SurgicalProcedure',
+      howPerformed: 'Com anestesia local, retirada da faixa lateral da unha que encrava e matricectomia parcial cirúrgica, com remoção do granuloma quando presente.',
+      provider: locations.map((l) => ({ '@id': clinicId(l.slug) })),
+    },
+    faqSchema(faq),
+  ]}
+>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Unhas · Vila Clementino (SP) e Santo André</p>
+        <h1>Unha encravada: tratamento no consultório, <em>sem tirar a unha inteira</em></h1>
+        <p class="lead">
+          Dor, vermelhidão, pus ou "carne esponjosa" no canto da unha? Antibiótico e "cantinho" cortado aliviam por
+          pouco tempo. Na avaliação com dermatologista, o tratamento é definido pelo grau da unha encravada, dos
+          cuidados para casos leves à cantoplastia com anestesia local.
+        </p>
+        <div class="actions">
+          <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_encravada">Agendar pelo WhatsApp</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_encravada">Agendar pelo Doctoralia</a>
+        </div>
+        <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
+      </div>
+      <figure class="framed-photo">
+        <Image
+          src={heroPhoto}
+          alt="Dr. Alexandre Okubo, dermatologista, durante consulta no consultório"
+          widths={[400, 640, 960]}
+          sizes="(min-width: 860px) 40vw, 100vw"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <p class="eyebrow">Como funciona</p>
+      <h2 class="mt0">Da avaliação ao acompanhamento</h2>
+      <ol class="grid grid--2 steps">
+        {steps.map((s, i) => (
+          <li class="card">
+            <span class="num">{i + 1}</span>
+            <h3>{s.t}</h3>
+            <p>{s.d}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap grid grid--2">
+      <div>
+        <p class="eyebrow">Cantoplastia</p>
+        <h2 class="mt0">Só a borda que encrava é retirada</h2>
+      </div>
+      <div class="prose">
+        <p>
+          Na cantoplastia, retiro apenas a faixa lateral da unha que está entrando na pele e removo a raiz dessa faixa
+          com uma pequena cirurgia, a matricectomia, para que ela não volte a crescer. Quando há granuloma, ele é
+          retirado no mesmo procedimento.
+        </p>
+        <p>
+          O procedimento é feito no consultório, com anestesia local, na Prime Dermatologia e na Clínica Portugal. O
+          resultado é uma unha um pouco mais estreita, que não encrava mais naquele lado.
+        </p>
+        <p><a href="/blog/unha-encravada/">Entenda a unha encravada em detalhes →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="wrap">
+      <p class="eyebrow">Onde</p>
+      <h2 class="mt0">Atendimento em São Paulo e em Santo André</h2>
+      <div class="grid grid--2 where">
+        {locations.map((l) => (
+          <div>
+            <h3>{l.name}</h3>
+            <p>{l.street}, {l.district}<br />{l.city} – {l.region}, {l.postalCode}<br />{l.payment}</p>
+            {l.whatsapp ? (
+              <a class="btn cta-btn" href={waLink(l.phone)} rel="noopener" target="_blank" data-event="whatsapp_encravada">Agendar pelo WhatsApp</a>
+            ) : (
+              <a class="btn cta-btn" href={`tel:${telIntl(l.phone)}`} data-event="telefone_encravada">Ligar: {l.phone}</a>
+            )}
+          </div>
+        ))}
+      </div>
+      <p class="small">Também é possível agendar pelo <a href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_encravada">Doctoralia</a>.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: clamp(40px, 7vw, 88px) 0; }
+  .hero-grid { display: grid; gap: 40px; align-items: center; }
+  @media (min-width: 860px) { .hero-grid { grid-template-columns: 1.3fr 1fr; gap: 64px; } }
+  .hero-grid .framed-photo :global(img) { object-position: 50% 28%; }
+  .lead { font-size: 1.15rem; color: var(--muted); max-width: 52ch; }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 20px; }
+  .mt0 { margin-top: 0; }
+  .steps { list-style: none; padding: 0; margin: 0; }
+  @media (min-width: 600px) { .steps { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1000px) { .steps { grid-template-columns: repeat(4, 1fr); } }
+  .num { font-family: var(--serif); font-size: 2rem; color: var(--gold-text); line-height: 1; }
+  .steps h3 { margin-top: 0.4em; }
+  .where { margin-top: 24px; }
+  .where h3 { color: var(--sand); margin-top: 0; }
+  .where p { color: #d9d3c8; }
+  .cta-btn { background: var(--gold); border-color: var(--gold); color: var(--graphite); }
+  .cta-btn:hover { background: transparent; color: var(--gold); }
+  .small { font-size: 0.9rem; color: #d9d3c8; margin-top: 32px; }
+</style>

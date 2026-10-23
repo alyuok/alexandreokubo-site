@@ -94,4 +94,4 @@ O resultado é uma unha um pouco mais estreita, que não encrava mais naquele la
 
 Procure avaliação se a dor não melhora em poucos dias, se há pus ou carne esponjosa, se a unha encrava com frequência ou se você tem diabetes ou má circulação. Se a unha também estiver grossa ou amarelada, pode haver [micose de unha](/blog/micose-de-unha-onicomicose/) associada, que precisa ser tratada junto.
 
-Veja outros procedimentos que realizo na [cirurgia dermatológica](/cirurgia-dermatologica/).
+Saiba como é o [tratamento de unha encravada e a cantoplastia](/unha-encravada/) na Vila Clementino (SP) e em Santo André, ou veja outros procedimentos de [cirurgia dermatológica](/cirurgia-dermatologica/).
