@@ -1,11 +1,11 @@
 ---
-title: 'Unha encravada: o que fazer, o que evitar e quando o tratamento no consultório é a melhor saída'
-description: 'Por que a unha encrava, como reconhecer a gravidade, o que fazer e o que evitar em casa, como é o procedimento no consultório e como evitar que a unha encravada volte.'
-answer: 'A unha encravada acontece quando a borda da unha penetra a pele ao lado dela, causando dor, inflamação e, às vezes, infecção. Casos leves podem melhorar com cuidados e técnicas simples. Quando há pus, carne esponjosa ou episódios repetidos, o tratamento mais eficaz é um procedimento com anestesia local que retira só a borda que encrava e impede que ela volte a crescer.'
+title: 'Unha encravada: o que fazer, o que evitar e quando a cantoplastia é a melhor saída'
+description: 'Por que a unha encrava, como reconhecer a gravidade, o que fazer e o que evitar em casa, como é a cantoplastia (cirurgia da unha encravada) e como evitar que o problema volte.'
+answer: 'A unha encravada acontece quando a borda da unha penetra a pele ao lado dela, causando dor, inflamação e, às vezes, infecção. Casos leves podem melhorar com cuidados e técnicas simples. Quando há pus, carne esponjosa ou episódios repetidos, o tratamento mais eficaz é a cirurgia conhecida como cantoplastia, feita com anestesia local, que retira só a borda que encrava e impede que ela volte a crescer.'
 pubDate: 2026-10-30
 reviewedDate: 2026-10-30
 category: 'Unhas'
-about: ['Unha encravada', 'Onicocriptose', 'Matricectomia']
+about: ['Unha encravada', 'Onicocriptose', 'Cantoplastia', 'Matricectomia']
 sources:
   - label: 'Pennitz A et al. S1 Guideline: management of ingrown nails (unguis incarnatus, onychocryptosis) and pincer nails. J Dtsch Dermatol Ges, 2026'
     url: 'https://pubmed.ncbi.nlm.nih.gov/42779263/'
@@ -69,13 +69,15 @@ Quem tem **diabetes, má circulação ou imunidade baixa** não deve tentar trat
 
 **Nos casos leves**, há técnicas simples que afastam a borda da unha da pele e aliviam a dor rapidamente, como colocar uma pequena mecha de algodão ou um tubinho plástico sob a borda que encrava. Também trato a inflamação e, quando presentes, a micose e o suor excessivo.
 
-**Nos casos moderados a graves ou que voltam**, o tratamento mais eficaz é um procedimento feito no consultório, com anestesia local. Realizo esse procedimento na Prime Dermatologia, em São Paulo, e na Clínica Portugal, em Santo André:
+**Nos casos moderados a graves ou que voltam**, o tratamento mais eficaz é a cirurgia da unha encravada, conhecida popularmente como **cantoplastia**, feita no consultório com anestesia local. Realizo esse procedimento na Prime Dermatologia, em São Paulo, e na Clínica Portugal, em Santo André:
 
 1. Retiro apenas a faixa lateral da unha que está encravando, e não a unha inteira.
 2. Removo a raiz (matriz) dessa faixa com uma pequena cirurgia, a matricectomia, para que ela não volte a crescer.
 3. Quando há granuloma, ele é removido no mesmo procedimento.
 
 O resultado é uma unha um pouco mais estreita, que não encrava mais naquele lado. O tempo de recuperação varia de caso a caso, e os cuidados com o curativo e a volta às atividades são orientados na consulta.
+
+**O que é cantoplastia?** É o nome mais usado no Brasil para a cirurgia da unha encravada. Na prática, inclui a retirada da borda que encrava e a matricectomia, que trata a raiz dessa borda. Por ser uma cirurgia, deve ser feita por médico, com anestesia local e material estéril.
 
 **Por que não tirar a unha inteira?** Porque a unha volta a crescer com o mesmo formato, e a chance de encravar de novo é a maior entre todos os tratamentos.
 
