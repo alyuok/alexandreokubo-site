@@ -69,17 +69,17 @@ Quem tem **diabetes, má circulação ou imunidade baixa** não deve tentar trat
 
 **Nos casos leves**, há técnicas simples que afastam a borda da unha da pele e aliviam a dor rapidamente, como colocar uma pequena mecha de algodão ou um tubinho plástico sob a borda que encrava. Também trato a inflamação e, quando presentes, a micose e o suor excessivo.
 
-**Nos casos moderados a graves ou que voltam**, o tratamento mais eficaz é um procedimento feito no consultório, com anestesia local:
+**Nos casos moderados a graves ou que voltam**, o tratamento mais eficaz é um procedimento feito no consultório, com anestesia local. Realizo esse procedimento na Prime Dermatologia, em São Paulo, e na Clínica Portugal, em Santo André:
 
 1. Retiro apenas a faixa lateral da unha que está encravando, e não a unha inteira.
-2. Trato a raiz (matriz) dessa faixa para que ela não volte a crescer. Isso pode ser feito com uma substância química, o fenol, ou com uma pequena cirurgia.
+2. Removo a raiz (matriz) dessa faixa com uma pequena cirurgia, a matricectomia, para que ela não volte a crescer.
 3. Quando há granuloma, ele é removido no mesmo procedimento.
 
-O resultado é uma unha um pouco mais estreita, que não encrava mais naquele lado.
+O resultado é uma unha um pouco mais estreita, que não encrava mais naquele lado. O tempo de recuperação varia de caso a caso, e os cuidados com o curativo e a volta às atividades são orientados na consulta.
 
 **Por que não tirar a unha inteira?** Porque a unha volta a crescer com o mesmo formato, e a chance de encravar de novo é a maior entre todos os tratamentos.
 
-**Fenol ou cirurgia?** Por muito tempo, o fenol foi considerado a técnica preferida, com baixa taxa de volta do problema. Estudos mais recentes mostram que as técnicas cirúrgicas modernas, menos invasivas, têm resultado parecido e cicatrização mais rápida. A escolha depende do grau, do formato da unha e da sua rotina, e é feita na consulta.
+**E o fenol?** Em outros países, a raiz da unha costuma ser tratada com fenol, uma substância química. No Brasil, o uso do fenol em procedimentos está proibido pela Anvisa. Os estudos mais recentes mostram que a matricectomia cirúrgica tem resultado semelhante ao do fenol na prevenção da volta do problema, com cicatrização mais rápida.
 
 ## Como evitar que volte
 
