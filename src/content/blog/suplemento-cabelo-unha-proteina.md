@@ -2,8 +2,8 @@
 title: 'Suplemento para cabelo e unha funciona? O que a alimentação, e principalmente a proteína, faz por eles'
 description: 'Por que cabelos e unhas sofrem quando falta proteína, por que o polivitamínico sozinho não resolve, quando a biotina ajuda, como ela interfere nos exames e quais exames fazem sentido.'
 answer: 'Cabelos e unhas são feitos principalmente de proteína, e o organismo deixa de priorizá-los quando a alimentação não cobre as necessidades. Suplementos podem complementar o tratamento, mas não compensam uma alimentação com pouca proteína, e alguns, em excesso, podem piorar a queda. O primeiro passo é avaliar a alimentação, principalmente a quantidade de proteína, e investigar deficiências quando a história indicar.'
-pubDate: 2026-10-30
-reviewedDate: 2026-10-30
+pubDate: 2026-10-23
+reviewedDate: 2026-10-23
 category: 'Estilo de vida e pele'
 about: ['Nutrição', 'Proteínas na dieta', 'Queda de cabelo', 'Unhas frágeis', 'Suplementos alimentares']
 sources:
@@ -27,7 +27,7 @@ sources:
     url: 'https://doi.org/10.1016/j.jamda.2013.05.021'
   - label: 'Smolarczyk K et al. Association of obesity and bariatric surgery on hair health. Medicina (Kaunas), 2024'
     url: 'https://doi.org/10.3390/medicina60020325'
-status: rascunho
+status: aprovado
 ---
 
 No consultório, vejo com frequência mulheres que chegam com queda de cabelo ou unhas fracas já tomando um polivitamínico, às vezes dois. Quando pergunto o que comeram no dia anterior, aparece o mesmo padrão: café com pão de manhã, uma salada no almoço, um lanche à noite. Pouca proteína no dia inteiro.
