@@ -3,13 +3,29 @@ import Service from '../layouts/Service.astro';
 
 const groups = [
   {
-    title: 'Procedimentos',
+    title: 'Injetáveis e fios',
     items: [
       { t: 'Toxina botulínica', d: 'Suaviza linhas de expressão relaxando músculos específicos, preservando a sua expressão.' },
       { t: 'Preenchimento com ácido hialurônico', d: 'Repõe volume e contorno em áreas selecionadas, com quantidade e pontos definidos na avaliação.' },
-      { t: 'Bioestimuladores de colágeno', d: 'Estimulam a produção de colágeno para melhorar a firmeza da pele de forma gradual.' },
-      { t: 'Lasers', d: 'Indicados para manchas, vasinhos, textura e cicatrizes, de acordo com o tipo de pele.' },
-      { t: 'Cicatrizes de acne', d: 'Combinação de técnicas para melhorar a textura da pele marcada pela acne.' },
+      { t: 'Bioestimuladores de colágeno', d: 'Ácido poli-L-láctico (PLLA), hidroxiapatita de cálcio e policaprolactona (PCL) estimulam a produção de colágeno para melhorar a firmeza da pele de forma gradual. O tipo é escolhido conforme a área e o objetivo.' },
+      { t: 'Fios de PDO', d: 'Fios absorvíveis de polidioxanona, usados para sustentação e estímulo de colágeno em casos selecionados de flacidez.' },
+    ],
+  },
+  {
+    title: 'Lasers e tecnologias',
+    items: [
+      { t: 'Luz intensa pulsada', d: 'Indicada para manchas e vasinhos do rosto e do colo, de acordo com o tipo de pele.' },
+      { t: 'Laser Nd:YAG 1064 nm', d: 'Laser de comprimento de onda longo, indicado conforme a avaliação para vasinhos, manchas e estímulo da pele.' },
+      { t: 'Laser de érbio (Er:YAG) ablativo', d: 'Atua na camada superficial da pele para melhorar textura, rugas finas e cicatrizes, com tempo de recuperação definido na consulta.' },
+      { t: 'Plasma', d: 'Tecnologia usada em áreas de flacidez leve e excesso de pele, como as pálpebras, em casos selecionados.' },
+      { t: 'Microagulhamento robótico', d: 'Microperfurações controladas por equipamento, que estimulam o colágeno e melhoram textura e cicatrizes.' },
+      { t: 'Depilação a laser', d: 'Laser de diodo para pelos indesejados. Age sobre o pigmento, por isso funciona em pelos escuros e não em pelos brancos ou muito claros.' },
+    ],
+  },
+  {
+    title: 'Cicatrizes de acne',
+    items: [
+      { t: 'Tratamento combinado', d: 'Lasers, microagulhamento e bioestimuladores podem ser associados para melhorar a textura da pele marcada pela acne.' },
     ],
   },
 ];
@@ -37,8 +53,8 @@ const faq = [
   slug="dermatologia-estetica"
   eyebrow="Dermatologia estética"
   h1="O melhor resultado é aquele <em>que ninguém aponta</em>"
-  title="Dermatologia estética: toxina botulínica, preenchimento e lasers"
-  description="Dermatologia estética com o Dr. Alexandre Okubo: toxina botulínica, preenchimento com ácido hialurônico, bioestimuladores e lasers, com indicação criteriosa e resultado natural. Vila Clementino, São Paulo."
+  title="Dermatologia estética: toxina, preenchimento, bioestimuladores e lasers"
+  description="Dermatologia estética com o Dr. Alexandre Okubo: toxina botulínica, ácido hialurônico, bioestimuladores, fios de PDO, lasers e microagulhamento robótico na Vila Clementino, SP."
   lead="Procedimentos estéticos feitos por dermatologista, com avaliação antes da aplicação, indicação só do que faz sentido e foco em resultado natural."
   groups={groups}
   faq={faq}
