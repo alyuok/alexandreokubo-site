@@ -2,8 +2,8 @@
 title: 'Menopausa e pele: o que muda na pele e nos cabelos, e o que pode ajudar'
 description: 'Por que a pele fica mais fina, seca e flácida na menopausa, o que acontece com os cabelos e os pelos, o papel da reposição hormonal e quais cuidados e tratamentos o dermatologista pode indicar.'
 answer: 'Com a queda do estrogênio na menopausa, a pele perde colágeno, elasticidade e hidratação, e muitas mulheres notam afinamento dos cabelos e pelos no rosto. Protetor solar, hidratação, retinoides e procedimentos dermatológicos ajudam. A reposição hormonal pode melhorar a pele, mas não é indicada só por esse motivo e é decidida com o ginecologista.'
-pubDate: 2026-10-30
-reviewedDate: 2026-10-30
+pubDate: 2026-10-23
+reviewedDate: 2026-10-23
 category: 'Pele'
 about: ['Menopausa', 'Envelhecimento da pele', 'Alopecia androgenética feminina']
 sources:
@@ -25,7 +25,7 @@ sources:
     url: 'https://doi.org/10.1159/000551153'
   - label: 'Fabi SG et al. Round table discussion: aesthetic treatment considerations for the perimenopausal and menopausal patient. J Cosmet Dermatol, 2026'
     url: 'https://doi.org/10.1111/jocd.70626'
-status: rascunho
+status: aprovado
 ---
 
 "Parece que minha pele mudou de um ano para o outro." Ouço muito essa frase de pacientes entre os 45 e os 55 anos. E, na maioria das vezes, a impressão está certa: a menopausa acelera o envelhecimento da pele de uma forma que nenhum creme isolado consegue compensar.
