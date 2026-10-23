@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { getPosts, formatDate } from '../../lib/posts';
+import { getPosts, formatDate, LIFESTYLE } from '../../lib/posts';
 
 const posts = await getPosts();
 const title = 'Blog: dermatologia explicada';
@@ -11,6 +11,7 @@ const description = 'Artigos do Dr. Alexandre Okubo, dermatologista, com respost
     <p class="eyebrow">Blog</p>
     <h1>Dermatologia explicada</h1>
     <p class="lead">Respostas para as dúvidas que mais ouço no consultório, escritas e revisadas por mim.</p>
+    <p class="topics">Tema: <a href={LIFESTYLE.href}>{LIFESTYLE.name}</a></p>
   </div>
   <section class="section section--white">
     <div class="wrap">
@@ -35,5 +36,6 @@ const description = 'Artigos do Dr. Alexandre Okubo, dermatologista, com respost
   .posts h2 { font-size: 1.5rem; margin: 0.2em 0 0.4em; }
   .posts h2 a { color: var(--graphite); text-decoration: none; }
   .posts h2 a:hover { color: var(--gold-text); }
+  .topics { margin: 0; font-size: 0.95rem; }
   .meta { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold-text); margin: 0; }
 </style>

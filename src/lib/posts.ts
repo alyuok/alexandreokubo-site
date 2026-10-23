@@ -12,3 +12,6 @@ export async function getPosts() {
 
 export const formatDate = (d: Date) =>
   d.toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
+
+// Categoria temática ligada à página /abordagem/ (não é especialidade médica).
+export const LIFESTYLE = { name: 'Estilo de vida e pele', href: '/blog/estilo-de-vida/' };

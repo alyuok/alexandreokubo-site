@@ -5,6 +5,7 @@ import consultaPhoto from '../assets/consulta-dr-alexandre-okubo.webp';
 import Cta from '../components/Cta.astro';
 import Faq from '../components/Faq.astro';
 import { SITE_URL } from '../data/site';
+import { LIFESTYLE } from '../lib/posts';
 import { medicalPageSchema, faqSchema } from '../data/schema';
 
 const title = 'Abordagem: dermatologia com olhar para o estilo de vida';
@@ -12,10 +13,11 @@ const description =
   'Como o Dr. Alexandre Okubo integra o exame dermatológico com sono, alimentação, estresse e hábitos, com base nos pilares da Medicina do Estilo de Vida.';
 const url = `${SITE_URL}/abordagem/`;
 
-const pillars = [
+// href: artigo do blog que aprofunda o pilar (preencher conforme forem publicados).
+const pillars: { t: string; d: string; href?: string; link?: string }[] = [
   { t: 'Sono', d: 'Noites mal dormidas costumam coincidir com piora de dermatites, acne e da aparência da pele. Perguntar sobre o sono faz parte da consulta.' },
   { t: 'Estresse', d: 'O estresse pode desencadear ou agravar quadros como dermatite, psoríase, acne e queda de cabelo. Reconhecer essa relação ajuda a planejar o tratamento.' },
-  { t: 'Alimentação', d: 'Em algumas condições, como a acne, há estudos sobre a relação com a dieta. Quando faz sentido, conversamos sobre isso sem dietas restritivas sem indicação.' },
+  { t: 'Alimentação', d: 'Em algumas condições, como a acne, há estudos sobre a relação com a dieta. Quando faz sentido, conversamos sobre isso sem dietas restritivas sem indicação.', href: '/blog/suplemento-cabelo-unha-proteina/', link: 'Alimentação, cabelos e unhas' },
   { t: 'Atividade física', d: 'O movimento contribui para a saúde geral, e a rotina de exercício também influencia cuidados com a pele, como suor, atrito e fotoproteção.' },
   { t: 'Tabaco e álcool', d: 'O tabagismo está associado ao envelhecimento da pele e a pior cicatrização. Falar sobre isso é parte do cuidado, sem julgamento.' },
   { t: 'Relações e autoestima', d: 'Uma acne, uma mancha ou uma queda de cabelo podem afetar como a pessoa se sente. Esse impacto merece ser ouvido.' },
@@ -71,6 +73,7 @@ const faq = [
           <div class="card">
             <h3>{p.t}</h3>
             <p>{p.d}</p>
+            {p.href && <p class="more"><a href={p.href}>Leia: {p.link} →</a></p>}
           </div>
         ))}
       </div>
@@ -78,6 +81,7 @@ const faq = [
         Essa abordagem não é uma especialidade médica nem substitui o tratamento dermatológico. É a forma como
         organizo a consulta para que o plano faça sentido na vida real de cada paciente.
       </p>
+      <p class="mt"><a href={LIFESTYLE.href}>Todos os artigos sobre {LIFESTYLE.name.toLowerCase()} →</a></p>
     </div>
   </section>
 
@@ -96,4 +100,5 @@ const faq = [
   @media (min-width: 860px) { .head-split { grid-template-columns: 1.4fr 1fr; gap: 64px; } }
   .head-split .framed-photo :global(img) { object-position: 50% 28%; }
   .mt { margin-top: 32px; max-width: var(--text); }
+  .more { margin: 12px 0 0; font-size: 0.95rem; }
 </style>

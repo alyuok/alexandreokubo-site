@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Cta from '../../components/Cta.astro';
-import { getPosts, formatDate } from '../../lib/posts';
+import { getPosts, formatDate, LIFESTYLE } from '../../lib/posts';
 import { doctor, SITE_URL } from '../../data/site';
 import { PERSON_ID, WEBSITE_ID } from '../../data/schema';
 
@@ -14,6 +14,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const d = post.data;
+const isLifestyle = d.category === LIFESTYLE.name;
 const url = `${SITE_URL}/blog/${post.id}/`;
 
 const schema = [
@@ -48,13 +49,17 @@ const schema = [
   title={d.title}
   description={d.description}
   ogType="article"
-  breadcrumbs={[{ name: 'Blog', href: '/blog/' }, { name: d.title, href: `/blog/${post.id}/` }]}
+  breadcrumbs={[
+    { name: 'Blog', href: '/blog/' },
+    ...(isLifestyle ? [{ name: LIFESTYLE.name, href: LIFESTYLE.href }] : []),
+    { name: d.title, href: `/blog/${post.id}/` },
+  ]}
   schema={schema}
 >
   <article class="wrap post">
     <header class="page-head">
       {d.status === 'rascunho' && <p class="draft">RASCUNHO: AGUARDANDO APROVAÇÃO</p>}
-      <p class="eyebrow">{d.category}</p>
+      <p class="eyebrow">{isLifestyle ? <a href={LIFESTYLE.href}>{d.category}</a> : d.category}</p>
       <h1>{d.title}</h1>
       <p class="byline">
         Por <a href="/sobre/" rel="author">{doctor.name}</a>, dermatologista · {doctor.crm} · {doctor.rqe}<br />

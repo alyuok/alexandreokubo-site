@@ -1,0 +1,53 @@
+---
+import Base from '../../layouts/Base.astro';
+import Cta from '../../components/Cta.astro';
+import { getPosts, formatDate, LIFESTYLE } from '../../lib/posts';
+import { SITE_URL } from '../../data/site';
+
+const posts = (await getPosts()).filter((p) => p.data.category === LIFESTYLE.name);
+const title = 'Estilo de vida e pele: sono, alimentação, estresse e hábitos';
+const description =
+  'Como alimentação, sono, estresse, atividade física, tabaco e álcool afetam a pele, os cabelos e as unhas. Artigos do Dr. Alexandre Okubo, dermatologista.';
+const url = `${SITE_URL}${LIFESTYLE.href}`;
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Blog', href: '/blog/' }, { name: LIFESTYLE.name, href: LIFESTYLE.href }]}
+  schema={[{ '@type': 'CollectionPage', '@id': `${url}#webpage`, url, name: title, description, inLanguage: 'pt-BR' }]}
+>
+  <div class="wrap page-head">
+    <p class="eyebrow">Blog</p>
+    <h1>Estilo de vida e pele</h1>
+    <p class="lead">
+      O que você come, como dorme e como lida com o estresse aparece na pele, nos cabelos e nas unhas. Aqui explico
+      essas relações com base nos estudos, sempre do ponto de vista do dermatologista.
+      <a href="/abordagem/">Veja como isso entra na consulta</a>.
+    </p>
+  </div>
+  <section class="section section--white">
+    <div class="wrap">
+      {posts.length === 0 && <p>Os primeiros artigos estão a caminho.</p>}
+      <ul class="posts">
+        {posts.map((p) => (
+          <li>
+            <p class="meta">{formatDate(p.data.pubDate)}{p.data.status === 'rascunho' && ' · RASCUNHO'}</p>
+            <h2><a href={`/blog/${p.id}/`}>{p.data.title}</a></h2>
+            <p>{p.data.description}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+  <Cta />
+</Base>
+
+<style>
+  .posts { list-style: none; padding: 0; margin: 0; max-width: var(--text); }
+  .posts li { padding: 28px 0; border-bottom: 1px solid var(--line); }
+  .posts li:first-child { padding-top: 0; }
+  .posts h2 { font-size: 1.5rem; margin: 0.2em 0 0.4em; }
+  .posts h2 a { color: var(--graphite); text-decoration: none; }
+  .posts h2 a:hover { color: var(--gold-text); }
+  .meta { font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold-text); margin: 0; }
+</style>
