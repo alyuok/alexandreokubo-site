@@ -70,9 +70,11 @@ O plano é individual, mas costuma combinar três frentes:
 
 - **Cuidados diários**: protetor solar todos os dias, hidratante adequado ao novo tipo de pele e sabonetes suaves. Parece simples, mas é a base que sustenta qualquer outro tratamento.
 - **Tratamentos tópicos com prescrição**: os retinoides, derivados da vitamina A, estimulam a produção de colágeno e têm boa evidência no tratamento do envelhecimento da pele. A concentração e a forma de uso são ajustadas para não irritar a pele mais sensível dessa fase.
-- **Procedimentos no consultório**: bioestimuladores de colágeno, ácido hialurônico, toxina botulínica e lasers podem ser indicados para flacidez, perda de volume, rugas e manchas. A escolha depende do que mais incomoda, do exame da pele e do histórico de saúde. Veja mais sobre a [dermatologia estética](/dermatologia-estetica/).
+- **Procedimentos no consultório**: bioestimuladores de colágeno, ácido hialurônico e toxina botulínica podem ser indicados para flacidez, perda de volume e rugas. Na Prime, também utilizo tecnologias como luz intensa pulsada, laser Nd:YAG 1064 nm, laser de érbio (Er:YAG) ablativo e plasma (Plasmage), indicadas conforme o objetivo, como manchas, vasinhos, textura da pele, rugas finas e flacidez leve. A escolha depende do que mais incomoda, do exame da pele e do histórico de saúde. Veja mais sobre a [dermatologia estética](/dermatologia-estetica/).
 
-Para cabelos e pelos, o tratamento começa pelo diagnóstico da causa da queda. A partir daí, há medicamentos tópicos e orais e procedimentos que ajudam a controlar o afinamento, além de opções para os pelos indesejados.
+Para os cabelos, o tratamento começa pelo diagnóstico da causa da queda. A partir daí, há medicamentos tópicos e orais e procedimentos que ajudam a controlar o afinamento.
+
+Para os pelos do rosto, a depilação com laser de diodo é uma opção, depois de avaliar se há outra causa hormonal envolvida. O laser age sobre o pigmento do pelo, por isso funciona nos pelos escuros, mas não nos brancos ou muito claros.
 
 ## Uma consulta que vai além da estética
 
