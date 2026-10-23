@@ -37,9 +37,9 @@ export const booking = {
 // googleAds: ID da tag do Google Ads (formato AW-XXXXXXXXXX), não o número da conta.
 // adsConversions: rótulo de cada ação de conversão criada no Google Ads.
 export const analytics = {
-  ga4: '',
-  googleAds: '',
-  adsConversions: { whatsapp: '', doctoralia: '', telefone: '' } as Record<string, string>,
+  ga4: 'G-PYB8EG1D9J',
+  googleAds: 'AW-1066674224',
+  adsConversions: { whatsapp: 'FKQACKPi-qYdELDQ0PwD', doctoralia: 'AEreCKbi-qYdELDQ0PwD', telefone: '' } as Record<string, string>,
 };
 
 // Telefone no formato internacional, para links tel: e dados estruturados.
