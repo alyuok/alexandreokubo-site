@@ -74,7 +74,7 @@ A biotina, uma vitamina do complexo B, está presente na maioria dos suplementos
 - **Unhas quebradiças**: é uma das opções mais estudadas. Em estudos pequenos, a biotina aumentou a espessura da unha e reduziu as fissuras em parte dos pacientes, com uso por vários meses. Faltam estudos maiores, mas, por ter poucos efeitos colaterais, pode ser uma opção associada aos cuidados com as unhas.
 - **Queda de cabelo**: o benefício está bem estabelecido quando há deficiência de biotina, que é incomum, mas pode ocorrer, por exemplo, com o uso de alguns anticonvulsivantes, como o valproato, e com o consumo excessivo de álcool. Sem deficiência, a biotina isolada não tem efeito comprovado, e por isso ela costuma fazer parte de um plano maior, não ser o tratamento principal.
 
-**Atenção aos exames de sangue.** A biotina pode alterar o resultado de vários exames, como os de tireoide e alguns exames do coração, levando a resultados falsamente alterados. Como ela está em muitos suplementos, às vezes a pessoa nem sabe que está tomando. Se você usa suplemento para cabelo, pele ou unha, confira o rótulo, avise o médico e suspenda o uso alguns dias antes de colher exames, conforme a orientação do seu médico ou do laboratório.
+**Atenção aos exames de sangue.** A biotina pode alterar o resultado de vários exames, como os de tireoide e alguns exames do coração, levando a resultados falsamente alterados. Como ela está em muitos suplementos, às vezes a pessoa nem sabe que está tomando. Se você usa suplemento para cabelo, pele ou unha, confira o rótulo, avise o médico e suspenda o uso 3 dias antes de colher exames de sangue, salvo outra orientação do seu médico.
 
 ## Quais exames fazem sentido
 
