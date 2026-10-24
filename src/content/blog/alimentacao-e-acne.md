@@ -2,8 +2,8 @@
 title: 'Alimentação e acne: o que os estudos mostram sobre açúcar, leite, chocolate e whey'
 description: 'O que a ciência sabe sobre a relação entre dieta e acne: alimentos de alto índice glicêmico, leite e derivados, chocolate, whey protein e o que pode proteger a pele, sem dietas radicais.'
 answer: 'A alimentação não causa acne sozinha, mas pode influenciar. Os estudos mais consistentes associam a acne a uma dieta rica em açúcares e alimentos de alto índice glicêmico e ao consumo de leite, especialmente o desnatado. Ainda assim, a dieta é um complemento: ela não substitui o tratamento dermatológico, e restrições radicais não são recomendadas.'
-pubDate: 2026-10-31
-reviewedDate: 2026-10-31
+pubDate: 2026-10-24
+reviewedDate: 2026-10-24
 category: 'Estilo de vida e pele'
 about: ['Acne', 'Dieta', 'Índice glicêmico', 'Laticínios']
 sources:
@@ -25,7 +25,7 @@ sources:
     url: 'https://doi.org/10.1111/1346-8138.17109'
   - label: 'Eichenfield DZ, Sprague J, Eichenfield LF. Management of acne vulgaris: a review. JAMA, 2021'
     url: 'https://doi.org/10.1001/jama.2021.17633'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, preciso cortar o chocolate?" É uma das perguntas que mais ouço de quem tem acne. Por muitos anos, a resposta padrão foi que a alimentação não tinha relação com a acne. Hoje sabemos que ela pode influenciar, mas de um jeito mais específico, e menos radical, do que muita gente imagina.
