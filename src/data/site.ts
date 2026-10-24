@@ -24,7 +24,7 @@ export const doctor = {
     'https://www.sbd.org.br/membro/?id=5500',
     'https://www.youtube.com/@alexandreokubodermato',
     'https://www.tiktok.com/@alexandreokubo.dermato',
-    'https://www.facebook.com/alexandre.okubo.dermato/',
+    'https://www.facebook.com/alexandreokubodermato',
   ],
   instagram: 'https://www.instagram.com/alexandreokubodermato/',
   // Redes exibidas no rodapé (também entram no sameAs acima).
@@ -32,7 +32,7 @@ export const doctor = {
     { label: 'Instagram', url: 'https://www.instagram.com/alexandreokubodermato/' },
     { label: 'YouTube', url: 'https://www.youtube.com/@alexandreokubodermato' },
     { label: 'TikTok', url: 'https://www.tiktok.com/@alexandreokubo.dermato' },
-    { label: 'Facebook', url: 'https://www.facebook.com/alexandre.okubo.dermato/' },
+    { label: 'Facebook', url: 'https://www.facebook.com/alexandreokubodermato' },
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/alexandre-okubo-dermato' },
   ],
 };
