@@ -2,8 +2,8 @@
 title: 'Melasma: por que as manchas voltam e como controlar com tratamento e proteção certa'
 description: 'O que é o melasma, por que ele é crônico e volta, a importância do protetor solar com cor, e as opções de tratamento: cremes clareadores, ácido tranexâmico, peelings, microagulhamento e lasers.'
 answer: 'O melasma é uma condição crônica que causa manchas escuras no rosto, principalmente em mulheres, e piora com sol, luz visível, calor e hormônios. Não tem cura definitiva, mas pode ser controlado. O tratamento combina protetor solar com cor, cremes clareadores e, em muitos casos, ácido tranexâmico e procedimentos, sempre com manutenção para reduzir o risco de as manchas voltarem.'
-pubDate: 2026-10-31
-reviewedDate: 2026-10-31
+pubDate: 2026-10-24
+reviewedDate: 2026-10-24
 category: 'Pele'
 about: ['Melasma', 'Hiperpigmentação', 'Ácido tranexâmico', 'Fotoproteção']
 sources:
@@ -19,7 +19,7 @@ sources:
     url: 'https://doi.org/10.1111/ijd.16954'
   - label: 'Visser WI et al. Visible light protection strategies for diverse populations. Dermatol Ther (Heidelb), 2026'
     url: 'https://doi.org/10.1007/s13555-025-01642-5'
-status: rascunho
+status: aprovado
 ---
 
 O melasma é uma das queixas mais comuns no consultório, e também uma das que mais frustram. Muitas pacientes já fizeram vários tratamentos, viram as manchas clarearem e, meses depois, voltarem. Isso não significa que o tratamento falhou: é a natureza do melasma.
