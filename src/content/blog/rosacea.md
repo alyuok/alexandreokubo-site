@@ -1,7 +1,7 @@
 ---
 title: 'Rosácea: o que piora a vermelhidão no rosto, como descobrir seus gatilhos e como tratar'
 description: 'O que é a rosácea, os gatilhos que mais pioram a vermelhidão (sol, calor, álcool, bebidas quentes, comidas apimentadas, cosméticos e corticoide no rosto), como montar um diário de gatilhos e as opções de tratamento.'
-answer: 'A rosácea é uma doença inflamatória crônica que causa vermelhidão no centro do rosto, vasinhos, ondas de calor e, às vezes, bolinhas parecidas com espinhas. Ela piora com gatilhos como sol, calor, álcool, bebidas quentes, comidas apimentadas, cosméticos irritantes e uso de corticoide no rosto. Não tem cura definitiva, mas pode ser controlada combinando a identificação dos gatilhos pessoais, cuidados com a pele, medicamentos e, para vermelhidão e vasinhos, lasers e luz intensa pulsada.'
+answer: 'A rosácea é uma doença inflamatória crônica que causa vermelhidão no centro do rosto, vasinhos, ondas de calor e, às vezes, bolinhas parecidas com espinhas. Ela piora com gatilhos como sol, calor, álcool, bebidas quentes, comidas apimentadas, cosméticos irritantes e uso de corticoide no rosto. Não tem cura definitiva, mas pode ser controlada combinando a identificação dos gatilhos pessoais, cuidados com a pele, medicamentos e, para vermelhidão e vasinhos, luz intensa pulsada.'
 pubDate: 2026-10-24
 reviewedDate: 2026-10-24
 category: 'Pele'
@@ -150,20 +150,15 @@ O tratamento é montado conforme os sinais que predominam, e quase sempre combin
 **Bolinhas inflamadas**
 
 - **Medicamentos tópicos**: a ivermectina tópica, o ácido azelaico e o metronidazol estão entre as opções com melhor evidência. Em um estudo com 962 pacientes, a ivermectina tópica reduziu mais as lesões inflamatórias do que o metronidazol em 16 semanas.
-- **Medicamentos orais**: nos casos moderados a graves, antibióticos da família das tetraciclinas em doses baixas, usados pelo efeito anti-inflamatório, e, em casos selecionados, a isotretinoína em doses baixas.
+- **Medicamentos orais**: nos casos moderados a graves, antibióticos da família das tetraciclinas em doses baixas, usados pelo efeito anti-inflamatório. Nos casos que não respondem a esses tratamentos, uso a isotretinoína em doses baixas, com acompanhamento e exames.
 
-**Vermelhidão persistente**
+**Vasinhos e vermelhidão persistente: luz intensa pulsada**
 
-- Existem géis vasoconstritores que reduzem a vermelhidão por algumas horas. O efeito é temporário, e a vermelhidão volta quando o produto deixa de agir.
-- Os cuidados com os gatilhos e com a pele são a base para reduzir a vermelhidão ao longo do tempo.
-
-**Vasinhos e vermelhidão: lasers e luz intensa pulsada**
-
-A luz intensa pulsada e o laser Nd:YAG atuam nos vasos dilatados e podem reduzir os vasinhos e a vermelhidão persistente. Costumam ser necessárias algumas sessões, e manutenções periódicas ajudam, porque a rosácea continua ativa. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
+Os cuidados com os gatilhos e com a pele são a base para reduzir a vermelhidão ao longo do tempo. Para os vasinhos e a vermelhidão que não passa, o tratamento que mais uso é a luz intensa pulsada, que atua nos vasos dilatados. Em alguns casos, também uso o laser Nd:YAG. Costumam ser necessárias algumas sessões, e manutenções periódicas ajudam, porque a rosácea continua ativa. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
 
 **Espessamento do nariz (rinofima)**
 
-Nas fases iniciais, a isotretinoína pode ajudar. Quando o espessamento já está estabelecido, o tratamento envolve procedimentos, como o laser de érbio ablativo, que remodela a pele.
+Nas fases iniciais, a isotretinoína pode ajudar. Quando o espessamento já está estabelecido, o tratamento envolve procedimentos, como o laser de érbio ablativo, que remodela a pele. Nos casos muito avançados, com grande aumento do nariz, o tratamento é cirúrgico, e encaminho para um especialista nesse tipo de cirurgia.
 
 **Olhos**
 
