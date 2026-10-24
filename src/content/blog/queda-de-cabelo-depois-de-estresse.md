@@ -60,6 +60,8 @@ Se você usa uma dessas canetas e notou queda de cabelo:
 
 Na maioria dos casos, o cabelo se recupera com esses cuidados, muitas vezes sem necessidade de interromper o tratamento para perda de peso.
 
+Veja também o que as canetas emagrecedoras podem causar [na pele, nas unhas e no rosto, incluindo o chamado "Ozempic face"](/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/).
+
 ## Como saber se é eflúvio telógeno
 
 Os sinais típicos são queda espalhada por todo o couro cabeludo, sem falhas localizadas, e mais fios no travesseiro, no ralo e na escova. O diagnóstico, porém, depende do exame. Na consulta, avalio a história, examino o couro cabeludo com tricoscopia e, quando necessário, peço exames de sangue.
