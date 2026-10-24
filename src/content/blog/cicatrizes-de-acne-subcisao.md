@@ -41,7 +41,10 @@ A maioria das cicatrizes de acne é deprimida (atrófica), e elas são classific
 - **Em "caixa"**: depressões arredondadas, com bordas bem marcadas e fundo plano, como pequenas crateras.
 - **Em "picador de gelo"**: estreitas e profundas, como pequenos furos na pele.
 
-![Desenho em corte da pele mostrando os três tipos de cicatriz de acne: ondulada, presa por traves fibrosas; em caixa, com bordas retas e fundo plano; e em picador de gelo, estreita e profunda](/images/blog/tipos-de-cicatriz-de-acne.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="/images/blog/tipos-de-cicatriz-de-acne-vertical.svg" />
+  <img src="/images/blog/tipos-de-cicatriz-de-acne.svg" width="960" height="400" alt="Desenho em corte da pele mostrando os três tipos de cicatriz de acne: ondulada, presa por traves fibrosas; em caixa, com bordas retas e fundo plano; e em picador de gelo, estreita e profunda" />
+</picture>
 
 Também existem cicatrizes elevadas, as hipertróficas e os queloides, mais comuns no tronco e com tratamento próprio.
 

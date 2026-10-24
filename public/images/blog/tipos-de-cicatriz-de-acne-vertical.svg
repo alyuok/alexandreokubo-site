@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" role="img" aria-labelledby="t d">
+  <title id="t">Tipos de cicatriz de acne</title>
+  <desc id="d">Corte da pele mostrando três tipos de cicatriz deprimida: ondulada, presa por traves fibrosas; em caixa, com bordas retas e fundo plano; e em picador de gelo, estreita e profunda.</desc>
+  <rect width="600" height="900" fill="#F5EFE6"/>
+  <text x="20" y="44" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#343538">Ondulada</text>
+  <g transform="translate(0,-40)">
+    <path d="M20,120 L70,120 C110,120 118,162 160,162 C202,162 210,120 250,120 L300,120 L300,300 L20,300 Z" fill="#EBE2D4" stroke="#343538" stroke-width="2.5" stroke-linejoin="round"/>
+    <rect x="20" y="268" width="280" height="32" fill="#F5EFE6" stroke="#343538" stroke-width="1" stroke-dasharray="4 5"/>
+    <g stroke="#CBA554" stroke-width="4" stroke-linecap="round" fill="none"><path d="M140,160 L128,268"/><path d="M160,163 L160,268"/><path d="M180,160 L192,268"/></g>
+  </g>
+  <text x="330" y="110" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">Traves fibrosas</text>
+  <text x="330" y="140" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">puxam a pele para</text>
+  <text x="330" y="170" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">baixo. Indicação</text>
+  <text x="330" y="200" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">principal da</text>
+  <text x="330" y="230" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">subcisão.</text>
+  <text x="20" y="344" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#343538">Em “caixa”</text>
+  <g transform="translate(-320,260)">
+    <path d="M340,120 L420,120 L424,166 L536,166 L540,120 L620,120 L620,300 L340,300 Z" fill="#EBE2D4" stroke="#343538" stroke-width="2.5" stroke-linejoin="round"/>
+    <rect x="340" y="268" width="280" height="32" fill="#F5EFE6" stroke="#343538" stroke-width="1" stroke-dasharray="4 5"/>
+  </g>
+  <text x="330" y="410" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">Bordas retas e</text>
+  <text x="330" y="440" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">fundo plano, como</text>
+  <text x="330" y="470" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">pequenas crateras.</text>
+  <text x="20" y="644" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#343538">Em “picador de gelo”</text>
+  <g transform="translate(-640,560)">
+    <path d="M660,120 L788,120 L800,248 L812,120 L940,120 L940,300 L660,300 Z" fill="#EBE2D4" stroke="#343538" stroke-width="2.5" stroke-linejoin="round"/>
+    <rect x="660" y="268" width="280" height="32" fill="#F5EFE6" stroke="#343538" stroke-width="1" stroke-dasharray="4 5"/>
+  </g>
+  <text x="330" y="710" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">Estreita e</text>
+  <text x="330" y="740" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">profunda, como</text>
+  <text x="330" y="770" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">um pequeno furo.</text>
+  <text x="330" y="800" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#5b5c60">Tratada com CROSS.</text>
+</svg>
