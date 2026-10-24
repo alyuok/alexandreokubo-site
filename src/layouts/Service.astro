@@ -48,7 +48,7 @@ const url = `${SITE_URL}/${slug}/`;
     </section>
   ))}
 
-  <section class="section">
+  <section class={`section ${groups.length % 2 === 0 ? 'section--white' : ''}`}>
     <div class="wrap">
       <slot />
       <Faq items={faq} />

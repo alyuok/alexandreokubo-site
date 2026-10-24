@@ -14,12 +14,20 @@ const groups = [
   {
     title: 'Lasers e tecnologias',
     items: [
-      { t: 'Luz intensa pulsada', d: 'Indicada para manchas e vasinhos do rosto e do colo, de acordo com o tipo de pele.' },
-      { t: 'Laser Nd:YAG 1064 nm', d: 'Laser de comprimento de onda longo, indicado conforme a avaliação para vasinhos, manchas e estímulo da pele.' },
+      { t: 'Luz intensa pulsada', d: 'Indicada para manchas de sol e vasinhos do rosto e do colo, de acordo com o tipo de pele. Não é indicada para o melasma, pelo risco de piora.' },
+      { t: 'Laser Nd:YAG 1064 nm', d: 'Laser de comprimento de onda longo, indicado conforme a avaliação para vasinhos, manchas e estímulo da pele, incluindo o modo toning para melasma.' },
       { t: 'Laser de érbio (Er:YAG) ablativo', d: 'Atua na camada superficial da pele para melhorar textura, rugas finas e cicatrizes, com tempo de recuperação definido na consulta.' },
       { t: 'Plasma', d: 'Tecnologia usada em áreas de flacidez leve e excesso de pele, como as pálpebras, em casos selecionados.' },
       { t: 'Microagulhamento robótico', d: 'Microperfurações controladas por equipamento, que estimulam o colágeno e melhoram textura e cicatrizes.' },
       { t: 'Depilação a laser', d: 'Laser de diodo para pelos indesejados. Age sobre o pigmento, por isso funciona em pelos escuros e não em pelos brancos ou muito claros.' },
+    ],
+  },
+  {
+    title: 'Manchas e melasma',
+    items: [
+      { t: 'Laser Nd:YAG no modo toning', d: 'Modo de baixa energia, específico para melasma, que age sobre o pigmento sem agredir a pele. Sempre associado ao tratamento tópico.' },
+      { t: 'Microagulhamento com ácido tranexâmico', d: 'As microperfurações facilitam a entrada do ácido tranexâmico na pele (drug delivery), como parte do tratamento do melasma.' },
+      { t: 'Peelings superficiais', d: 'Renovam a camada de pele com pigmento, como complemento aos cremes clareadores, em manchas e no melasma.' },
     ],
   },
   {
@@ -60,4 +68,19 @@ const faq = [
   lead="Procedimentos estéticos feitos por dermatologista, com avaliação antes da aplicação, indicação só do que faz sentido e foco em resultado natural."
   groups={groups}
   faq={faq}
-/>
+>
+  <div class="related">
+    <h2 class="mt0">Leia também</h2>
+    <ul>
+      <li><a href="/blog/melasma/">Melasma: por que as manchas voltam e como controlar</a></li>
+      <li><a href="/blog/cicatrizes-de-acne-subcisao/">Cicatrizes de acne: tipos, tratamentos e subcisão</a></li>
+      <li><a href="/blog/menopausa-e-pele/">Menopausa e pele: o que muda e o que pode ajudar</a></li>
+    </ul>
+  </div>
+</Service>
+
+<style>
+  .related { max-width: var(--text); margin-bottom: 48px; }
+  .related ul { padding-left: 1.2em; margin: 0; }
+  .related li { margin: 0.4em 0; }
+</style>
