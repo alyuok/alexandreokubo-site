@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" role="img" aria-labelledby="t d">
+  <title id="t">Tipos de cicatriz de acne</title>
+  <desc id="d">Corte da pele mostrando três tipos de cicatriz deprimida: ondulada, presa por traves fibrosas; em caixa, com bordas retas e fundo plano; e em picador de gelo, estreita e profunda.</desc>
+  <rect width="960" height="400" fill="#F5EFE6"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#343538" text-anchor="middle">
+    <text x="160" y="56">Ondulada</text>
+    <text x="480" y="56">Em “caixa”</text>
+    <text x="800" y="56">Em “picador de gelo”</text>
+  </g>
+  <!-- pele -->
+  <g fill="#EBE2D4" stroke="#343538" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M20,120 L70,120 C110,120 118,162 160,162 C202,162 210,120 250,120 L300,120 L300,300 L20,300 Z"/>
+    <path d="M340,120 L420,120 L424,166 L536,166 L540,120 L620,120 L620,300 L340,300 Z"/>
+    <path d="M660,120 L788,120 L800,248 L812,120 L940,120 L940,300 L660,300 Z"/>
+  </g>
+  <!-- tecido subcutâneo -->
+  <g fill="#F5EFE6" stroke="#343538" stroke-width="1" stroke-dasharray="4 5">
+    <rect x="20" y="268" width="280" height="32"/>
+    <rect x="340" y="268" width="280" height="32"/>
+    <rect x="660" y="268" width="280" height="32"/>
+  </g>
+  <!-- traves fibrosas -->
+  <g stroke="#CBA554" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M140,160 L128,268"/>
+    <path d="M160,163 L160,268"/>
+    <path d="M180,160 L192,268"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5b5c60" text-anchor="middle">
+    <text x="160" y="336">Traves fibrosas puxam a pele</text>
+    <text x="160" y="358">para baixo. Indicação principal</text>
+    <text x="160" y="380">da subcisão.</text>
+    <text x="480" y="336">Bordas retas e fundo plano,</text>
+    <text x="480" y="358">como pequenas crateras.</text>
+    <text x="800" y="336">Estreita e profunda,</text>
+    <text x="800" y="358">como um pequeno furo.</text>
+    <text x="800" y="380">Tratada com CROSS.</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8E6F2E">
+    <text x="296" y="112" text-anchor="end">superfície da pele</text>
+  </g>
+</svg>

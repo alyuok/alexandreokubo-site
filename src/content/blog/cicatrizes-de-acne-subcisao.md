@@ -1,11 +1,11 @@
 ---
 title: 'Cicatrizes de acne: tipos, tratamentos e quando a subcisão é indicada'
-description: 'Os tipos de cicatriz de acne, por que cada um pede um tratamento diferente, como funciona a subcisão e por que a combinação de técnicas costuma dar os melhores resultados.'
+description: 'Os tipos de cicatriz de acne, por que cada um pede um tratamento diferente, como funcionam a subcisão e o CROSS e por que a combinação de técnicas costuma dar os melhores resultados.'
 answer: 'As cicatrizes de acne mais comuns são deprimidas e se dividem em três tipos: onduladas, em "caixa" e em "picador de gelo". Cada tipo responde melhor a técnicas diferentes. A subcisão é indicada principalmente para as cicatrizes onduladas, presas por traves fibrosas, e costuma ser combinada, em sessões separadas, com lasers, microagulhamento ou bioestimuladores.'
 pubDate: 2026-10-31
 reviewedDate: 2026-10-31
 category: 'Pele'
-about: ['Cicatrizes de acne', 'Subcisão', 'Acne']
+about: ['Cicatrizes de acne', 'Subcisão', 'CROSS com ácido tricloroacético', 'Acne']
 sources:
   - label: 'Jacob CI, Dover JS, Kaminer MS. Acne scarring: a classification system and review of treatment options. J Am Acad Dermatol, 2001'
     url: 'https://doi.org/10.1067/mjd.2001.113451'
@@ -41,6 +41,8 @@ A maioria das cicatrizes de acne é deprimida (atrófica), e elas são classific
 - **Em "caixa"**: depressões arredondadas, com bordas bem marcadas e fundo plano, como pequenas crateras.
 - **Em "picador de gelo"**: estreitas e profundas, como pequenos furos na pele.
 
+![Desenho em corte da pele mostrando os três tipos de cicatriz de acne: ondulada, presa por traves fibrosas; em caixa, com bordas retas e fundo plano; e em picador de gelo, estreita e profunda](/images/blog/tipos-de-cicatriz-de-acne.svg)
+
 Também existem cicatrizes elevadas, as hipertróficas e os queloides, mais comuns no tronco e com tratamento próprio.
 
 Na prática, a maioria das pessoas tem mais de um tipo de cicatriz ao mesmo tempo, o que explica por que um único tratamento raramente resolve tudo.
@@ -49,13 +51,17 @@ Na prática, a maioria das pessoas tem mais de um tipo de cicatriz ao mesmo temp
 
 A subcisão é um procedimento feito no consultório, com anestesia local. Uma agulha especial é introduzida sob a cicatriz e movimentada para romper as traves fibrosas que puxam a pele para baixo. Liberada, a pele tende a subir, e o sangramento controlado que se forma no local estimula a produção de colágeno.
 
-Por agir na causa da depressão, a subcisão é indicada principalmente para as **cicatrizes onduladas**. Nas cicatrizes em "caixa", pode ajudar em alguns casos. Nas em "picador de gelo", outras técnicas são mais adequadas.
+Por agir na causa da depressão, a subcisão é indicada principalmente para as **cicatrizes onduladas**. Nas cicatrizes em "caixa", pode ajudar em alguns casos. Nas em "picador de gelo", que são estreitas demais para a subcisão, uso outra técnica, descrita abaixo.
 
 Alguns pontos importantes:
 
 - **Em geral, são necessárias mais de uma sessão.** As traves fibrosas podem se formar de novo em parte, e a melhora é gradual.
-- **Inchaço e manchas roxas são esperados** nos primeiros dias e costumam desaparecer em até duas semanas.
+- **Inchaço e manchas roxas são esperados** nos primeiros dias e costumam melhorar em menos de uma semana.
 - **A acne precisa estar controlada** antes do tratamento das cicatrizes. Tratar cicatrizes com acne ativa é tratar um problema que continua se formando.
+
+## CROSS: para as cicatrizes em "picador de gelo"
+
+Nas cicatrizes estreitas e profundas, uso a técnica CROSS: um ácido (ácido tricloroacético) em alta concentração é aplicado de forma pontual, só dentro de cada cicatriz, com um instrumento fino. A reação estimula a produção de colágeno de dentro para fora, e a cicatriz fica mais rasa. Como na subcisão, em geral são necessárias algumas sessões.
 
 ## Por que combinar tratamentos
 
@@ -63,6 +69,7 @@ Os estudos mostram que, nas cicatrizes moderadas a graves, a combinação de té
 
 Por isso, a subcisão costuma fazer parte de um plano, com outras técnicas feitas em sessões separadas:
 
+- **CROSS**, para as cicatrizes em "picador de gelo"
 - **Lasers**, como o laser de érbio ablativo, que melhoram a textura e as bordas das cicatrizes
 - **Microagulhamento**, que estimula a produção de colágeno
 - **Bioestimuladores de colágeno e ácido hialurônico**, que repõem volume nas áreas deprimidas
