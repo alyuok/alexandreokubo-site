@@ -2,8 +2,8 @@
 title: 'Canetas emagrecedoras e a pele: cabelo, unhas e o chamado "Ozempic face"'
 description: 'O que os estudos mostram sobre semaglutida, tirzepatida e a pele: queda de cabelo, alterações nas unhas, reações na pele e a perda de volume do rosto conhecida como "Ozempic face", e o que pode ser feito.'
 answer: 'As canetas emagrecedoras, como semaglutida e tirzepatida, podem estar associadas a queda de cabelo, alterações nas unhas e reações na pele. O chamado "Ozempic face" é a perda de volume do rosto causada principalmente pelo emagrecimento rápido, e não por um efeito exclusivo do medicamento. Proteína adequada, perda de peso gradual e avaliação dermatológica ajudam a prevenir e tratar essas alterações.'
-pubDate: 2026-10-31
-reviewedDate: 2026-10-31
+pubDate: 2026-10-24
+reviewedDate: 2026-10-24
 category: 'Pele'
 about: ['Agonistas do receptor de GLP-1', 'Semaglutida', 'Tirzepatida', 'Perda de volume facial', 'Onicólise', 'Alopecia']
 sources:
@@ -25,7 +25,7 @@ sources:
     url: 'https://hcplive.com/view/nail-detachment-4-times-more-common-with-glp-1-use'
   - label: 'Sheth S et al. The National Psoriasis Foundation primer on GLP-1 receptor agonists in psoriasis: a review. JAMA Dermatol, 2026'
     url: 'https://doi.org/10.1001/jamadermatol.2026.0859'
-status: rascunho
+status: aprovado
 ---
 
 As canetas emagrecedoras, como a semaglutida e a tirzepatida, mudaram o tratamento da obesidade e do diabetes. Com o uso cada vez maior, chegam ao consultório dermatológico perguntas novas: "meu cabelo começou a cair", "minhas unhas estão descolando", "meu rosto envelheceu de repente".
