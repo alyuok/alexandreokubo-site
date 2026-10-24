@@ -69,15 +69,20 @@ Os tratamentos tópicos continuam sendo a base do clareamento:
 
 O ácido tranexâmico é um medicamento que, por via oral, ganhou espaço no tratamento do melasma. Uma análise de 22 estudos randomizados, com 1.280 pacientes, mostrou redução significativa da gravidade do melasma, com os melhores resultados para a via oral, seguida das aplicações na pele e do uso tópico.
 
-Ele não é indicado para todos. Pessoas com histórico de trombose ou com maior risco de coágulos, entre outras situações, não devem usar. Por isso, a indicação é feita na consulta, depois de avaliar o histórico de saúde e os medicamentos em uso.
+Na prática, uso o ácido tranexâmico de duas formas: por via oral, quando indicado, e aplicado na pele junto com o microagulhamento, técnica conhecida como *drug delivery*, em que as microperfurações facilitam a entrada do medicamento.
+
+A via oral não é indicada para todos. Pessoas com histórico de trombose ou com maior risco de coágulos, entre outras situações, não devem usar. Por isso, a indicação é feita na consulta, depois de avaliar o histórico de saúde e os medicamentos em uso.
 
 ## Procedimentos: peelings, microagulhamento e lasers
 
 Os procedimentos podem acelerar e potencializar o clareamento, mas no melasma exigem cuidado redobrado: um procedimento agressivo pode inflamar a pele e piorar as manchas.
 
 - **Peelings superficiais**: ajudam a renovar a camada de pele com pigmento, como complemento aos cremes.
-- **Microagulhamento**: associado a clareadores ou ao ácido tranexâmico aplicado na pele, teve bons resultados em estudos.
-- **Lasers**: lasers de baixa energia, como o Nd:YAG em parâmetros específicos para melasma, podem ajudar, especialmente quando combinados com o tratamento tópico. Lasers e luzes usados de forma inadequada, por outro lado, podem causar escurecimento da pele e piorar o melasma.
+- **Microagulhamento**: associado a clareadores ou ao ácido tranexâmico aplicado na pele, teve bons resultados em estudos. Na Prime, uso o microagulhamento robótico, que controla a profundidade e a distribuição das microperfurações.
+- **Laser Nd:YAG no modo *toning***: é um modo de baixa energia, específico para melasma, que age sobre o pigmento sem agredir a pele. Uso sempre associado ao tratamento tópico.
+- **Luz intensa pulsada**: é útil para outras manchas, como as de sol, mas evito no melasma, pelo risco de piora.
+
+Lasers e luzes usados de forma inadequada podem inflamar a pele e escurecer as manchas, e é por isso que a escolha do equipamento e dos parâmetros faz tanta diferença no melasma.
 
 Em uma análise que comparou 39 estudos com lasers, os melhores resultados vieram das combinações: laser associado a cremes clareadores, e não laser isolado. É a mesma lógica de todo o tratamento do melasma.
 
