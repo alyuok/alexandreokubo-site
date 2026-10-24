@@ -2,8 +2,8 @@
 title: 'Tratamento da acne: do creme à isotretinoína, o que funciona e quando usar cada opção'
 description: 'Como o dermatologista escolhe o tratamento da acne: cremes e géis, antibióticos, tratamentos hormonais e isotretinoína, quanto tempo leva para melhorar e o que é mito e verdade sobre os efeitos colaterais.'
 answer: 'O tratamento da acne é escolhido pelo tipo e pela gravidade das lesões. Casos leves costumam responder a cremes e géis, como retinoides e peróxido de benzoíla. Casos moderados podem precisar de antibiótico oral por tempo limitado ou de tratamento hormonal. A isotretinoína é indicada para acne grave, com cicatrizes ou que não respondeu aos outros tratamentos, com acompanhamento médico e exames.'
-pubDate: 2026-10-31
-reviewedDate: 2026-10-31
+pubDate: 2026-10-24
+reviewedDate: 2026-10-24
 category: 'Pele'
 about: ['Acne', 'Isotretinoína', 'Retinoides tópicos', 'Peróxido de benzoíla']
 sources:
@@ -21,7 +21,7 @@ sources:
     url: 'https://doi.org/10.3389/fmed.2026.1771320'
   - label: 'Kandhari S et al. Expert consensus on the rational approach to isotretinoin usage for effective management of acne: ERAISE ACNE recommendations. Dermatol Ther (Heidelb), 2026'
     url: 'https://doi.org/10.1007/s13555-026-01681-6'
-status: rascunho
+status: aprovado
 ---
 
 Muita gente chega ao consultório depois de anos tentando tratar a acne com sabonetes, receitas da internet e produtos indicados por amigos. Alguns ajudam um pouco, mas a acne volta. O motivo costuma ser o mesmo: o tratamento não era o adequado para aquele tipo de acne, ou foi interrompido antes de fazer efeito.
