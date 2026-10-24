@@ -2,8 +2,8 @@
 title: 'Cicatrizes de acne: tipos, tratamentos e quando a subcisão é indicada'
 description: 'Os tipos de cicatriz de acne, por que cada um pede um tratamento diferente, como funcionam a subcisão e o CROSS e por que a combinação de técnicas costuma dar os melhores resultados.'
 answer: 'As cicatrizes de acne mais comuns são deprimidas e se dividem em três tipos: onduladas, em "caixa" e em "picador de gelo". Cada tipo responde melhor a técnicas diferentes. A subcisão é indicada principalmente para as cicatrizes onduladas, presas por traves fibrosas, e costuma ser combinada, em sessões separadas, com lasers, microagulhamento ou bioestimuladores.'
-pubDate: 2026-10-31
-reviewedDate: 2026-10-31
+pubDate: 2026-10-24
+reviewedDate: 2026-10-24
 category: 'Pele'
 about: ['Cicatrizes de acne', 'Subcisão', 'CROSS com ácido tricloroacético', 'Acne']
 sources:
@@ -17,7 +17,7 @@ sources:
     url: 'https://doi.org/10.1007/s00266-026-06165-8'
   - label: 'Tao A et al. Injectable fillers for atrophic acne scars: a systematic review of mechanisms, evidence, and clinical algorithms. Clin Cosmet Investig Dermatol, 2026'
     url: 'https://doi.org/10.2147/CCID.S602580'
-status: rascunho
+status: aprovado
 ---
 
 A acne passou, mas as marcas ficaram. Para muita gente, as cicatrizes incomodam tanto quanto as espinhas incomodavam, e é comum ouvir no consultório que já foram feitos vários tratamentos sem a melhora esperada.
