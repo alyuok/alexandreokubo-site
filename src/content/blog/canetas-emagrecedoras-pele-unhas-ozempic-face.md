@@ -102,9 +102,10 @@ Quando a perda de volume já aconteceu, os procedimentos dermatológicos podem a
 
 - **Bioestimuladores de colágeno**, como o ácido poli-L-láctico, a hidroxiapatita de cálcio e a policaprolactona, que melhoram a firmeza de forma gradual
 - **Ácido hialurônico**, para repor volume em pontos específicos, como as maçãs do rosto e as têmporas
+- **Fios de PDO**, absorvíveis, para sustentação e estímulo de colágeno em casos selecionados de flacidez
 - **Tecnologias que estimulam o colágeno**, como lasers e microagulhamento, para a qualidade da pele
 
-O momento do tratamento faz diferença. Em geral, o ideal é planejar a reposição de volume quando o peso estiver próximo do estável, para não precisar refazer o tratamento a cada etapa do emagrecimento. Os estudos sobre esses tratamentos especificamente no "Ozempic face" ainda são limitados, e o plano é sempre individual. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
+O momento de cada tratamento faz diferença. Os bioestimuladores podem ser iniciados ainda durante o emagrecimento: como o colágeno se forma ao longo de meses, começar cedo ajuda a preservar a firmeza da pele enquanto o peso diminui. Já a reposição de volume com ácido hialurônico costuma ser planejada quando o peso estiver mais próximo do estável, para não precisar refazer o tratamento a cada etapa. Os estudos sobre esses tratamentos especificamente no "Ozempic face" ainda são limitados, e o plano é sempre individual. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
 
 ## Quando procurar um dermatologista
 
