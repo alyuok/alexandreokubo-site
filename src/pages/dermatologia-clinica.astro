@@ -1,5 +1,6 @@
 ---
 import Service from '../layouts/Service.astro';
+import Related from '../components/Related.astro';
 
 const groups = [
   {
@@ -57,4 +58,16 @@ const faq = [
   about={['Acne', 'Rosácea', 'Melasma', 'Dermatite atópica', 'Psoríase', 'Alopecia', 'Onicomicose', 'Melanoma']}
 >
   <p class="notice unhas">Micose de unha é uma das queixas que mais atendo. <a href="/micose-de-unha/">Veja como é o tratamento, incluindo o laser Lunula →</a></p>
+  <Related
+    items={[
+      { href: '/blog/tratamento-da-acne/', label: 'Tratamento da acne: do creme à isotretinoína' },
+      { href: '/blog/alimentacao-e-acne/', label: 'Alimentação e acne: o que os estudos mostram' },
+      { href: '/blog/melasma/', label: 'Melasma: por que as manchas voltam e como controlar' },
+      { href: '/blog/queda-de-cabelo-depois-de-estresse/', label: 'Queda de cabelo depois de estresse: o eflúvio telógeno' },
+      { href: '/blog/micose-de-unha-onicomicose/', label: 'Micose de unha: por que nem toda unha grossa é fungo' },
+      { href: '/blog/suplemento-cabelo-unha-proteina/', label: 'Suplemento para cabelo e unha funciona?' },
+      { href: '/blog/menopausa-e-pele/', label: 'Menopausa e pele: o que muda e o que pode ajudar' },
+      { href: '/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/', label: 'Canetas emagrecedoras: cabelo, unhas e pele' },
+    ]}
+  />
 </Service>

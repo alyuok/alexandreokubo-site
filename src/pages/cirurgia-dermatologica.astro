@@ -1,5 +1,6 @@
 ---
 import Service from '../layouts/Service.astro';
+import Related from '../components/Related.astro';
 
 const groups = [
   {
@@ -44,4 +45,12 @@ const faq = [
   groups={groups}
   faq={faq}
   about={['Nevo melanocítico', 'Cisto epidérmico', 'Lipoma', 'Ceratose seborreica', 'Xantelasma']}
-/>
+>
+  <Related
+    items={[
+      { href: '/unha-encravada/', label: 'Unha encravada: como é a cantoplastia no consultório' },
+      { href: '/blog/unha-encravada/', label: 'Unha encravada: o que fazer, o que evitar e quando operar' },
+      { href: '/blog/cicatrizes-de-acne-subcisao/', label: 'Cicatrizes de acne: tipos, tratamentos e subcisão' },
+    ]}
+  />
+</Service>

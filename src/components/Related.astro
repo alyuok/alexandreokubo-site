@@ -1,0 +1,19 @@
+---
+// Bloco "Leia também" das páginas de serviço: links para artigos do blog.
+interface Props {
+  items: { href: string; label: string }[];
+}
+const { items } = Astro.props;
+---
+<div class="related">
+  <h2 class="mt0">Leia também</h2>
+  <ul>
+    {items.map((it) => <li><a href={it.href}>{it.label}</a></li>)}
+  </ul>
+</div>
+
+<style>
+  .related { max-width: var(--text); margin-bottom: 48px; }
+  .related ul { padding-left: 1.2em; margin: 0; }
+  .related li { margin: 0.4em 0; }
+</style>

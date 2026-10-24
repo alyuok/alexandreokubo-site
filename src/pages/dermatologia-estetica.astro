@@ -1,5 +1,6 @@
 ---
 import Service from '../layouts/Service.astro';
+import Related from '../components/Related.astro';
 
 const groups = [
   {
@@ -69,19 +70,12 @@ const faq = [
   groups={groups}
   faq={faq}
 >
-  <div class="related">
-    <h2 class="mt0">Leia também</h2>
-    <ul>
-      <li><a href="/blog/melasma/">Melasma: por que as manchas voltam e como controlar</a></li>
-      <li><a href="/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/">Canetas emagrecedoras e o chamado "Ozempic face"</a></li>
-      <li><a href="/blog/cicatrizes-de-acne-subcisao/">Cicatrizes de acne: tipos, tratamentos e subcisão</a></li>
-      <li><a href="/blog/menopausa-e-pele/">Menopausa e pele: o que muda e o que pode ajudar</a></li>
-    </ul>
-  </div>
+  <Related
+    items={[
+      { href: '/blog/melasma/', label: 'Melasma: por que as manchas voltam e como controlar' },
+      { href: '/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/', label: 'Canetas emagrecedoras e o chamado "Ozempic face"' },
+      { href: '/blog/cicatrizes-de-acne-subcisao/', label: 'Cicatrizes de acne: tipos, tratamentos e subcisão' },
+      { href: '/blog/menopausa-e-pele/', label: 'Menopausa e pele: o que muda e o que pode ajudar' },
+    ]}
+  />
 </Service>
-
-<style>
-  .related { max-width: var(--text); margin-bottom: 48px; }
-  .related ul { padding-left: 1.2em; margin: 0; }
-  .related li { margin: 0.4em 0; }
-</style>
