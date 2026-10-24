@@ -33,7 +33,7 @@ sources:
     url: 'https://doi.org/10.1111/bjd.13408'
   - label: 'Lohani D, Marson JW, Baldwin HE. Rosacea in patients with skin of color: diagnosis and management. Am J Clin Dermatol, 2026'
     url: 'https://doi.org/10.1007/s40257-026-01066-7'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, minha pele é sensível. Fico vermelha com tudo." Muitas vezes, essa pele sensível tem nome: rosácea. É uma doença comum, que afeta cerca de 5% dos adultos, segundo uma análise de estudos de vários países, e que costuma levar anos até ser diagnosticada.
