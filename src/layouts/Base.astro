@@ -106,7 +106,11 @@ const year = new Date().getFullYear();
         <div>
           <p class="footer-name">{doctor.name}</p>
           <p>Dermatologista · {doctor.crm} · {doctor.rqe}<br />Membro da Sociedade Brasileira de Dermatologia</p>
-          <p><a href={doctor.instagram} rel="me noopener" target="_blank">Instagram @alexandreokubodermato</a></p>
+          <p class="footer-social">
+            {doctor.social.map((r, i) => (
+              <>{i > 0 && ' · '}<a href={r.url} rel="me noopener" target="_blank">{r.label}</a></>
+            ))}
+          </p>
         </div>
         {locations.map((l) => (
           <div>

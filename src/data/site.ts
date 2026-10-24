@@ -22,8 +22,19 @@ export const doctor = {
     'https://www.doctoralia.com.br/alexandre-okubo/dermatologista-especialista-em-medicina-estetica/santo-andre3',
     'https://www.linkedin.com/in/alexandre-okubo-dermato',
     'https://www.sbd.org.br/membro/?id=5500',
+    'https://www.youtube.com/@meudermatologista',
+    'https://www.tiktok.com/@meudermatologista',
+    'https://www.facebook.com/alexandre.okubo.dermato/',
   ],
   instagram: 'https://www.instagram.com/alexandreokubodermato/',
+  // Redes exibidas no rodapé (também entram no sameAs acima).
+  social: [
+    { label: 'Instagram', url: 'https://www.instagram.com/alexandreokubodermato/' },
+    { label: 'YouTube', url: 'https://www.youtube.com/@meudermatologista' },
+    { label: 'TikTok', url: 'https://www.tiktok.com/@meudermatologista' },
+    { label: 'Facebook', url: 'https://www.facebook.com/alexandre.okubo.dermato/' },
+    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/alexandre-okubo-dermato' },
+  ],
 };
 
 export const booking = {
