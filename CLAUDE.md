@@ -93,7 +93,7 @@ Capturas de tela: playwright com `executablePath: '/opt/pw-browsers/chromium'`, 
 - **Clínicas:** Prime (Vila Clementino, SP: clínica, cirúrgica e estética) e Clínica Portugal (Centro, Santo André: clínica, cirúrgica e estética; lá não há lasers nem luz intensa pulsada, mas há microagulhamento e plasma).
   Agenda: Doctoralia (URL em `site.ts`).
 - **Injetáveis:** toxina botulínica; ácido hialurônico; bioestimuladores (ácido poli-L-láctico, hidroxiapatita de cálcio, policaprolactona); fios de PDO.
-- **Aparelhos:** luz intensa pulsada; Nd:YAG 1064 nm (inclui o modo toning); Er:YAG ablativo; plasma; microagulhamento robótico;
+- **Aparelhos:** luz intensa pulsada; Nd:YAG 1064 nm (inclui o modo toning; não tem pulso longo); Er:YAG ablativo; plasma; microagulhamento robótico;
   depilação com laser de diodo; laser Lunula para micose de unha (lasers e luz intensa pulsada só na Prime).
 - **Melasma:** ácido tranexâmico oral quando indicado e com microagulhamento (drug delivery); Nd:YAG toning; peelings superficiais.
   Evita luz intensa pulsada no melasma.

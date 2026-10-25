@@ -13,7 +13,6 @@ Atualizado em 2026-10-25. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] GA4: marcar como eventos principais os cliques de WhatsApp, Doctoralia e telefone.
 
 ### Search Console
-- [ ] Pedir a indexação das URLs novas, começando por `/blog/rosacea/` e `/blog/psoriase-nas-unhas/`.
 - [ ] Conferir se os artigos e páginas recentes já aparecem no relatório de páginas.
 
 ### Redes
@@ -32,7 +31,6 @@ Atualizado em 2026-10-25. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ### Aguardando decisão dele
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
-- [ ] Psoríase nas unhas: o Nd:YAG da Prime tem modo de pulso longo? Se tiver e ele usar na psoríase ungueal, incluir no artigo.
 
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
