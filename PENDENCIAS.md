@@ -33,16 +33,12 @@ Atualizado em 2026-10-25. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 
-### Aguardando revisão dele
-- [ ] Rascunho "Probióticos ajudam na acne?" (`probioticos-e-acne`): aguardando respostas e o "aprovado".
-  Na publicação, entra no "Leia também" da dermatologia clínica, com o corte para 6 a 8 links feito com os dados do Search Console que ele vai enviar.
-
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
 - [ ] Atualizar o TikTok em `site.ts` (`sameAs` e `social`), quando ele confirmar a troca.
 - [ ] Conferir e atualizar a URL da Doctoralia em `site.ts` (`primaryUrl` e `sameAs`), quando ele corrigir a especialidade no perfil.
 
 ### Manutenção
-- [ ] O "Leia também" da dermatologia clínica chegou a 10 links. No próximo artigo, deixar só os 6 a 8 artigos mais procurados.
-  A escolha deve seguir os dados do Search Console.
+- [ ] O "Leia também" da dermatologia clínica chegou a 11 links (com probióticos e acne). Deixar só os 6 a 8 artigos mais procurados.
+  A escolha deve seguir os dados do Search Console, que ele vai enviar.
 - [ ] Atualizar `LAST_REVIEWED` em `site.ts` sempre que ele revisar o conteúdo institucional.

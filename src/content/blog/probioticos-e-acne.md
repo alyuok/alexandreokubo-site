@@ -27,7 +27,7 @@ sources:
     url: 'https://doi.org/10.1001/jamadermatol.2023.3949'
   - label: 'Fijan S. Microorganisms with claimed probiotic properties: an overview of recent literature. Int J Environ Res Public Health, 2014'
     url: 'https://doi.org/10.3390/ijerph110504745'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, li que a acne vem do intestino. Um probiótico resolve?" Ouço essa pergunta com frequência no consultório. O probiótico pode ajudar um pouco, em alguns casos, mas não resolve a acne sozinho. A resposta depende de qual probiótico, para quem e por quanto tempo.
