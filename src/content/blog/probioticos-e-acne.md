@@ -87,7 +87,13 @@ O cuidado maior é para quem tem a imunidade muito baixa, por doença ou por med
 
 ## Como uso na prática
 
-Na consulta, às vezes indico um probiótico como complemento do tratamento da acne, mas não como regra. A decisão é individual. Uso o mesmo raciocínio, em alguns casos, na dermatite atópica e na [rosácea](/blog/rosacea/).
+Na consulta, às vezes indico um probiótico como complemento do tratamento da acne, mas não como regra. As situações em que mais considero essa opção são:
+
+- **Junto do antibiótico oral:** é a situação com mais estudos, como os descritos acima.
+- **Quando há queixa intestinal:** se a pessoa também tem sintomas intestinais, avalio se o probiótico faz sentido no caso dela.
+- **Quando a isotretinoína não é uma opção:** para quem não quer ou não pode usar o medicamento, o probiótico pode entrar como mais um recurso, somado aos outros tratamentos.
+
+Uso o mesmo raciocínio, em alguns casos, na dermatite atópica e na [rosácea](/blog/rosacea/).
 
 O que os estudos permitem dizer é que o probiótico não substitui os tratamentos com melhor evidência: cremes e géis, antibióticos por tempo limitado, tratamentos hormonais e, quando indicada, a isotretinoína. Explico cada um deles no artigo sobre o [tratamento da acne](/blog/tratamento-da-acne/). Esperar meses só com um suplemento, enquanto a acne inflamada continua, aumenta o risco de [cicatrizes](/blog/cicatrizes-de-acne-subcisao/).
 
