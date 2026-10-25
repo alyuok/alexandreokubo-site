@@ -104,4 +104,4 @@ export const nav = [
 ];
 
 // Data da última revisão médica do conteúdo institucional.
-export const LAST_REVIEWED = '2026-10-21';
+export const LAST_REVIEWED = '2026-10-25';
