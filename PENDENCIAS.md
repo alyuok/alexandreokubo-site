@@ -32,9 +32,6 @@ Atualizado em 2026-10-25. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ### Aguardando decisão dele
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
-- [ ] Reescrever os dois últimos parágrafos da página Sobre, que têm o tom mais genérico do site:
-  "abordagem personalizada", "alinhado às necessidades", "mesma dedicação e rigor técnico" e o trio
-  "expertise clínica, atenção aos detalhes e cuidado integral". Proposta a ser mostrada a ele antes de publicar.
 
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
