@@ -27,7 +27,7 @@ sources:
     url: 'https://doi.org/10.1111/myc.13331'
   - label: 'Yaemsiri S et al. Growth rate of human fingernails and toenails in healthy American young adults. J Eur Acad Dermatol Venereol, 2010'
     url: 'https://doi.org/10.1111/j.1468-3083.2009.03426.x'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, já tratei essa unha como micose por meses e ela continua igual." É uma frase comum no consultório. No exame, às vezes encontro pequenos furinhos na superfície da unha, uma mancha amarelada que parece uma gota de óleo embaixo dela e, em alguns casos, sinais de psoríase no couro cabeludo ou nos cotovelos que a pessoa nunca tinha notado.
