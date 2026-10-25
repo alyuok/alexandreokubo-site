@@ -88,9 +88,9 @@ Primeiro, o mais importante: a psoríase é uma doença crônica. Não tem cura 
 
 A escolha do tratamento depende de quantas unhas estão afetadas, de qual parte da unha está comprometida e de a pessoa ter ou não psoríase importante na pele e nas articulações. De modo geral, as diretrizes separam os casos com poucas unhas dos casos com muitas unhas ou que não respondem.
 
-- **Poucas unhas afetadas**: o tratamento costuma ser local. Inclui medicamentos aplicados na unha e na pele ao redor, como corticoides e derivados da vitamina D, e, em casos selecionados, a injeção de corticoide na raiz da unha, feita no consultório.
-- **Muitas unhas, casos resistentes ou com pele e articulações comprometidas**: entram os tratamentos que agem no corpo todo. Há medicamentos orais, como metotrexato e acitretina, e os medicamentos biológicos, que bloqueiam etapas específicas da inflamação e têm bom resultado nas unhas. Esses tratamentos exigem prescrição e acompanhamento médico, com exames.
-- **Laser e outras tecnologias**: alguns estudos mostram melhora com laser, com resultados semelhantes aos dos tratamentos locais. É uma opção a mais em casos selecionados.
+- **Poucas unhas afetadas**: o tratamento costuma ser local. Prescrevo medicamentos aplicados na unha e na pele ao redor, como corticoides e derivados da vitamina D (calcipotriol). Em casos selecionados, faço a injeção de corticoide na raiz da unha, no próprio consultório.
+- **Muitas unhas, casos resistentes ou com pele e articulações comprometidas**: entram os tratamentos que agem no corpo todo. Prescrevo medicamentos orais, sobretudo o metotrexato, e os medicamentos biológicos, que bloqueiam etapas específicas da inflamação e têm bom resultado nas unhas. Esses tratamentos exigem acompanhamento com exames.
+- **Laser Lunula**: na Prime, uso o Lunula, um laser de baixa intensidade que não aquece a unha nem causa dor e não usa medicamentos. É uma opção a mais em casos selecionados, feita de forma isolada ou associada aos demais tratamentos.
 
 Cuidados simples ajudam em qualquer fase: manter as unhas curtas e evitar traumas e manipulação agressiva, porque o atrito e as pequenas lesões podem piorar a psoríase naquele ponto. Luvas para tarefas domésticas e hidratação das mãos também ajudam.
 
