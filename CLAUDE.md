@@ -89,6 +89,21 @@ Capturas de tela: playwright com `executablePath: '/opt/pw-browsers/chromium'`, 
   Prefira "observe" e o diário de gatilhos.
 - Links internos para artigos relacionados no meio do texto, com texto âncora descritivo.
 
+## Revisão anti-clichê (antes de mandar qualquer rascunho)
+Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA é a concentração, não uma palavra isolada.
+- **Corte sempre:** "é importante notar/ressaltar", "vale ressaltar/lembrar", "cabe destacar", "merece destaque",
+  "este é o ponto mais importante", "em suma/em resumo/em conclusão", "a boa notícia é", "o segredo está em", "a chave é".
+- **Troque o vocabulário inflado:** crucial/fundamental/essencial → importante, ou diga a consequência;
+  potencializar/alavancar → aumentar, usar; robusto → o dado (n, número de estudos); jornada → tratamento;
+  desempenha um papel em → o verbo direto ("dormir pouco aumenta…"); serve como/representa → é; oculto/silencioso → diga por que passa despercebido.
+- **Estruturas:** "não é X, é Y" no máximo uma vez por texto, e só se a confusão for real e comum (ex.: rosácea x acne).
+  Nada de "sem X, sem Y, apenas Z", pergunta retórica seguida de resposta ("O resultado? …") nem trio de adjetivos.
+- **Conectivos:** no máximo dois "além disso" ou "por outro lado" por artigo, e nunca abrindo parágrafos seguidos. Prefira "mas", "e", "por isso".
+- **Formatação:** negrito só no início dos itens de lista e, no meio do texto, no máximo um destaque por seção.
+  Use prosa quando houver causa e consequência. Varie o tamanho de frases, parágrafos e listas (nem toda lista tem 3 itens).
+- **Teste final:** apague a expressão suspeita. Se o sentido não muda, ela fica de fora.
+  O último parágrafo traz algo novo (quando procurar, próximo passo), nunca um resumo do início.
+
 ## O que ele já decidiu sobre a prática
 - **Clínicas:** Prime (Vila Clementino, SP: clínica, cirúrgica e estética) e Clínica Portugal (Centro, Santo André: clínica, cirúrgica e estética; lá não há lasers nem luz intensa pulsada, mas há microagulhamento e plasma).
   Agenda: Doctoralia (URL em `site.ts`).
