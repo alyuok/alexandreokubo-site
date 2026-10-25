@@ -30,7 +30,6 @@ Atualizado em 2026-10-25. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ## Do lado do Claude (próximas sessões)
 
 ### Aguardando decisão dele
-- [ ] Link do artigo de rosácea no "Leia também" da dermatologia estética. Está oferecido; falta ele responder "pode".
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 - [ ] Próximo artigo: "Psoríase nas unhas", que fecha a série sobre unhas com micose, unha encravada e canetas.
