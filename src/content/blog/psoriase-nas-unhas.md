@@ -30,6 +30,8 @@ sources:
 status: rascunho
 ---
 
+"Doutor, já tratei essa unha como micose por meses e ela continua igual." É uma frase comum no consultório. No exame, às vezes encontro pequenos furinhos na superfície da unha, uma mancha amarelada que parece uma gota de óleo embaixo dela e, em alguns casos, sinais de psoríase no couro cabeludo ou nos cotovelos que a pessoa nunca tinha notado.
+
 Psoríase nas unhas, também chamada de psoríase ungueal, é uma manifestação inflamatória que pode provocar pequenas depressões na superfície da unha, manchas amareladas, espessamento e descolamento. Essas alterações são frequentemente confundidas com micose, mas as doenças têm causas e tratamentos diferentes. Em algumas pessoas, a psoríase aparece somente nas unhas, mesmo sem lesões visíveis na pele.
 
 Outro aspecto importante é sua associação com a artrite psoriásica. Por isso, o exame dermatológico não deve se limitar à aparência das unhas.
@@ -150,7 +152,7 @@ A psoríase é uma doença crônica, sem cura definitiva atualmente, mas existem
 
 ### 1. Tratamentos locais
 
-Quando poucas unhas estão comprometidas, podem ser utilizados medicamentos tópicos, como corticosteroides e derivados da vitamina D, entre eles o calcipotriol.
+Quando poucas unhas estão comprometidas, prescrevo medicamentos tópicos, como corticosteroides e derivados da vitamina D, entre eles o calcipotriol.
 
 A escolha depende da localização da inflamação e das características das lesões.
 
@@ -158,17 +160,17 @@ Um dos desafios é conseguir que o medicamento alcance a estrutura ungueal afeta
 
 ### 2. Infiltração intralesional de corticosteroides
 
-Em determinadas situações, principalmente quando há comprometimento de poucas unhas e resposta insuficiente ao tratamento tópico, pode ser indicada a infiltração local de corticosteroide.
+Em determinadas situações, principalmente quando há comprometimento de poucas unhas e resposta insuficiente ao tratamento tópico, faço a infiltração local de corticosteroide no consultório.
 
-O medicamento é aplicado na região afetada para atuar diretamente sobre o processo inflamatório.
+Aplico o medicamento na região afetada para que ele atue diretamente sobre o processo inflamatório.
 
 A indicação exige avaliação cuidadosa, pois o procedimento pode provocar desconforto e apresentar efeitos adversos locais.
 
 ### 3. Tratamentos sistêmicos e medicamentos biológicos
 
-Quando a psoríase ungueal é extensa, resistente, provoca impacto importante na qualidade de vida ou está associada a manifestações relevantes na pele e nas articulações, podem ser considerados medicamentos sistêmicos.
+Quando a psoríase ungueal é extensa, resistente, provoca impacto importante na qualidade de vida ou está associada a manifestações relevantes na pele e nas articulações, considero os medicamentos sistêmicos.
 
-Entre as opções estão o metotrexato, outros medicamentos orais e os tratamentos biológicos.
+Prescrevo o metotrexato e os medicamentos biológicos. Há também outros medicamentos orais, indicados em situações específicas.
 
 Os medicamentos biológicos atuam em vias específicas da resposta inflamatória envolvida na psoríase e podem melhorar as manifestações ungueais.
 
@@ -176,19 +178,11 @@ A escolha depende das características de cada paciente, das doenças associadas
 
 Essas terapias exigem acompanhamento médico e, conforme o medicamento, avaliações laboratoriais periódicas.
 
-### 4. Laser Lunula e outras tecnologias
+### 4. Laser
 
-O uso de lasers nas doenças ungueais tem sido estudado como alternativa ou complemento a tratamentos convencionais.
+Alguns lasers, como o laser de corante pulsado (PDL), o Nd:YAG e o laser de CO₂ fracionado, foram estudados na psoríase ungueal, com resultados que sugerem benefício em situações específicas. Os estudos ainda têm limitações.
 
-Algumas pesquisas sobre psoríase ungueal avaliaram tecnologias como o laser de corante pulsado (PDL), o Nd:YAG e o laser de CO₂ fracionado, com resultados que sugerem possíveis benefícios em situações específicas.
-
-Entretanto, os estudos ainda apresentam limitações e não permitem recomendar indiscriminadamente qualquer tipo de laser para o tratamento da psoríase nas unhas.
-
-Na Prime Dermatologia, dispomos do Laser Lunula, equipamento de baixa intensidade que utiliza luz sem provocar aquecimento significativo da unha. A tecnologia é utilizada no cuidado de determinadas alterações ungueais, especialmente relacionadas à onicomicose.
-
-Para a psoríase ungueal especificamente, ainda não existem evidências clínicas suficientes que estabeleçam a eficácia do Lunula. Portanto, sua eventual utilização nesse contexto deve ser analisada individualmente, com esclarecimento sobre as limitações científicas, sem substituir os tratamentos convencionais indicados.
-
-É importante diferenciar os resultados encontrados em pesquisas com outros equipamentos dos resultados que podem ser esperados com o Laser Lunula.
+Na Prime Dermatologia, uso o Lunula, um laser de baixa intensidade que não aquece a unha, empregado sobretudo na micose de unha. Na psoríase ungueal, a evidência para esse aparelho ainda é insuficiente. Por isso, só o indico em casos selecionados, como complemento e nunca no lugar dos tratamentos convencionais, e explico essa limitação na consulta.
 
 ## Quanto tempo demora para a psoríase ungueal melhorar?
 
@@ -240,10 +234,6 @@ Atualmente, não existe cura definitiva para a psoríase. Entretanto, os tratame
 ### Quem tem psoríase nas unhas vai desenvolver artrite?
 
 Não necessariamente. A psoríase ungueal está associada a maior probabilidade de artrite psoriásica, mas muitas pessoas nunca desenvolvem comprometimento articular. Sintomas como dor, inchaço e rigidez devem ser investigados.
-
-### O Laser Lunula trata psoríase nas unhas?
-
-O Laser Lunula é uma tecnologia de baixa intensidade utilizada em determinadas condições ungueais. Apesar de existirem estudos sobre outros tipos de laser para psoríase nas unhas, a eficácia específica do Lunula nessa doença ainda não está estabelecida. Por isso, ele não deve ser considerado um substituto comprovado dos tratamentos convencionais.
 
 ### Quanto tempo leva para a unha voltar ao normal?
 
