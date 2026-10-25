@@ -74,7 +74,7 @@ Os padrões alimentares associados a menos acne são os mesmos que fazem bem à 
 
 ## Dieta não substitui tratamento
 
-Este é o ponto mais importante: ajustar a alimentação pode ajudar, mas não trata a acne sozinho. Os tratamentos com melhor evidência são os medicamentos tópicos e, nos casos moderados a graves, os orais, indicados pelo dermatologista. Esperar meses só com mudanças na dieta, enquanto a acne inflamada continua, aumenta o risco de [cicatrizes](/blog/cicatrizes-de-acne-subcisao/), que são muito mais difíceis de tratar do que a acne em si.
+Ajustar a alimentação pode ajudar, mas não trata a acne sozinho. Os tratamentos com melhor evidência são os medicamentos tópicos e, nos casos moderados a graves, os orais, indicados pelo dermatologista. Esperar meses só com mudanças na dieta, enquanto a acne inflamada continua, aumenta o risco de [cicatrizes](/blog/cicatrizes-de-acne-subcisao/), que são muito mais difíceis de tratar do que a acne em si.
 
 Também vale cuidado com dietas muito restritivas, principalmente em adolescentes. Elas podem levar a deficiências nutricionais e a uma relação ruim com a comida, sem garantia de melhora da pele.
 

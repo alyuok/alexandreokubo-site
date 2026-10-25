@@ -90,7 +90,7 @@ Quando uma deficiência é encontrada, ela deve ser corrigida, com dose e tempo 
 
 A unha da mão leva de seis a nove meses para se renovar por completo, e a do pé, mais de um ano. Por isso qualquer mudança na alimentação demora a aparecer nas unhas.
 
-Também vale lembrar que unha fraca nem sempre é falta de nutriente. Contato frequente com água e produtos de limpeza, removedores de esmalte e alongamentos estão entre as causas mais comuns. E unha grossa ou amarelada pode ser [micose de unha](/blog/micose-de-unha-onicomicose/), que precisa de outro tratamento.
+Unha fraca nem sempre é falta de nutriente. Contato frequente com água e produtos de limpeza, removedores de esmalte e alongamentos estão entre as causas mais comuns. E unha grossa ou amarelada pode ser [micose de unha](/blog/micose-de-unha-onicomicose/), que precisa de outro tratamento.
 
 ## Quando procurar um dermatologista
 

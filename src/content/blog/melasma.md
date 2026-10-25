@@ -75,7 +75,7 @@ A via oral não é indicada para todos. Pessoas com histórico de trombose ou co
 
 ## Procedimentos: peelings, microagulhamento e lasers
 
-Os procedimentos podem acelerar e potencializar o clareamento, mas no melasma exigem cuidado redobrado: um procedimento agressivo pode inflamar a pele e piorar as manchas.
+Os procedimentos podem acelerar e aumentar o clareamento, mas no melasma exigem cuidado redobrado: um procedimento agressivo pode inflamar a pele e piorar as manchas.
 
 - **Peelings superficiais**: ajudam a renovar a camada de pele com pigmento, como complemento aos cremes.
 - **Microagulhamento**: associado a clareadores ou ao ácido tranexâmico aplicado na pele, teve bons resultados em estudos. Na Prime, uso o microagulhamento robótico, que controla a profundidade e a distribuição das microperfurações.

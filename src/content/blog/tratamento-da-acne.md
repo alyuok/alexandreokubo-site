@@ -26,7 +26,7 @@ status: aprovado
 
 Muita gente chega ao consultório depois de anos tentando tratar a acne com sabonetes, receitas da internet e produtos indicados por amigos. Alguns ajudam um pouco, mas a acne volta. O motivo costuma ser o mesmo: o tratamento não era o adequado para aquele tipo de acne, ou foi interrompido antes de fazer efeito.
 
-A boa notícia é que a acne tem tratamentos com muita evidência científica. O segredo está em escolher o certo para cada caso e manter o tempo necessário.
+A acne tem tratamentos com muita evidência científica. Para funcionarem, é preciso escolher o certo para cada caso e manter pelo tempo necessário.
 
 ## Por que não vale esperar passar
 

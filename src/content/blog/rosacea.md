@@ -125,7 +125,7 @@ O que ajuda é uma rotina simples: sabonete suave, hidratante para pele sensíve
 
 ### Corticoide no rosto: o gatilho que mais engana
 
-Esse merece destaque. Pomadas e cremes com corticoide, muitas vezes usados por conta própria ou indicados para "alergia" no rosto, deixam a pele menos vermelha nos primeiros dias. Com o uso contínuo, porém, eles podem piorar a rosácea ou provocar um quadro parecido, com vermelhidão, vasinhos e bolinhas.
+Pomadas e cremes com corticoide, muitas vezes usados por conta própria ou indicados para "alergia" no rosto, deixam a pele menos vermelha nos primeiros dias. Com o uso contínuo, porém, eles podem piorar a rosácea ou provocar um quadro parecido, com vermelhidão, vasinhos e bolinhas.
 
 Ao suspender o corticoide, a pele costuma piorar de forma intensa por algumas semanas, o chamado efeito rebote, o que leva muita gente a voltar a usar. **Não use corticoide no rosto sem orientação, e não suspenda por conta própria se já estiver usando há muito tempo**: a retirada deve ser planejada com o dermatologista.
 
