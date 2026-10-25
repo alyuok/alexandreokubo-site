@@ -89,7 +89,7 @@ export const locations = [
     phone: '(11) 4438-6333',
     whatsapp: false,
     payment: 'Particular e alguns convênios (consulte a clínica)',
-    note: 'Dermatologia clínica e cirúrgica.',
+    note: 'Dermatologia clínica, cirúrgica e estética. Lasers e tecnologias, só na Prime.',
   },
 ];
 
