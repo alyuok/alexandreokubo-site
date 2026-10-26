@@ -31,6 +31,8 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ## Do lado do Claude (próximas sessões)
 
 ### Aguardando decisão dele
+- [ ] Artigo "Cigarro faz mal para a pele?" (`/blog/cigarro-e-pele/`): rascunho na prévia desde 2026-10-26.
+  Aguardando as respostas às perguntas sobre a prática dele e o "aprovado". Na publicação, acrescentar a pergunta sobre tabagismo no FAQ de `cirurgia-dermatologica.astro`.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 
