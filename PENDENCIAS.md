@@ -33,6 +33,8 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ## Do lado do Claude (próximas sessões)
 
 ### Aguardando decisão dele
+- [ ] Artigo "Cisto sebáceo" (`/blog/cisto-sebaceo/`): rascunho na prévia desde 2026-10-26. Aguardando respostas sobre a prática dele e o "aprovado".
+  Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26): ceratose seborreica, lipoma, xantelasma, toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 
