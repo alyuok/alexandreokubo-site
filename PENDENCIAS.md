@@ -1,12 +1,13 @@
 # Pendências
 
-Atualizado em 2026-10-25. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
 ### Doctoralia
 - [ ] Tirar "Especialista em Medicina Estética" do perfil. Medicina estética não é especialidade reconhecida e isso é risco no CFM.
-- [ ] Pedir a remoção ou a fusão do perfil duplicado "Alexandre Yuji Okubo". Esse perfil mostra concorrentes.
+- [ ] Perfil duplicado "Alexandre Yuji Okubo" (mostra concorrentes): remoção pedida em 2026-10-26, prazo de 48 h.
+  Conferir em 28/10 se o perfil saiu do ar. Se não saiu, cobrar a Doctoralia.
 - [ ] Depois de tirar "medicina estética" do perfil, avisar o Claude. A URL do botão de agendamento contém "especialista-em-medicina-estetica" e pode mudar.
 
 ### Google Ads e GA4
