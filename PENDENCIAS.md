@@ -17,7 +17,6 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] GA4: marcar como eventos principais os cliques de WhatsApp, Doctoralia e telefone.
 
 ### Search Console
-- [ ] Pedir a indexação de `https://alexandreokubo.com.br/retirada-de-cisto-sebaceo/` (landing publicada em 2026-10-26).
 - [ ] Conferir se os artigos e páginas recentes já aparecem no relatório de páginas.
 
 ### Redes
