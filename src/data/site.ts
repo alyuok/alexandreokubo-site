@@ -19,7 +19,7 @@ export const doctor = {
   memberships: ['Sociedade Brasileira de Dermatologia (SBD)'],
   sameAs: [
     'https://www.instagram.com/alexandreokubodermato/',
-    'https://www.doctoralia.com.br/alexandre-okubo/dermatologista-especialista-em-medicina-estetica/santo-andre3',
+    'https://www.doctoralia.com.br/alexandre-okubo/dermatologista-especialista-em-medicina-estetica/sao-paulo',
     'https://www.linkedin.com/in/alexandre-okubo-dermato',
     'https://www.sbd.org.br/membro/?id=5500',
     'https://www.youtube.com/@alexandreokubodermato',
@@ -39,7 +39,7 @@ export const doctor = {
 
 export const booking = {
   // Agenda única: Doctoralia. Cada clínica também agenda pelo próprio telefone.
-  primaryUrl: 'https://www.doctoralia.com.br/alexandre-okubo/dermatologista-especialista-em-medicina-estetica/santo-andre3',
+  primaryUrl: 'https://www.doctoralia.com.br/alexandre-okubo/dermatologista-especialista-em-medicina-estetica/sao-paulo',
   primaryLabel: 'Agende sua avaliação dermatológica',
 };
 

@@ -39,6 +39,7 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
 - [ ] Atualizar o TikTok em `site.ts` (`sameAs` e `social`), quando ele confirmar a troca.
 - [ ] Conferir e atualizar a URL da Doctoralia em `site.ts` (`primaryUrl` e `sameAs`), quando ele corrigir a especialidade no perfil.
+  Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
 
 ### Manutenção
 - [ ] O "Leia também" da dermatologia clínica chegou a 11 links (com probióticos e acne). Deixar só os 6 a 8 artigos mais procurados.
