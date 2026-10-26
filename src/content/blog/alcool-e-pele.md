@@ -32,8 +32,6 @@ status: rascunho
 
 "Doutor, é só tomar uma taça de vinho que o meu rosto fica vermelho. É alergia?" O rosto vermelho depois de beber tem mais de uma explicação. Para saber qual é a sua, ajuda observar quando a vermelhidão aparece, quanto tempo dura e se ela surge também sem bebida.
 
-Aqui falo das bebidas. O álcool dos cremes e cosméticos é outro assunto.
-
 ## Por que o rosto fica vermelho quando você bebe
 
 O corpo transforma o álcool em uma substância chamada acetaldeído e, em seguida, elimina o acetaldeído com a ajuda de uma enzima, a ALDH2. Algumas pessoas herdam uma versão dessa enzima que funciona pouco. O acetaldeído se acumula e provoca vermelhidão no rosto e coração acelerado, mesmo com pouca bebida.
