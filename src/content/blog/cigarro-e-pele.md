@@ -80,7 +80,7 @@ A psoríase é uma doença inflamatória crônica, sem cura definitiva, mas cont
 
 Uma metanálise de 2026 reuniu 30 estudos observacionais, com mais de 25 milhões de pessoas. Fumar se associou a um risco cerca de 67% maior de ter psoríase, e o risco subia com a quantidade de cigarros. Ex-fumantes ainda tinham risco cerca de 38% maior que quem nunca fumou.
 
-Uma metanálise anterior, de 2014, mostrou o outro lado da relação: quem já tem psoríase fuma mais do que quem não tem. Por isso, na psoríase, o cigarro entra na conversa como um dos fatores que dá para mudar.
+Uma metanálise anterior, de 2014, mostrou o outro lado da relação: quem já tem psoríase fuma mais do que quem não tem. Por isso, nos meus pacientes com psoríase, oriento parar de fumar como parte do tratamento.
 
 ## Hidradenite supurativa
 
@@ -88,7 +88,7 @@ A hidradenite supurativa causa nódulos dolorosos e abscessos que voltam sempre 
 
 Um estudo coreano acompanhou mais de 6 milhões de pessoas. Quem parou de fumar teve um risco cerca de 32% menor de desenvolver hidradenite do que quem continuou fumando. O benefício não foi imediato: a diferença começou a aparecer de 3 a 4 anos depois de parar. Quem voltou a fumar teve o mesmo risco de quem nunca parou.
 
-É um estudo observacional, que mostra associação. Mas é um dos poucos que olharam o efeito de parar de fumar em uma doença de pele.
+É um estudo observacional, que mostra associação. Mas é um dos poucos que olharam o efeito de parar de fumar em uma doença de pele. Nos meus pacientes com hidradenite, parar de fumar faz parte da orientação.
 
 ## Câncer de pele
 
@@ -114,7 +114,7 @@ Uma metanálise de 2025 mostrou que parar de fumar pelo menos 4 semanas antes da
 
 Esses números vêm sobretudo de cirurgias maiores, feitas em hospital. Para cirurgias de pele, o dado mais próximo vem de um estudo americano com 1.008 pacientes que precisaram de retalhos ou enxertos depois da retirada de um câncer de pele. Fumantes atuais e ex-fumantes tiveram mais complicações logo depois da cirurgia, como infecção, abertura dos pontos e sangramento. O resultado final da cicatriz não foi diferente.
 
-Para procedimentos menores, como a retirada de uma pinta ou de um cisto, não há estudos com o mesmo nível de detalhe. Se você fuma e vai fazer uma [cirurgia dermatológica](/cirurgia-dermatologica/), conte isso na consulta. A orientação depende do procedimento. Não adie sozinho uma cirurgia indicada, como a retirada de uma lesão suspeita.
+Para procedimentos menores, como a retirada de uma pinta ou de um cisto, não há estudos com o mesmo nível de detalhe. Se você fuma e vai fazer uma [cirurgia dermatológica](/cirurgia-dermatologica/), conte isso na consulta. Oriento, no mínimo, reduzir o cigarro 1 semana antes e 2 semanas depois do procedimento. Se você conseguir parar, e por mais tempo, melhor: nos estudos, o benefício aparece com pelo menos 4 semanas sem fumar. Não adie sozinho uma cirurgia indicada, como a retirada de uma lesão suspeita.
 
 ## Queda de cabelo
 
@@ -154,6 +154,6 @@ Atribuir tudo ao cigarro pode atrasar um diagnóstico:
 
 Procure avaliação se você fuma e tem uma lesão nova ou que mudou de aparência, uma ferida que não cicatriza, nódulos dolorosos que voltam nas axilas ou na virilha, placas avermelhadas com descamação ou queda de cabelo. Se vai fazer uma cirurgia de pele, conte que fuma já na primeira consulta, para que o preparo leve isso em conta.
 
-Para parar de fumar, existem tratamentos com medicamentos e com acompanhamento. Converse com o seu médico de confiança.
+Para parar de fumar, existem tratamentos com medicamentos e com acompanhamento. Quando o paciente quer ajuda para parar, encaminho para o clínico geral ou para o pneumologista.
 
 Veja como avalio e trato as doenças de pele na [dermatologia clínica](/dermatologia-clinica/).
