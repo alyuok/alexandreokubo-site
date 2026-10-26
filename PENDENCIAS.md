@@ -15,6 +15,7 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] GA4: marcar como eventos principais os cliques de WhatsApp, Doctoralia e telefone.
 
 ### Search Console
+- [ ] Pedir a indexação de `https://alexandreokubo.com.br/blog/cigarro-e-pele/` (publicado em 2026-10-26).
 - [ ] Conferir se os artigos e páginas recentes já aparecem no relatório de páginas.
 
 ### Redes
@@ -31,8 +32,6 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ## Do lado do Claude (próximas sessões)
 
 ### Aguardando decisão dele
-- [ ] Artigo "Cigarro faz mal para a pele?" (`/blog/cigarro-e-pele/`): rascunho na prévia desde 2026-10-26.
-  Aguardando as respostas às perguntas sobre a prática dele e o "aprovado". Na publicação, acrescentar a pergunta sobre tabagismo no FAQ de `cirurgia-dermatologica.astro`.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 

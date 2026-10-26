@@ -41,7 +41,7 @@ sources:
     url: 'https://doi.org/10.1186/s12889-026-26258-y'
   - label: 'Dai YX et al. Cigarette smoking, alcohol consumption, and risk of alopecia areata: a population-based cohort study in Taiwan. Am J Clin Dermatol, 2020'
     url: 'https://doi.org/10.1007/s40257-020-00547-7'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, eu fumo há vinte anos. Ainda adianta parar, pela pele?" Quem me pergunta isso já sabe que o cigarro faz mal. Quer saber o que ele faz na pele e se parar agora muda alguma coisa.
