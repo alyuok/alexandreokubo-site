@@ -6,6 +6,7 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ### Doctoralia
 - [ ] Tirar "Especialista em Medicina Estética" do perfil. Medicina estética não é especialidade reconhecida e isso é risco no CFM.
+  Em 2026-10-26 ele verificou que o painel não permite a remoção. Próximo passo: pedir ao suporte da Doctoralia, por escrito, citando a Resolução CFM 2.336/2023.
 - [ ] Perfil duplicado "Alexandre Yuji Okubo" (mostra concorrentes): remoção pedida em 2026-10-26, prazo de 48 h.
   Conferir em 28/10 se o perfil saiu do ar. Se não saiu, cobrar a Doctoralia.
 - [ ] Depois de tirar "medicina estética" do perfil, avisar o Claude. A URL do botão de agendamento contém "especialista-em-medicina-estetica" e pode mudar.
