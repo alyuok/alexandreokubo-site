@@ -27,7 +27,7 @@ sources:
     url: 'https://doi.org/10.1016/j.arteri.2021.02.006'
   - label: 'Jain NP et al. The effects of alcohol and illicit drug use on the skin. Clin Dermatol, 2021'
     url: 'https://doi.org/10.1016/j.clindermatol.2021.05.005'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, é só tomar uma taça de vinho que o meu rosto fica vermelho. É alergia?" O rosto vermelho depois de beber tem mais de uma explicação. Para saber qual é a sua, ajuda observar quando a vermelhidão aparece, quanto tempo dura e se ela surge também sem bebida.

@@ -16,7 +16,7 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] GA4: marcar como eventos principais os cliques de WhatsApp, Doctoralia e telefone.
 
 ### Search Console
-- [ ] Pedir a indexação de `https://alexandreokubo.com.br/blog/cigarro-e-pele/` (publicado em 2026-10-26).
+- [ ] Pedir a indexação de `https://alexandreokubo.com.br/blog/cigarro-e-pele/` e `https://alexandreokubo.com.br/blog/alcool-e-pele/` (publicados em 2026-10-26).
 - [ ] Conferir se os artigos e páginas recentes já aparecem no relatório de páginas.
 
 ### Redes
@@ -33,8 +33,6 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ## Do lado do Claude (próximas sessões)
 
 ### Aguardando decisão dele
-- [ ] Artigo "Álcool faz mal para a pele?" (`/blog/alcool-e-pele/`): rascunho na prévia desde 2026-10-26. Aguardando o "aprovado".
-  Na publicação, acrescentar um link para ele na seção "Álcool" do artigo de rosácea.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 

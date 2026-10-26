@@ -97,7 +97,7 @@ Um grande estudo americano, com mais de 82 mil mulheres acompanhadas por 14 anos
 
 ### Álcool
 
-No mesmo estudo americano, quanto maior o consumo de álcool, maior foi o risco de desenvolver rosácea, principalmente com vinho branco e destilados. O álcool também é um gatilho frequente de crises de vermelhidão, e o vinho tinto é um dos mais citados pelos pacientes. Reduzir costuma ajudar.
+No mesmo estudo americano, quanto maior o consumo de álcool, maior foi o risco de desenvolver rosácea, principalmente com vinho branco e destilados. O álcool também é um gatilho frequente de crises de vermelhidão, e o vinho tinto é um dos mais citados pelos pacientes. Reduzir costuma ajudar. Explico a diferença entre a crise de rosácea e o rubor que algumas pessoas têm ao beber no artigo sobre [álcool e pele](/blog/alcool-e-pele/).
 
 ### Comidas apimentadas e outros alimentos
 
