@@ -33,6 +33,8 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ## Do lado do Claude (próximas sessões)
 
 ### Aguardando decisão dele
+- [ ] Artigo "Álcool faz mal para a pele?" (`/blog/alcool-e-pele/`): rascunho na prévia desde 2026-10-26. Aguardando o "aprovado".
+  Na publicação, acrescentar um link para ele na seção "Álcool" do artigo de rosácea.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 
