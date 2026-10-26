@@ -23,7 +23,7 @@ sources:
     url: 'https://doi.org/10.3109/09546634.2015.1054779'
   - label: 'Kim JY et al. Squamous cell carcinoma arising from epidermal cyst: a case series of 9 patients with a literature review. Ann Plast Surg, 2024'
     url: 'https://doi.org/10.1097/SAP.0000000000003880'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, tenho essa bolinha nas costas há anos. Às vezes sai uma massa branca com cheiro ruim. Agora ficou vermelha e dói." Essa história costuma ser a de um cisto sebáceo.
