@@ -109,6 +109,6 @@ Outras lesões podem parecer um cisto:
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se o cisto inflamou, se já inflamou antes e voltou, se cresceu rápido, se ficou endurecido ou se incomoda. Procure atendimento no mesmo dia se houver febre, se a vermelhidão estiver se espalhando pela pele em volta ou se a dor for intensa.
+Procure avaliação se o cisto inflamou, se já inflamou antes e voltou, se cresceu rápido, se ficou endurecido ou se incomoda. Procure atendimento no mesmo dia se houver febre, se a vermelhidão estiver se espalhando pela pele em volta ou se a dor for intensa. Para agendar a avaliação, veja como é a [retirada de cisto sebáceo](/retirada-de-cisto-sebaceo/) no consultório.
 
 Veja como é feita a retirada de cistos e outras lesões na [cirurgia dermatológica](/cirurgia-dermatologica/).

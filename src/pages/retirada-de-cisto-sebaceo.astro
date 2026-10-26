@@ -1,0 +1,180 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import heroPhoto from '../assets/consulta-dr-alexandre-okubo.webp';
+import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
+import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
+
+// Página de destino do tráfego pago (retirada de cisto sebáceo). Atendimento nas duas clínicas.
+const prime = locations.find((l) => l.slug === 'prime-dermatologia')!;
+const url = `${SITE_URL}/retirada-de-cisto-sebaceo/`;
+const title = 'Retirada de cisto sebáceo em São Paulo e Santo André';
+const description =
+  'Retirada de cisto sebáceo com dermatologista: avaliação, conduta no cisto inflamado e cirurgia com anestesia local no consultório, na Vila Clementino (SP) e em Santo André.';
+
+const steps = [
+  { t: 'Avaliação', d: 'Exame da bolinha para confirmar que é um cisto e diferenciá-lo de lipoma, furúnculo, hidradenite e outras lesões.' },
+  { t: 'Cisto inflamado', d: 'Quando o cisto está vermelho e dolorido, decido caso a caso entre drenar, tratar a inflamação e operar depois, ou operar já.' },
+  { t: 'Retirada', d: 'Cirurgia com anestesia local, no consultório, para tirar a cápsula inteira. A técnica depende do tamanho, do local e da história do cisto.' },
+  { t: 'Acompanhamento', d: 'Orientação sobre o curativo, retirada dos pontos quando necessário e resultado do exame anatomopatológico.' },
+];
+
+const faq = [
+  {
+    q: 'Por que o cisto volta depois de espremido?',
+    a: 'Espremer tira só o conteúdo. A cápsula, que é a parede do cisto, continua no lugar e volta a produzir queratina. Por isso o tratamento definitivo é a retirada da cápsula inteira.',
+  },
+  {
+    q: 'A retirada dói?',
+    a: 'É feita com anestesia local, aplicada no ponto do cisto. Depois que o efeito passa, pode haver desconforto, que costuma ser controlado com as medicações orientadas na consulta.',
+  },
+  {
+    q: 'Fica cicatriz?',
+    a: 'Toda retirada cirúrgica deixa alguma cicatriz. O planejamento busca deixá-la o mais discreta possível, e o resultado depende também da região do corpo e da cicatrização de cada pessoa.',
+  },
+  {
+    q: 'Dá para operar o cisto inflamado?',
+    a: 'Depende do caso. Com a inflamação, a cápsula fica frágil e a retirada completa é mais difícil. A decisão entre operar já ou tratar a inflamação primeiro é feita no exame.',
+  },
+  {
+    q: 'O cisto vai para exame?',
+    a: 'Em geral, sim. A cápsula retirada é enviada para exame anatomopatológico, que confirma o diagnóstico ao microscópio.',
+  },
+  {
+    q: 'Como é a recuperação?',
+    a: 'Na maioria dos casos, dá para voltar às atividades no mesmo dia ou no seguinte, com cuidados com o curativo. Quando há pontos, eles são retirados depois de 7 a 14 dias, conforme o local.',
+  },
+];
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Retirada de cisto sebáceo', href: '/retirada-de-cisto-sebaceo/' }]}
+  schema={[
+    medicalPageSchema({ url, name: title, description, about: ['Cisto epidérmico', 'Cisto sebáceo', 'Cisto triquilemal'] }),
+    {
+      '@type': 'MedicalProcedure',
+      name: 'Retirada de cisto sebáceo (exérese de cisto epidérmico)',
+      alternateName: ['Exérese de cisto epidérmico', 'Cirurgia de cisto sebáceo'],
+      procedureType: 'https://schema.org/SurgicalProcedure',
+      howPerformed: 'Com anestesia local, retirada da cápsula inteira do cisto, por incisão em fuso ou incisão pequena, conforme o tamanho, o local e a história do cisto.',
+      provider: locations.map((l) => ({ '@id': clinicId(l.slug) })),
+    },
+    faqSchema(faq),
+  ]}
+>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Cirurgia dermatológica · Vila Clementino (SP) e Santo André</p>
+        <h1>Retirada de cisto sebáceo, <em>no consultório e com anestesia local</em></h1>
+        <p class="lead">
+          Uma bolinha sob a pele que às vezes solta uma massa branca, inflama e volta? Espremer esvazia o cisto, mas
+          deixa a cápsula no lugar. Na avaliação com dermatologista, defino o momento e a técnica para retirar o
+          cisto inteiro.
+        </p>
+        <div class="actions">
+          <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_cisto">Agendar pelo WhatsApp</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_cisto">Agendar pelo Doctoralia</a>
+        </div>
+        <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
+      </div>
+      <figure class="framed-photo">
+        <Image
+          src={heroPhoto}
+          alt="Dr. Alexandre Okubo, dermatologista, durante consulta no consultório"
+          widths={[400, 640, 960]}
+          sizes="(min-width: 860px) 40vw, 100vw"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <p class="eyebrow">Como funciona</p>
+      <h2 class="mt0">Da avaliação ao acompanhamento</h2>
+      <ol class="grid grid--2 steps">
+        {steps.map((s, i) => (
+          <li class="card">
+            <span class="num">{i + 1}</span>
+            <h3>{s.t}</h3>
+            <p>{s.d}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap grid grid--2">
+      <div>
+        <p class="eyebrow">A cirurgia</p>
+        <h2 class="mt0">O objetivo é tirar a cápsula inteira</h2>
+      </div>
+      <div class="prose">
+        <p>
+          O cisto sebáceo é uma pequena bolsa sob a pele, com uma parede própria, a cápsula, que produz queratina. Se
+          um pedaço da cápsula fica, o cisto pode voltar. Por isso, na retirada, o foco é removê-la por completo.
+        </p>
+        <p>
+          O procedimento é feito no consultório, com anestesia local, na Prime Dermatologia e na Clínica Portugal.
+          Cistos pequenos podem ser retirados por um corte de poucos milímetros. Cistos maiores ou que já inflamaram
+          costumam pedir um corte em fuso e pontos.
+        </p>
+        <p><a href="/blog/cisto-sebaceo/">Entenda o cisto sebáceo em detalhes →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="wrap">
+      <p class="eyebrow">Onde</p>
+      <h2 class="mt0">Atendimento em São Paulo e em Santo André</h2>
+      <div class="grid grid--2 where">
+        {locations.map((l) => (
+          <div>
+            <h3>{l.name}</h3>
+            <p>{l.street}, {l.district}<br />{l.city} – {l.region}, {l.postalCode}<br />{l.payment}</p>
+            {l.whatsapp ? (
+              <a class="btn cta-btn" href={waLink(l.phone)} rel="noopener" target="_blank" data-event="whatsapp_cisto">Agendar pelo WhatsApp</a>
+            ) : (
+              <a class="btn cta-btn" href={`tel:${telIntl(l.phone)}`} data-event="telefone_cisto">Ligar: {l.phone}</a>
+            )}
+          </div>
+        ))}
+      </div>
+      <p class="small">Também é possível agendar pelo <a href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_cisto">Doctoralia</a>.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: clamp(40px, 7vw, 88px) 0; }
+  .hero-grid { display: grid; gap: 40px; align-items: center; }
+  @media (min-width: 860px) { .hero-grid { grid-template-columns: 1.3fr 1fr; gap: 64px; } }
+  .hero-grid .framed-photo :global(img) { object-position: 50% 28%; }
+  .lead { font-size: 1.15rem; color: var(--muted); max-width: 52ch; }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 20px; }
+  .mt0 { margin-top: 0; }
+  .steps { list-style: none; padding: 0; margin: 0; }
+  @media (min-width: 600px) { .steps { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1000px) { .steps { grid-template-columns: repeat(4, 1fr); } }
+  .num { font-family: var(--serif); font-size: 2rem; color: var(--gold-text); line-height: 1; }
+  .steps h3 { margin-top: 0.4em; }
+  .where { margin-top: 24px; }
+  .where h3 { color: var(--sand); margin-top: 0; }
+  .where p { color: #d9d3c8; }
+  .cta-btn { background: var(--gold); border-color: var(--gold); color: var(--graphite); }
+  .cta-btn:hover { background: transparent; color: var(--gold); }
+  .small { font-size: 0.9rem; color: #d9d3c8; margin-top: 32px; }
+</style>
