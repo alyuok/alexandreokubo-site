@@ -43,13 +43,13 @@ Por isso, o nome mais correto é cisto epidérmico. "Cisto sebáceo" é o nome p
 
 ### No couro cabeludo
 
-No couro cabeludo, o cisto mais comum é de outro tipo, o cisto triquilemal (ou pilar), que nasce da raiz do fio. Ele costuma ser mais liso e mais firme, sem o ponto central. Uma revisão sobre lesões do couro cabeludo aponta que os cistos somam mais da metade das lesões benignas dessa região. O tratamento é o mesmo: retirada da cápsula, quando incomoda.
+No couro cabeludo, o cisto mais comum é de outro tipo, o cisto triquilemal (ou pilar), que nasce da raiz do fio. Ele costuma ser mais liso e mais firme, sem o ponto central, e é comum aparecer mais de um, em pessoas da mesma família. Uma revisão sobre lesões do couro cabeludo aponta que os cistos somam mais da metade das lesões benignas dessa região. O tratamento é o mesmo: retirada da cápsula, quando incomoda.
 
 ## Por que o cisto inflama
 
 O mecanismo ainda é discutido. A explicação mais aceita é que a parede se rompe sob a pele, por um aperto, uma batida ou o atrito da roupa. A queratina vaza para os tecidos em volta, e o corpo reage a ela como reage a um corpo estranho, com inflamação intensa.
 
-Essa inflamação parece infecção, mas nem sempre é. Em um estudo com 76 cistos inflamados sem febre nem outros sintomas no corpo, quase metade (47%) não teve crescimento de bactérias causadoras de doença na cultura. Mesmo assim, em uma pesquisa com médicos, 84% dos clínicos gerais e 94% dos dermatologistas disseram que receitariam antibiótico para um cisto inflamado. O antibiótico tem lugar quando há sinais de infecção de verdade, e a decisão é feita no exame.
+Por fora, a inflamação se parece com uma infecção. Em um estudo com 76 cistos inflamados sem febre nem outros sintomas no corpo, quase metade (47%) não teve crescimento de bactérias causadoras de doença na cultura. Mesmo assim, em uma pesquisa com médicos, 84% dos clínicos gerais e 94% dos dermatologistas disseram que receitariam antibiótico para um cisto inflamado. Quando o exame mostra sinais de infecção, o antibiótico entra no tratamento.
 
 ## Por que não espremer
 
@@ -82,18 +82,20 @@ A retirada é feita em consultório, com anestesia local. O objetivo é tirar a 
 
 Existem duas formas principais:
 
-- **Retirada completa com bisturi:** um corte em forma de fuso sobre o cisto, retirada da bolsa inteira e pontos. É a forma mais usada em cistos maiores ou que já inflamaram.
+- **Retirada completa com bisturi:** um corte em forma de fuso sobre o cisto, retirada da bolsa inteira e pontos. Costuma ser a escolha para cistos maiores ou que já inflamaram.
 - **Retirada por incisão pequena:** um corte de poucos milímetros, por onde o conteúdo e depois a cápsula são retirados. Deixa uma cicatriz menor, mas funciona melhor em cistos pequenos e que nunca inflamaram.
 
-A escolha depende do tamanho, do local e da história do cisto.
+Escolho a técnica de acordo com o tamanho, o local e a história de cada cisto. Em geral, envio a cápsula retirada para exame anatomopatológico, que confirma o diagnóstico ao microscópio.
+
+Faço a retirada nas duas clínicas: na Prime Dermatologia e Saúde Emocional, na Vila Clementino, em São Paulo, e na Clínica Portugal, em Santo André.
 
 ### E se o cisto estiver inflamado?
 
-Com o cisto inflamado, a cápsula fica frágil e se desfaz, o que dificulta a retirada completa. A conduta mais comum é tratar a inflamação primeiro, às vezes com uma drenagem, e operar depois que ela passa. Um estudo chinês com 351 pacientes comparou essa conduta com a retirada imediata do cisto inflamado, em casos selecionados. A retirada imediata reduziu o tempo de antibiótico, as complicações e o custo. A escolha é feita no exame, caso a caso.
+Com o cisto inflamado, a cápsula fica frágil e se desfaz, o que dificulta a retirada completa. A conduta tradicional é tratar a inflamação primeiro, às vezes com uma drenagem, e operar depois que ela passa. Um estudo chinês com 351 pacientes comparou essa conduta com a retirada imediata do cisto inflamado, em casos selecionados. A retirada imediata reduziu o tempo de antibiótico, as complicações e o custo. Decido caso a caso, no exame, entre drenar, tratar a inflamação e operar depois, ou operar já.
 
 ### Depois da retirada
 
-Os cuidados são com o curativo e, quando há pontos, com a retirada deles depois de 7 a 14 dias, conforme o local. Em geral, é possível voltar às atividades no mesmo dia ou no seguinte. Se você fuma, conte na consulta: o cigarro está associado a mais complicações na cicatrização, como explico no artigo sobre [cigarro e pele](/blog/cigarro-e-pele/).
+Os cuidados são com o curativo e, quando há pontos, com a retirada deles depois de 7 a 14 dias, conforme o local. Na maioria dos casos, dá para voltar às atividades no mesmo dia ou no seguinte. Se você fuma, conte na consulta: o cigarro está associado a mais complicações na cicatrização, como explico no artigo sobre [cigarro e pele](/blog/cigarro-e-pele/).
 
 ## Nem toda bolinha sob a pele é cisto sebáceo
 
