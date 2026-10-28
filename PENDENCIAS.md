@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-10-28. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -28,11 +28,14 @@ Atualizado em 2026-10-26. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ### Cadastros
 - [ ] Confirmar no CREMESP o cargo registrado na Prime (diretor clínico ou técnico).
-- [ ] Conferir se o Perfil da Empresa no Google da Clínica Portugal usa o bairro "Centro", como o site e a Doctoralia.
+- [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
+- [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
 
 ## Do lado do Claude (próximas sessões)
 
 ### Aguardando decisão dele
+- [ ] Bloco "Avaliações de pacientes" na página Sobre: links para Doctoralia e Google, sem copiar avaliações e sem schema `AggregateRating`/`Review`.
+  Falta decidir: só links ou nota com data (Doctoralia em 2026-10-28: 5 de 5, 228 opiniões). Incluir os perfis do Google em `sameAs`.
 - [ ] Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26): ceratose seborreica, lipoma, xantelasma, toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
