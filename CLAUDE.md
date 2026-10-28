@@ -117,6 +117,11 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
   As técnicas combinadas são feitas em sessões separadas.
 - **Unha encravada:** cantoplastia com matricectomia cirúrgica, com anestesia local, nas duas clínicas. Não usa fenol (proibido no Brasil).
   A recuperação varia caso a caso, então não cite prazo.
+- **Xantelasma e siringoma:** eletrocoagulação e plasma (siringoma nas duas clínicas).
+- **Verrugas:** crioterapia, eletrocoagulação e plasma. Atende verruga plantar e genital.
+- **Pintas:** retira por raspagem (shaving) ou por excisão; faz dermatoscopia de cada lesão, sem mapeamento digital.
+  Nem toda pinta vai para exame: escreva "quando indicado".
+- **Cistos e lipomas:** retira no consultório até 5 a 7 cm; os maiores, encaminha para cirurgia plástica.
 - **Canetas emagrecedoras:** começa o bioestimulador ainda durante o emagrecimento; usa fios de PDO.
   Ácido hialurônico quando o peso estiver mais estável.
 - **Rosácea:** usa sobretudo luz intensa pulsada e Nd:YAG em alguns casos; isotretinoína em dose baixa nos refratários.
@@ -127,6 +132,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Proteína:** cite a meta de ingestão e as fontes alimentares. Não há nutricionista parceiro, então não cite um.
 - **Cargo:** diretor clínico (não técnico).
 - **Redes:** o handle é alexandreokubodermato. O TikTok é @alexandreokubo.dermato até a troca (ver PENDENCIAS.md).
+  Não filma procedimentos. Prioridades de captação (2026-10-28): laser para micose de unha, verrugas e pintas, cistos e lipomas, xantelasma e siringoma.
 
 ## Medição
 GA4 `G-PYB8EG1D9J`, Google Ads `AW-1066674224`, conversões em `analytics.adsConversions` (`site.ts`).
