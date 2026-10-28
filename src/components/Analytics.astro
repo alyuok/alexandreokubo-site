@@ -42,7 +42,9 @@ const config = JSON.stringify({ ga4, googleAds, adsConversions });
         if (!a) return;
         const href = a.getAttribute('href') || '';
         let kind = null;
-        if (href.includes('wa.me/')) kind = 'whatsapp';
+        // Ver avaliações não é agendamento: vira evento próprio, sem conversão no Google Ads.
+        if (a.dataset.event === 'avaliacoes') kind = 'avaliacoes';
+        else if (href.includes('wa.me/')) kind = 'whatsapp';
         else if (href.includes('doctoralia.com.br')) kind = 'doctoralia';
         else if (href.startsWith('tel:')) kind = 'telefone';
         if (!kind) return;

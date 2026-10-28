@@ -3,7 +3,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import photo from '../assets/dr-alexandre-okubo-dermatologista.webp';
 import Cta from '../components/Cta.astro';
-import { doctor, locations, SITE_URL } from '../data/site';
+import { doctor, locations, reviews, SITE_URL } from '../data/site';
 import { PERSON_ID } from '../data/schema';
 
 const title = 'Sobre o Dr. Alexandre Okubo';
@@ -95,6 +95,26 @@ const url = `${SITE_URL}/sobre/`;
         <dt>Sociedade</dt><dd>{doctor.memberships.join(', ')}</dd>
         <dt>Locais de atendimento</dt><dd>{locations.map((l) => `${l.shortName} (${l.city})`).join(' · ')}</dd>
       </dl>
+    </div>
+  </section>
+
+  <section class="section" id="avaliacoes">
+    <div class="wrap grid grid--2">
+      <div>
+        <p class="eyebrow">Avaliações</p>
+        <h2 class="mt0">Avaliações de pacientes</h2>
+      </div>
+      <div class="prose">
+        <p>
+          As avaliações são publicadas pelos próprios pacientes em plataformas independentes, depois da consulta. Você
+          pode ler todas, inclusive as críticas, e as respostas que dou a elas.
+        </p>
+        <p>
+          {reviews.map((r) => (
+            <a class="btn btn--ghost" href={r.url} rel="noopener" target="_blank" data-event="avaliacoes">Ver avaliações na {r.label}</a>
+          ))}
+        </p>
+      </div>
     </div>
   </section>
 

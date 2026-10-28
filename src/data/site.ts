@@ -43,6 +43,13 @@ export const booking = {
   primaryLabel: 'Agende sua avaliação dermatológica',
 };
 
+// Avaliações de pacientes: só link para a plataforma, sem copiar textos nem marcar AggregateRating (CFM e
+// política do Google para autoavaliação). URL canônica do perfil, que não muda com a especialidade.
+// Perfis do Google entram quando estiverem prontos (ver PENDENCIAS.md).
+export const reviews = [
+  { label: 'Doctoralia', url: 'https://www.doctoralia.com.br/perfil/alexandre-okubo#profile-reviews' },
+];
+
 // Medição. Vazio = nada é carregado.
 // ga4: ID de medição do fluxo web (formato G-XXXXXXXXXX).
 // googleAds: ID da tag do Google Ads (formato AW-XXXXXXXXXX), não o número da conta.
