@@ -13,7 +13,7 @@ Atualizado em 2026-10-28. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ### Google Ads e GA4
 - [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
-- [ ] Revisar e aprovar os textos de `docs/anuncios-google-ads.md` (micose de unha e unha encravada) e criar as duas campanhas.
+- [ ] Criar as três campanhas de `docs/anuncios-google-ads.md`: micose de unha (Prime), unha encravada Prime e unha encravada Clínica Portugal (com recurso de ligação).
 - [ ] Google Ads: criar a conversão "Clique telefone" e enviar o rótulo, para preencher `adsConversions.telefone` em `src/data/site.ts`.
 - [ ] GA4: marcar como eventos principais os cliques de WhatsApp, Doctoralia e telefone.
 
@@ -37,6 +37,9 @@ Atualizado em 2026-10-28. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ### Aguardando decisão dele
 - [ ] Quando ele melhorar os perfis do Google: acrescentá-los em `reviews` e em `sameAs` (`site.ts`), com a URL do Maps de cada um.
 - [ ] Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26): ceratose seborreica, lipoma, xantelasma, toxina botulínica, fios de PDO, olheiras, bioestimulador.
+
+- [ ] Página `/unha-encravada/`: o botão de WhatsApp do topo leva à Prime. Quem chega pela campanha de Santo André cai na agenda de São Paulo.
+  Proposta: com `?clinica=portugal` na URL, o topo mostra o telefone da Clínica Portugal. Aguarda o "pode" dele.
 
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
