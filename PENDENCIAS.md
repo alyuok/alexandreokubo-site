@@ -51,7 +51,8 @@ Decisão de 2026-10-28: na primeira fase, anúncios só para a Prime. A recepç�
 - [ ] Páginas de cisto sebáceo e unha encravada: anunciam as duas clínicas, mas o botão principal "Agendar pelo WhatsApp" leva à Prime, que não agenda para Santo André.
   Propor o ajuste, ou limitar à Prime o raio da campanha de cisto no Google Ads.
 - [ ] Anúncios da Meta no ABC: só depois da fase da Prime. A Clínica Portugal não tem WhatsApp. Sem um canal de agendamento lá, não há anúncio de mensagens para o ABC.
-- [ ] Estratégia do Instagram (seguidores qualificados em SP): aguardando as respostas sobre procedimentos prioritários, valores, tempo para gravar, limites e formato de entrega.
+- [ ] Estratégia do Instagram (seguidores qualificados em SP). Prioridades definidas em 2026-10-28: laser para micose de unha, retirada de verrugas e pintas,
+  retirada de cistos e lipomas, xantelasma e siringoma. Aguardando: técnica de cada procedimento, valores, tempo para gravar, limites e formato de entrega.
 
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
