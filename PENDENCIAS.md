@@ -16,6 +16,16 @@ Atualizado em 2026-10-28. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Google Ads: criar a conversão "Clique telefone" e enviar o rótulo, para preencher `adsConversions.telefone` em `src/data/site.ts`.
 - [ ] GA4: marcar como eventos principais os cliques de WhatsApp, Doctoralia e telefone.
 
+### Meta Ads (Instagram)
+Decisão de 2026-10-28: na primeira fase, anúncios só para a Prime. A recepção da Prime não agenda para Santo André.
+- [ ] Decidir sobre a campanha "[CF] [REELS] Canetas Emagrecedoras" (ativa desde 19/05/2026, R$ 15/dia).
+  De junho a outubro de 2026 trouxe 0 seguidores e 1 conversa. Recomendação do Claude: pausar.
+- [ ] Publicar a campanha "MICOSE UNHA | WhatsApp | Prime | nov-2026" pelo Claude do Chrome (raio de 8 km da Prime, R$ 20/dia, até 4 vídeos de micose já publicados).
+  Não mexer nela nos primeiros 7 dias.
+- [ ] Recepção da Prime: planilha com data, primeira mensagem do paciente, agendou (sim/não) e compareceu (sim/não).
+- [ ] No 14º dia da campanha, enviar ao Claude o relatório por anúncio e a planilha da recepção.
+- [ ] Enviar os arquivos que faltam do levantamento da conta: anúncios de 29/07 a 27/10/2026, detalhamentos (posicionamento, idade e gênero, estado) e a localização de cada conjunto.
+
 ### Search Console
 - [ ] Conferir se os artigos e páginas recentes já aparecem no relatório de páginas.
 
@@ -38,6 +48,10 @@ Atualizado em 2026-10-28. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26): ceratose seborreica, lipoma, xantelasma, toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
+- [ ] Páginas de cisto sebáceo e unha encravada: anunciam as duas clínicas, mas o botão principal "Agendar pelo WhatsApp" leva à Prime, que não agenda para Santo André.
+  Propor o ajuste, ou limitar à Prime o raio da campanha de cisto no Google Ads.
+- [ ] Anúncios da Meta no ABC: só depois da fase da Prime. A Clínica Portugal não tem WhatsApp. Sem um canal de agendamento lá, não há anúncio de mensagens para o ABC.
+- [ ] Estratégia do Instagram (seguidores qualificados em SP): aguardando as respostas sobre procedimentos prioritários, valores, tempo para gravar, limites e formato de entrega.
 
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
