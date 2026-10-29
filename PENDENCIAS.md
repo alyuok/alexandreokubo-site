@@ -40,8 +40,10 @@ Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ### Auditoria de 29/10
 - [ ] Itens 1 a 8, 14, 15, 17 e 18 na prévia (branch `claude/gracious-einstein-zxlh57`). Aguardando o "aprovado" para ir a `main`.
-- [ ] Propostas pendentes de autorização: escurecer `--gold-text` para `#7a5f27` (contraste 4,1 → 5,3) e reduzir o CLS de 0,34 da home no celular (pré-carregar as fontes).
-- [ ] Medição de base (Lighthouse, 29/10, produção): home no celular com desempenho 60, LCP 2,5 s, CLS 0,338 e TBT 840 ms (gtag responde por ~1,1 s de CPU). Repetir depois das correções.
+- [ ] Contraste (`--gold-text` `#7a5f27`), CLS (pré-carga de 2 fontes) e parágrafo menor no celular também estão na prévia.
+  Medição de base (Lighthouse, 29/10, produção): home no celular com desempenho 60, LCP 2,5 s e CLS 0,338.
+  Na prévia local: desempenho 87 a 92, LCP 2,3 s, CLS 0,001 e acessibilidade 100. Medir de novo na produção depois da publicação.
+- [ ] Decisão dele: carregar o Analytics só depois do "Aceitar" (os scripts do Google gastam ~1,1 s de CPU no celular).
 
 ### Aguardando decisão dele
 - [ ] Quando ele melhorar os perfis do Google: acrescentá-los em `reviews` e em `sameAs` (`site.ts`), com a URL do Maps de cada um.
