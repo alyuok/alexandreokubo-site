@@ -32,7 +32,9 @@ Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
 
 ### Site (auditoria de 29/10)
-- [ ] Enviar os arquivos das fotos que ainda não chegaram (só 5 vieram). Os alt texts das 14 já estão com o Claude. Prioridade: sala e aparelho do laser Lunula (página de micose de unha), recepção vazia e sala de espera. Fotos com a equipe só com autorização de uso de imagem de cada pessoa.
+- [ ] Reenviar como anexo as 4 últimas fotos (recepção vazia, sala de espera, sala do Lunula e recepcionistas). Na conversa de 29/10 chegaram só como imagem, sem arquivo.
+- [ ] Fotos com a equipe (recepcionistas, foto do grupo): só com autorização de uso de imagem de cada pessoa. Confirmar também que Carla Okubo não está na foto do grupo.
+- [ ] Foto do exame com a lupa (DermLite) guardada para a futura página de avaliação de pintas.
 - [ ] Para completar as páginas das unidades: horários, metrô e estacionamento, acessibilidade, convênios da Clínica Portugal e regras de cancelamento.
 
 ## Do lado do Claude (próximas sessões)
