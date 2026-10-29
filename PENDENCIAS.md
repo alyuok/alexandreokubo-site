@@ -38,11 +38,8 @@ Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ## Do lado do Claude (próximas sessões)
 
-### Auditoria de 29/10
-- [ ] Itens 1 a 8, 14, 15, 17 e 18 na prévia (branch `claude/gracious-einstein-zxlh57`). Aguardando o "aprovado" para ir a `main`.
-- [ ] Contraste (`--gold-text` `#7a5f27`), CLS (pré-carga de 2 fontes) e parágrafo menor no celular também estão na prévia.
-  Medição de base (Lighthouse, 29/10, produção): home no celular com desempenho 60, LCP 2,5 s e CLS 0,338.
-  Na prévia local: desempenho 87 a 92, LCP 2,3 s, CLS 0,001 e acessibilidade 100. Medir de novo na produção depois da publicação.
+### Auditoria de 29/10 (publicada em 29/10)
+Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
 - [ ] Decisão dele: carregar o Analytics só depois do "Aceitar" (os scripts do Google gastam ~1,1 s de CPU no celular).
 
 ### Aguardando decisão dele
