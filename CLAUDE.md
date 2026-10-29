@@ -107,7 +107,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 
 ## O que ele já decidiu sobre a prática
 - **Clínicas:** Prime (Vila Clementino, SP: clínica, cirúrgica e estética) e Clínica Portugal (Centro, Santo André: clínica, cirúrgica e estética; lá não há lasers nem luz intensa pulsada, mas há microagulhamento e plasma).
-  Agenda: Doctoralia (URL em `site.ts`).
+  Agenda: Doctoralia (URL em `site.ts`), em que o paciente escolhe entre as duas unidades.
 - **Injetáveis:** toxina botulínica; ácido hialurônico; bioestimuladores (ácido poli-L-láctico, hidroxiapatita de cálcio, policaprolactona); fios de PDO.
 - **Aparelhos:** luz intensa pulsada; Nd:YAG 1064 nm (inclui o modo toning; não tem pulso longo); Er:YAG ablativo; plasma; microagulhamento robótico;
   depilação com laser de diodo; laser Lunula para micose de unha (lasers e luz intensa pulsada só na Prime).
@@ -132,3 +132,4 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 ## Medição
 GA4 `G-PYB8EG1D9J`, Google Ads `AW-1066674224`, conversões em `analytics.adsConversions` (`site.ts`).
 O rótulo da conversão `telefone` ainda está vazio.
+O Analytics carrega antes do aceite, com Consent Mode (sinais sem cookie até o "Aceitar"). Decisão dele em 29/10/2026: manter assim.

@@ -34,13 +34,11 @@ Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ### Site (auditoria de 29/10)
 - [ ] Enviar fotos reais da Prime (fachada, recepção, consultório) para a página da unidade.
 - [ ] Para completar as páginas das unidades: horários, metrô e estacionamento, acessibilidade, convênios da Clínica Portugal e regras de cancelamento.
-- [ ] Confirmar se a Doctoralia deixa o paciente escolher entre São Paulo e Santo André.
 
 ## Do lado do Claude (próximas sessões)
 
 ### Auditoria de 29/10 (publicada em 29/10)
 Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
-- [ ] Decisão dele: carregar o Analytics só depois do "Aceitar" (os scripts do Google gastam ~1,1 s de CPU no celular).
 
 ### Aguardando decisão dele
 - [ ] Quando ele melhorar os perfis do Google: acrescentá-los em `reviews` e em `sameAs` (`site.ts`), com a URL do Maps de cada um.
