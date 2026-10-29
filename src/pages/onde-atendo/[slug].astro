@@ -1,5 +1,8 @@
 ---
+import { Image } from 'astro:assets';
 import Base from '../../layouts/Base.astro';
+import recepcaoPrime from '../../assets/recepcao-prime-dr-alexandre-okubo.webp';
+import consultorioPrime from '../../assets/consultorio-prime-dr-alexandre-okubo.webp';
 import Cta from '../../components/Cta.astro';
 import { locations, booking, doctor, SITE_URL, telIntl, waLink, mapLink } from '../../data/site';
 import { clinicId, PERSON_ID } from '../../data/schema';
@@ -9,6 +12,14 @@ export function getStaticPaths() {
 }
 
 const { loc } = Astro.props;
+// Fotos reais de cada unidade (sem pacientes nem funcionários identificáveis).
+const photosBySlug: Record<string, { src: ImageMetadata; alt: string }[]> = {
+  'prime-dermatologia': [
+    { src: recepcaoPrime, alt: 'Dr. Alexandre Okubo na recepção da Prime Dermatologia e Saúde Emocional, na Vila Clementino, em São Paulo' },
+    { src: consultorioPrime, alt: 'Dr. Alexandre Okubo na sala de atendimento da Prime Dermatologia, na Vila Clementino, em São Paulo' },
+  ],
+};
+const photos = photosBySlug[loc.slug] ?? [];
 const place = `${loc.district ? loc.district + ', ' : ''}${loc.city}`;
 const title = `Dermatologista em ${place} – ${loc.shortName}`;
 const description = `${doctor.name}, dermatologista, atende na ${loc.name}: ${loc.street}, ${place} – ${loc.region}. ${loc.payment}.`;
@@ -49,6 +60,21 @@ const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
       </div>
     </div>
   </section>
+
+  {photos.length > 0 && (
+    <section class="section">
+      <div class="wrap">
+        <p class="eyebrow">A unidade</p>
+        <div class="grid grid--2">
+          {photos.map((p) => (
+            <figure class="framed-photo">
+              <Image src={p.src} alt={p.alt} widths={[400, 640, 960]} sizes="(min-width: 700px) 45vw, 100vw" />
+            </figure>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
   <Cta />
 </Base>
