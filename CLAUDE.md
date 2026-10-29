@@ -65,7 +65,7 @@ Capturas de tela: playwright com `executablePath: '/opt/pw-browsers/chromium'`, 
 - CRM-SP 90.743 e RQE 30.051 visíveis. "Medicina estética" nunca aparece como especialidade.
 - Sem nome de colega nem indicação nominal de outro profissional. Ao encaminhar, cite só a especialidade.
 - Carla Okubo não aparece no site.
-- Medicamentos e produtos pelo nome genérico. A exceção já publicada é o aparelho Lunula.
+- Medicamentos e produtos pelo nome genérico. As exceções são os aparelhos Lunula e Plasmage (este autorizado em 2026-10-28).
 - Em anúncio (Google Ads), nunca use marca de medicamento.
 - "Ozempic" só aparece como nome do fenômeno, entre aspas: o chamado "Ozempic face".
 
