@@ -2,7 +2,7 @@
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import Faq from '../components/Faq.astro';
-import heroPhoto from '../assets/dermatoscopia-dr-alexandre-okubo.webp';
+import heroPhoto from '../assets/dermatoscopia-dr-alexandre-okubo-dermatologista-sao-paulo.webp';
 import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
 import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
 
@@ -85,7 +85,7 @@ const faq = [
       <figure class="framed-photo">
         <Image
           src={heroPhoto}
-          alt="Dr. Alexandre Okubo durante exame dermatológico no consultório"
+          alt="Dr. Alexandre Okubo, dermatologista, examina o braço de um paciente com dermatoscópio na Prime Dermatologia, em São Paulo"
           widths={[400, 640, 960]}
           sizes="(min-width: 860px) 40vw, 100vw"
           loading="eager"

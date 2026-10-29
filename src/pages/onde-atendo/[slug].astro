@@ -1,8 +1,8 @@
 ---
 import { Image } from 'astro:assets';
 import Base from '../../layouts/Base.astro';
-import recepcaoPrime from '../../assets/recepcao-prime-dr-alexandre-okubo.webp';
-import consultorioPrime from '../../assets/consultorio-prime-dr-alexandre-okubo.webp';
+import recepcaoPrime from '../../assets/dr-alexandre-okubo-atendimento-prime-dermatologia.webp';
+import consultorioPrime from '../../assets/dr-alexandre-okubo-consulta-dermatologica-sao-paulo.webp';
 import Cta from '../../components/Cta.astro';
 import { locations, booking, doctor, SITE_URL, telIntl, waLink, mapLink } from '../../data/site';
 import { clinicId, PERSON_ID } from '../../data/schema';
@@ -15,8 +15,8 @@ const { loc } = Astro.props;
 // Fotos reais de cada unidade (sem pacientes nem funcionários identificáveis).
 const photosBySlug: Record<string, { src: ImageMetadata; alt: string }[]> = {
   'prime-dermatologia': [
-    { src: recepcaoPrime, alt: 'Dr. Alexandre Okubo na recepção da Prime Dermatologia e Saúde Emocional, na Vila Clementino, em São Paulo' },
-    { src: consultorioPrime, alt: 'Dr. Alexandre Okubo na sala de atendimento da Prime Dermatologia, na Vila Clementino, em São Paulo' },
+    { src: recepcaoPrime, alt: 'Dr. Alexandre Okubo escreve no balcão da recepção da Prime Dermatologia, clínica onde é diretor clínico' },
+    { src: consultorioPrime, alt: 'Dr. Alexandre Okubo em sua mesa de atendimento na Prime Dermatologia, São Paulo' },
   ],
 };
 const photos = photosBySlug[loc.slug] ?? [];

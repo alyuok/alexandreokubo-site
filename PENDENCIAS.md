@@ -32,7 +32,7 @@ Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
 
 ### Site (auditoria de 29/10)
-- [ ] Enviar fotos reais da Prime (fachada, recepção, consultório) para a página da unidade.
+- [ ] Enviar os arquivos das fotos que ainda não chegaram (só 5 vieram). Os alt texts das 14 já estão com o Claude. Prioridade: sala e aparelho do laser Lunula (página de micose de unha), recepção vazia e sala de espera. Fotos com a equipe só com autorização de uso de imagem de cada pessoa.
 - [ ] Para completar as páginas das unidades: horários, metrô e estacionamento, acessibilidade, convênios da Clínica Portugal e regras de cancelamento.
 
 ## Do lado do Claude (próximas sessões)
