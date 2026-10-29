@@ -32,7 +32,7 @@ Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
 
 ### Site (auditoria de 29/10)
-- [ ] Foto do grupo (ele com quatro pessoas da equipe): autorização de uso de imagem confirmada em 29/10. Falta confirmar que Carla Okubo não está na foto, antes de publicar.
+- [ ] Foto da equipe: a do grupo enviada em 29/10 não pode ser usada (Carla Okubo aparece, com a mão no ombro dele). Se quiser foto da equipe no site, tirar outra só com ele e as funcionárias.
 - [ ] Foto do exame com a lupa (DermLite) guardada para a futura página de avaliação de pintas.
 - [ ] Para completar as páginas das unidades: horários, metrô e estacionamento, acessibilidade, convênios da Clínica Portugal e regras de cancelamento.
 
