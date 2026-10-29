@@ -5,7 +5,7 @@ import recepcaoPrime from '../../assets/dr-alexandre-okubo-atendimento-prime-der
 import consultorioPrime from '../../assets/dr-alexandre-okubo-consulta-dermatologica-sao-paulo.webp';
 import logoPrime from '../../assets/dr-alexandre-okubo-prime-dermatologia-sao-paulo.webp';
 import lunulaPrime from '../../assets/laser-lunula-micose-de-unha-dr-alexandre-okubo.webp';
-import recepcaoVazia from '../../assets/recepcao-prime-dermatologia-vila-clementino-dr-alexandre-okubo.webp';
+import equipeRecepcao from '../../assets/recepcao-atendimento-prime-dermatologia-sao-paulo.webp';
 import salaEspera from '../../assets/sala-de-espera-prime-dermatologia-vila-clementino.webp';
 import salaLunula from '../../assets/sala-laser-lunula-prime-dermatologia-vila-clementino.webp';
 import Cta from '../../components/Cta.astro';
@@ -17,12 +17,12 @@ export function getStaticPaths() {
 }
 
 const { loc } = Astro.props;
-// Fotos reais de cada unidade (sem pacientes nem funcionários identificáveis).
+// Fotos reais de cada unidade. Pessoas da equipe só com autorização de uso de imagem (confirmada em 29/10/2026).
 // A primeira foto de cada unidade ocupa a largura toda (horizontal); as demais vão em grade.
 const photosBySlug: Record<string, { src: ImageMetadata; alt: string }[]> = {
   'prime-dermatologia': [
     { src: logoPrime, alt: 'Dr. Alexandre Okubo, dermatologista, em frente ao logotipo da Prime Dermatologia em São Paulo' },
-    { src: recepcaoVazia, alt: 'Recepção da Prime Dermatologia, clínica do Dr. Alexandre Okubo na Vila Clementino, São Paulo' },
+    { src: equipeRecepcao, alt: 'Equipe de recepção da Prime Dermatologia, clínica do Dr. Alexandre Okubo em São Paulo' },
     { src: salaEspera, alt: 'Sala de espera da Prime Dermatologia, clínica do Dr. Alexandre Okubo na Vila Clementino' },
     { src: recepcaoPrime, alt: 'Dr. Alexandre Okubo escreve no balcão da recepção da Prime Dermatologia, clínica onde é diretor clínico' },
     { src: consultorioPrime, alt: 'Dr. Alexandre Okubo em sua mesa de atendimento na Prime Dermatologia, São Paulo' },
