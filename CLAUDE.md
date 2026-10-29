@@ -27,7 +27,7 @@ Nada vai para produção sem o "aprovado" explícito dele. Para pequenas trocas 
 1. Pesquise no PubMed (ver "Fontes") e escreva `src/content/blog/<slug>.md` com `status: rascunho`.
 2. Frontmatter: `title`, `description`, `answer` (resposta direta de 2 a 3 frases, AEO), `pubDate`, `reviewedDate`,
    `category` (`'Pele'` ou `'Estilo de vida e pele'`), `about` (termos médicos), `sources` (`label` + `url`), `status`.
-3. Rode `PREVIEW_DRAFTS=1 npm run build`. Confira que todo link interno existe em `dist/<caminho>/index.html`.
+3. Rode `PREVIEW_DRAFTS=1 npm run build && npm run check`. O `check` aponta links internos quebrados e páginas fora do sitemap.
 4. Faça o commit e o push para `main` e `rascunhos`. O rascunho fica escondido em produção.
 5. Confirme a prévia: `https://rascunhos.alexandreokubo-site.pages.dev/blog/<slug>/`. A produção deve dar 404.
 6. Mande a ele: link da prévia, resumo das seções, o que ficou de fora e por quê.
@@ -48,6 +48,7 @@ Em seguida faça o push para os dois destinos.
 ```sh
 PREVIEW_DRAFTS=1 npm run build   # build com rascunhos (conferência local)
 npm run build                    # build de produção
+npm run check                    # links internos e sitemap (depois do build)
 git -c user.email=alyuok@gmail.com -c user.name="Alexandre Okubo" commit -m "..."
 git push origin main             # produção (alexandreokubo.com.br)
 git push origin main:rascunhos   # prévia (rascunhos.alexandreokubo-site.pages.dev)

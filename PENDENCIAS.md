@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-10-28. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -31,7 +31,17 @@ Atualizado em 2026-10-28. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
 
+### Site (auditoria de 29/10)
+- [ ] Enviar fotos reais da Prime (fachada, recepção, consultório) para a página da unidade.
+- [ ] Para completar as páginas das unidades: horários, metrô e estacionamento, acessibilidade, convênios da Clínica Portugal e regras de cancelamento.
+- [ ] Confirmar se a Doctoralia deixa o paciente escolher entre São Paulo e Santo André.
+
 ## Do lado do Claude (próximas sessões)
+
+### Auditoria de 29/10
+- [ ] Itens 1 a 8, 14, 15, 17 e 18 na prévia (branch `claude/gracious-einstein-zxlh57`). Aguardando o "aprovado" para ir a `main`.
+- [ ] Propostas pendentes de autorização: escurecer `--gold-text` para `#7a5f27` (contraste 4,1 → 5,3) e reduzir o CLS de 0,34 da home no celular (pré-carregar as fontes).
+- [ ] Medição de base (Lighthouse, 29/10, produção): home no celular com desempenho 60, LCP 2,5 s, CLS 0,338 e TBT 840 ms (gtag responde por ~1,1 s de CPU). Repetir depois das correções.
 
 ### Aguardando decisão dele
 - [ ] Quando ele melhorar os perfis do Google: acrescentá-los em `reviews` e em `sameAs` (`site.ts`), com a URL do Maps de cada um.

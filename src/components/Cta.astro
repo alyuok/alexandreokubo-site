@@ -1,5 +1,5 @@
 ---
-import { booking, doctor } from '../data/site';
+import { booking, doctor, locations, telIntl, waLink } from '../data/site';
 interface Props {
   title?: string;
   text?: string;
@@ -14,9 +14,22 @@ const {
     <p class="eyebrow">Agendamento</p>
     <h2>{title}</h2>
     <p class="cta-text">{text}</p>
+    <p class="cta-ask">Onde você quer ser atendido?</p>
+    <div class="cta-units">
+      {locations.map((l) => (
+        <div class="cta-unit">
+          <p class="cta-city">{l.city}{l.district && ` · ${l.district}`}</p>
+          <p class="cta-name">{l.shortName}</p>
+          <p class="cta-pay">{l.payment}</p>
+          {l.whatsapp
+            ? <a class="btn cta-btn" href={waLink(l.phone)} rel="noopener" target="_blank">Agendar pelo WhatsApp</a>
+            : <a class="btn cta-btn" href={`tel:${telIntl(l.phone)}`}>Ligar: {l.phone}</a>}
+        </div>
+      ))}
+    </div>
     <div class="cta-actions">
-      <a class="btn cta-btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a>
-      <a href="/onde-atendo/">Ver locais de atendimento</a>
+      <a class="btn btn--sm cta-ghost" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar online pela Doctoralia</a>
+      <a href="/onde-atendo/">Ver endereços e como chegar</a>
     </div>
     <p class="signature cta-sig">{doctor.name} · {doctor.crm} · {doctor.rqe}</p>
   </div>
@@ -25,8 +38,16 @@ const {
 <style>
   .cta h2 { margin-top: 0; max-width: 18ch; }
   .cta-text { max-width: 56ch; color: #d9d3c8; }
-  .cta-actions { display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 28px; }
+  .cta-ask { font-family: var(--serif); font-size: 1.25rem; margin: 32px 0 16px; }
+  .cta-units { display: grid; gap: 20px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); max-width: 760px; }
+  .cta-unit { border-top: 1px solid var(--gold); padding-top: 16px; }
+  .cta-city { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold); margin: 0; }
+  .cta-name { font-family: var(--serif); font-size: 1.3rem; margin: 4px 0 0; }
+  .cta-pay { font-size: 0.9rem; color: #c9c3b8; margin: 4px 0 16px; }
   .cta-btn { background: var(--gold); border-color: var(--gold); color: var(--graphite); }
   .cta-btn:hover { background: transparent; color: var(--gold); }
+  .cta-actions { display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 32px; }
+  .cta-ghost { background: transparent; border-color: rgba(203, 165, 84, 0.6); color: var(--sand); }
+  .cta-ghost:hover { background: var(--gold); color: var(--graphite); }
   .cta-sig { color: #a9a39a; margin-top: 32px; }
 </style>

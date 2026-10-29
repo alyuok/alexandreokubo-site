@@ -47,6 +47,8 @@ const config = JSON.stringify({ ga4, googleAds, adsConversions });
         else if (href.includes('wa.me/')) kind = 'whatsapp';
         else if (href.includes('doctoralia.com.br')) kind = 'doctoralia';
         else if (href.startsWith('tel:')) kind = 'telefone';
+        // Rota no mapa: evento próprio, sem conversão no Google Ads.
+        else if (href.includes('google.com/maps')) kind = 'rota';
         if (!kind) return;
         gtag('event', 'contato_' + kind, { link_url: href, page_path: location.pathname, origem: a.dataset.event || '' });
         const label = cfg.adsConversions && cfg.adsConversions[kind];
@@ -54,7 +56,7 @@ const config = JSON.stringify({ ga4, googleAds, adsConversions });
       });
     </script>
 
-    <div id="consent" class="consent" hidden>
+    <div id="consent" class="consent" role="region" aria-label="Preferências de cookies" hidden>
       <p>
         Usamos cookies de medição para entender como o site é usado e melhorar o atendimento.
         <a href="/privacidade/">Saiba mais</a>.
@@ -74,10 +76,18 @@ const config = JSON.stringify({ ga4, googleAds, adsConversions });
           const choice = ev.target.dataset && ev.target.dataset.consent;
           if (!choice) return;
           try { localStorage.setItem('consent', choice); } catch (e) {}
-          if (choice === 'granted') {
-            gtag('consent', 'update', { ad_storage: 'granted', ad_user_data: 'granted', analytics_storage: 'granted' });
-          }
+          const state = choice === 'granted' ? 'granted' : 'denied';
+          gtag('consent', 'update', { ad_storage: state, ad_user_data: state, analytics_storage: state });
           box.hidden = true;
+        });
+        // Link "Preferências de cookies" do rodapé reabre o aviso.
+        document.addEventListener('click', (ev) => {
+          const open = ev.target.closest && ev.target.closest('[data-consent-open]');
+          if (!open) return;
+          ev.preventDefault();
+          box.hidden = false;
+          const first = box.querySelector('button');
+          if (first) first.focus();
         });
       })();
     </script>

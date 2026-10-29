@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Cta from '../../components/Cta.astro';
-import { locations, booking, doctor, SITE_URL, telIntl, waLink } from '../../data/site';
+import { locations, booking, doctor, SITE_URL, telIntl, waLink, mapLink } from '../../data/site';
 import { clinicId, PERSON_ID } from '../../data/schema';
 
 export function getStaticPaths() {
@@ -13,7 +13,6 @@ const place = `${loc.district ? loc.district + ', ' : ''}${loc.city}`;
 const title = `Dermatologista em ${place} – ${loc.shortName}`;
 const description = `${doctor.name}, dermatologista, atende na ${loc.name}: ${loc.street}, ${place} – ${loc.region}. ${loc.payment}.`;
 const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
-const mapQuery = encodeURIComponent(`${loc.name}, ${loc.street}, ${loc.city} - ${loc.region}`);
 ---
 <Base
   title={title}
@@ -46,7 +45,7 @@ const mapQuery = encodeURIComponent(`${loc.name}, ${loc.street}, ${loc.city} - $
             : <a class="btn" href={`tel:${telIntl(loc.phone)}`}>Ligar para a {loc.shortName}</a>}
           <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar pelo Doctoralia</a>
         </p>
-        <p><a href={`https://www.google.com/maps/search/?api=1&query=${mapQuery}`} rel="noopener" target="_blank">Abrir no Google Maps →</a></p>
+        <p><a href={mapLink(loc)} rel="noopener" target="_blank">Abrir no Google Maps →</a></p>
       </div>
     </div>
   </section>

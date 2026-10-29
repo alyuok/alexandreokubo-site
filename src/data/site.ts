@@ -67,6 +67,11 @@ export const telIntl = (phone: string) => '+55' + phone.replace(/\D/g, '');
 export const waLink = (phone: string) =>
   `https://wa.me/${telIntl(phone).slice(1)}?text=${encodeURIComponent('Olá! Gostaria de agendar uma consulta com o Dr. Alexandre Okubo.')}`;
 
+// Link de rota no Google Maps a partir do nome e do endereço da clínica.
+export const mapLink = (loc: { name: string; street: string; city: string; region: string }) =>
+  `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${loc.name}, ${loc.street}, ${loc.city} - ${loc.region}`)}`;
+
+// geo: coordenadas do número do endereço (OpenStreetMap, conferidas em 2026-10-29).
 export const locations = [
   {
     slug: 'prime-dermatologia',
@@ -78,6 +83,7 @@ export const locations = [
     city: 'São Paulo',
     region: 'SP',
     postalCode: '04038-032',
+    geo: { lat: -23.59673, lng: -46.64706 },
     phone: '(11) 94174-6037',
     whatsapp: true,
     payment: 'Atendimento particular',
@@ -93,6 +99,7 @@ export const locations = [
     city: 'Santo André',
     region: 'SP',
     postalCode: '09041-320',
+    geo: { lat: -23.66863, lng: -46.53824 },
     phone: '(11) 4438-6333',
     whatsapp: false,
     payment: 'Particular e alguns convênios (consulte a clínica)',

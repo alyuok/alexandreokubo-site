@@ -1,4 +1,4 @@
-import { SITE_URL, doctor, locations, LAST_REVIEWED, telIntl } from './site';
+import { SITE_URL, doctor, locations, LAST_REVIEWED, telIntl, mapLink } from './site';
 
 export const PERSON_ID = `${SITE_URL}/#person`;
 export const WEBSITE_ID = `${SITE_URL}/#website`;
@@ -19,6 +19,8 @@ export function clinicSchema(loc: (typeof locations)[number]) {
       addressCountry: 'BR',
       ...(loc.postalCode && { postalCode: loc.postalCode }),
     },
+    geo: { '@type': 'GeoCoordinates', latitude: loc.geo.lat, longitude: loc.geo.lng },
+    hasMap: mapLink(loc),
     ...(loc.phone && { telephone: telIntl(loc.phone) }),
   };
 }

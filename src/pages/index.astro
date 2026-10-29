@@ -3,27 +3,43 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import heroPhoto from '../assets/dermatoscopia-dr-alexandre-okubo.webp';
 import Cta from '../components/Cta.astro';
-import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
+import { doctor, booking, locations, SITE_URL, telIntl, waLink, mapLink } from '../data/site';
 import { medicalPageSchema } from '../data/schema';
 
 const title = 'Dr. Alexandre Okubo | Dermatologista em São Paulo e Santo André';
 const description =
   'Dermatologista formado pela FMUSP, com residência no HC-FMUSP. Dermatologia clínica, cirúrgica e estética na Vila Clementino (SP) e em Santo André. CRM-SP 90.743 · RQE 30.051.';
 
+// Entradas por queixa: só páginas e artigos publicados.
+const concerns = [
+  { href: '/micose-de-unha/', label: 'Micose de unha' },
+  { href: '/unha-encravada/', label: 'Unha encravada' },
+  { href: '/retirada-de-cisto-sebaceo/', label: 'Cisto sebáceo' },
+  { href: '/blog/tratamento-da-acne/', label: 'Acne' },
+  { href: '/blog/cicatrizes-de-acne-subcisao/', label: 'Cicatrizes de acne' },
+  { href: '/blog/rosacea/', label: 'Rosácea' },
+  { href: '/blog/melasma/', label: 'Melasma' },
+  { href: '/blog/queda-de-cabelo-depois-de-estresse/', label: 'Queda de cabelo após estresse' },
+  { href: '/dermatologia-clinica/', label: 'Avaliação de pintas' },
+];
+
 const areas = [
   {
     href: '/dermatologia-clinica/',
     title: 'Dermatologia clínica',
+    more: 'Ver dermatologia clínica',
     text: 'Acne, rosácea, melasma, dermatites, queda de cabelo, unhas e avaliação de pintas.',
   },
   {
     href: '/cirurgia-dermatologica/',
     title: 'Cirurgia dermatológica',
+    more: 'Ver cirurgia dermatológica',
     text: 'Retirada de pintas, cistos e lipomas, biópsias e tratamento de lesões benignas, em consultório.',
   },
   {
     href: '/dermatologia-estetica/',
     title: 'Dermatologia estética',
+    more: 'Ver dermatologia estética',
     text: 'Toxina botulínica, preenchimento, bioestimuladores e lasers, com indicação criteriosa e resultado natural.',
   },
 ];
@@ -36,7 +52,7 @@ const areas = [
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <p class="eyebrow">Dermatologista · {doctor.rqe}</p>
+        <p class="eyebrow">Dermatologista em São Paulo e Santo André</p>
         <h1>Tratar a pele sem esquecer <em>a pessoa</em> que vive nela.</h1>
         <p class="lead">
           Sou o Dr. Alexandre Okubo, dermatologista formado pela Faculdade de Medicina da USP, com residência no
@@ -46,6 +62,7 @@ const areas = [
           <a class="btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a>
           <a class="btn btn--ghost" href="/sobre/">Conheça minha formação</a>
         </div>
+        <p class="signature hero-reg">{doctor.crm} · {doctor.rqe}</p>
       </div>
       <figure class="framed-photo">
         <Image
@@ -63,13 +80,18 @@ const areas = [
   <section class="section section--white">
     <div class="wrap">
       <p class="eyebrow">O que eu trato</p>
-      <h2 class="mt0">Dermatologia clínica, cirúrgica e estética</h2>
+      <h2 class="mt0">Como posso ajudar?</h2>
+      <p class="list-label">Queixas mais procuradas</p>
+      <ul class="concerns">
+        {concerns.map((c) => <li><a href={c.href}>{c.label}</a></li>)}
+      </ul>
+      <p class="list-label">Áreas de atuação</p>
       <div class="grid grid--3">
         {areas.map((a) => (
           <a class="card card-link" href={a.href}>
             <h3>{a.title}</h3>
             <p>{a.text}</p>
-            <span class="more">Saiba mais →</span>
+            <span class="more">{a.more} →</span>
           </a>
         ))}
       </div>
@@ -100,15 +122,21 @@ const areas = [
   <section class="section section--white">
     <div class="wrap">
       <p class="eyebrow">Onde atendo</p>
-      <h2 class="mt0">Dois endereços</h2>
-      <div class="grid grid--2">
-        {locations.map((l) => (
-          <div class="card">
+      <h2 class="mt0">Vila Clementino, em São Paulo, e Santo André</h2>
+      <div class="locs">
+        {locations.map((l, i) => (
+          <div class={i === 0 ? 'card loc loc--main' : 'card loc'}>
+            <p class="loc-city">{l.city}{l.district && ` · ${l.district}`}</p>
             <h3>{l.shortName}</h3>
             <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
-            <p class="signature">{l.payment}</p>
-            {l.whatsapp && <p><a class="btn btn--sm" href={waLink(l.phone)} rel="noopener" target="_blank">Agendar pelo WhatsApp</a></p>}
-            <a href={`/onde-atendo/${l.slug}/`}>Como chegar e agendar →</a>
+            <p class="signature">{l.payment}. {l.note}</p>
+            <p class="loc-actions">
+              {l.whatsapp
+                ? <a class="btn btn--sm" href={waLink(l.phone)} rel="noopener" target="_blank">Agendar pelo WhatsApp</a>
+                : <a class="btn btn--sm btn--ghost" href={`tel:${telIntl(l.phone)}`}>Ligar para a clínica</a>}
+              <a href={mapLink(l)} rel="noopener" target="_blank">Como chegar</a>
+            </p>
+            <a href={`/onde-atendo/${l.slug}/`}>Detalhes da unidade →</a>
           </div>
         ))}
       </div>
@@ -128,5 +156,16 @@ const areas = [
   .card-link { text-decoration: none; color: inherit; display: block; transition: transform 0.2s; }
   .card-link:hover { transform: translateY(-2px); color: inherit; }
   .more { color: var(--gold-text); font-size: 0.95rem; }
+  .hero-reg { margin: 16px 0 0; }
+  .list-label { font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin: 28px 0 12px; }
+  .concerns { list-style: none; margin: 0 0 8px; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+  .concerns a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.4rem 1rem; background: var(--sand); border: 1px solid var(--line); border-radius: 2px; color: var(--graphite); text-decoration: none; }
+  .concerns a:hover { border-color: var(--gold); color: var(--gold-text); }
+  .locs { display: grid; gap: clamp(20px, 3vw, 32px); }
+  @media (min-width: 860px) { .locs { grid-template-columns: 3fr 2fr; } }
+  .loc-city { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold-text); margin-bottom: 0.4rem; }
+  .loc--main { border-top-width: 3px; }
+  .loc--main h3 { font-size: 1.6rem; }
+  .loc-actions { display: flex; flex-wrap: wrap; gap: 16px; align-items: center; }
   .approach { align-items: start; }
 </style>

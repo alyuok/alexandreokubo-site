@@ -6,7 +6,7 @@ import '@fontsource/dm-sans/500.css';
 import '@fontsource/dm-sans/600.css';
 import '../styles/global.css';
 import Analytics from '../components/Analytics.astro';
-import { doctor, booking, locations, nav, SITE_URL, telIntl } from '../data/site';
+import { doctor, booking, locations, nav, analytics, SITE_URL, telIntl } from '../data/site';
 import { personSchema, websiteSchema, clinicSchema, breadcrumbSchema } from '../data/schema';
 
 interface Props {
@@ -34,6 +34,7 @@ const graph = {
   ],
 };
 const year = new Date().getFullYear();
+const hasAnalytics = Boolean(analytics.ga4 || analytics.googleAds);
 ---
 <!doctype html>
 <html lang="pt-BR">
@@ -72,17 +73,20 @@ const year = new Date().getFullYear();
             <li><a class="btn btn--sm" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar</a></li>
           </ul>
         </nav>
-        <details class="menu">
-          <summary aria-label="Abrir menu"><span></span><span></span></summary>
-          <nav aria-label="Principal (celular)">
-            <ul>
-              {nav.map((n) => (
-                <li><a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>
-              ))}
-              <li class="menu-cta"><a class="btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a></li>
-            </ul>
-          </nav>
-        </details>
+        <div class="header-mobile">
+          <a class="btn btn--sm header-book" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar</a>
+          <details class="menu">
+            <summary aria-label="Abrir menu"><span></span><span></span></summary>
+            <nav aria-label="Principal (celular)">
+              <ul>
+                {nav.map((n) => (
+                  <li><a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>
+                ))}
+                <li class="menu-cta"><a class="btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a></li>
+              </ul>
+            </nav>
+          </details>
+        </div>
       </div>
     </header>
 
@@ -121,7 +125,7 @@ const year = new Date().getFullYear();
       </div>
       <div class="wrap footer-legal">
         <p>Responsável técnico: {doctor.name} · {doctor.crm} · {doctor.rqe}. O conteúdo deste site é informativo e não substitui a consulta médica.</p>
-        <p>© {year} {doctor.legalName} · <a href="/sobre/#avaliacoes">Avaliações de pacientes</a> · <a href="/privacidade/">Privacidade</a></p>
+        <p>© {year} {doctor.legalName} · <a href="/sobre/#avaliacoes">Avaliações de pacientes</a> · <a href="/privacidade/">Privacidade</a>{hasAnalytics && <> · <button type="button" class="linklike" data-consent-open>Preferências de cookies</button></>}</p>
       </div>
     </footer>
     <Analytics />
@@ -151,9 +155,12 @@ const year = new Date().getFullYear();
   .menu li a[aria-current='page'] { color: var(--gold-text); }
   .menu-cta { margin-top: 12px; }
 
+  .header-mobile { display: flex; align-items: center; gap: 4px; }
+  .header-book { min-height: 40px; padding: 0.45rem 0.9rem; }
+
   @media (min-width: 1000px) {
     .nav-desktop { display: block; }
-    .menu { display: none; }
+    .header-mobile { display: none; }
   }
 
   .site-footer { background: var(--graphite); color: var(--sand); padding: 56px 0 24px; font-size: 0.95rem; margin-top: 0; }
@@ -161,5 +168,6 @@ const year = new Date().getFullYear();
   .footer-grid { display: grid; gap: 32px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
   .footer-name { font-family: var(--serif); font-size: 1.4rem; margin-bottom: 0.4rem; }
   .footer-label { font-size: 0.75rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.4rem; }
+  .linklike { background: none; border: 0; padding: 0; font: inherit; color: var(--gold); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; cursor: pointer; }
   .footer-legal { border-top: 1px solid rgba(245, 239, 230, 0.15); margin-top: 32px; padding-top: 20px; font-size: 0.82rem; color: #c9c3b8; }
 </style>
