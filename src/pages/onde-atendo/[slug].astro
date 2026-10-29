@@ -5,6 +5,9 @@ import recepcaoPrime from '../../assets/dr-alexandre-okubo-atendimento-prime-der
 import consultorioPrime from '../../assets/dr-alexandre-okubo-consulta-dermatologica-sao-paulo.webp';
 import logoPrime from '../../assets/dr-alexandre-okubo-prime-dermatologia-sao-paulo.webp';
 import lunulaPrime from '../../assets/laser-lunula-micose-de-unha-dr-alexandre-okubo.webp';
+import recepcaoVazia from '../../assets/recepcao-prime-dermatologia-vila-clementino-dr-alexandre-okubo.webp';
+import salaEspera from '../../assets/sala-de-espera-prime-dermatologia-vila-clementino.webp';
+import salaLunula from '../../assets/sala-laser-lunula-prime-dermatologia-vila-clementino.webp';
 import Cta from '../../components/Cta.astro';
 import { locations, booking, doctor, SITE_URL, telIntl, waLink, mapLink } from '../../data/site';
 import { clinicId, PERSON_ID } from '../../data/schema';
@@ -19,9 +22,12 @@ const { loc } = Astro.props;
 const photosBySlug: Record<string, { src: ImageMetadata; alt: string }[]> = {
   'prime-dermatologia': [
     { src: logoPrime, alt: 'Dr. Alexandre Okubo, dermatologista, em frente ao logotipo da Prime Dermatologia em São Paulo' },
+    { src: recepcaoVazia, alt: 'Recepção da Prime Dermatologia, clínica do Dr. Alexandre Okubo na Vila Clementino, São Paulo' },
+    { src: salaEspera, alt: 'Sala de espera da Prime Dermatologia, clínica do Dr. Alexandre Okubo na Vila Clementino' },
     { src: recepcaoPrime, alt: 'Dr. Alexandre Okubo escreve no balcão da recepção da Prime Dermatologia, clínica onde é diretor clínico' },
     { src: consultorioPrime, alt: 'Dr. Alexandre Okubo em sua mesa de atendimento na Prime Dermatologia, São Paulo' },
     { src: lunulaPrime, alt: 'Dr. Alexandre Okubo ao lado do laser Lunula, usado no tratamento da micose de unha' },
+    { src: salaLunula, alt: 'Sala do laser Lunula para tratamento de micose de unha na Prime Dermatologia, Vila Clementino' },
   ],
 };
 const [widePhoto, ...photos] = photosBySlug[loc.slug] ?? [];
@@ -73,10 +79,10 @@ const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
         <figure class="framed-photo photo-wide">
           <Image src={widePhoto.src} alt={widePhoto.alt} widths={[640, 960, 1280]} sizes="(min-width: 1120px) 1040px, 100vw" />
         </figure>
-        <div class="grid grid--3 photo-grid">
+        <div class="photo-grid">
           {photos.map((p) => (
             <figure class="framed-photo">
-              <Image src={p.src} alt={p.alt} widths={[400, 640, 960]} sizes="(min-width: 860px) 33vw, 100vw" />
+              <Image src={p.src} alt={p.alt} widths={[400, 640, 960]} sizes="(min-width: 860px) 33vw, 50vw" />
             </figure>
           ))}
         </div>
@@ -95,5 +101,7 @@ const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
   .book-actions { display: flex; flex-wrap: wrap; gap: 12px; }
   .photo-wide { aspect-ratio: 4 / 3; }
   .photo-wide :global(img) { object-position: 50% 50%; }
-  .photo-grid { margin-top: clamp(20px, 3vw, 32px); }
+  .photo-grid { display: grid; gap: clamp(12px, 3vw, 32px); grid-template-columns: repeat(2, 1fr); margin-top: clamp(12px, 3vw, 32px); }
+  @media (min-width: 860px) { .photo-grid { grid-template-columns: repeat(3, 1fr); } }
+  .photo-grid .framed-photo::after { inset: 8px; }
 </style>
