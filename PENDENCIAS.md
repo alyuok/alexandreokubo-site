@@ -57,6 +57,9 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 
 ### Aguardando decisão dele
 - [ ] Unha encravada: nova abertura e seção "Quando procurar o médico" na prévia (branch `claude/eloquent-noether-ypbxpi`). Esperando o aprovado.
+- [ ] Fotos de pacientes (30/10) na prévia: unha encravada com granuloma (artigo) e cisto nas costas (artigo e `/retirada-de-cisto-sebaceo/`).
+  Esperando: confirmação de autorização por escrito dos pacientes, textos alternativos e legendas, e o aprovado.
+  A foto da unha encravada fica fora de `/unha-encravada/`, que recebe anúncios: imagem com pus pode levar à reprovação do anúncio no Google Ads.
 - [ ] Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26). Ordem proposta em 30/10, pela análise competitiva
   (nenhum concorrente local se posiciona em pequena cirurgia): lipoma, xantelasma, ceratose seborreica; depois toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Teleconsulta (confirmada por ele em 30/10): propor um parágrafo em `/onde-atendo/`.

@@ -41,6 +41,10 @@ Por isso, o nome mais correto é cisto epidérmico. "Cisto sebáceo" é o nome p
 - **Crescimento lento,** ao longo de meses ou anos.
 - **Locais mais comuns:** rosto, pescoço, costas e peito.
 
+![Cisto sebáceo nas costas, uma bolinha sob a pele medida com paquímetro durante a consulta dermatológica](../../assets/cisto-sebaceo-nas-costas-dermatologista.webp)
+
+*Cisto nas costas, medido com paquímetro na consulta. Foto de paciente, publicada com autorização.*
+
 ### No couro cabeludo
 
 No couro cabeludo, o cisto mais comum é de outro tipo, o cisto triquilemal (ou pilar), que nasce da raiz do fio. Ele costuma ser mais liso e mais firme, sem o ponto central, e é comum aparecer mais de um, em pessoas da mesma família. Uma revisão sobre lesões do couro cabeludo aponta que os cistos somam mais da metade das lesões benignas dessa região. O tratamento é o mesmo: retirada da cápsula, quando incomoda.

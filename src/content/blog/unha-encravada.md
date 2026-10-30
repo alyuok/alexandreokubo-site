@@ -47,6 +47,10 @@ A gravidade orienta o tratamento:
 - **Grau 2**: infecção, com pus e dor mais intensa
 - **Grau 3**: além da inflamação, cresce uma "carne esponjosa" (granuloma) e a pele ao lado da unha fica espessa, cobrindo parte dela
 
+![Unha encravada no dedão com inflamação, pus e carne esponjosa (granuloma) no canto da unha](../../assets/unha-encravada-com-granuloma-e-pus.webp)
+
+*Unha encravada com pus e granuloma no canto da unha. Foto de paciente, publicada com autorização.*
+
 No grau 1, cuidados e técnicas simples costumam resolver. Nos graus 2 e 3, e quando a unha encrava de novo depois de tratada, em geral é preciso um procedimento.
 
 ## O que fazer e o que evitar em casa

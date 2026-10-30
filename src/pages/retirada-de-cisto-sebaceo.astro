@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import Faq from '../components/Faq.astro';
 import heroPhoto from '../assets/consulta-dr-alexandre-okubo.webp';
+import cistoPhoto from '../assets/cisto-sebaceo-nas-costas-dermatologista.webp';
 import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
 import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
 
@@ -114,6 +115,16 @@ const faq = [
       <div>
         <p class="eyebrow">A cirurgia</p>
         <h2 class="mt0">O objetivo é tirar a cápsula inteira</h2>
+        <figure class="case-photo">
+          <Image
+            src={cistoPhoto}
+            alt="Cisto sebáceo nas costas, uma bolinha sob a pele medida com paquímetro durante a consulta dermatológica"
+            widths={[400, 640, 960]}
+            sizes="(min-width: 860px) 40vw, 100vw"
+            loading="lazy"
+          />
+          <figcaption>Cisto nas costas, medido com paquímetro na consulta. Foto de paciente, publicada com autorização.</figcaption>
+        </figure>
       </div>
       <div class="prose">
         <p>
@@ -166,6 +177,9 @@ const faq = [
   .lead { font-size: 1.15rem; color: var(--muted); max-width: 52ch; }
   .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 20px; }
   .mt0 { margin-top: 0; }
+  .case-photo { margin: 24px 0 0; }
+  .case-photo :global(img) { width: 100%; height: auto; max-width: 420px; border-radius: 4px; }
+  .case-photo figcaption { font-size: 0.85rem; color: var(--muted); margin-top: 8px; max-width: 420px; }
   .steps { list-style: none; padding: 0; margin: 0; }
   @media (min-width: 600px) { .steps { grid-template-columns: repeat(2, 1fr); } }
   @media (min-width: 1000px) { .steps { grid-template-columns: repeat(4, 1fr); } }
