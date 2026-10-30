@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-10-30. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -10,6 +10,16 @@ Atualizado em 2026-10-29. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Perfil duplicado "Alexandre Yuji Okubo" (mostra concorrentes): remoção pedida em 2026-10-26, prazo de 48 h.
   Conferir em 28/10 se o perfil saiu do ar. Se não saiu, cobrar a Doctoralia.
 - [ ] Depois de tirar "medicina estética" do perfil, avisar o Claude. A URL do botão de agendamento contém "especialista-em-medicina-estetica" e pode mudar.
+- [ ] Pôr alexandreokubo.com.br como site do perfil. Em 2026-10-30 o perfil só linkava a Prime.
+
+### Site da Prime (renovação anunciada em 2026-10-30)
+Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "Vila Mariana" (o CEP 04038-032 é da Vila Clementino).
+- [ ] Antes de trocar o site, levantar as URLs atuais e os backlinks e fazer redirecionamentos 301 de cada URL antiga.
+- [ ] Bairro "Vila Clementino" em todo o site, igual ao Google e à Doctoralia.
+- [ ] Nome e CRM do responsável técnico visíveis (depende da confirmação no CREMESP).
+- [ ] Link do nome dele para https://alexandreokubo.com.br/sobre/ e schema `MedicalClinic` ligado a `https://alexandreokubo.com.br/#person`.
+- [ ] Um telefone principal (hoje aparecem 5549-1552, 2925-1552 e 94174-6037), igual no Google Business Profile.
+- [ ] Não copiar artigos do alexandreokubo.com.br. A Prime linka os artigos dele em vez de duplicá-los.
 
 ### Google Ads e GA4
 - [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
@@ -43,7 +53,11 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 
 ### Aguardando decisão dele
 - [ ] Quando ele melhorar os perfis do Google: acrescentá-los em `reviews` e em `sameAs` (`site.ts`), com a URL do Maps de cada um.
-- [ ] Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26): ceratose seborreica, lipoma, xantelasma, toxina botulínica, fios de PDO, olheiras, bioestimulador.
+- [ ] Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26). Ordem proposta em 30/10, pela análise competitiva
+  (nenhum concorrente local se posiciona em pequena cirurgia): lipoma, xantelasma, ceratose seborreica; depois toxina botulínica, fios de PDO, olheiras, bioestimulador.
+- [ ] Teleconsulta (confirmada por ele em 30/10): propor um parágrafo em `/onde-atendo/`.
+- [ ] Página de avaliação de pintas: dermatoscopia na consulta, sem mapeamento corporal total.
+- [ ] Medição no OpenSEO (autorizada em 30/10, com estimativa antes): SERP orgânica, grade do Maps e backlinks da Prime.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 

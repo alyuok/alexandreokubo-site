@@ -111,6 +111,9 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Injetáveis:** toxina botulínica; ácido hialurônico; bioestimuladores (ácido poli-L-láctico, hidroxiapatita de cálcio, policaprolactona); fios de PDO.
 - **Aparelhos:** luz intensa pulsada; Nd:YAG 1064 nm (inclui o modo toning; não tem pulso longo); Er:YAG ablativo; plasma; microagulhamento robótico;
   depilação com laser de diodo; laser Lunula para micose de unha (lasers e luz intensa pulsada só na Prime).
+  Ultrassom microfocado e laser de CO2: aluga quando necessário. Não citar no site.
+- **Pintas:** faz dermatoscopia na consulta. Não faz mapeamento corporal total; não prometa esse exame.
+- **Teleconsulta:** atende por teleconsulta (agendada pela Doctoralia).
 - **Melasma:** ácido tranexâmico oral quando indicado e com microagulhamento (drug delivery); Nd:YAG toning; peelings superficiais.
   Evita luz intensa pulsada no melasma.
 - **Acne:** prescreve espironolactona; usa isotretinoína em dose baixa; faz infiltração de corticoide em nódulos.
