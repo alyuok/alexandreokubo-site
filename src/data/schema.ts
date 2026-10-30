@@ -21,6 +21,7 @@ export function clinicSchema(loc: (typeof locations)[number]) {
     },
     geo: { '@type': 'GeoCoordinates', latitude: loc.geo.lat, longitude: loc.geo.lng },
     hasMap: mapLink(loc),
+    ...('maps' in loc && loc.maps && { sameAs: [loc.maps] }),
     ...(loc.phone && { telephone: telIntl(loc.phone) }),
   };
 }

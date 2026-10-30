@@ -25,6 +25,8 @@ export const doctor = {
     'https://www.youtube.com/@alexandreokubodermato',
     'https://www.tiktok.com/@alexandreokubo.dermato',
     'https://www.facebook.com/alexandreokubodermato',
+    // Perfil pessoal do Google (endereço da Clínica Portugal, Santo André).
+    'https://www.google.com/maps?cid=17347299322855016131',
   ],
   instagram: 'https://www.instagram.com/alexandreokubodermato/',
   // Redes exibidas no rodapé (também entram no sameAs acima).
@@ -45,9 +47,11 @@ export const booking = {
 
 // Avaliações de pacientes: só link para a plataforma, sem copiar textos nem marcar AggregateRating (CFM e
 // política do Google para autoavaliação). URL canônica do perfil, que não muda com a especialidade.
-// Perfis do Google entram quando estiverem prontos (ver PENDENCIAS.md).
+// label completa a frase "Ver avaliações …" na página Sobre.
 export const reviews = [
-  { label: 'Doctoralia', url: 'https://www.doctoralia.com.br/perfil/alexandre-okubo#profile-reviews' },
+  { label: 'na Doctoralia', url: 'https://www.doctoralia.com.br/perfil/alexandre-okubo#profile-reviews' },
+  { label: 'no Google (Santo André)', url: 'https://www.google.com/maps?cid=17347299322855016131' },
+  { label: 'no Google (Prime Dermatologia)', url: 'https://www.google.com/maps?cid=5301636228855317904' },
 ];
 
 // Medição. Vazio = nada é carregado.
@@ -78,6 +82,8 @@ export const locations = [
     name: 'Prime Dermatologia e Saúde Emocional',
     shortName: 'Prime Dermatologia',
     url: 'https://primedermatologia.com',
+    // Perfil da clínica no Google (cid conferido em 2026-10-30).
+    maps: 'https://www.google.com/maps?cid=5301636228855317904',
     street: 'Rua Borges Lagoa, 1065, conj. 144',
     district: 'Vila Clementino',
     city: 'São Paulo',
