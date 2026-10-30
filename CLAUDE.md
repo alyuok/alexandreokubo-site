@@ -114,6 +114,8 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
   Ultrassom microfocado e laser de CO2: aluga quando necessário. Não citar no site.
 - **Pintas:** faz dermatoscopia na consulta. Não faz mapeamento corporal total; não prometa esse exame.
 - **Teleconsulta:** atende por teleconsulta (agendada pela Doctoralia).
+- **Fotos de pacientes:** só com autorização escrita do paciente (confirmada em 30/10 para a unha encravada e o cisto), sem identificação e sem metadados (GPS, data).
+  Legenda: "Foto de paciente, publicada com autorização." Imagem com pus ou ferida aberta não vai para página que recebe anúncios.
 - **Melasma:** ácido tranexâmico oral quando indicado e com microagulhamento (drug delivery); Nd:YAG toning; peelings superficiais.
   Evita luz intensa pulsada no melasma.
 - **Acne:** prescreve espironolactona; usa isotretinoína em dose baixa; faz infiltração de corticoide em nódulos.
