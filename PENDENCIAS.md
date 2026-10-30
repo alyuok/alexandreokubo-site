@@ -40,6 +40,9 @@ Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "V
 - [ ] Confirmar no CREMESP o cargo registrado na Prime (diretor clínico ou técnico).
 - [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
+- [ ] Google: o perfil da Prime se chama "Clínica Prime Dermatologia"; o site e o schema usam "Prime Dermatologia e Saúde Emocional". Escolher um nome e usar igual nos dois.
+- [ ] Dizer se alguém contratou links para a Prime em setembro de 2026 (salto de 35 para 222 domínios, quase todos de spam).
+- [ ] Dizer se há perfil pessoal do Google no endereço da Prime, além do de Santo André.
 
 ### Site (auditoria de 29/10)
 - [ ] Foto da equipe: a do grupo enviada em 29/10 não pode ser usada (Carla Okubo aparece, com a mão no ombro dele). Se quiser foto da equipe no site, tirar outra só com ele e as funcionárias.
@@ -57,7 +60,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   (nenhum concorrente local se posiciona em pequena cirurgia): lipoma, xantelasma, ceratose seborreica; depois toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Teleconsulta (confirmada por ele em 30/10): propor um parágrafo em `/onde-atendo/`.
 - [ ] Página de avaliação de pintas: dermatoscopia na consulta, sem mapeamento corporal total.
-- [ ] Medição no OpenSEO (autorizada em 30/10, com estimativa antes): SERP orgânica, grade do Maps e backlinks da Prime.
+- [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
 
