@@ -14,6 +14,7 @@ Atualizado em 2026-10-30. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ### Site da Prime (renovação anunciada em 2026-10-30)
 Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "Vila Mariana" (o CEP 04038-032 é da Vila Clementino).
+Os backlinks são quase todos de spam e ninguém os contratou (confirmado por ele em 30/10): não há força de links a preservar nem motivo para "disavow".
 - [ ] Antes de trocar o site, levantar as URLs atuais e os backlinks e fazer redirecionamentos 301 de cada URL antiga.
 - [ ] Bairro "Vila Clementino" em todo o site, igual ao Google e à Doctoralia.
 - [ ] Nome e CRM do responsável técnico visíveis (depende da confirmação no CREMESP).
@@ -40,9 +41,9 @@ Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "V
 - [ ] Confirmar no CREMESP o cargo registrado na Prime (diretor clínico ou técnico).
 - [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
-- [ ] Google: o perfil da Prime se chama "Clínica Prime Dermatologia"; o site e o schema usam "Prime Dermatologia e Saúde Emocional". Escolher um nome e usar igual nos dois.
-- [ ] Dizer se alguém contratou links para a Prime em setembro de 2026 (salto de 35 para 222 domínios, quase todos de spam).
-- [ ] Dizer se há perfil pessoal do Google no endereço da Prime, além do de Santo André.
+- [ ] Google: renomear o perfil da Prime de "Clínica Prime Dermatologia" para "Prime Dermatologia e Saúde Emocional" (decidido em 30/10). O Google pode pedir nova verificação.
+- [ ] Perfil do Google da Prime: pedir avaliações novas, pôr fotos e lista de serviços. Na medição de 30/10, a Prime ficou em 6º na própria porta.
+  Não criar perfil pessoal no endereço da Prime por enquanto: dois perfis no mesmo endereço tendem a disputar a mesma vaga no Maps.
 
 ### Site (auditoria de 29/10)
 - [ ] Foto da equipe: a do grupo enviada em 29/10 não pode ser usada (Carla Okubo aparece, com a mão no ombro dele). Se quiser foto da equipe no site, tirar outra só com ele e as funcionárias.
@@ -55,6 +56,7 @@ Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "V
 Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
 
 ### Aguardando decisão dele
+- [ ] Unha encravada: nova abertura e seção "Quando procurar o médico" na prévia (branch `claude/eloquent-noether-ypbxpi`). Esperando o aprovado.
 - [ ] Próximos temas pela pesquisa de palavras-chave (Google Ads, 2026-10-26). Ordem proposta em 30/10, pela análise competitiva
   (nenhum concorrente local se posiciona em pequena cirurgia): lipoma, xantelasma, ceratose seborreica; depois toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Teleconsulta (confirmada por ele em 30/10): propor um parágrafo em `/onde-atendo/`.

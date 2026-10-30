@@ -26,6 +26,10 @@ const faq = [
     a: 'É o nome mais usado no Brasil para a cirurgia da unha encravada. Inclui a retirada da faixa lateral da unha que está encravando e a matricectomia, que remove a raiz dessa faixa para que ela não volte a crescer contra a pele.',
   },
   {
+    q: 'Unha encravada: podólogo ou dermatologista?',
+    a: 'Nos casos leves, os cuidados de podologia costumam ajudar. Procure o dermatologista quando a unha volta a encravar, quando há pus ou granuloma, se você tem diabetes ou má circulação, ou quando é preciso tratar a raiz da borda da unha. A cantoplastia com matricectomia é uma cirurgia feita por médico, com anestesia local.',
+  },
+  {
     q: 'Precisa tirar a unha inteira?',
     a: 'Não. Retirar a unha inteira é o tratamento com maior chance de o problema voltar, porque ela cresce de novo com o mesmo formato. Na cantoplastia, só a borda que encrava é retirada, e a unha fica um pouco mais estreita.',
   },
@@ -72,11 +76,11 @@ const faq = [
     <div class="wrap hero-grid">
       <div>
         <p class="eyebrow">Unhas · Vila Clementino (SP) e Santo André</p>
-        <h1>Unha encravada: tratamento no consultório, <em>sem tirar a unha inteira</em></h1>
+        <h1>Unha encravada que volta ou inflama: <em>tratamento com dermatologista</em></h1>
         <p class="lead">
-          Dor, vermelhidão, pus ou "carne esponjosa" no canto da unha? Antibiótico e "cantinho" cortado aliviam por
-          pouco tempo. Na avaliação com dermatologista, o tratamento é definido pelo grau da unha encravada, dos
-          cuidados para casos leves à cantoplastia com anestesia local.
+          Os cuidados de podologia ajudam em muitos casos leves. Quando a unha volta a encravar, inflama ou você tem
+          diabetes, o tratamento passa a ser médico. Na consulta, indico desde cuidados simples até a cantoplastia com
+          anestesia local, que retira só a borda que encrava.
         </p>
         <div class="actions">
           <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_encravada">Agendar pelo WhatsApp</a>
@@ -98,6 +102,28 @@ const faq = [
   </section>
 
   <section class="section section--white">
+    <div class="wrap grid grid--2">
+      <div>
+        <p class="eyebrow">Quando procurar o médico</p>
+        <h2 class="mt0">Sinais de que a unha encravada precisa de avaliação médica</h2>
+      </div>
+      <div class="prose">
+        <ul>
+          <li><strong>Volta a encravar:</strong> o mesmo lado da unha encrava de novo depois de cortes e cuidados repetidos.</li>
+          <li><strong>Infecção:</strong> pus, vermelhidão que se espalha pelo dedo ou febre.</li>
+          <li><strong>Granuloma:</strong> a "carne esponjosa" que cresce no canto da unha e sangra com facilidade.</li>
+          <li><strong>Diabetes ou má circulação:</strong> feridas nos pés cicatrizam pior e precisam de avaliação cedo.</li>
+          <li><strong>Dúvida no diagnóstico:</strong> unha grossa, micose ou uma lesão no canto da unha que não melhora.</li>
+        </ul>
+        <p>
+          Antibiótico e "cantinho" cortado aliviam por pouco tempo, porque a borda da unha continua entrando na pele.
+          Nesses casos, avalio se a cantoplastia está indicada.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
     <div class="wrap">
       <p class="eyebrow">Como funciona</p>
       <h2 class="mt0">Da avaliação ao acompanhamento</h2>
@@ -113,7 +139,7 @@ const faq = [
     </div>
   </section>
 
-  <section class="section">
+  <section class="section section--white">
     <div class="wrap grid grid--2">
       <div>
         <p class="eyebrow">Cantoplastia</p>
@@ -134,7 +160,7 @@ const faq = [
     </div>
   </section>
 
-  <section class="section section--white">
+  <section class="section">
     <div class="wrap">
       <Faq items={faq} />
     </div>
