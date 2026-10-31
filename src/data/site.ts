@@ -10,7 +10,7 @@ export const doctor = {
   specialty: 'Dermatologista',
   crm: 'CRM-SP 90.743',
   rqe: 'RQE 30.051',
-  role: 'Diretor técnico e clínico da Prime Dermatologia e Saúde Emocional',
+  role: 'Diretor técnico da Prime Dermatologia e Saúde Emocional',
   education: [
     { year: '1997', title: 'Graduação em Medicina', institution: 'Faculdade de Medicina da Universidade de São Paulo (FMUSP)' },
     { year: '2000', title: 'Residência Médica em Dermatologia', institution: 'Hospital das Clínicas da FMUSP' },
