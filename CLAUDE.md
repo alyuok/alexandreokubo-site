@@ -131,8 +131,8 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Suplementos:** biotina tem papel nas unhas frágeis. Oriente suspender 3 dias antes de exames de sangue.
   Não diga que a biotina "não tem benefício".
 - **Proteína:** cite a meta de ingestão e as fontes alimentares. Não há nutricionista parceiro, então não cite um.
-- **Cargo:** diretor técnico da Prime. Use sempre esse termo, nunca "diretor clínico" nem "responsável técnico" para o cargo na Prime (decisão dele em 31/10/2026).
-  O "Responsável técnico" do rodapé é outra coisa: identifica o médico responsável pelo próprio site e fica.
+- **Cargo:** diretor técnico da Prime. "Diretor técnico" e "responsável técnico" são sinônimos (confirmado por ele em 31/10/2026).
+  No texto sobre a Prime, use "diretor técnico". O "Responsável técnico" do rodapé pode ficar. Nunca "diretor clínico".
 - **Redes:** o handle é alexandreokubodermato. O TikTok é @alexandreokubo.dermato até a troca (ver PENDENCIAS.md).
 
 ## Medição
