@@ -1,6 +1,6 @@
 # Site do Dr. Alexandre Okubo (alexandreokubo.com.br)
 
-Dermatologista, CRM-SP 90.743, RQE 30.051. Diretor clínico da Prime Dermatologia e Saúde Emocional.
+Dermatologista, CRM-SP 90.743, RQE 30.051. Diretor técnico e clínico da Prime Dermatologia e Saúde Emocional.
 Objetivo do site: SEO, GEO e AEO, atrair pacientes particulares e construir autoridade.
 Astro 5 estático, GitHub alyuok/alexandreokubo-site, Cloudflare Pages (`npm run build`, saída `dist`, Node 22).
 Pendências abertas: `PENDENCIAS.md` (atualize ao concluir ou criar uma).
@@ -131,7 +131,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Suplementos:** biotina tem papel nas unhas frágeis. Oriente suspender 3 dias antes de exames de sangue.
   Não diga que a biotina "não tem benefício".
 - **Proteína:** cite a meta de ingestão e as fontes alimentares. Não há nutricionista parceiro, então não cite um.
-- **Cargo:** diretor clínico (não técnico).
+- **Cargo:** diretor técnico e clínico da Prime (confirmado por ele em 31/10/2026).
 - **Redes:** o handle é alexandreokubodermato. O TikTok é @alexandreokubo.dermato até a troca (ver PENDENCIAS.md).
 
 ## Medição

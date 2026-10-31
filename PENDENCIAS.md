@@ -38,7 +38,6 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
   3. Avisar o Claude, para atualizar `site.ts`.
 
 ### Cadastros
-- [ ] Confirmar no CREMESP o cargo registrado na Prime (diretor clínico ou técnico).
 - [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
 - [ ] Google: renomear o perfil da Prime de "Clínica Prime Dermatologia" para "Prime Dermatologia e Saúde Emocional" (decidido em 30/10). O Google pode pedir nova verificação.
