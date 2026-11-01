@@ -119,6 +119,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
   A recuperação varia caso a caso, então não cite prazo.
 - **Xantelasma e siringoma:** eletrocoagulação e plasma (siringoma nas duas clínicas).
 - **Verrugas:** crioterapia, eletrocoagulação e plasma. Atende verruga plantar e genital.
+  Para o paciente, "verruga" inclui ceratose seborreica, acrocórdon, fibroma mole e nevo em relevo: o conteúdo sobre verrugas diferencia todos.
 - **Pintas:** retira por raspagem (shaving) ou por excisão; faz dermatoscopia de cada lesão, sem mapeamento digital.
   Nem toda pinta vai para exame: escreva "quando indicado".
 - **Cistos e lipomas:** retira no consultório até 5 a 7 cm; os maiores, encaminha para cirurgia plástica.

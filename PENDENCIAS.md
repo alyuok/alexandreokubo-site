@@ -54,7 +54,8 @@ Decisão de 2026-10-28: na primeira fase, anúncios só para a Prime. A recepç�
 - [ ] Estratégia do Instagram (seguidores qualificados em SP). Prioridades definidas em 2026-10-28: laser para micose de unha, retirada de verrugas e pintas,
   retirada de cistos e lipomas, xantelasma e siringoma. Plano de 90 dias, calendário de 2/11 a 1/12 e 13 roteiros entregues em 2026-10-29:
   https://claude.ai/artifact/Efxsh8XUgybrNbngm8LMTG. Aguardando: revisão dos roteiros e as decisões da seção "Perguntas em aberto".
-  Calendário de dezembro: entregar até 20/11.
+  Calendário de dezembro: entregar até 20/11 (inclui "Por que a verruga volta", que saiu de novembro).
+  Falta a técnica de retirada da ceratose seborreica, do acrocórdon e do fibroma mole, e se faz nas duas clínicas (trava o vídeo 12, de 27/11).
 
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
