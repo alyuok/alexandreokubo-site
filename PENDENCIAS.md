@@ -17,7 +17,8 @@ Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "V
 Os backlinks são quase todos de spam e ninguém os contratou (confirmado por ele em 30/10): não há força de links a preservar nem motivo para "disavow".
 - [ ] Antes de trocar o site, levantar as URLs atuais e os backlinks e fazer redirecionamentos 301 de cada URL antiga.
 - [ ] Bairro "Vila Clementino" em todo o site, igual ao Google e à Doctoralia.
-- [ ] Nome e CRM do responsável técnico visíveis (depende da confirmação no CREMESP).
+- [ ] Nome, CRM e RQE do diretor técnico (Dr. Alexandre) visíveis.
+- [ ] Trocar "Diretor clínico da Prime Dermatologia" por "Diretor técnico" na home da Prime (visto em 30/10). Conferir também Doctoralia, LinkedIn e Instagram.
 - [ ] Link do nome dele para https://alexandreokubo.com.br/sobre/ e schema `MedicalClinic` ligado a `https://alexandreokubo.com.br/#person`.
 - [ ] Um telefone principal (hoje aparecem 5549-1552, 2925-1552 e 94174-6037), igual no Google Business Profile.
 - [ ] Não copiar artigos do alexandreokubo.com.br. A Prime linka os artigos dele em vez de duplicá-los.
