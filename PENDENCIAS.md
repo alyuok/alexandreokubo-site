@@ -31,8 +31,10 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Carla Okubo no site da Prime: é life coach e ainda não tem CRP. Só pode aparecer em gestão e bem-estar, sem linguagem clínica ("terapia", "tratamento", ansiedade, depressão).
   Formação enviada em 02/11 (toda de gestão e coaching, nenhuma clínica): pós lato sensu em Gestão Emocional nas Organizações (Einstein),
   coaching pessoal e executivo (ICI), International Professional Coach (ALAC), facilitadora de LEGO SERIOUS PLAY, analista comportamental (Persolog), Cultivating Emotional Balance (CEB).
-  Proposta: seção "Gestão de pessoas e cultura", separada da equipe médica, com 3 credenciais (Einstein, ICI, CEB). Sem "graduanda em psicologia" até o CRP.
-  Falta saber se ela atende pacientes ou clientes na Prime e, se atender, o que exatamente faz. No alexandreokubo.com.br, ela continua sem aparecer.
+  Em 02/11: ela não atende pacientes ("por enquanto") e auxilia na parte administrativa.
+  Proposta: aparecer só se "Quem somos" mostrar a equipe não médica; cargo "Administração", com 2 credenciais (Einstein, ICI). Sem "graduanda em psicologia" até o CRP.
+  A página "Saúde Emocional" fala do acolhimento da clínica, é assinada pelo Dr. Alexandre, não mira busca e linka os artigos dele sobre estresse e pele.
+  Se ela passar a atender antes do CRP (coaching, grupos), reavaliar antes de pôr qualquer coisa no site. No alexandreokubo.com.br, ela continua sem aparecer.
 - [ ] Dr. Guilherme Kenji Ito (grafia decidida em 02/11). Na Prime: nome, CRM-SP 156.804 e RQE 66.411 (Dermatologia), conferidos no portal do CRM antes de publicar.
   O site dele (drdermatokenji.com.br) fica fora da Prime, sem link e sem sameAs (decisão de 02/11). Motivo: depoimentos e superlativos no site dele.
   Falta: a autorização dele para assinar páginas da Prime e a confirmação da formação (USP e residência no HC, segundo o site dele).
