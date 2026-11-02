@@ -33,8 +33,10 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Dr. Guilherme Kenji Ito (grafia decidida em 02/11). Na Prime: nome, CRM-SP 156.804 e RQE 66.411 (Dermatologia), conferidos no portal do CRM antes de publicar.
   O site dele (drdermatokenji.com.br) fica fora da Prime, sem link e sem sameAs (decisão de 02/11). Motivo: depoimentos e superlativos no site dele.
   Falta: a autorização dele para assinar páginas da Prime e a confirmação da formação (USP e residência no HC, segundo o site dele).
-- [ ] O Dr. Guilherme tem perfil próprio no Google no endereço da Prime. Ver qual telefone o perfil usa: deve ser o dele, (11) 3090-3219, e não o principal da Prime (94174-6037).
-  O nome do perfil não pode ter "Prime". O Dr. Alexandre continua sem perfil pessoal no endereço da Prime: seriam três perfis disputando o mesmo endereço no Maps.
+- [ ] Perfil do Google do Dr. Guilherme (print de 02/11): "Dr. Guilherme Kenji", Dermatologista, Borges Lagoa 1065 (sem o conj. 144), 5,0 com 53 avaliações, (11) 3090-3219, site drdermatokenji.com.br.
+  O telefone está certo. Sugestão a ele: nome "Dr. Guilherme Kenji Ito" (há um "Dr. Kenji Nakahara" dermatologista em SP) e o conjunto no endereço. Mudar o nome pode exigir nova verificação.
+  O perfil da Prime mantém a categoria "Clínica de dermatologia", e não "Dermatologista", para não ser filtrado como duplicado do dele.
+  Na próxima medição do Maps, incluir o perfil dele na grade. Na medição de 30/10, a Prime ficou em 6º na própria porta.
 - [ ] Estética: dizer quem faz a depilação a laser e os peelings (esteticista ou médico).
 
 ### Google Ads e GA4
