@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-10-30. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-02. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -20,8 +20,18 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Nome, CRM e RQE do diretor técnico (Dr. Alexandre) visíveis.
 - [ ] Trocar "Diretor clínico da Prime Dermatologia" por "Diretor técnico" na home da Prime (visto em 30/10). Conferir também Doctoralia, LinkedIn e Instagram.
 - [ ] Link do nome dele para https://alexandreokubo.com.br/sobre/ e schema `MedicalClinic` ligado a `https://alexandreokubo.com.br/#person`.
-- [ ] Um telefone principal (hoje aparecem 5549-1552, 2925-1552 e 94174-6037), igual no Google Business Profile.
+- [ ] Telefone principal decidido em 02/11: (11) 94174-6037. Trocar no Google Business Profile (hoje 5549-1552), no Doctoralia, no Instagram e no site da Prime.
 - [ ] Não copiar artigos do alexandreokubo.com.br. A Prime linka os artigos dele em vez de duplicá-los.
+- [ ] Auditoria de 02/11 (PDF): fazer a Fase 0 (CFM e LGPD) na primedermatologia.com já, sem esperar o site novo.
+- [ ] Domínios (todos dele): clinicaprime.com.br (site antigo da Prime, desativado), clinicaprime.com (estacionado na GoDaddy, registrado em 2006), primedermatologia.com.br.
+  Verificar clinicaprime.com.br no Search Console como propriedade de domínio (TXT no DNS) e mandar ao Claude o relatório de links (páginas mais linkadas).
+  Proposta do Claude: site principal na primedermatologia.com, e os outros três com 301 por página para ela. Aguarda decisão.
+- [ ] Divisão proposta em 02/11, aguarda decisão: doenças e as páginas de destino atuais (micose, unha encravada, cisto) ficam no alexandreokubo.com.br;
+  procedimentos, aparelhos, Estética, equipe e unidade da Vila Clementino ficam na Prime. A Prime não terá página de Santo André (a Clínica Portugal é outro estabelecimento).
+- [ ] Carla Okubo no site da Prime: é life coach e ainda não tem CRP. Só pode aparecer em gestão e bem-estar, sem linguagem clínica ("terapia", "tratamento", ansiedade, depressão).
+  Falta o nome exato do curso do Einstein. No alexandreokubo.com.br, ela continua sem aparecer.
+- [ ] Dr. Guilherme Ito: confirmar CRM-SP e RQE no portal do CRM e a autorização dele para assinar páginas.
+- [ ] Estética: dizer quem faz a depilação a laser e os peelings (esteticista ou médico).
 
 ### Google Ads e GA4
 - [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
