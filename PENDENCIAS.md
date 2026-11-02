@@ -34,7 +34,7 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
   O site dele (drdermatokenji.com.br) fica fora da Prime, sem link e sem sameAs (decisão de 02/11). Motivo: depoimentos e superlativos no site dele.
   Falta: a autorização dele para assinar páginas da Prime e a confirmação da formação (USP e residência no HC, segundo o site dele).
 - [ ] O Dr. Guilherme tem perfil próprio no Google no endereço da Prime. Ver qual telefone o perfil usa: deve ser o dele, (11) 3090-3219, e não o principal da Prime (94174-6037).
-  O nome do perfil não pode ter "Prime". Ele não cria perfil pessoal no endereço da Prime: seriam três perfis disputando o mesmo endereço no Maps.
+  O nome do perfil não pode ter "Prime". O Dr. Alexandre continua sem perfil pessoal no endereço da Prime: seriam três perfis disputando o mesmo endereço no Maps.
 - [ ] Estética: dizer quem faz a depilação a laser e os peelings (esteticista ou médico).
 
 ### Google Ads e GA4
