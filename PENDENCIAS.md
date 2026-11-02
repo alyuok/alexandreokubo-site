@@ -30,11 +30,11 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
   procedimentos, aparelhos, Estética, equipe e unidade da Vila Clementino ficam na Prime. A Prime não terá página de Santo André (a Clínica Portugal é outro estabelecimento).
 - [ ] Carla Okubo no site da Prime: é life coach e ainda não tem CRP. Só pode aparecer em gestão e bem-estar, sem linguagem clínica ("terapia", "tratamento", ansiedade, depressão).
   Falta o nome exato do curso do Einstein. No alexandreokubo.com.br, ela continua sem aparecer.
-- [ ] Dr. Guilherme Ito: confirmar CRM-SP e RQE no portal do CRM e a autorização dele para assinar páginas.
-  Ele tem site próprio, drdermatokenji.com.br (lido em 02/11): página única, sem artigos, endereço da Prime, WhatsApp (11) 94174-6037 e fixo (11) 3090-3219.
-  Antes de a Prime linkar o site dele: tirar os depoimentos ("Melhor médico dermatologista que já vi") e as frases "resultados comprovados", "Dermatologia Premium" e "transformando vidas";
-  pôr "CRM-SP" e a especialidade junto do RQE; criar a política de privacidade (o link aponta para "#").
-  Definir a grafia canônica do nome (hoje: "Dr. Guilherme Kenji", "Guilherme Kenji Ito", "Guilherme K. Ito"), dizer de quem é o (11) 3090-3219 e se ele tem perfil próprio no Google nesse endereço.
+- [ ] Dr. Guilherme Kenji Ito (grafia decidida em 02/11). Na Prime: nome, CRM-SP 156.804 e RQE 66.411 (Dermatologia), conferidos no portal do CRM antes de publicar.
+  O site dele (drdermatokenji.com.br) fica fora da Prime, sem link e sem sameAs (decisão de 02/11). Motivo: depoimentos e superlativos no site dele.
+  Falta: a autorização dele para assinar páginas da Prime e a confirmação da formação (USP e residência no HC, segundo o site dele).
+- [ ] O Dr. Guilherme tem perfil próprio no Google no endereço da Prime. Ver qual telefone o perfil usa: deve ser o dele, (11) 3090-3219, e não o principal da Prime (94174-6037).
+  O nome do perfil não pode ter "Prime". Ele não cria perfil pessoal no endereço da Prime: seriam três perfis disputando o mesmo endereço no Maps.
 - [ ] Estética: dizer quem faz a depilação a laser e os peelings (esteticista ou médico).
 
 ### Google Ads e GA4
