@@ -31,6 +31,10 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Carla Okubo no site da Prime: é life coach e ainda não tem CRP. Só pode aparecer em gestão e bem-estar, sem linguagem clínica ("terapia", "tratamento", ansiedade, depressão).
   Falta o nome exato do curso do Einstein. No alexandreokubo.com.br, ela continua sem aparecer.
 - [ ] Dr. Guilherme Ito: confirmar CRM-SP e RQE no portal do CRM e a autorização dele para assinar páginas.
+  Ele tem site próprio, drdermatokenji.com.br (lido em 02/11): página única, sem artigos, endereço da Prime, WhatsApp (11) 94174-6037 e fixo (11) 3090-3219.
+  Antes de a Prime linkar o site dele: tirar os depoimentos ("Melhor médico dermatologista que já vi") e as frases "resultados comprovados", "Dermatologia Premium" e "transformando vidas";
+  pôr "CRM-SP" e a especialidade junto do RQE; criar a política de privacidade (o link aponta para "#").
+  Definir a grafia canônica do nome (hoje: "Dr. Guilherme Kenji", "Guilherme Kenji Ito", "Guilherme K. Ito"), dizer de quem é o (11) 3090-3219 e se ele tem perfil próprio no Google nesse endereço.
 - [ ] Estética: dizer quem faz a depilação a laser e os peelings (esteticista ou médico).
 
 ### Google Ads e GA4
