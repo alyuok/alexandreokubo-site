@@ -29,7 +29,10 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Divisão proposta em 02/11, aguarda decisão: doenças e as páginas de destino atuais (micose, unha encravada, cisto) ficam no alexandreokubo.com.br;
   procedimentos, aparelhos, Estética, equipe e unidade da Vila Clementino ficam na Prime. A Prime não terá página de Santo André (a Clínica Portugal é outro estabelecimento).
 - [ ] Carla Okubo no site da Prime: é life coach e ainda não tem CRP. Só pode aparecer em gestão e bem-estar, sem linguagem clínica ("terapia", "tratamento", ansiedade, depressão).
-  Falta o nome exato do curso do Einstein. No alexandreokubo.com.br, ela continua sem aparecer.
+  Formação enviada em 02/11 (toda de gestão e coaching, nenhuma clínica): pós lato sensu em Gestão Emocional nas Organizações (Einstein),
+  coaching pessoal e executivo (ICI), International Professional Coach (ALAC), facilitadora de LEGO SERIOUS PLAY, analista comportamental (Persolog), Cultivating Emotional Balance (CEB).
+  Proposta: seção "Gestão de pessoas e cultura", separada da equipe médica, com 3 credenciais (Einstein, ICI, CEB). Sem "graduanda em psicologia" até o CRP.
+  Falta saber se ela atende pacientes ou clientes na Prime e, se atender, o que exatamente faz. No alexandreokubo.com.br, ela continua sem aparecer.
 - [ ] Dr. Guilherme Kenji Ito (grafia decidida em 02/11). Na Prime: nome, CRM-SP 156.804 e RQE 66.411 (Dermatologia), conferidos no portal do CRM antes de publicar.
   O site dele (drdermatokenji.com.br) fica fora da Prime, sem link e sem sameAs (decisão de 02/11). Motivo: depoimentos e superlativos no site dele.
   Falta: a autorização dele para assinar páginas da Prime e a confirmação da formação (USP e residência no HC, segundo o site dele).
