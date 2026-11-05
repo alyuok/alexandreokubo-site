@@ -2,7 +2,7 @@
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import Faq from '../components/Faq.astro';
-import heroPhoto from '../assets/dermatoscopia-dr-alexandre-okubo-dermatologista-sao-paulo.webp';
+import heroPhoto from '../assets/avaliacao-de-pintas-dermatoscopia-dr-alexandre-okubo.webp';
 import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
 import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
 
@@ -87,16 +87,19 @@ const faq = [
         </div>
         <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
       </div>
+      <div>
       <figure class="framed-photo">
         <Image
           src={heroPhoto}
-          alt="Dr. Alexandre Okubo, dermatologista, examina a pele de um paciente com o dermatoscópio"
+          alt="Dr. Alexandre Okubo, dermatologista, examina uma pinta no braço de um paciente com o dermatoscópio acoplado ao celular"
           widths={[400, 640, 960]}
           sizes="(min-width: 860px) 40vw, 100vw"
           loading="eager"
           fetchpriority="high"
         />
       </figure>
+      <p class="photo-caption">Dermatoscopia na consulta. Foto de paciente, publicada com autorização.</p>
+      </div>
     </div>
   </section>
 
@@ -205,6 +208,8 @@ const faq = [
   .hero { padding: clamp(40px, 7vw, 88px) 0; }
   .hero-grid { display: grid; gap: 40px; align-items: center; }
   @media (min-width: 860px) { .hero-grid { grid-template-columns: 1.3fr 1fr; gap: 64px; } }
+  .hero-grid .framed-photo :global(img) { object-position: 50% 85%; }
+  .photo-caption { font-size: 0.85rem; color: var(--muted); margin: 8px 0 0; }
   .lead { font-size: 1.15rem; color: var(--muted); max-width: 52ch; }
   .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 20px; }
   .mt0 { margin-top: 0; }
