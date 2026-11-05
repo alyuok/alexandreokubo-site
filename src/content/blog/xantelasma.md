@@ -46,7 +46,7 @@ São estudos observacionais. Eles mostram associação, e não que a placa cause
 
 ### Quais exames pedir
 
-Na consulta, peço o perfil de lipídios (colesterol total, LDL, HDL e triglicérides) e, conforme o caso, glicemia e hormônios da tireoide. O diabetes e as alterações da tireoide também estão entre os gatilhos descritos. Quando os exames vêm alterados ou há outros fatores de risco, como pressão alta, cigarro ou infarto na família, oriento a avaliação com um cardiologista ou um endocrinologista.
+Na consulta, peço o perfil de lipídios (colesterol total, LDL, HDL e triglicérides) e, conforme o caso, glicemia e hormônios da tireoide. O diabetes e as alterações da tireoide também estão entre os gatilhos descritos. Quando os exames vêm alterados ou há outros fatores de risco, como pressão alta, cigarro ou infarto na família, encaminho para um cardiologista ou um endocrinologista.
 
 ## Como é o tratamento
 
@@ -60,6 +60,8 @@ Uma revisão de 2023 analisou 49 estudos, com 1.329 pacientes. As opções descr
 - **Eletrocirurgia, plasma e criocirurgia:** outras formas de remover as camadas superficiais da placa, usadas em lesões menores.
 
 A pele da pálpebra é fina, e o efeito colateral mais comum de todos os métodos foi a mudança de cor da pele no local (mais clara ou mais escura). Nas placas perto do canto do olho, retirar pele demais pode puxar a pálpebra para baixo. Por isso, em placas grandes, o tratamento pode ser feito em etapas.
+
+No consultório, uso o plasma e o ácido tricloroacético, escolhidos conforme o tamanho, a profundidade e o local da placa.
 
 ### O xantelasma pode voltar
 

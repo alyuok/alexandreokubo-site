@@ -67,12 +67,13 @@ Não. A ceratose seborreica não traz risco à saúde, e a retirada é uma escol
 
 ### Como é a retirada
 
-A retirada é feita no consultório, com anestesia local quando o método pede. As opções incluem:
+A retirada é feita no consultório, com anestesia local quando o método pede. Uso três métodos, nas duas clínicas:
 
 - **Criocirurgia:** congelamento com nitrogênio líquido. A lesão forma uma casca e cai.
-- **Curetagem ou raspagem (shaving):** a lesão é raspada da superfície da pele.
-- **Eletrocirurgia e plasma:** a energia remove a lesão camada por camada.
-- **Laser:** remove a lesão com energia luminosa.
+- **Eletrocoagulação:** uma corrente elétrica fina remove a lesão.
+- **Plasma:** a energia do plasma remove a lesão camada por camada.
+
+Existem também a curetagem, a raspagem (shaving) e o laser. A escolha depende do tamanho, do local e do número de lesões.
 
 Em um ensaio randomizado iraniano com 35 homens, um lado do corpo foi tratado com plasma e o outro, com criocirurgia. Depois de 6 semanas e duas sessões, 57% das lesões avaliadas no lado do plasma tinham sumido, contra 21% no lado da criocirurgia. O estudo foi pequeno e só incluiu homens.
 
@@ -80,7 +81,7 @@ Os tratamentos com cremes e soluções ainda têm efeito limitado. Uma solução
 
 Os efeitos colaterais possíveis de todos os métodos são mancha clara ou escura no local, cicatriz e volta da lesão.
 
-Quando há dúvida no diagnóstico, a lesão é retirada de um jeito que permita enviá-la para exame, como a curetagem ou a retirada com bisturi. Congelar ou vaporizar a lesão não deixa material para o microscópio.
+Congelar ou vaporizar a lesão não deixa material para o microscópio. Por isso, quando há dúvida no diagnóstico, retiro a lesão ou faço uma biópsia e envio para exame antes de tratar.
 
 ## Nem toda mancha escura e áspera é ceratose seborreica
 

@@ -45,7 +45,7 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 
 ### Site (auditoria de 29/10)
 - [ ] Foto da equipe: a do grupo enviada em 29/10 não pode ser usada (Carla Okubo aparece, com a mão no ombro dele). Se quiser foto da equipe no site, tirar outra só com ele e as funcionárias.
-- [ ] Foto do exame com a lupa (DermLite) guardada para a futura página de avaliação de pintas.
+- [ ] Enviar a foto do exame com a lupa (DermLite) para a página `/avaliacao-de-pintas/` (aprovada por ele em 05/11). Sem identificação do paciente e sem metadados.
 - [ ] Para completar as páginas das unidades: horários, metrô e estacionamento, acessibilidade, convênios da Clínica Portugal e regras de cancelamento.
 
 ## Do lado do Claude (próximas sessões)
@@ -53,7 +53,7 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 ### Auditoria de 29/10 (publicada em 29/10)
 Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
 
-### Prévia enviada em 05/11, aguardando respostas e o "aprovado"
+### Prévia enviada em 05/11, respostas aplicadas, aguardando o "aprovado"
 - [ ] Rascunhos: `/blog/lipoma/`, `/blog/xantelasma/`, `/blog/ceratose-seborreica/`.
   Na publicação, entram no `Related` da cirurgia dermatológica.
 - [ ] Página nova `/avaliacao-de-pintas/` (a home passa a linkar para ela), parágrafo de teleconsulta em `/onde-atendo/`.

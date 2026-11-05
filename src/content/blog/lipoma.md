@@ -59,7 +59,7 @@ O lipoma comum é benigno, mas existem tumores de gordura menos inocentes, como 
 
 As revisões de ortopedia oncológica usam dois critérios simples. O primeiro é o tamanho: acima de 5 cm. O segundo é a profundidade: abaixo da fáscia, a membrana que cobre os músculos. Uma revisão de 2018 recomenda ressonância magnética para toda massa abaixo da fáscia e para as de mais de 5 cm no subcutâneo. Uma revisão francesa propõe começar pelo ultrassom, que mede o tamanho, mostra a profundidade e avalia a circulação dentro do nódulo.
 
-Na consulta, peço exame de imagem antes de operar quando o nódulo:
+Quando há dúvida, peço um ultrassom antes de operar. Os sinais que levantam a dúvida são o nódulo que:
 
 - **Passa de 5 cm.**
 - **Parece fixo ou profundo,** preso ao músculo.
@@ -67,7 +67,7 @@ Na consulta, peço exame de imagem antes de operar quando o nódulo:
 - **Ficou endurecido** ou tem consistência diferente da habitual.
 - **Voltou** depois de uma retirada anterior.
 
-Nesses casos, o tratamento pode precisar de um cirurgião de tumores de partes moles, e encaminho para essa especialidade. Operar um lipossarcoma como se fosse um lipoma comum pode deixar parte do tumor para trás e dificultar o tratamento depois.
+Os lipomas grandes encaminho para um cirurgião, e a cirurgia é feita no hospital. Operar um lipossarcoma como se fosse um lipoma comum pode deixar parte do tumor para trás e dificultar o tratamento depois.
 
 ## Como é a retirada
 

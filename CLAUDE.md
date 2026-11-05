@@ -127,6 +127,11 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
   Ácido hialurônico quando o peso estiver mais estável.
 - **Rosácea:** usa sobretudo luz intensa pulsada e Nd:YAG em alguns casos; isotretinoína em dose baixa nos refratários.
   Não usa gel vasoconstritor (brimonidina). Rinofima muito exuberante: encaminha para cirurgia.
+- **Xantelasma:** trata com plasma e ácido tricloroacético. Colesterol alterado: encaminha para cardiologia ou endocrinologia.
+- **Ceratose seborreica:** criocirurgia, eletrocoagulação e plasma, nas duas clínicas. Na dúvida diagnóstica, envia para exame.
+- **Lipoma:** na dúvida, pede ultrassom. Lipomas grandes: encaminha para cirurgião, com cirurgia no hospital. Em geral, envia a peça para exame.
+- **Pintas (mapeamento):** quando o mapeamento corporal total é indicado, orienta onde fazer.
+- **Teleconsulta:** por vídeo. Pintas, primeira consulta de lesões e procedimentos só no presencial.
 - **Menopausa:** pelos indesejados com laser de diodo. O número de 30% de perda de colágeno está autorizado.
 - **Suplementos:** biotina tem papel nas unhas frágeis. Oriente suspender 3 dias antes de exames de sangue.
   Não diga que a biotina "não tem benefício".
