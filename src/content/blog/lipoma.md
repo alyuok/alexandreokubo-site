@@ -24,7 +24,7 @@ status: rascunho
 
 ## O que é o lipoma
 
-O lipoma é um tumor benigno formado por células de gordura, parecidas com as da gordura normal do corpo, agrupadas num nódulo envolvido por uma camada fina. Ele fica logo abaixo da pele, no tecido gorduroso (subcutâneo). A palavra "tumor" assusta, mas aqui ela só quer dizer "um volume que cresceu": o lipoma comum quase sempre é benigno.
+O lipoma é um nódulo benigno formado por células de gordura, parecidas com as da gordura normal do corpo e envolvidas por uma camada fina. Ele fica logo abaixo da pele, no tecido gorduroso (subcutâneo).
 
 Ele aparece em qualquer idade, mas costuma surgir entre os 40 e os 60 anos. Os locais mais comuns são a cabeça, o pescoço, os ombros e as costas.
 
@@ -36,7 +36,7 @@ Ele aparece em qualquer idade, mas costuma surgir entre os 40 e os 60 anos. Os l
 - **Crescimento lento,** ao longo de meses ou anos.
 - **Pele por cima normal,** sem ponto escuro central e sem vermelhidão.
 
-Algumas pessoas têm vários lipomas. Raramente, eles fazem parte de uma condição hereditária, como a lipomatose múltipla hereditária. Há também variantes, como o angiolipoma, que tem mais vasos e pode doer ao toque.
+Algumas pessoas têm vários lipomas. Raramente, isso faz parte de uma condição que passa de pais para filhos, a lipomatose múltipla hereditária. Há também variantes, como o angiolipoma, que tem mais vasos e pode doer ao toque.
 
 ## Por que aparece
 
@@ -55,11 +55,9 @@ Os motivos para retirar são:
 
 ## Quando o lipoma precisa de exame de imagem
 
-O lipoma comum é benigno, mas existem tumores de gordura menos inocentes, como o tumor lipomatoso atípico e o lipossarcoma, que podem ser parecidos ao toque. A diferença costuma estar no tamanho, na profundidade e no comportamento.
+O lipoma comum é benigno, mas existem tumores de gordura menos inocentes, como o tumor lipomatoso atípico e o lipossarcoma, que podem ser parecidos ao toque. As revisões de ortopedia oncológica separam os casos pelo tamanho, acima de 5 cm, e pela profundidade, abaixo da fáscia (a membrana que cobre os músculos). Uma revisão de 2018 recomenda ressonância magnética para toda massa abaixo da fáscia e para as de mais de 5 cm no subcutâneo. Uma revisão francesa propõe começar pelo ultrassom, que mede o tamanho, mostra a profundidade e avalia a circulação dentro do nódulo.
 
-As revisões de ortopedia oncológica usam dois critérios simples. O primeiro é o tamanho: acima de 5 cm. O segundo é a profundidade: abaixo da fáscia, a membrana que cobre os músculos. Uma revisão de 2018 recomenda ressonância magnética para toda massa abaixo da fáscia e para as de mais de 5 cm no subcutâneo. Uma revisão francesa propõe começar pelo ultrassom, que mede o tamanho, mostra a profundidade e avalia a circulação dentro do nódulo.
-
-Quando há dúvida, peço um ultrassom antes de operar. Os sinais que levantam a dúvida são o nódulo que:
+Quando há dúvida, peço um ultrassom antes de operar. Desconfio mais quando o nódulo:
 
 - **Passa de 5 cm.**
 - **Parece fixo ou profundo,** preso ao músculo.
@@ -67,7 +65,7 @@ Quando há dúvida, peço um ultrassom antes de operar. Os sinais que levantam a
 - **Ficou endurecido** ou tem consistência diferente da habitual.
 - **Voltou** depois de uma retirada anterior.
 
-Os lipomas grandes encaminho para um cirurgião, e a cirurgia é feita no hospital. Operar um lipossarcoma como se fosse um lipoma comum pode deixar parte do tumor para trás e dificultar o tratamento depois.
+Encaminho os lipomas grandes para um cirurgião, e a cirurgia é feita no hospital. Operar um lipossarcoma como se fosse um lipoma comum pode deixar parte do tumor para trás e dificultar o tratamento depois.
 
 ## Como é a retirada
 
@@ -94,6 +92,6 @@ Os cuidados são com o curativo e, quando há pontos, com a retirada deles depoi
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se a bolinha é nova e você não sabe o que é, se incomoda, se cresceu ou se mudou de consistência. Procure avaliação sem demora se o nódulo passou de 5 cm, cresceu rápido ou parece preso ao músculo, porque esses casos pedem exame de imagem antes de qualquer cirurgia.
+Procure avaliação se a bolinha é nova e você não sabe o que é, se incomoda, se cresceu ou se mudou de consistência. Não espere se o nódulo passou de 5 cm, cresceu rápido ou parece preso ao músculo, porque esses casos pedem exame de imagem antes de qualquer cirurgia.
 
 Veja como é feita a retirada de lipomas, cistos e outras lesões na [cirurgia dermatológica](/cirurgia-dermatologica/).

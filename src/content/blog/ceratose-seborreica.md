@@ -24,7 +24,7 @@ status: rascunho
 
 ## O que é a ceratose seborreica
 
-A ceratose seborreica é o tumor benigno mais comum da pele. "Tumor", aqui, quer dizer só que é um crescimento de células: ela é formada por células da camada mais superficial da pele (a epiderme), que se multiplicam e se empilham. Não é verruga, porque não é causada por vírus, e não passa de uma pessoa para outra.
+A ceratose seborreica é a lesão benigna mais comum da pele. Ela é formada por células da camada mais superficial da pele (a epiderme), que se multiplicam e se empilham. Não é verruga, porque não é causada por vírus, e não passa de uma pessoa para outra.
 
 ### Como reconhecer
 
@@ -37,7 +37,7 @@ Ela é mais comum em adultos mais velhos, e o número de lesões aumenta com a i
 
 ## Por que aparece
 
-A idade é o fator mais forte. A predisposição genética também pesa: é comum ver várias pessoas da mesma família com muitas lesões. O sol parece contribuir, e a ceratose está ligada ao envelhecimento da pele causado por fatores externos, como a radiação ultravioleta.
+A idade é o fator mais forte. A predisposição genética também pesa: é comum ver várias pessoas da mesma família com muitas lesões. O sol parece contribuir, porque a ceratose está ligada ao envelhecimento da pele causado pela radiação ultravioleta.
 
 Ela não está relacionada a falta de higiene nem à oleosidade da pele, apesar do nome "seborreica".
 
@@ -55,11 +55,11 @@ Faço a dermatoscopia nas lesões escuras durante a consulta. Quando ela não de
 
 ### Quando muitas aparecem de repente
 
-O surgimento rápido de muitas ceratoses, em poucas semanas ou meses, pode raramente estar associado a um câncer interno. Esse quadro é chamado de sinal de Leser-Trélat. Ele é raro, e a ceratose que aparece devagar ao longo dos anos não tem esse significado. Mas, se várias surgirem de uma vez, conte na consulta.
+Muito raramente, o surgimento de muitas ceratoses em poucas semanas ou meses está associado a um câncer interno. Esse quadro é chamado de sinal de Leser-Trélat. A ceratose que aparece devagar ao longo dos anos não tem esse significado. Mas, se várias surgirem de uma vez, conte na consulta.
 
 ## Precisa tirar?
 
-Não. A ceratose seborreica não traz risco à saúde, e a retirada é uma escolha do paciente. Os motivos mais comuns são:
+A ceratose seborreica não traz risco à saúde, então a retirada é uma escolha do paciente. Os motivos mais comuns são:
 
 - **Incômodo estético,** sobretudo no rosto.
 - **Atrito** com a roupa, o sutiã ou o cinto, que irrita a lesão.
@@ -77,7 +77,7 @@ Existem também a curetagem, a raspagem (shaving) e o laser. A escolha depende d
 
 Em um ensaio randomizado iraniano com 35 homens, um lado do corpo foi tratado com plasma e o outro, com criocirurgia. Depois de 6 semanas e duas sessões, 57% das lesões avaliadas no lado do plasma tinham sumido, contra 21% no lado da criocirurgia. O estudo foi pequeno e só incluiu homens.
 
-Os tratamentos com cremes e soluções ainda têm efeito limitado. Uma solução de peróxido de hidrogênio a 40% teve resultados promissores em ensaios clínicos, sobretudo no rosto.
+Os tratamentos com cremes e soluções ainda têm efeito limitado. Uma solução de peróxido de hidrogênio a 40% foi testada em ensaios clínicos e pode vir a ser uma alternativa, sobretudo no rosto.
 
 Os efeitos colaterais possíveis de todos os métodos são mancha clara ou escura no local, cicatriz e volta da lesão.
 

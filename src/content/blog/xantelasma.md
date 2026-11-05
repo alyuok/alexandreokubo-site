@@ -30,7 +30,7 @@ status: rascunho
 
 O xantelasma é uma placa amarelada, plana ou levemente elevada, macia ao toque, que aparece nas pálpebras. O local mais comum é o canto interno da pálpebra de cima, perto do nariz. Muitas vezes surge dos dois lados.
 
-Ele é formado por células de defesa da pele que acumulam gordura dentro delas, e é o tipo mais comum de xantoma, o nome dado aos depósitos de gordura na pele. O xantelasma não dói, não coça e não atrapalha a visão. Mas tende a crescer devagar e raramente some sozinho.
+Ele é formado por células de defesa da pele que acumulam gordura dentro delas, e é o tipo mais comum de xantoma, o nome dado aos depósitos de gordura na pele. Ele não dói nem atrapalha a visão, mas tende a crescer devagar e raramente some sozinho.
 
 ## O que o xantelasma tem a ver com o colesterol
 
@@ -61,7 +61,7 @@ Uma revisão de 2023 analisou 49 estudos, com 1.329 pacientes. As opções descr
 
 A pele da pálpebra é fina, e o efeito colateral mais comum de todos os métodos foi a mudança de cor da pele no local (mais clara ou mais escura). Nas placas perto do canto do olho, retirar pele demais pode puxar a pálpebra para baixo. Por isso, em placas grandes, o tratamento pode ser feito em etapas.
 
-No consultório, uso o plasma e o ácido tricloroacético, escolhidos conforme o tamanho, a profundidade e o local da placa.
+No consultório, uso o plasma e o ácido tricloroacético. A escolha entre os dois depende da placa.
 
 ### O xantelasma pode voltar
 
@@ -76,6 +76,6 @@ Pode, com qualquer técnica. Por isso, o acompanhamento inclui controlar o coles
 
 ## Quando procurar um dermatologista
 
-Procure avaliação quando a placa aparecer, mesmo que não incomode, para confirmar o diagnóstico e pedir os exames de sangue. Ela pode ser o motivo para medir um colesterol que ninguém mediu ainda. Procure também se a placa cresceu, se ficou endurecida ou se voltou depois de um tratamento.
+Procure avaliação quando a placa aparecer, mesmo que não incomode, para confirmar o diagnóstico e pedir os exames de sangue. Procure também se a placa cresceu, se ficou endurecida ou se voltou depois de um tratamento.
 
 Veja como são tratados o xantelasma e outras lesões benignas na [cirurgia dermatológica](/cirurgia-dermatologica/).
