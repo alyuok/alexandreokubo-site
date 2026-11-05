@@ -51,6 +51,10 @@ O risco é de confusão: algumas ceratoses são muito parecidas com um melanoma,
 
 A dermatoscopia é um exame feito na consulta, com uma lente de aumento e luz especial encostada na pele. Ela mostra estruturas que não aparecem a olho nu. Na ceratose seborreica, por exemplo, aparecem pequenos cistos brancos e aberturas parecidas com cravos, que ajudam a confirmar o diagnóstico.
 
+![Ceratose seborreica vista no dermatoscópio: lesão marrom de bordas bem definidas, com pontos escuros e áreas mais claras, ao lado de uma régua](../../assets/ceratose-seborreica-dermatoscopia.webp)
+
+*Ceratose seborreica vista no dermatoscópio, com a régua do aparelho ao lado. Os pontos escuros são as aberturas parecidas com cravos. Foto de paciente, publicada com autorização.*
+
 Faço a dermatoscopia nas lesões escuras durante a consulta. Quando ela não deixa o diagnóstico claro, faço a biópsia, e o exame ao microscópio confirma o que é. Explico como funciona a [avaliação de pintas](/avaliacao-de-pintas/) no consultório.
 
 ### Quando muitas aparecem de repente
