@@ -21,7 +21,7 @@ sources:
     url: 'https://pubmed.ncbi.nlm.nih.gov/39758222/'
   - label: 'Scarano A et al. Xanthelasma palpebrarum removed with atmospheric plasma technique: 11-year follow up. J Biol Regul Homeost Agents, 2021'
     url: 'https://doi.org/10.23812/21-2supp1-18'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, apareceu uma mancha amarela no canto do olho. Minha mãe tinha igual. É gordura?" É gordura, sim. E o passo seguinte é olhar o colesterol.

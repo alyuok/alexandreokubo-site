@@ -17,7 +17,7 @@ sources:
     url: 'https://doi.org/10.1097/CMR.0000000000000756'
   - label: 'Noorbakhsh M et al. Comparing the efficacy of plasma exeresis and cryotherapy for the treatment of seborrheic keratosis: a randomized controlled trial. Skin Res Technol, 2023'
     url: 'https://doi.org/10.1111/srt.13429'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, estão aparecendo umas manchas escuras e ásperas nas costas. Parecem verrugas. Minha pele está envelhecendo ou é algo pior?" Na maioria das vezes, são ceratoses seborreicas.

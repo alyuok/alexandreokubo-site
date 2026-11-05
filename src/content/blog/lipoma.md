@@ -17,7 +17,7 @@ sources:
     url: 'https://doi.org/10.1007/s00405-014-3065-8'
   - label: 'Park JK et al. Minimal one-third incision and four-step (MOTIF) excision method for lipoma. Biomed Res Int, 2021'
     url: 'https://doi.org/10.1155/2021/4331250'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, apareceu uma bolinha mole no meu ombro. Não dói, mas está aí há uns dois anos e acho que cresceu um pouco." Na consulta, a maioria dessas bolinhas é um lipoma.

@@ -53,13 +53,8 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 ### Auditoria de 29/10 (publicada em 29/10)
 Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
 
-### Prévia enviada em 05/11, respostas aplicadas, aguardando o "aprovado"
-- [ ] Rascunhos: `/blog/lipoma/`, `/blog/xantelasma/`, `/blog/ceratose-seborreica/`.
-  Na publicação, entram no `Related` da cirurgia dermatológica.
-- [ ] Página nova `/avaliacao-de-pintas/` (a home passa a linkar para ela), parágrafo de teleconsulta em `/onde-atendo/`.
-- [ ] Próximos temas, depois desses: toxina botulínica, fios de PDO, olheiras, bioestimulador.
-
 ### Aguardando decisão dele
+- [ ] Próximos temas: toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
   Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
