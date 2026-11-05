@@ -45,7 +45,6 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 
 ### Site (auditoria de 29/10)
 - [ ] Foto da equipe: a do grupo enviada em 29/10 não pode ser usada (Carla Okubo aparece, com a mão no ombro dele). Se quiser foto da equipe no site, tirar outra só com ele e as funcionárias.
-- [ ] Enviar a foto do exame com a lupa (DermLite) para a página `/avaliacao-de-pintas/` (aprovada por ele em 05/11). Sem identificação do paciente e sem metadados.
 - [ ] Para completar as páginas das unidades: horários, metrô e estacionamento, acessibilidade, convênios da Clínica Portugal e regras de cancelamento.
 
 ## Do lado do Claude (próximas sessões)
