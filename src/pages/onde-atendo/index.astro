@@ -1,11 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Cta from '../../components/Cta.astro';
-import { locations, telIntl } from '../../data/site';
+import { locations, booking, telIntl } from '../../data/site';
 
 const title = 'Onde atendo: Vila Clementino (SP) e Santo André';
 const description =
-  'Locais de atendimento do Dr. Alexandre Okubo, dermatologista: Prime Dermatologia, na Vila Clementino, em São Paulo, e Clínica Portugal, em Santo André.';
+  'Locais de atendimento do Dr. Alexandre Okubo, dermatologista: Prime Dermatologia, na Vila Clementino, em São Paulo, e Clínica Portugal, em Santo André. Também atende por teleconsulta.';
 ---
 <Base title={title} description={description} breadcrumbs={[{ name: 'Onde atendo', href: '/onde-atendo/' }]}>
   <div class="wrap page-head">
@@ -23,6 +23,17 @@ const description =
           <a href={`/onde-atendo/${l.slug}/`}>Detalhes e como chegar →</a>
         </div>
       ))}
+    </div>
+  </section>
+  <section class="section">
+    <div class="wrap prose">
+      <h2 class="h3">Teleconsulta</h2>
+      <p>
+        Também atendo por teleconsulta, por vídeo, agendada pelo <a href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_teleconsulta">Doctoralia</a>.
+        Ela funciona bem para retornos, para acompanhar um tratamento em andamento e para conversar sobre resultados de
+        exames. A avaliação de pintas com dermatoscopia, a primeira consulta de lesões que precisam ser tocadas e os
+        procedimentos pedem a consulta presencial.
+      </p>
     </div>
   </section>
   <Cta />

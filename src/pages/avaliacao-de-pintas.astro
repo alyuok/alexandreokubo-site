@@ -1,0 +1,225 @@
+---
+import { Image } from 'astro:assets';
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import heroPhoto from '../assets/dermatoscopia-dr-alexandre-okubo-dermatologista-sao-paulo.webp';
+import { doctor, booking, locations, SITE_URL, telIntl, waLink } from '../data/site';
+import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
+
+// Avaliação de pintas com dermatoscopia na consulta. Não oferecer mapeamento corporal total (decisão dele).
+const prime = locations.find((l) => l.slug === 'prime-dermatologia')!;
+const url = `${SITE_URL}/avaliacao-de-pintas/`;
+const title = 'Avaliação de pintas com dermatoscopia em São Paulo e Santo André';
+const description =
+  'Avaliação de pintas com dermatologista: exame da pele com dermatoscopia na consulta, sinais de alerta do melanoma, quando retirar e quando acompanhar. Vila Clementino (SP) e Santo André.';
+
+const steps = [
+  { t: 'Conversa', d: 'Pergunto há quanto tempo a pinta existe, se mudou, se coça ou sangra, e se há casos de melanoma na família ou história de queimaduras de sol.' },
+  { t: 'Exame da pele', d: 'Examino a pinta que preocupa e as outras áreas da pele, procurando a que destoa das demais.' },
+  { t: 'Dermatoscopia', d: 'Com o dermatoscópio, uma lente de aumento com luz especial, vejo estruturas da pinta que não aparecem a olho nu.' },
+  { t: 'Conduta', d: 'Explico o que encontrei. A pinta pode ser só acompanhada, ou retirada e enviada para exame ao microscópio.' },
+];
+
+const signs = [
+  { t: 'A de assimetria', d: 'Uma metade não é igual à outra.' },
+  { t: 'B de bordas', d: 'Bordas irregulares, serrilhadas ou mal definidas.' },
+  { t: 'C de cor', d: 'Mais de uma cor na mesma pinta: marrom, preto, vermelho, azul ou branco.' },
+  { t: 'D de diâmetro', d: 'Maior que 6 mm, o tamanho de uma borracha de lápis.' },
+  { t: 'E de evolução', d: 'Mudança de tamanho, forma ou cor, ou um sintoma novo, como coceira ou sangramento.' },
+];
+
+const faq = [
+  {
+    q: 'A dermatoscopia dói?',
+    a: 'Não. O dermatoscópio é encostado na pele ou posicionado logo acima dela, e o exame é feito durante a consulta, sem corte e sem preparo.',
+  },
+  {
+    q: 'Toda pinta precisa ser retirada?',
+    a: 'Não. A maioria das pintas é benigna e pode ficar onde está. A retirada é indicada quando a pinta tem sinais de alerta, quando a dermatoscopia deixa dúvida ou quando ela incomoda.',
+  },
+  {
+    q: 'A pinta retirada vai para exame?',
+    a: 'Sim, quando há qualquer suspeita. O exame anatomopatológico, feito ao microscópio, confirma o diagnóstico e define se é preciso algum cuidado adicional.',
+  },
+  {
+    q: 'Com que frequência devo examinar as pintas?',
+    a: 'Depende do seu risco. Quem tem muitas pintas, pintas atípicas, pele muito clara, história de queimaduras de sol ou melanoma na família costuma precisar de revisões mais frequentes. Defino o intervalo na consulta.',
+  },
+  {
+    q: 'Vocês fazem mapeamento corporal total?',
+    a: 'Não. A avaliação é feita com o exame da pele e a dermatoscopia das pintas que precisam de atenção, durante a consulta. Quando o mapeamento corporal total é indicado, oriento onde fazê-lo.',
+  },
+  {
+    q: 'Pinta que coça ou sangra é câncer?',
+    a: 'Não necessariamente. Uma pinta pode coçar ou sangrar por atrito ou trauma. Mas uma pinta que muda, coça ou sangra sem motivo deve ser examinada.',
+  },
+];
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Avaliação de pintas', href: '/avaliacao-de-pintas/' }]}
+  schema={[
+    medicalPageSchema({ url, name: title, description, about: ['Nevo melanocítico', 'Melanoma', 'Dermatoscopia', 'Câncer de pele'] }),
+    {
+      '@type': 'MedicalProcedure',
+      name: 'Avaliação de pintas com dermatoscopia',
+      alternateName: ['Dermatoscopia', 'Exame de pintas'],
+      procedureType: 'https://schema.org/NoninvasiveProcedure',
+      howPerformed: 'Exame da pele e dermatoscopia das pintas durante a consulta dermatológica, com retirada e exame anatomopatológico quando indicado.',
+      provider: locations.map((l) => ({ '@id': clinicId(l.slug) })),
+    },
+    faqSchema(faq),
+  ]}
+>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Dermatologia clínica · Vila Clementino (SP) e Santo André</p>
+        <h1>Avaliação de pintas, <em>com dermatoscopia na consulta</em></h1>
+        <p class="lead">
+          Uma pinta nova, uma que mudou de cor ou uma que você nunca reparou direito? Na consulta, examino a pele e
+          olho as pintas com o dermatoscópio, para separar o que pode só ser acompanhado do que precisa ser retirado.
+        </p>
+        <div class="actions">
+          <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_pintas">Agendar pelo WhatsApp</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_pintas">Agendar pelo Doctoralia</a>
+        </div>
+        <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
+      </div>
+      <figure class="framed-photo">
+        <Image
+          src={heroPhoto}
+          alt="Dr. Alexandre Okubo, dermatologista, examina a pele de um paciente com o dermatoscópio"
+          widths={[400, 640, 960]}
+          sizes="(min-width: 860px) 40vw, 100vw"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </figure>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <p class="eyebrow">Como funciona</p>
+      <h2 class="mt0">Da conversa à conduta</h2>
+      <ol class="grid grid--2 steps">
+        {steps.map((s, i) => (
+          <li class="card">
+            <span class="num">{i + 1}</span>
+            <h3>{s.t}</h3>
+            <p>{s.d}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap grid grid--2">
+      <div class="prose">
+        <p class="eyebrow">O exame</p>
+        <h2 class="mt0">O que a dermatoscopia acrescenta</h2>
+        <p>
+          A olho nu, uma pinta benigna e um melanoma inicial podem ser muito parecidos. O dermatoscópio aumenta a
+          imagem e usa uma luz que atravessa o brilho da superfície da pele. Com ele, aparecem os desenhos de
+          pigmento e de vasos que ajudam a diferenciar uma lesão da outra.
+        </p>
+        <p>
+          Uma revisão Cochrane reuniu 104 estudos com mais de 42 mil lesões. No exame presencial, a dermatoscopia
+          somada ao olho do médico identificou mais melanomas do que o exame a olho nu: 92% contra 76%, numa mesma
+          taxa de acerto para as lesões benignas. Ela também ajuda a evitar a retirada de pintas que não precisavam sair.
+        </p>
+        <p>
+          A dermatoscopia não substitui o exame ao microscópio. Quando ela deixa dúvida, retiro a pinta e a envio
+          para exame anatomopatológico, que confirma o diagnóstico.
+        </p>
+        <p>
+          A avaliação é feita na consulta, pinta por pinta. Não faço mapeamento corporal total, o exame com fotos de
+          todo o corpo para comparar ao longo do tempo. Quando ele é indicado, oriento onde fazê-lo.
+        </p>
+      </div>
+      <div>
+        <p class="eyebrow">Sinais de alerta</p>
+        <h2 class="mt0">A regra do ABCDE</h2>
+        <ul class="signs">
+          {signs.map((s) => (
+            <li><strong>{s.t}:</strong> {s.d}</li>
+          ))}
+        </ul>
+        <p class="note">
+          Também merece exame a pinta que destoa das outras, chamada de "patinho feio", e qualquer ferida que não
+          cicatriza em algumas semanas.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap prose">
+      <p class="eyebrow">Quem deve examinar as pintas</p>
+      <h2 class="mt0">Quando a revisão é mais importante</h2>
+      <ul>
+        <li><strong>Muitas pintas,</strong> ou pintas grandes e de formato irregular.</li>
+        <li><strong>Pele clara,</strong> que queima com facilidade, e história de queimaduras de sol.</li>
+        <li><strong>Melanoma na família</strong> ou um melanoma anterior.</li>
+        <li><strong>Pinta nova depois dos 30 anos,</strong> ou uma pinta antiga que mudou.</li>
+      </ul>
+      <p>
+        Se a pinta tiver de ser retirada, a cirurgia é feita no consultório, com anestesia local. Veja como é feita a
+        retirada de pintas na <a href="/cirurgia-dermatologica/">cirurgia dermatológica</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="wrap">
+      <p class="eyebrow">Onde</p>
+      <h2 class="mt0">Atendimento em São Paulo e em Santo André</h2>
+      <div class="grid grid--2 where">
+        {locations.map((l) => (
+          <div>
+            <h3>{l.name}</h3>
+            <p>{l.street}, {l.district}<br />{l.city} – {l.region}, {l.postalCode}<br />{l.payment}</p>
+            {l.whatsapp ? (
+              <a class="btn cta-btn" href={waLink(l.phone)} rel="noopener" target="_blank" data-event="whatsapp_pintas">Agendar pelo WhatsApp</a>
+            ) : (
+              <a class="btn cta-btn" href={`tel:${telIntl(l.phone)}`} data-event="telefone_pintas">Ligar: {l.phone}</a>
+            )}
+          </div>
+        ))}
+      </div>
+      <p class="small">Também é possível agendar pelo <a href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_pintas">Doctoralia</a>.</p>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: clamp(40px, 7vw, 88px) 0; }
+  .hero-grid { display: grid; gap: 40px; align-items: center; }
+  @media (min-width: 860px) { .hero-grid { grid-template-columns: 1.3fr 1fr; gap: 64px; } }
+  .lead { font-size: 1.15rem; color: var(--muted); max-width: 52ch; }
+  .actions { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 20px; }
+  .mt0 { margin-top: 0; }
+  .steps { list-style: none; padding: 0; margin: 0; }
+  @media (min-width: 600px) { .steps { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1000px) { .steps { grid-template-columns: repeat(4, 1fr); } }
+  .num { font-family: var(--serif); font-size: 2rem; color: var(--gold-text); line-height: 1; }
+  .steps h3 { margin-top: 0.4em; }
+  .signs { padding-left: 1.2em; margin: 0 0 16px; }
+  .signs li { margin: 0.5em 0; }
+  .note { color: var(--muted); }
+  .where { margin-top: 24px; }
+  .where h3 { color: var(--sand); margin-top: 0; }
+  .where p { color: #d9d3c8; }
+  .cta-btn { background: var(--gold); border-color: var(--gold); color: var(--graphite); }
+  .cta-btn:hover { background: transparent; color: var(--gold); }
+  .small { font-size: 0.9rem; color: #d9d3c8; margin-top: 32px; }
+</style>
