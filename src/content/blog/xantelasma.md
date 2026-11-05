@@ -30,6 +30,10 @@ status: aprovado
 
 O xantelasma é uma placa amarelada, plana ou levemente elevada, macia ao toque, que aparece nas pálpebras. O local mais comum é o canto interno da pálpebra de cima, perto do nariz. Muitas vezes surge dos dois lados.
 
+![Xantelasma, placa amarelada e plana na pálpebra de cima, perto do canto interno do olho](../../assets/xantelasma-palpebra-superior-dermatologista.webp)
+
+*Xantelasma na pálpebra de cima, perto do canto interno do olho. Foto de paciente, publicada com autorização.*
+
 Ele é formado por células de defesa da pele que acumulam gordura dentro delas, e é o tipo mais comum de xantoma, o nome dado aos depósitos de gordura na pele. Ele não dói nem atrapalha a visão, mas tende a crescer devagar e raramente some sozinho.
 
 ## O que o xantelasma tem a ver com o colesterol
