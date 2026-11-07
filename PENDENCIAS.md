@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-11-05. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-07. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -55,8 +55,8 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 ### Aguardando decisão dele
 - [ ] Próximos temas: toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
-- [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia.
-  Os textos precisam seguir as regras do CFM e do Google e não podem ter marca de medicamento.
+- [ ] Textos dos anúncios do Google Ads para micose de unha e unha encravada/cantoplastia: rascunho em `docs/anuncios-google-ads.md` (07/11).
+  Aguarda o "aprovado" e as respostas às 4 perguntas do fim do arquivo.
 
 ### Depois que ele enviar a informação
 - [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
