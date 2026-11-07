@@ -24,8 +24,11 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Não copiar artigos do alexandreokubo.com.br. A Prime linka os artigos dele em vez de duplicá-los.
 - [ ] Auditoria de 02/11 (PDF): fazer a Fase 0 (CFM e LGPD) na primedermatologia.com já, sem esperar o site novo.
 - [ ] Domínios (todos dele): clinicaprime.com.br (site antigo da Prime, desativado), clinicaprime.com (estacionado na GoDaddy, registrado em 2006), primedermatologia.com.br.
-  Verificar clinicaprime.com.br no Search Console como propriedade de domínio (TXT no DNS) e mandar ao Claude o relatório de links (páginas mais linkadas).
-  Proposta do Claude: site principal na primedermatologia.com, e os outros três com 301 por página para ela. Aguarda decisão.
+  Backlinks do clinicaprime.com.br (OpenSEO, 07/11): spam score 95 de 100; 80 domínios, só 9 passam pelo filtro de spam, todos diretórios ou agregadores. Não há link que justifique 301 página a página.
+  Decisão proposta: site principal na primedermatologia.com. Os três domínios secundários fazem 301 de domínio inteiro para a home (pode ser feito já, sem esperar o site novo),
+  mais 4 ou 5 regras para os caminhos óbvios (contato, equipe). O clinicaprime.com deixa de mostrar a página estacionada da GoDaddy.
+- [ ] Corrigir no Telelistas e no Classe Médica (hoje linkam o clinicaprime.com.br): Prime Dermatologia e Saúde Emocional, Rua Borges Lagoa, 1065, conj. 144, Vila Clementino, (11) 94174-6037, primedermatologia.com.
+- [ ] Verificar `sc-domain:primedermatologia.com` no Search Console (TXT no DNS) para rodar a análise.
   Prompt para a análise: `docs/prompt-analise-gsc-prime.md`.
 - [ ] Divisão de temas (em 07/11 ele pediu temas diferentes dos do site dele; lista proposta, aguarda o ok):
   alexandreokubo.com.br fica com as doenças, as páginas de destino (micose, unha encravada, cisto) e os temas planejados (lipoma, xantelasma, ceratose seborreica, toxina, fios de PDO, olheiras, bioestimulador).

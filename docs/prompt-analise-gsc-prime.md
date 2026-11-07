@@ -1,8 +1,8 @@
 # Prompt: análise do Google Search Console da Prime
 
 Cole o bloco abaixo numa sessão nova do Claude Code, com o repositório alyuok/alexandreokubo-site.
-Antes, verifique clinicaprime.com.br no Search Console como propriedade de domínio (registro TXT no DNS do registro.br).
-Espere pelo menos 1 dia depois da verificação para o relatório de links ser preenchido. [Provável]
+Antes, verifique `sc-domain:primedermatologia.com` no Search Console (registro TXT no DNS).
+O clinicaprime.com.br já foi analisado em 07/11 (ver `PENDENCIAS.md`) e fica fora desta análise.
 
 ---
 
@@ -15,10 +15,10 @@ conselheiro, a verdade desconfortável na primeira linha, [Certeza]/[Provável]/
   Telefone principal decidido: (11) 94174-6037.
 - Domínios, todos dele:
   - primedermatologia.com: site atual (WordPress, 8 páginas), registrado em 2018. Proposta: continua como o domínio principal do site novo.
-  - clinicaprime.com.br: site antigo da Prime, desativado. O Wayback tem cópias de 2008 a 2024.
+  - clinicaprime.com.br: site antigo da Prime, desativado. Analisado em 07/11: spam score 95, só diretórios. Vai com 301 de domínio inteiro para a home.
   - clinicaprime.com: estacionado na GoDaddy, registrado em 2006.
   - primedermatologia.com.br: sem site.
-- O site novo terá 301 dos três domínios secundários para primedermatologia.com, página a página.
+- Os três domínios secundários terão 301 de domínio inteiro para primedermatologia.com. O mapa página a página é só das 8 URLs atuais da primedermatologia.com para as novas.
 - Já decidido, não reabrir: a Prime não terá página de Santo André (a Clínica Portugal é outro estabelecimento);
   não haverá disavow (os backlinks de spam de setembro de 2026 não foram contratados); o site do Dr. Guilherme fica de fora.
 - Divisão com alexandreokubo.com.br: doenças, as páginas de destino (micose de unha, unha encravada, cisto sebáceo) e os temas
@@ -33,14 +33,12 @@ conselheiro, a verdade desconfortável na primeira linha, [Certeza]/[Provável]/
      Repita com o filtro "Tipo de pesquisa: Imagem".
    - primedermatologia.com > Links: "Principais páginas vinculadas", "Principais sites vinculados" e "Links externos mais recentes".
    - primedermatologia.com > Indexação > Páginas (com o motivo de cada página não indexada) e Sitemaps.
-   - clinicaprime.com.br > Links: as mesmas três exportações. Se houver dados de Desempenho, a aba Páginas.
    - Se ele tiver a propriedade alexandreokubo.com.br: Desempenho > Consultas e Páginas, últimos 3 meses.
    Guarde os arquivos em `previa/gsc/` (pasta ignorada pelo git). Não faça commit dos dados brutos.
 
 ## Perguntas a responder
-1. **clinicaprime.com.br vale alguma coisa?** Quantos domínios ainda linkam para ele e quais são reais (imprensa, SBD,
-   faculdade, guias médicos) e quais são spam? Quais URLs antigas recebem esses links? Monte o mapa de 301: URL antiga, tema,
-   URL nova proposta. Quando não houver equivalente, aponte para a página mais próxima, não para a home.
+1. **Mapa de 301 das URLs atuais:** para cada uma das 8 URLs da primedermatologia.com, os cliques, as impressões e os links externos,
+   e a URL nova proposta. Quando não houver equivalente, aponte para a página mais próxima, não para a home.
 2. **O que a primedermatologia.com recebe de verdade?** Cliques, impressões, CTR e posição média dos últimos 16 meses e dos últimos 3.
    Separe as buscas de marca ("prime", "okubo", "kenji") das que não são de marca. Compare com a estimativa da auditoria de 02/11
    (34 palavras-chave, cerca de 34 visitas por mês). Liste as 20 consultas que não são de marca com mais impressões.
