@@ -99,7 +99,7 @@ nada de "sem dor" nem de "definitivo". O CRM e o RQE ficam fixados, para aparece
 Os dois últimos vão só na campanha correspondente.
 
 ### Ligação
-Telefone da Prime, (11) 94174-6037. A conversão "Clique telefone" ainda não existe, então essas ligações não serão medidas até ela ser criada (ver `PENDENCIAS.md`).
+Telefone da Prime, (11) 94174-6037. As ligações feitas direto do anúncio já são medidas pela conversão "Call clicks from ads". A "Clique telefone" mede os cliques no telefone dentro do site.
 
 ## 4. Palavras-chave negativas sugeridas
 
