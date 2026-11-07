@@ -28,7 +28,7 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 
 ### Google Ads: correções da auditoria de 07/11 (`Prime Dermato`, 375-279-5144)
 - [ ] Urgente (CFM), campanha "Marcação de consultas", no ar: tirar "Melhores dermatologistas SP" (título e palavra-chave), "um dos melhores dermatologistas de São Paulo", "O Dr. Alexandre Okubo é especialista" e "Especialista em Cabelo". Pôr CRM e RQE em título e descrição.
-- [ ] Recursos: trocar "Dermatologista Infantil" por "Atende crianças"; "Plasmage" por "plasma"; tirar "HIFU", "Cosmetologia" e "Tratamentos Corporais"; remover sitelinks reprovados no nível da conta (Instagram e antigos).
+- [ ] Recursos: trocar "Dermatologista Infantil" por "Atende crianças"; tirar "HIFU", "Cosmetologia" e "Tratamentos Corporais"; remover sitelinks reprovados no nível da conta (Instagram e antigos).
 - [ ] Conversões: deixar como principais só Clique WhatsApp, Clique Doctoralia, Clique telefone e Call clicks from ads. O resto vira secundário (agendamento, Fale conosco, Perfil da Empresa, Smart, Local actions, Android, YouTube).
 - [ ] Tag do Google: adicionar alexandreokubo.com.br em "Meus domínios".
 - [ ] "Marcação": trocar CPA desejado de R$ 40 por Maximizar cliques com CPC máximo; desligar Parceiros de pesquisa; trocar a cidade inteira por raio em torno da Prime.
@@ -68,7 +68,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   Perguntas respondidas em 07/11. Aguarda o "aprovado".
 
 ### Depois que ele enviar a informação
-- [ ] Publicar o rótulo `telefone` (`mvy8CP2K8bMdELDQ0PwD`) já preenchido em `adsConversions`, quando ele disser "pode". Depois, conferir no Google Ads se a conversão passa a registrar.
+- [ ] Conferir no Google Ads, a partir de 10/11, se a "Clique telefone" passou de "Inativo" para registrando (rótulo publicado em 07/11).
 - [ ] Atualizar o TikTok em `site.ts` (`sameAs` e `social`), quando ele confirmar a troca.
 - [ ] Conferir e atualizar a URL da Doctoralia em `site.ts` (`primaryUrl` e `sameAs`), quando ele corrigir a especialidade no perfil.
   Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
