@@ -68,6 +68,32 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - [ ] Conferir e atualizar a URL da Doctoralia em `site.ts` (`primaryUrl` e `sameAs`), quando ele corrigir a especialidade no perfil.
   Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
 
+### Google Ads: nova análise em 21/11/2026 (2 semanas depois dos ajustes de 07/11)
+Ele exporta os dados do período de 08/11 a 21/11 e o relatório de termos de pesquisa em CSV. O Claude compara com a linha de base abaixo.
+A linha de base é a semana de 31/10 a 06/11, a primeira com as conversões novas do site medindo. Compare taxas e médias por dia, porque os períodos têm tamanhos diferentes.
+A força do anúncio não entra na comparação. Ela caiu de "Excelente" para "Médio" com a correção do CFM, e isso já era esperado.
+
+| Métrica (31/10 a 06/11) | Marcação de consultas | Cisto sebáceo |
+|---|---|---|
+| Impressões | 404 (58/dia) | 480 (69/dia) |
+| Cliques | 26 (3,7/dia) | 60 (8,6/dia) |
+| Taxa de cliques (CTR) | 6,44% | 12,50% |
+| CPC médio | R$ 4,44 | R$ 3,00 |
+| Custo | R$ 115,42 (R$ 16,49/dia) | R$ 180,29 (R$ 25,76/dia) |
+| Conversões | 4 (3 WhatsApp, 1 Doctoralia) | 7 (5 WhatsApp, 2 Doctoralia) |
+| Taxa de conversão | 15,4% | 11,7% |
+| Custo por conversão | R$ 28,86 | R$ 25,76 |
+
+O que comparar e como ler:
+- [ ] **Marcação, CTR:** se cair abaixo de 5%, rever os títulos, sem voltar aos superlativos.
+- [ ] **Marcação, custo por conversão e conversões por dia:** o efeito de Maximizar cliques (CPC máximo de R$ 6) e do raio de 15 km. Se o gasto por dia subir sem conversões, baixar o CPC máximo.
+- [ ] **Marcação, termos de pesquisa:** quantos cliques vieram de fora do raio, de nomes de outros médicos ou de buscas por "grátis"/"barato". Deve ser zero.
+- [ ] **Cisto, termos de pesquisa:** a parte dos cliques que vem de buscas informacionais ("como tirar", "antibiótico" etc.). Antes, cerca de 1 em cada 4 cliques com termo visível. Deve cair.
+- [ ] **Cisto, custo por conversão:** com menos cliques informacionais, deve ficar igual ou menor com o mesmo orçamento.
+- [ ] **Conversões:** só as 4 principais contam (Clique WhatsApp, Clique Doctoralia, Clique telefone, Call clicks from ads). Conferir se a "Clique telefone" saiu de "Inativo".
+- [ ] **Status:** anúncios da Marcação aprovados, sem reprovação nova nos recursos, e o aviso da tag resolvido depois de adicionar os domínios.
+- [ ] **Decisão:** com 15 a 30 conversões por mês em uma campanha, avaliar a troca para lances por conversão. Antes disso, manter Maximizar cliques.
+
 ### Manutenção
 - [ ] O "Leia também" da dermatologia clínica chegou a 11 links (com probióticos e acne). Deixar só os 6 a 8 artigos mais procurados.
   A escolha deve seguir os dados do Search Console, que ele vai enviar.
