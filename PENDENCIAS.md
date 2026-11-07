@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-11-02. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-07. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -26,8 +26,12 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Domínios (todos dele): clinicaprime.com.br (site antigo da Prime, desativado), clinicaprime.com (estacionado na GoDaddy, registrado em 2006), primedermatologia.com.br.
   Verificar clinicaprime.com.br no Search Console como propriedade de domínio (TXT no DNS) e mandar ao Claude o relatório de links (páginas mais linkadas).
   Proposta do Claude: site principal na primedermatologia.com, e os outros três com 301 por página para ela. Aguarda decisão.
-- [ ] Divisão proposta em 02/11, aguarda decisão: doenças e as páginas de destino atuais (micose, unha encravada, cisto) ficam no alexandreokubo.com.br;
-  procedimentos, aparelhos, Estética, equipe e unidade da Vila Clementino ficam na Prime. A Prime não terá página de Santo André (a Clínica Portugal é outro estabelecimento).
+  Prompt para a análise: `docs/prompt-analise-gsc-prime.md`.
+- [ ] Divisão de temas (em 07/11 ele pediu temas diferentes dos do site dele; lista proposta, aguarda o ok):
+  alexandreokubo.com.br fica com as doenças, as páginas de destino (micose, unha encravada, cisto) e os temas planejados (lipoma, xantelasma, ceratose seborreica, toxina, fios de PDO, olheiras, bioestimulador).
+  A Prime fica com: luz intensa pulsada, Nd:YAG, Er:YAG, microagulhamento robótico, plasma, preenchimento com ácido hialurônico, skinbooster, tricoscopia,
+  Estética (limpeza de pele, drenagem facial, lash lifting, peeling superficial, depilação a laser), equipe, unidade da Vila Clementino e institucional.
+  Todas as páginas médicas da Prime são assinadas pelo Dr. Alexandre (o Dr. Guilherme não assina). A Prime não terá página de Santo André (a Clínica Portugal é outro estabelecimento).
 - [ ] Carla Okubo no site da Prime: é life coach e ainda não tem CRP. Só pode aparecer em gestão e bem-estar, sem linguagem clínica ("terapia", "tratamento", ansiedade, depressão).
   Formação enviada em 02/11 (toda de gestão e coaching, nenhuma clínica): pós lato sensu em Gestão Emocional nas Organizações (Einstein),
   coaching pessoal e executivo (ICI), International Professional Coach (ALAC), facilitadora de LEGO SERIOUS PLAY, analista comportamental (Persolog), Cultivating Emotional Balance (CEB).
@@ -37,12 +41,13 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
   Se ela passar a atender antes do CRP (coaching, grupos), reavaliar antes de pôr qualquer coisa no site. No alexandreokubo.com.br, ela continua sem aparecer.
 - [ ] Dr. Guilherme Kenji Ito (grafia decidida em 02/11). Na Prime: nome, CRM-SP 156.804 e RQE 66.411 (Dermatologia), conferidos no portal do CRM antes de publicar.
   O site dele (drdermatokenji.com.br) fica fora da Prime, sem link e sem sameAs (decisão de 02/11). Motivo: depoimentos e superlativos no site dele.
-  Falta: a autorização dele para assinar páginas da Prime e a confirmação da formação (USP e residência no HC, segundo o site dele).
+  Ele não assina páginas da Prime (decisão de 07/11). Falta confirmar a formação (USP e residência no HC, segundo o site dele).
 - [ ] Perfil do Google do Dr. Guilherme (print de 02/11): "Dr. Guilherme Kenji", Dermatologista, Borges Lagoa 1065 (sem o conj. 144), 5,0 com 53 avaliações, (11) 3090-3219, site drdermatokenji.com.br.
   O telefone está certo. Sugestão a ele: nome "Dr. Guilherme Kenji Ito" (há um "Dr. Kenji Nakahara" dermatologista em SP) e o conjunto no endereço. Mudar o nome pode exigir nova verificação.
   O perfil da Prime mantém a categoria "Clínica de dermatologia", e não "Dermatologista", para não ser filtrado como duplicado do dele.
   Na próxima medição do Maps, incluir o perfil dele na grade. Na medição de 30/10, a Prime ficou em 6º na própria porta.
-- [ ] Estética: dizer quem faz a depilação a laser e os peelings (esteticista ou médico).
+- [ ] Estética: feita por esteticista e por fisioterapeuta dermatofuncional (07/11). Falta: nomes, número do CREFITO da fisioterapeuta,
+  formação da esteticista e qual das duas faz a depilação a laser e os peelings. O alexandreokubo.com.br lista a depilação a laser na página de estética sem dizer quem faz.
 
 ### Google Ads e GA4
 - [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
