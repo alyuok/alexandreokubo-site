@@ -61,7 +61,7 @@ export const reviews = [
 export const analytics = {
   ga4: 'G-PYB8EG1D9J',
   googleAds: 'AW-1066674224',
-  adsConversions: { whatsapp: 'FKQACKPi-qYdELDQ0PwD', doctoralia: 'AEreCKbi-qYdELDQ0PwD', telefone: '' } as Record<string, string>,
+  adsConversions: { whatsapp: 'FKQACKPi-qYdELDQ0PwD', doctoralia: 'AEreCKbi-qYdELDQ0PwD', telefone: 'mvy8CP2K8bMdELDQ0PwD' } as Record<string, string>,
 };
 
 // Telefone no formato internacional, para links tel: e dados estruturados.

@@ -142,5 +142,5 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 
 ## Medição
 GA4 `G-PYB8EG1D9J`, Google Ads `AW-1066674224`, conversões em `analytics.adsConversions` (`site.ts`).
-O rótulo da conversão `telefone` ainda está vazio.
+Os cliques em links `tel:` disparam a conversão `telefone` ("Clique telefone"), via `src/components/Analytics.astro`.
 O Analytics carrega antes do aceite, com Consent Mode (sinais sem cookie até o "Aceitar"). Decisão dele em 29/10/2026: manter assim.

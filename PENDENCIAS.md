@@ -23,7 +23,7 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 
 ### Google Ads e GA4
 - [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
-- [ ] Google Ads: criar a conversão "Clique telefone" e enviar o rótulo, para preencher `adsConversions.telefone` em `src/data/site.ts`.
+- [ ] Google Ads: revisar as ações principais. "Clicks to call" e "Lead WhatsApp" também estão como principais e podem contar o mesmo contato duas vezes junto com as do site (WhatsApp, Doctoralia, Clique telefone).
 - [ ] GA4: marcar como eventos principais os cliques de WhatsApp, Doctoralia e telefone.
 
 ### Search Console
@@ -59,7 +59,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   Perguntas respondidas em 07/11. Aguarda o "aprovado".
 
 ### Depois que ele enviar a informação
-- [ ] Preencher o rótulo `telefone` em `adsConversions`, quando ele enviar.
+- [ ] Publicar o rótulo `telefone` (`mvy8CP2K8bMdELDQ0PwD`) já preenchido em `adsConversions`, quando ele disser "pode". Depois, conferir no Google Ads se a conversão passa a registrar.
 - [ ] Atualizar o TikTok em `site.ts` (`sameAs` e `social`), quando ele confirmar a troca.
 - [ ] Conferir e atualizar a URL da Doctoralia em `site.ts` (`primaryUrl` e `sameAs`), quando ele corrigir a especialidade no perfil.
   Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
