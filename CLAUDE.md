@@ -23,6 +23,13 @@ Nada vai para produção sem o "aprovado" explícito dele. Para pequenas trocas 
 - Categoria "Estilo de vida e pele": `LIFESTYLE` em `src/lib/posts.ts`, página `/blog/estilo-de-vida/`. Não é especialidade.
 - Rascunhos aparecem só com `PREVIEW_DRAFTS=1` ou em branch diferente de `main` (`src/lib/posts.ts`).
 
+## Divisão com o site da Prime (aprovada em 07/11/2026)
+Plano completo: `docs/plano-site-prime.md`. Um tema, um dono.
+- Este site fica com as doenças, as páginas de destino (micose, unha encravada, cisto) e os temas planejados
+  (lipoma, xantelasma, ceratose seborreica, toxina botulínica, fios de PDO, olheiras, bioestimulador).
+- A Prime (primedermatologia.com) fica com aparelhos (luz intensa pulsada, Nd:YAG, Er:YAG, microagulhamento robótico, plasma),
+  preenchimento com ácido hialurônico, skinbooster, tricoscopia e Estética. Não escreva artigo próprio sobre esses temas aqui; linke a página da Prime.
+
 ## Fluxo de um artigo
 1. Pesquise no PubMed (ver "Fontes") e escreva `src/content/blog/<slug>.md` com `status: rascunho`.
 2. Frontmatter: `title`, `description`, `answer` (resposta direta de 2 a 3 frases, AEO), `pubDate`, `reviewedDate`,

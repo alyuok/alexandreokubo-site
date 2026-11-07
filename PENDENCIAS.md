@@ -30,7 +30,7 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Corrigir no Telelistas e no Classe Médica (hoje linkam o clinicaprime.com.br): Prime Dermatologia e Saúde Emocional, Rua Borges Lagoa, 1065, conj. 144, Vila Clementino, (11) 94174-6037, primedermatologia.com.
 - [ ] Verificar `sc-domain:primedermatologia.com` no Search Console (TXT no DNS) para rodar a análise.
   Prompt para a análise: `docs/prompt-analise-gsc-prime.md`.
-- [ ] Divisão de temas (em 07/11 ele pediu temas diferentes dos do site dele; lista proposta, aguarda o ok):
+- [x] Divisão de temas aprovada em 07/11 (plano em `docs/plano-site-prime.md`; regra também no `CLAUDE.md`). Resumo:
   alexandreokubo.com.br fica com as doenças, as páginas de destino (micose, unha encravada, cisto) e os temas planejados (lipoma, xantelasma, ceratose seborreica, toxina, fios de PDO, olheiras, bioestimulador).
   A Prime fica com: luz intensa pulsada, Nd:YAG, Er:YAG, microagulhamento robótico, plasma, preenchimento com ácido hialurônico, skinbooster, tricoscopia,
   Estética (limpeza de pele, drenagem facial, lash lifting, peeling superficial, depilação a laser), equipe, unidade da Vila Clementino e institucional.
@@ -49,6 +49,7 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
   O telefone está certo. Sugestão a ele: nome "Dr. Guilherme Kenji Ito" (há um "Dr. Kenji Nakahara" dermatologista em SP) e o conjunto no endereço. Mudar o nome pode exigir nova verificação.
   O perfil da Prime mantém a categoria "Clínica de dermatologia", e não "Dermatologista", para não ser filtrado como duplicado do dele.
   Na próxima medição do Maps, incluir o perfil dele na grade. Na medição de 30/10, a Prime ficou em 6º na própria porta.
+- [ ] Responder às 5 perguntas das páginas do lançamento, no fim de `docs/plano-site-prime.md`.
 - [ ] Estética: feita por esteticista e por fisioterapeuta dermatofuncional (07/11). Falta: nomes, número do CREFITO da fisioterapeuta,
   formação da esteticista e qual das duas faz a depilação a laser e os peelings. O alexandreokubo.com.br lista a depilação a laser na página de estética sem dizer quem faz.
 
