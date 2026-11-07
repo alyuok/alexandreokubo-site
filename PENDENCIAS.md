@@ -23,9 +23,17 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 
 ### Google Ads e GA4
 - [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
-- [ ] Google Ads: revisar as ações principais. "Clicks to call" e "Lead WhatsApp" também estão como principais e podem contar o mesmo contato duas vezes junto com as do site (WhatsApp, Doctoralia, Clique telefone).
 - [ ] GA4: marcar como eventos principais `contato_whatsapp`, `contato_doctoralia` e `contato_telefone` (em 07/11, eram 0 eventos principais).
 - [ ] Vincular o GA4 ao Google Ads (conta "Prime Dermato"). Se importar eventos do GA4 como conversão, deixá-los como secundários: as principais são as da tag do site.
+
+### Google Ads: correções da auditoria de 07/11 (`Prime Dermato`, 375-279-5144)
+- [ ] Urgente (CFM), campanha "Marcação de consultas", no ar: tirar "Melhores dermatologistas SP" (título e palavra-chave), "um dos melhores dermatologistas de São Paulo", "O Dr. Alexandre Okubo é especialista" e "Especialista em Cabelo". Pôr CRM e RQE em título e descrição.
+- [ ] Recursos: trocar "Dermatologista Infantil" por "Atende crianças"; "Plasmage" por "plasma"; tirar "HIFU", "Cosmetologia" e "Tratamentos Corporais"; remover sitelinks reprovados no nível da conta (Instagram e antigos).
+- [ ] Conversões: deixar como principais só Clique WhatsApp, Clique Doctoralia, Clique telefone e Call clicks from ads. O resto vira secundário (agendamento, Fale conosco, Perfil da Empresa, Smart, Local actions, Android, YouTube).
+- [ ] Tag do Google: adicionar alexandreokubo.com.br em "Meus domínios".
+- [ ] "Marcação": trocar CPA desejado de R$ 40 por Maximizar cliques com CPC máximo; desligar Parceiros de pesquisa; trocar a cidade inteira por raio em torno da Prime.
+- [ ] Negativas: nomes de outros médicos e clínicas (Bouchard, Luciana Duran, Nishio, Skin Laser) e, no cisto, "como tirar", "como eliminar", "como tratar", "furar", "agulha", "antiinflamatório", "cuidados após". Manter "inflamado".
+- [ ] Baixar o CSV completo dos termos de pesquisa (30 dias) e enviar ao Claude.
 
 ### Search Console
 - [ ] Conferir se os artigos e páginas recentes já aparecem no relatório de páginas.
