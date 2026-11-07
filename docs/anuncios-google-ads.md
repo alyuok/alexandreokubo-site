@@ -1,6 +1,6 @@
 # Textos dos anúncios do Google Ads: micose de unha e unha encravada
 
-Rascunho de 2026-11-07. Aguarda o "aprovado" do Dr. Alexandre antes de subir no Google Ads.
+Rascunho de 2026-11-07, com as respostas dele aplicadas. Aguarda o "aprovado" do Dr. Alexandre antes de subir no Google Ads.
 
 Formato: anúncio responsivo de pesquisa. Cada anúncio leva 15 títulos (até 30 caracteres) e 4 descrições (até 90 caracteres).
 Os limites foram conferidos com um script, e todos os textos cabem.
@@ -106,9 +106,9 @@ Telefone da Prime, (11) 94174-6037. A conversão "Clique telefone" ainda não ex
 Para não pagar por buscas de quem não quer consulta:
 grátis, gratuito, SUS, caseiro, receita caseira, vinagre, como cortar, vídeo, imagens, foto, cachorro, gato, bebê (micose), manicure.
 
-## 5. Pontos para ele decidir
+## 5. Decisões dele (07/11)
 
-1. **"Lunula" no anúncio:** é marca de aparelho, não de medicamento, então a regra de anúncios não o proíbe. Mas o fabricante pode reclamar da marca no Google, e o anúncio pode ser reprovado. Fica ou sai?
-2. **Bebê na lista de negativas:** a página não fala de crianças. Você atende micose de unha em criança?
-3. **WhatsApp na unha encravada:** o botão leva ao WhatsApp da Prime, mesmo para quem está em Santo André. A Prime agenda para a Clínica Portugal pelo WhatsApp?
-4. **Diabetes no título:** "Cuidado especial no diabetes" atrai um público com mais risco. Você quer esse paciente pelo anúncio ou prefere tirar?
+1. **"Lunula" no anúncio:** fica. Se o Google reprovar por marca, trocar por "Laser para micose de unha".
+2. **Bebê:** não atende micose de unha em bebê. "bebê" fica nas negativas.
+3. **WhatsApp da Prime:** agenda também para a Clínica Portugal.
+4. **"Cuidado especial no diabetes":** fica.
