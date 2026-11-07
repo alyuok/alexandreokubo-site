@@ -128,6 +128,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Rosácea:** usa sobretudo luz intensa pulsada e Nd:YAG em alguns casos; isotretinoína em dose baixa nos refratários.
   Não usa gel vasoconstritor (brimonidina). Rinofima muito exuberante: encaminha para cirurgia.
 - **Xantelasma:** trata com plasma e ácido tricloroacético. Colesterol alterado: encaminha para cardiologia ou endocrinologia.
+- **Siringomas:** trata com Plasmage (confirmado em 07/11/2026).
 - **Ceratose seborreica:** criocirurgia, eletrocoagulação e plasma, nas duas clínicas. Na dúvida diagnóstica, envia para exame.
 - **Lipoma:** na dúvida, pede ultrassom. Lipomas grandes: encaminha para cirurgião, com cirurgia no hospital. Em geral, envia a peça para exame.
 - **Pintas (mapeamento):** quando o mapeamento corporal total é indicado, orienta onde fazer.
