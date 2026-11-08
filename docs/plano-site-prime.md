@@ -82,7 +82,7 @@ As regras do CFM, das fontes e da revisão anti-clichê do `CLAUDE.md` valem igu
 - Estética: `department` da clínica. Sem `Review` nem `AggregateRating`.
 
 ## Base técnica
-Astro 5 estático no Cloudflare Pages, num repositório novo, reaproveitando os componentes deste site.
+Astro 5 estático no Cloudflare Pages, no repositório `alyuok/clinicaprime` (privado), reaproveitando os componentes deste site.
 Propriedade própria no GA4 e Consent Mode, como aqui. O mesmo fluxo de rascunho, prévia e "aprovado".
 
 ## Perguntas para as páginas do lançamento
