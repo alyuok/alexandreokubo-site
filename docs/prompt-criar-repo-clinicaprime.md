@@ -3,8 +3,17 @@
 ## Antes de colar o prompt (feito por você, no navegador)
 1. Em github.com/new: dono `alyuok`, nome `clinicaprime`, **Private**, sem README, sem .gitignore e sem licença.
 2. Em https://claude.ai/connect-github: confirme que o app do Claude tem acesso ao repositório `clinicaprime`.
-3. Abra uma sessão nova do Claude Code com **os dois repositórios** selecionados: `alyuok/clinicaprime` e `alyuok/alexandreokubo-site`.
-   O segundo é só para leitura: dele saem o plano, os dados e os componentes.
+3. Abra uma sessão nova do Claude Code só com `alyuok/clinicaprime` (a interface web não deixa escolher dois repositórios).
+   Na sessão, o Claude anexa o `alexandreokubo-site` para leitura com a ferramenta `add_repo`. A primeira mensagem está em "Mensagem de abertura", abaixo.
+
+## Mensagem de abertura (cole na sessão nova)
+
+> Antes de tudo, use a ferramenta add_repo para anexar alyuok/alexandreokubo-site com acesso de leitura e clone-o fora deste repositório, só para consulta.
+> Não faça commit nem push nele. Depois, leia o arquivo docs/prompt-criar-repo-clinicaprime.md da branch claude/kind-galileo-q5dtdq desse repositório
+> e execute a seção "Prompt", ignorando a parte "Antes de colar o prompt".
+> Este repositório (clinicaprime) está vazio: crie a branch main no primeiro commit. Você tem minha autorização para fazer push em main e em rascunhos
+> deste repositório, além da branch da sessão. Nenhum domínio está ligado a ele.
+> Se o add_repo falhar ou o clone for bloqueado, pare e me diga o erro exato. Não monte o site de memória nem com dados inventados.
 
 ## Prompt (copie daqui até o fim)
 
