@@ -24,6 +24,8 @@ Os backlinks são quase todos de spam e ninguém os contratou (confirmado por el
 - [ ] Telefone principal decidido em 02/11: (11) 94174-6037. Trocar no Google Business Profile (hoje 5549-1552), no Doctoralia, no Instagram e no site da Prime.
 - [ ] Não copiar artigos do alexandreokubo.com.br. A Prime linka os artigos dele em vez de duplicá-los.
 - [ ] Auditoria de 02/11 (PDF): fazer a Fase 0 (CFM e LGPD) na primedermatologia.com já, sem esperar o site novo.
+  Achado de 08/11 no código do site atual: o plugin de WhatsApp (Social Chat) tem um segundo contato ativo, de teste, com número do Uruguai (+598 95761512)
+  e a mensagem "Hello! I'm testing the Social Chat plugin". Pedir a quem mantém o WordPress que apague esse contato.
 - [ ] Domínios (todos dele): clinicaprime.com.br (site antigo da Prime, desativado), clinicaprime.com (estacionado na GoDaddy, registrado em 2006), primedermatologia.com.br.
   Backlinks do clinicaprime.com.br (OpenSEO, 07/11): spam score 95 de 100; 80 domínios, só 9 passam pelo filtro de spam, todos diretórios ou agregadores. Não há link que justifique 301 página a página.
   Decisão proposta: site principal na primedermatologia.com. Os três domínios secundários fazem 301 de domínio inteiro para a home (pode ser feito já, sem esperar o site novo),
