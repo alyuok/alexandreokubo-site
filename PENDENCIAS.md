@@ -13,6 +13,7 @@ Atualizado em 2026-11-07. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Pôr alexandreokubo.com.br como site do perfil. Em 2026-10-30 o perfil só linkava a Prime.
 
 ### Site da Prime (renovação anunciada em 2026-10-30)
+Repositório do site novo criado em 08/11: alyuok/clinicaprime. As pendências do site novo (perguntas das páginas, dados da clínica, Estética, Cloudflare) estão no `PENDENCIAS.md` de lá; aqui ficam os perfis externos e a Fase 0.
 Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "Vila Mariana" (o CEP 04038-032 é da Vila Clementino).
 Os backlinks são quase todos de spam e ninguém os contratou (confirmado por ele em 30/10): não há força de links a preservar nem motivo para "disavow".
 - [ ] Antes de trocar o site, levantar as URLs atuais e os backlinks e fazer redirecionamentos 301 de cada URL antiga.
