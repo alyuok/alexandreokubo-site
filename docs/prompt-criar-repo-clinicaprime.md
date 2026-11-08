@@ -12,6 +12,7 @@ Você vai montar a base do site novo da Prime Dermatologia e Saúde Emocional no
 O repositório `alyuok/alexandreokubo-site` é só de consulta: não faça commit nem push nele.
 
 ### 1. Leia antes de qualquer coisa (em alexandreokubo-site)
+Se `docs/plano-site-prime.md` não estiver na `main`, leia da branch `claude/kind-galileo-q5dtdq` (`git fetch origin claude/kind-galileo-q5dtdq` e `git show origin/claude/kind-galileo-q5dtdq:<arquivo>`).
 - `CLAUDE.md`: como falar com ele, as regras do CFM, as fontes, o estilo e a revisão anti-clichê. Tudo vale para a Prime.
 - `docs/plano-site-prime.md`: decisões, divisão de temas, URLs, modelo de página, schema e perguntas pendentes. É a especificação.
 - `PENDENCIAS.md`, seção "Site da Prime".
