@@ -10,16 +10,9 @@ Atualizado em 2026-11-07. Ao concluir um item, apague-o. Ao surgir um novo, acre
 - [ ] Depois de tirar "medicina estética" do perfil, avisar o Claude. A URL do botão de agendamento contém "especialista-em-medicina-estetica" e pode mudar.
 - [ ] Pôr alexandreokubo.com.br como site do perfil. Em 2026-10-30 o perfil só linkava a Prime.
 
-### Site da Prime (renovação anunciada em 2026-10-30)
-Análise competitiva de 30/10: a Prime não linka alexandreokubo.com.br e diz "Vila Mariana" (o CEP 04038-032 é da Vila Clementino).
-Os backlinks são quase todos de spam e ninguém os contratou (confirmado por ele em 30/10): não há força de links a preservar nem motivo para "disavow".
-- [ ] Antes de trocar o site, levantar as URLs atuais e os backlinks e fazer redirecionamentos 301 de cada URL antiga.
-- [ ] Bairro "Vila Clementino" em todo o site, igual ao Google e à Doctoralia.
-- [ ] Nome, CRM e RQE do diretor técnico (Dr. Alexandre) visíveis.
-- [ ] Trocar "Diretor clínico da Prime Dermatologia" por "Diretor técnico" na home da Prime (visto em 30/10). Conferir também Doctoralia, LinkedIn e Instagram.
-- [ ] Link do nome dele para https://alexandreokubo.com.br/sobre/ e schema `MedicalClinic` ligado a `https://alexandreokubo.com.br/#person`.
-- [ ] Um telefone principal (hoje aparecem 5549-1552, 2925-1552 e 94174-6037), igual no Google Business Profile.
-- [ ] Não copiar artigos do alexandreokubo.com.br. A Prime linka os artigos dele em vez de duplicá-los.
+### Site da Prime
+Tudo o que é da Prime (site primedermatologia.com, perfil do Google da clínica, domínios, DNS, Search Console) está no `PENDENCIAS.md` do repositório `alyuok/clinicaprime`.
+O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da auditoria (CFM) se resolveu com a troca.
 
 ### Google Ads e GA4
 - [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
