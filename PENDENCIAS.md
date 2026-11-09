@@ -36,8 +36,8 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 ### Cadastros
 - [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
-- [ ] Não criar perfil pessoal do Dr. Alexandre no endereço da Prime: dois perfis no mesmo endereço tendem a disputar a mesma vaga no Maps.
-  (Renomear o perfil da Prime e a rotina de avaliações estão no `PENDENCIAS.md` do clinicaprime.)
+- Perfil pessoal do Dr. Alexandre no endereço da Prime: cancelado em 09/11 (dois perfis no mesmo endereço disputam a mesma vaga no Maps). Não recriar.
+  O perfil do Google da Prime (avaliações, categorias, telefone) está no `PENDENCIAS.md` do clinicaprime.
 
 ### Site (auditoria de 29/10)
 - [ ] Foto da equipe: a do grupo enviada em 29/10 não pode ser usada (Carla Okubo aparece, com a mão no ombro dele). Se quiser foto da equipe no site, tirar outra só com ele e as funcionárias.
