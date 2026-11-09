@@ -36,9 +36,8 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 ### Cadastros
 - [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
 - [ ] Enviar nota e número de avaliações dos perfis do Google (Prime, perfil pessoal e Clínica Portugal) e o link do perfil da Clínica Portugal.
-- [ ] Google: renomear o perfil da Prime de "Clínica Prime Dermatologia" para "Prime Dermatologia e Saúde Emocional" (decidido em 30/10). O Google pode pedir nova verificação.
-- [ ] Perfil do Google da Prime: pedir avaliações novas, pôr fotos e lista de serviços. Na medição de 30/10, a Prime ficou em 6º na própria porta.
-  Não criar perfil pessoal no endereço da Prime por enquanto: dois perfis no mesmo endereço tendem a disputar a mesma vaga no Maps.
+- [ ] Não criar perfil pessoal do Dr. Alexandre no endereço da Prime: dois perfis no mesmo endereço tendem a disputar a mesma vaga no Maps.
+  (Renomear o perfil da Prime e a rotina de avaliações estão no `PENDENCIAS.md` do clinicaprime.)
 
 ### Site (auditoria de 29/10)
 - [ ] Foto da equipe: a do grupo enviada em 29/10 não pode ser usada (Carla Okubo aparece, com a mão no ombro dele). Se quiser foto da equipe no site, tirar outra só com ele e as funcionárias.
