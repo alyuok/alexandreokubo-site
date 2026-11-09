@@ -74,7 +74,7 @@ Por isso, a subcisão costuma fazer parte de um plano, com outras técnicas feit
 
 - **CROSS**, para as cicatrizes em "picador de gelo"
 - **Lasers**, como o laser de érbio ablativo, que melhoram a textura e as bordas das cicatrizes
-- **Microagulhamento**, que estimula a produção de colágeno
+- **Microagulhamento**, que estimula a produção de colágeno (veja o [microagulhamento robótico da Prime](https://primedermatologia.com/tratamentos/microagulhamento-robotico/))
 - **Bioestimuladores de colágeno e ácido hialurônico**, que repõem volume nas áreas deprimidas
 
 A ordem e o intervalo entre as técnicas dependem dos tipos de cicatriz, do tipo de pele e da rotina de cada pessoa. Peles mais morenas, por exemplo, têm mais risco de manchas após alguns procedimentos, e isso muda a escolha.

@@ -12,7 +12,7 @@ interface Props {
   title: string;
   description: string;
   lead: string;
-  groups: { title: string; items: { t: string; d: string }[] }[];
+  groups: { title: string; items: { t: string; d: string; href?: string }[] }[];
   faq: { q: string; a: string }[];
   about?: string[];
 }
@@ -41,6 +41,7 @@ const url = `${SITE_URL}/${slug}/`;
             <div class="card">
               <h3>{it.t}</h3>
               <p>{it.d}</p>
+              {it.href && <p class="card-more"><a href={it.href} aria-label={`${it.t}: saiba mais no site da Prime Dermatologia`}>Saiba mais no site da Prime</a></p>}
             </div>
           ))}
         </div>
@@ -60,4 +61,5 @@ const url = `${SITE_URL}/${slug}/`;
 
 <style>
   .mt0 { margin-top: 0; }
+  .card-more { font-size: 0.92rem; margin-top: 0.6em; }
 </style>

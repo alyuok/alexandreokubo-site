@@ -154,7 +154,7 @@ O tratamento é montado conforme os sinais que predominam, e quase sempre combin
 
 **Vasinhos e vermelhidão persistente: luz intensa pulsada**
 
-Os cuidados com os gatilhos e com a pele são a base para reduzir a vermelhidão ao longo do tempo. Para os vasinhos e a vermelhidão que não passa, o tratamento que mais uso é a luz intensa pulsada, que atua nos vasos dilatados. Em alguns casos, também uso o laser Nd:YAG. Costumam ser necessárias algumas sessões, e manutenções periódicas ajudam, porque a rosácea continua ativa. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
+Os cuidados com os gatilhos e com a pele são a base para reduzir a vermelhidão ao longo do tempo. Para os vasinhos e a vermelhidão que não passa, o tratamento que mais uso é a [luz intensa pulsada](https://primedermatologia.com/tratamentos/luz-intensa-pulsada/), que atua nos vasos dilatados. Em alguns casos, também uso o laser Nd:YAG. Costumam ser necessárias algumas sessões, e manutenções periódicas ajudam, porque a rosácea continua ativa. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
 
 **Espessamento do nariz (rinofima)**
 

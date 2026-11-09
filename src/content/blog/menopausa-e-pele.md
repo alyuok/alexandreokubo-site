@@ -74,7 +74,7 @@ O plano é individual, mas costuma combinar três frentes:
 
 Para os cabelos, o tratamento começa pelo diagnóstico da causa da queda. A partir daí, há medicamentos tópicos e orais e procedimentos que ajudam a controlar o afinamento.
 
-Para os pelos do rosto, a depilação com laser de diodo é uma opção, depois de avaliar se há outra causa hormonal envolvida. O laser age sobre o pigmento do pelo, por isso funciona nos pelos escuros, mas não nos brancos ou muito claros.
+Para os pelos do rosto, a [depilação com laser de diodo](https://primedermatologia.com/estetica/depilacao-a-laser/) é uma opção, depois de avaliar se há outra causa hormonal envolvida. O laser age sobre o pigmento do pelo, por isso funciona nos pelos escuros, mas não nos brancos ou muito claros.
 
 ## Uma consulta que vai além da estética
 
