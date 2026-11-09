@@ -91,6 +91,7 @@ Capturas de tela: playwright com `executablePath: '/opt/pw-browsers/chromium'`, 
 - Links internos para artigos relacionados no meio do texto, com texto âncora descritivo.
 
 ## Revisão anti-clichê (antes de mandar qualquer rascunho)
+Regra dele (09/11): ao terminar qualquer artigo ou página, rode um agente separado (ferramenta Agent) que revisa a linguagem com o glossário e aponta o que soa como IA. Aplique as correções antes de mandar a prévia.
 Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA é a concentração, não uma palavra isolada.
 - **Corte sempre:** "é importante notar/ressaltar", "vale ressaltar/lembrar", "cabe destacar", "merece destaque",
   "este é o ponto mais importante", "em suma/em resumo/em conclusão", "a boa notícia é", "o segredo está em", "a chave é".

@@ -45,6 +45,9 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 
 ## Do lado do Claude (próximas sessões)
 
+### Regra permanente
+- Ao terminar qualquer artigo ou página, rodar um agente separado para revisar a linguagem com `docs/glossario-cliches-ia.md` (não aparentar IA) antes de mandar a prévia. Pedido dele em 09/11; também no `CLAUDE.md`.
+
 ### Auditoria de 29/10 (publicada em 29/10)
 Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
 
