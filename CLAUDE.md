@@ -5,6 +5,7 @@ Objetivo do site: SEO, GEO e AEO, atrair pacientes particulares e construir auto
 **Foco em SEO e GEO (regra fixa, muito importante, pedido dele em 10/11):** todo artigo e página existe para ser encontrado no Google e citado por ferramentas de IA. Qualquer texto novo ou revisão de linguagem preserva isso: H1 e title com o termo que as pessoas buscam (e o local, quando couber); `answer` direto no topo; subtítulos no formato das perguntas reais; nome popular ao lado do termo técnico; links internos com âncora descritiva; números com fonte. Nunca trocar um termo buscado por sinônimo só para evitar repetição, nem cortar a resposta direta para deixar o texto mais "literário".
 Astro 5 estático, GitHub alyuok/alexandreokubo-site, Cloudflare Pages (`npm run build`, saída `dist`, Node 22).
 Pendências abertas: `PENDENCIAS.md` (atualize ao concluir ou criar uma).
+Outros agentes (Codex, Cursor etc.) leem `AGENTS.md`, que só aponta para este arquivo. Este `CLAUDE.md` é a fonte única das regras: mudanças vão aqui, nunca no `AGENTS.md`.
 
 ## Como falar com ele
 - Responda em português. Seja conselheiro, não assistente: a verdade desconfortável vem na primeira linha.
