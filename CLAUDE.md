@@ -79,6 +79,8 @@ Capturas de tela: playwright com `executablePath: '/opt/pw-browsers/chromium'`, 
 - Material colado por ele já trouxe erros, como número atribuído ao autor errado, duração errada ou direção do efeito invertida.
   Confira tudo e aponte os erros a ele.
 - Estudo preliminar ou observacional é descrito como tal. Diga "associação", não "causa".
+- Preprints (bioRxiv, medRxiv) não entram em `sources` nem no texto (decisão dele em 10/11). Exceção só com autorização dele, descritos como "estudo preliminar, ainda sem revisão por pares".
+  Se o preprint já foi publicado em revista, cite a versão publicada, com o DOI da revista. Números sempre conferidos no resumo (abstract) original, nunca em resumo gerado por ferramenta.
 - Separe o que é evidência do que é relato de pacientes.
 
 ## Estilo de escrita dos artigos
