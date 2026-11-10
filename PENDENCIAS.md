@@ -20,7 +20,6 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 - [ ] Vincular o GA4 ao Google Ads (conta "Prime Dermato"). Se importar eventos do GA4 como conversão, deixá-los como secundários: as principais são as da tag do site.
 
 ### Google Ads: correções da auditoria de 07/11 (`Prime Dermato`, 375-279-5144)
-- [ ] Rodar o prompt `docs/prompt-ajustes-google-ads-2026-11-07.md` (textos do CFM, recursos, conversões, domínios da tag, lances, região, negativas, GA4) e mandar o relatório final ao Claude.
 - [ ] Quem montou as campanhas e os rascunhos "(Clube Fiel)"? Se foi agência, conferir se ainda tem acesso à conta.
 
 ### Search Console
@@ -60,7 +59,8 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   Por volta de 17/11: exportar os termos de pesquisa das duas campanhas para revisar as negativas. Por volta de 24/11: comparar o custo por conversão com o da campanha de cisto.
   Os recursos de mensagem de WhatsApp que o Google anexou às duas campanhas ficaram pausados. Idioma não configurável na interface atual.
 - [ ] Conversões principais: o relatório de 10/11 achou mais 4 ações como principais ("Business profile tracked call", "Calls from Smart Campaign Ads", "Smart campaign ad clicks to call", "Business profile - Form submit").
-  Passar as 4 para secundárias (bloco 4 do prompt de 07/11). Sem isso, a análise de 21/11 mistura conversões do perfil do Google com as dos anúncios.
+  O prompt de 07/11 foi rodado (confirmado por ele em 10/11), então o bloco 4 não pegou ou o Google voltou a marcar essas ações como principais.
+  Rodar o prompt curto (passar as 4 para secundárias). Na exportação de 21/11, segmentar por "Ação de conversão" para contar só as 4 principais.
 - [ ] Campanhas antigas pausadas ("Unhas - Inicio 18/03 (Clube Fiel)", três Inteligentes de Lunula e unha encravada): deixar pausadas. Não reativar.
 
 ### Depois que ele enviar a informação
