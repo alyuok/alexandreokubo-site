@@ -62,7 +62,7 @@ Algumas orientações:
 Os tratamentos tópicos continuam sendo a base do clareamento:
 
 - **Hidroquinona**: é considerada o tratamento tópico de referência. Costuma ser usada em ciclos, com acompanhamento, porque o uso prolongado e sem orientação pode causar efeitos indesejados, como escurecimento paradoxal da pele.
-- **Combinações**: a associação de hidroquinona com tretinoína e um corticoide suave, por tempo limitado, está entre as opções tópicas mais eficazes.
+- **Combinações**: a associação de hidroquinona com tretinoína e um corticoide suave, por tempo limitado, teve um dos melhores resultados entre os tratamentos tópicos nos estudos.
 - **Outros clareadores**: ácido azelaico, ácido kójico, niacinamida, ácido tranexâmico tópico e outros ativos são úteis principalmente na manutenção, ou para quem não tolera a hidroquinona.
 
 ## Ácido tranexâmico
@@ -79,7 +79,7 @@ Os procedimentos podem acelerar e aumentar o clareamento, mas no melasma exigem 
 
 - **Peelings superficiais**: ajudam a renovar a camada de pele com pigmento, como complemento aos cremes.
 - **Microagulhamento**: associado a clareadores ou ao ácido tranexâmico aplicado na pele, teve bons resultados em estudos. Na Prime, uso o [microagulhamento robótico](https://primedermatologia.com/tratamentos/microagulhamento-robotico/), que controla a profundidade e a distribuição das microperfurações.
-- **Laser Nd:YAG no modo *toning***: é um modo de baixa energia, específico para melasma, que age sobre o pigmento sem agredir a pele. Uso sempre associado ao tratamento tópico. Veja como funciona o [laser Nd:YAG na Prime](https://primedermatologia.com/tratamentos/laser-nd-yag/).
+- **Laser Nd:YAG no modo *toning***: é um modo de baixa energia, específico para melasma, que age sobre o pigmento com pouca irritação da pele. Uso sempre associado ao tratamento tópico. Veja como funciona o [laser Nd:YAG na Prime](https://primedermatologia.com/tratamentos/laser-nd-yag/).
 - **Luz intensa pulsada**: é útil para outras manchas, como as de sol, mas evito no melasma, pelo risco de piora.
 
 Lasers e luzes usados de forma inadequada podem inflamar a pele e escurecer as manchas, e é por isso que a escolha do equipamento e dos parâmetros faz tanta diferença no melasma.

@@ -53,7 +53,7 @@ Não é só uma questão estética. Sem tratamento, a unha pode ficar dolorosa, 
 
 Psoríase, traumas repetidos (como o atrito do tênis na corrida), alterações de circulação e o próprio envelhecimento podem deixar a unha grossa e com a cor alterada. Em estudos que usaram exames moleculares, apenas cerca de metade das unhas com aparência de micose tinha, de fato, fungo.
 
-Por isso, as diretrizes recomendam confirmar o diagnóstico antes de começar o tratamento. Na consulta, examino as unhas e a pele dos pés e, quando indicado, faço o clipping ungueal: corto um pequeno fragmento da ponta da unha afetada e envio para análise em laboratório de patologia. É um exame simples, que não dói e não deixa sequela. Ele mostra se há fungo na unha e também ajuda a diferenciar a micose de outras doenças, como a psoríase.
+Por isso, as diretrizes recomendam confirmar o diagnóstico antes de começar o tratamento. Na consulta, examino as unhas e a pele dos pés e, quando indicado, faço o clipping ungueal: corto um pequeno fragmento da ponta da unha afetada e envio para análise em laboratório de patologia. É um exame rápido, feito no consultório, que não deixa sequela. Ele mostra se há fungo na unha e também ajuda a diferenciar a micose de outras doenças, como a psoríase.
 
 Isso evita meses de tratamento para uma doença que a pessoa não tem.
 
@@ -69,10 +69,10 @@ Isso evita meses de tratamento para uma doença que a pessoa não tem.
 O tratamento é escolhido de acordo com a quantidade de unhas afetadas, a extensão do comprometimento em cada unha, o tipo de fungo, a idade, outras doenças e os medicamentos que a pessoa já usa.
 
 - **Tratamento tópico** (esmaltes e soluções antifúngicas): indicado para casos leves a moderados, ou quando o tratamento oral não é possível. Tem poucos efeitos colaterais, mas exige uso diário por muitos meses.
-- **Tratamento oral**: é o mais eficaz nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
+- **Tratamento oral**: é considerado o tratamento de referência nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
 - **Tratamento combinado**: unir tratamento oral e tópico aumenta as chances de cura em vários casos.
 - **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir. Quando necessário, faço o desbaste no próprio consultório.
-- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e não causa dor. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. O protocolo costuma ter pelo menos 8 sessões, uma por semana. O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que possível, porém, associo o laser aos antifúngicos: em estudos com outros tipos de laser, a combinação com antifúngicos tópicos teve resultados melhores do que o antifúngico tópico sozinho.
+- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e costuma ser bem tolerado. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. O protocolo costuma ter pelo menos 8 sessões, uma por semana. O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que possível, porém, associo o laser aos antifúngicos: em estudos com outros tipos de laser, a combinação com antifúngicos tópicos teve resultados melhores do que o antifúngico tópico sozinho.
 
 Um ponto de atenção: já existem fungos resistentes a alguns antifúngicos em vários países. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
 

@@ -58,7 +58,7 @@ Se você usa uma dessas canetas e notou queda de cabelo:
 - Procure um dermatologista para confirmar o tipo de queda, já que o uso dessas medicações também foi associado à piora da alopecia androgenética.
 - Cuide da alimentação, com atenção à quantidade de proteína, e investigue possíveis deficiências nutricionais.
 
-Na maioria dos casos, o cabelo se recupera com esses cuidados, muitas vezes sem necessidade de interromper o tratamento para perda de peso.
+Na maioria dos casos, o cabelo tende a voltar a crescer com esses cuidados, muitas vezes sem necessidade de interromper o tratamento para perda de peso.
 
 Veja também o que as canetas emagrecedoras podem causar [na pele, nas unhas e no rosto, incluindo o chamado "Ozempic face"](/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/).
 

@@ -1,6 +1,6 @@
 ---
 title: 'Canetas emagrecedoras e a pele: cabelo, unhas e o chamado "Ozempic face"'
-description: 'O que os estudos mostram sobre semaglutida, tirzepatida e a pele: queda de cabelo, alterações nas unhas, reações na pele e a perda de volume do rosto conhecida como "Ozempic face", e o que pode ser feito.'
+description: 'O que os estudos mostram sobre semaglutida, tirzepatida e a pele: queda de cabelo, alterações nas unhas, reações na pele e a perda de volume do rosto, o chamado "Ozempic face", e o que pode ser feito.'
 answer: 'As canetas emagrecedoras, como semaglutida e tirzepatida, podem estar associadas a queda de cabelo, alterações nas unhas e reações na pele. O chamado "Ozempic face" é a perda de volume do rosto causada principalmente pelo emagrecimento rápido, e não por um efeito exclusivo do medicamento. Proteína adequada, perda de peso gradual e avaliação dermatológica ajudam a prevenir e tratar essas alterações.'
 pubDate: 2026-10-24
 reviewedDate: 2026-10-24
@@ -77,7 +77,7 @@ Por outro lado, há estudos pequenos mostrando melhora da psoríase em pessoas c
 
 ## O chamado "Ozempic face"
 
-O termo "Ozempic face" se popularizou para descrever o rosto com aparência mais magra, encovada e envelhecida em quem emagrece com essas canetas. Apesar do nome, **não é um efeito exclusivo de um medicamento**: alterações parecidas acontecem depois de outras formas de emagrecimento intenso, como a cirurgia bariátrica.
+O chamado "Ozempic face" é o rosto com aparência mais magra, encovada e envelhecida em quem emagrece com essas canetas. Apesar do nome, **não é um efeito exclusivo de um medicamento**: alterações parecidas acontecem depois de outras formas de emagrecimento intenso, como a cirurgia bariátrica.
 
 **O que acontece no rosto:**
 
@@ -98,14 +98,14 @@ As alterações costumam ser mais perceptíveis em pessoas mais velhas, que perd
 
 ## Como tratar o rosto
 
-Quando a perda de volume já aconteceu, os procedimentos dermatológicos podem ajudar a repor o que foi perdido e melhorar a firmeza da pele:
+Quando a perda de volume já aconteceu, os procedimentos dermatológicos podem ajudar a repor parte do volume e melhorar a firmeza da pele:
 
 - **Bioestimuladores de colágeno**, como o ácido poli-L-láctico, a hidroxiapatita de cálcio e a policaprolactona, que melhoram a firmeza de forma gradual
 - **Ácido hialurônico**, para repor volume em pontos específicos, como as maçãs do rosto e as têmporas
 - **Fios de PDO**, absorvíveis, para sustentação e estímulo de colágeno em casos selecionados de flacidez
 - **Tecnologias que estimulam o colágeno**, como lasers e microagulhamento, para a qualidade da pele
 
-O momento de cada tratamento faz diferença. Os bioestimuladores podem ser iniciados ainda durante o emagrecimento: como o colágeno se forma ao longo de meses, começar cedo ajuda a preservar a firmeza da pele enquanto o peso diminui. Já a reposição de volume com ácido hialurônico costuma ser planejada quando o peso estiver mais próximo do estável, para não precisar refazer o tratamento a cada etapa. Os estudos sobre esses tratamentos especificamente no "Ozempic face" ainda são limitados, e o plano é sempre individual. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
+O momento de cada tratamento faz diferença. Os bioestimuladores podem ser iniciados ainda durante o emagrecimento: como o colágeno se forma ao longo de meses, começar cedo ajuda a preservar a firmeza da pele enquanto o peso diminui. Já a reposição de volume com ácido hialurônico costuma ser planejada quando o peso estiver mais próximo do estável, para não precisar refazer o tratamento a cada etapa. Os estudos sobre esses tratamentos especificamente no chamado "Ozempic face" ainda são limitados, e o plano é sempre individual. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
 
 ## Quando procurar um dermatologista
 

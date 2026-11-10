@@ -1,7 +1,7 @@
 ---
 title: 'Cisto sebáceo: por que inflama, por que não espremer e quando operar'
 description: 'O que é o cisto sebáceo (cisto epidérmico), por que ele inflama e volta, por que espremer piora, quando o antibiótico ajuda, como é a retirada e quando procurar um dermatologista.'
-answer: 'O cisto sebáceo é uma bolinha sob a pele, revestida por uma cápsula e cheia de queratina, uma massa branca e de cheiro forte. Ele é benigno e não precisa ser retirado se não incomoda. Quando inflama, cresce ou volta, o tratamento definitivo é a retirada cirúrgica da cápsula inteira, com anestesia local.'
+answer: 'O cisto sebáceo é uma bolinha sob a pele, revestida por uma cápsula e cheia de queratina, uma massa branca e de cheiro forte. Ele é benigno e não precisa ser retirado se não incomoda. Quando inflama, cresce ou volta, o tratamento indicado é a retirada cirúrgica da cápsula inteira, com anestesia local.'
 pubDate: 2026-10-26
 reviewedDate: 2026-10-26
 category: 'Pele'
