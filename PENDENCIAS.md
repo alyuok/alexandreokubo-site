@@ -55,12 +55,15 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 ### Aguardando decisão dele
 - [ ] Próximos temas: toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
-- [ ] Campanhas de micose de unha e unha encravada: textos em `docs/anuncios-google-ads.md` (07/11) e prompt de criação e ativação em
-  `docs/prompt-campanhas-unha-google-ads-2026-11-10.md`. Textos e valores (R$ 20/dia cada, Maximizar cliques com CPC máx. R$ 6, raios) aprovados por ele em 10/11.
-  Falta ele rodar o prompt e mandar o relatório. Em 7 dias, revisar os termos de pesquisa; em 14, comparar o custo por conversão com o do cisto.
+- [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).
+  Em 11 ou 12/11: conferir a força do anúncio já calculada (estava "Ruim" no editor) e a análise de política da Unha encravada. Se continuar "Ruim", testar tirar a fixação dos títulos 1 e 2 (o CRM e o RQE seguem fixados na descrição 1 e no título 3).
+  Por volta de 17/11: exportar os termos de pesquisa das duas campanhas para revisar as negativas. Por volta de 24/11: comparar o custo por conversão com o da campanha de cisto.
+  Os recursos de mensagem de WhatsApp que o Google anexou às duas campanhas ficaram pausados. Idioma não configurável na interface atual.
+- [ ] Conversões principais: o relatório de 10/11 achou mais 4 ações como principais ("Business profile tracked call", "Calls from Smart Campaign Ads", "Smart campaign ad clicks to call", "Business profile - Form submit").
+  Passar as 4 para secundárias (bloco 4 do prompt de 07/11). Sem isso, a análise de 21/11 mistura conversões do perfil do Google com as dos anúncios.
+- [ ] Campanhas antigas pausadas ("Unhas - Inicio 18/03 (Clube Fiel)", três Inteligentes de Lunula e unha encravada): deixar pausadas. Não reativar.
 
 ### Depois que ele enviar a informação
-- [ ] Conferir no Google Ads, a partir de 10/11, se a "Clique telefone" passou de "Inativo" para registrando (rótulo publicado em 07/11).
 - [ ] Atualizar o TikTok em `site.ts` (`sameAs` e `social`), quando ele confirmar a troca.
 - [ ] Conferir e atualizar a URL da Doctoralia em `site.ts` (`primaryUrl` e `sameAs`), quando ele corrigir a especialidade no perfil.
   Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
