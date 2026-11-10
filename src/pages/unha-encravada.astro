@@ -14,7 +14,7 @@ const description =
   'Tratamento de unha encravada com dermatologista: avaliação, cuidados para casos leves e cantoplastia com anestesia local no consultório, na Vila Clementino (SP) e em Santo André.';
 
 const steps = [
-  { t: 'Avaliação', d: 'Exame da unha e do dedo para definir o grau da unha encravada e verificar se há infecção, granuloma, micose ou outras condições, como diabetes.' },
+  { t: 'Avaliação', d: 'Exame da unha e do dedo para definir o grau da unha encravada e ver se há infecção, granuloma ou micose, e perguntar sobre diabetes e circulação.' },
   { t: 'Casos leves', d: 'Técnicas simples que afastam a borda da unha da pele e aliviam a dor, além de orientações de corte, calçados e cuidados em casa.' },
   { t: 'Cantoplastia', d: 'Nos casos moderados a graves ou que voltam: retirada só da borda que encrava e matricectomia, com anestesia local, no próprio consultório.' },
   { t: 'Acompanhamento', d: 'Orientação sobre curativos e volta às atividades, retorno para avaliar a cicatrização e cuidados para evitar que o problema volte.' },
@@ -35,7 +35,7 @@ const faq = [
   },
   {
     q: 'O procedimento dói?',
-    a: 'É feito com anestesia local, aplicada na base do dedo. Depois que o efeito passa, pode haver desconforto, que costuma ser controlado com as medicações orientadas na consulta.',
+    a: 'A anestesia local é aplicada na base do dedo e deixa o dedo dormente durante a cirurgia. Quando o efeito passa, o dedo pode doer, e oriento na consulta o que tomar.',
   },
   {
     q: 'Quanto tempo leva a recuperação?',
@@ -84,7 +84,7 @@ const faq = [
         </p>
         <div class="actions">
           <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_encravada">Agendar pelo WhatsApp</a>
-          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_encravada">Agendar pelo Doctoralia</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_encravada">Agendar pela Doctoralia</a>
         </div>
         <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
       </div>
@@ -174,7 +174,7 @@ const faq = [
         {locations.map((l) => (
           <div>
             <h3>{l.name}</h3>
-            <p>{l.street}, {l.district}<br />{l.city} – {l.region}, {l.postalCode}<br />{l.payment}</p>
+            <p>{l.street}, {l.district}<br />{l.city}, {l.region}, {l.postalCode}<br />{l.payment}</p>
             {l.whatsapp ? (
               <a class="btn cta-btn" href={waLink(l.phone)} rel="noopener" target="_blank" data-event="whatsapp_encravada">Agendar pelo WhatsApp</a>
             ) : (

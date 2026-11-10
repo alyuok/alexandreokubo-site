@@ -124,7 +124,7 @@ const hasAnalytics = Boolean(analytics.ga4 || analytics.googleAds);
         {locations.map((l) => (
           <div>
             <p class="footer-label">{l.city}</p>
-            <p><a href={`/onde-atendo/${l.slug}/`}>{l.shortName}</a><br />{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
+            <p><a href={`/onde-atendo/${l.slug}/`}>{l.shortName}</a><br />{l.street}{l.district && `, ${l.district}`}<br />{l.city}, {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
           </div>
         ))}
       </div>

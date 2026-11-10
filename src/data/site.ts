@@ -42,7 +42,7 @@ export const doctor = {
 export const booking = {
   // Agenda única: Doctoralia. Cada clínica também agenda pelo próprio telefone.
   primaryUrl: 'https://www.doctoralia.com.br/alexandre-okubo/dermatologista-especialista-em-medicina-estetica/sao-paulo',
-  primaryLabel: 'Agende sua avaliação dermatológica',
+  primaryLabel: 'Agendar pela Doctoralia',
 };
 
 // Avaliações de pacientes: só link para a plataforma, sem copiar textos nem marcar AggregateRating (CFM e

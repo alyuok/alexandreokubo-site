@@ -46,7 +46,7 @@ const faq = [
     a: 'Depende do seu risco. Quem tem muitas pintas, pintas atípicas, pele muito clara, história de queimaduras de sol ou melanoma na família costuma precisar de revisões mais frequentes. Defino o intervalo na consulta.',
   },
   {
-    q: 'Vocês fazem mapeamento corporal total?',
+    q: 'Você faz mapeamento corporal total?',
     a: 'Não. A avaliação é feita com o exame da pele e a dermatoscopia das pintas que precisam de atenção, durante a consulta. Quando o mapeamento corporal total é indicado, oriento onde fazê-lo.',
   },
   {
@@ -83,7 +83,7 @@ const faq = [
         </p>
         <div class="actions">
           <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_pintas">Agendar pelo WhatsApp</a>
-          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_pintas">Agendar pelo Doctoralia</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_pintas">Agendar pela Doctoralia</a>
         </div>
         <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
       </div>
@@ -190,7 +190,7 @@ const faq = [
         {locations.map((l) => (
           <div>
             <h3>{l.name}</h3>
-            <p>{l.street}, {l.district}<br />{l.city} – {l.region}, {l.postalCode}<br />{l.payment}</p>
+            <p>{l.street}, {l.district}<br />{l.city}, {l.region}, {l.postalCode}<br />{l.payment}</p>
             {l.whatsapp ? (
               <a class="btn cta-btn" href={waLink(l.phone)} rel="noopener" target="_blank" data-event="whatsapp_pintas">Agendar pelo WhatsApp</a>
             ) : (

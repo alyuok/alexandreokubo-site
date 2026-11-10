@@ -22,8 +22,8 @@ const { loc } = Astro.props;
 const photosBySlug: Record<string, { src: ImageMetadata; alt: string }[]> = {
   'prime-dermatologia': [
     { src: logoPrime, alt: 'Dr. Alexandre Okubo, dermatologista, em frente ao logotipo da Prime Dermatologia em São Paulo' },
-    { src: equipeRecepcao, alt: 'Equipe de recepção da Prime Dermatologia, clínica do Dr. Alexandre Okubo em São Paulo' },
-    { src: salaEspera, alt: 'Sala de espera da Prime Dermatologia, clínica do Dr. Alexandre Okubo na Vila Clementino' },
+    { src: equipeRecepcao, alt: 'Equipe de recepção da Prime Dermatologia, em São Paulo' },
+    { src: salaEspera, alt: 'Sala de espera da Prime Dermatologia, na Vila Clementino' },
     { src: recepcaoPrime, alt: 'Dr. Alexandre Okubo escreve no balcão da recepção da Prime Dermatologia, clínica onde é diretor técnico' },
     { src: consultorioPrime, alt: 'Dr. Alexandre Okubo em sua mesa de atendimento na Prime Dermatologia, São Paulo' },
     { src: lunulaPrime, alt: 'Dr. Alexandre Okubo ao lado do laser Lunula, usado no tratamento da micose de unha' },
@@ -32,8 +32,9 @@ const photosBySlug: Record<string, { src: ImageMetadata; alt: string }[]> = {
 };
 const [widePhoto, ...photos] = photosBySlug[loc.slug] ?? [];
 const place = `${loc.district ? loc.district + ', ' : ''}${loc.city}`;
-const title = `Dermatologista em ${place} – ${loc.shortName}`;
-const description = `${doctor.name}, dermatologista, atende na ${loc.name}: ${loc.street}, ${place} – ${loc.region}. ${loc.payment}.`;
+const titlePlace = loc.district && loc.district !== 'Centro' ? `na ${loc.district}, ${loc.city}` : `em ${loc.city}`;
+const title = `Dermatologista ${titlePlace} | ${loc.shortName}`;
+const description = `${doctor.name}, dermatologista, atende na ${loc.name}: ${loc.street}, ${place}, ${loc.region}. ${loc.payment}.`;
 const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
 ---
 <Base
@@ -52,7 +53,7 @@ const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
     <div class="wrap grid grid--2">
       <dl class="facts">
         <dt>Endereço</dt>
-        <dd>{loc.street}{loc.district && `, ${loc.district}`}<br />{loc.city} – {loc.region}{loc.postalCode && `, ${loc.postalCode}`}</dd>
+        <dd>{loc.street}{loc.district && `, ${loc.district}`}<br />{loc.city}, {loc.region}{loc.postalCode && `, ${loc.postalCode}`}</dd>
         {loc.phone && (<><dt>{loc.whatsapp ? 'Telefone e WhatsApp' : 'Telefone'}</dt><dd><a href={`tel:${telIntl(loc.phone)}`}>{loc.phone}</a></dd></>)}
         <dt>Forma de atendimento</dt>
         <dd>{loc.payment}</dd>
@@ -64,8 +65,8 @@ const url = `${SITE_URL}/onde-atendo/${loc.slug}/`;
         <p class="book-actions">
           {loc.whatsapp
             ? <a class="btn" href={waLink(loc.phone)} rel="noopener" target="_blank">Agendar pelo WhatsApp</a>
-            : <a class="btn" href={`tel:${telIntl(loc.phone)}`}>Ligar para a {loc.shortName}</a>}
-          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar pelo Doctoralia</a>
+            : <a class="btn" href={`tel:${telIntl(loc.phone)}`}>Ligar: {loc.phone}</a>}
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar pela Doctoralia</a>
         </p>
         <p><a href={mapLink(loc)} rel="noopener" target="_blank">Abrir no Google Maps →</a></p>
       </div>

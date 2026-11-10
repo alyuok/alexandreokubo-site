@@ -6,7 +6,7 @@ interface Props {
 }
 const {
   title = 'Vamos entender o que a sua pele precisa',
-  text = 'A consulta começa pela sua história. Depois vêm o exame, o diagnóstico explicado com calma e um plano que faça sentido para você.',
+  text = 'Na primeira consulta, ouço o que você já tentou, examino a pele e explico o diagnóstico antes de propor o tratamento.',
 } = Astro.props;
 ---
 <section class="section section--dark">
@@ -28,7 +28,7 @@ const {
       ))}
     </div>
     <div class="cta-actions">
-      <a class="btn btn--sm cta-ghost" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar online pela Doctoralia</a>
+      <a class="btn btn--sm cta-ghost" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar pela Doctoralia</a>
       <a href="/onde-atendo/">Ver endereços e como chegar</a>
     </div>
     <p class="signature cta-sig">{doctor.name} · {doctor.crm} · {doctor.rqe}</p>

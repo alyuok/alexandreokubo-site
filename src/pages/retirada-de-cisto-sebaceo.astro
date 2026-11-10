@@ -28,11 +28,11 @@ const faq = [
   },
   {
     q: 'A retirada dói?',
-    a: 'É feita com anestesia local, aplicada no ponto do cisto. Depois que o efeito passa, pode haver desconforto, que costuma ser controlado com as medicações orientadas na consulta.',
+    a: 'O que se sente é a picada da anestesia local, aplicada em volta do cisto. Depois que o efeito passa, o local pode ficar dolorido, e oriento na consulta o que tomar.',
   },
   {
     q: 'Fica cicatriz?',
-    a: 'Toda retirada cirúrgica deixa alguma cicatriz. O planejamento busca deixá-la o mais discreta possível, e o resultado depende também da região do corpo e da cicatrização de cada pessoa.',
+    a: 'Sim, toda retirada deixa cicatriz. O tamanho do corte acompanha o tamanho do cisto, e o aspecto final depende também da região do corpo e da pele de cada pessoa.',
   },
   {
     q: 'Dá para operar o cisto inflamado?',
@@ -44,7 +44,7 @@ const faq = [
   },
   {
     q: 'Como é a recuperação?',
-    a: 'Na maioria dos casos, dá para voltar às atividades no mesmo dia ou no seguinte, com cuidados com o curativo. Quando há pontos, eles são retirados depois de 7 a 14 dias, conforme o local.',
+    a: 'Em geral, você volta às atividades no mesmo dia ou no seguinte, cuidando do curativo. Quando há pontos, eles saem entre 7 e 14 dias, conforme o local.',
   },
 ];
 ---
@@ -77,7 +77,7 @@ const faq = [
         </p>
         <div class="actions">
           <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_cisto">Agendar pelo WhatsApp</a>
-          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_cisto">Agendar pelo Doctoralia</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_cisto">Agendar pela Doctoralia</a>
         </div>
         <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
       </div>
@@ -134,7 +134,7 @@ const faq = [
         <p>
           O procedimento é feito no consultório, com anestesia local, na Prime Dermatologia e na Clínica Portugal.
           Cistos pequenos podem ser retirados por um corte de poucos milímetros. Cistos maiores ou que já inflamaram
-          costumam pedir um corte em fuso e pontos.
+          costumam pedir um corte em forma de folha (em fuso), fechado com pontos.
         </p>
         <p><a href="/blog/cisto-sebaceo/">Entenda o cisto sebáceo em detalhes →</a></p>
       </div>
@@ -155,7 +155,7 @@ const faq = [
         {locations.map((l) => (
           <div>
             <h3>{l.name}</h3>
-            <p>{l.street}, {l.district}<br />{l.city} – {l.region}, {l.postalCode}<br />{l.payment}</p>
+            <p>{l.street}, {l.district}<br />{l.city}, {l.region}, {l.postalCode}<br />{l.payment}</p>
             {l.whatsapp ? (
               <a class="btn cta-btn" href={waLink(l.phone)} rel="noopener" target="_blank" data-event="whatsapp_cisto">Agendar pelo WhatsApp</a>
             ) : (

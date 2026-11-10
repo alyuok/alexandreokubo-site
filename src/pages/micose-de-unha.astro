@@ -9,7 +9,7 @@ import { medicalPageSchema, faqSchema, clinicId } from '../data/schema';
 // Página de destino do tráfego pago (unhas). Atendimento na Prime.
 const prime = locations.find((l) => l.slug === 'prime-dermatologia')!;
 const url = `${SITE_URL}/micose-de-unha/`;
-const title = 'Tratamento de micose de unha em São Paulo – Vila Clementino';
+const title = 'Tratamento de micose de unha em São Paulo, na Vila Clementino';
 const description =
   'Avaliação e tratamento de micose de unha (onicomicose) com dermatologista na Vila Clementino, São Paulo: confirmação do diagnóstico, tratamento individualizado e laser Lunula.';
 
@@ -23,7 +23,7 @@ const steps = [
 const faq = [
   {
     q: 'Como saber se é mesmo micose de unha?',
-    a: 'Psoríase, traumas repetidos e alterações de circulação podem deixar a unha com aparência parecida. Por isso, o diagnóstico é feito com exame clínico e, quando indicado, com o clipping ungueal: um pequeno fragmento da ponta da unha é cortado e analisado em laboratório de patologia.',
+    a: 'Psoríase, traumas repetidos e alterações de circulação podem deixar a unha com aparência parecida. Por isso, confirmo o diagnóstico com o exame clínico e, quando indicado, com o clipping ungueal, em que um pedaço da ponta da unha vai para exame.',
   },
   {
     q: 'O laser Lunula substitui o remédio?',
@@ -78,7 +78,7 @@ const faq = [
         </p>
         <div class="actions">
           <a class="btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_unha">Agendar pelo WhatsApp</a>
-          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_unha">Agendar pelo Doctoralia</a>
+          <a class="btn btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="doctoralia_unha">Agendar pela Doctoralia</a>
         </div>
         <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
       </div>
@@ -119,13 +119,12 @@ const faq = [
       </div>
       <div class="prose">
         <p>
-          Na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e costuma ser bem tolerado. Em estudos
+          Na Prime, uso o Lunula, um laser de baixa intensidade que não aquece a unha e costuma ser bem tolerado. Em estudos
           iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas.
         </p>
         <p>
-          O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que
-          possível, associo o laser aos antifúngicos, para somar os efeitos dos dois tratamentos. O protocolo costuma
-          ter pelo menos 8 sessões, uma por semana, e a indicação é definida na avaliação.
+          A indicação é definida na avaliação: o laser pode entrar sozinho ou junto com o remédio, conforme o seu
+          caso e a sua saúde.
         </p>
         <p><a href="/blog/micose-de-unha-onicomicose/">Entenda a micose de unha em detalhes →</a></p>
       </div>
@@ -143,12 +142,12 @@ const faq = [
       <div>
         <p class="eyebrow">Onde</p>
         <h2 class="mt0">{prime.name}</h2>
-        <p>{prime.street}, {prime.district}<br />{prime.city} – {prime.region}, {prime.postalCode}<br />{prime.payment}</p>
+        <p>{prime.street}, {prime.district}<br />{prime.city}, {prime.region}, {prime.postalCode}<br />{prime.payment}</p>
       </div>
       <div class="where-actions">
         <a class="btn cta-btn" href={waLink(prime.phone)} rel="noopener" target="_blank" data-event="whatsapp_unha">Agendar pelo WhatsApp</a>
         <p><a href={`tel:${telIntl(prime.phone)}`}>{prime.phone}</a> · <a href={booking.primaryUrl} rel="noopener" target="_blank">Doctoralia</a></p>
-        <p class="small">Atendo também na Clínica Portugal, em Santo André. <a href="/onde-atendo/clinica-portugal/">Ver endereço</a></p>
+        <p class="small">Atendo também na Clínica Portugal, em Santo André, com consulta e tratamento com remédio. O laser Lunula fica só na Prime. <a href="/onde-atendo/clinica-portugal/">Ver endereço</a></p>
       </div>
     </div>
   </section>

@@ -52,8 +52,8 @@ const areas = [
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <p class="eyebrow hero-eyebrow">Dermatologista em São&nbsp;Paulo e Santo&nbsp;André</p>
-        <h1>Tratar a pele sem esquecer <em>a pessoa</em> que vive nela.</h1>
+        <p class="eyebrow hero-eyebrow">Dermatologia clínica, cirúrgica e estética</p>
+        <h1>Dermatologista em São&nbsp;Paulo <em>e Santo&nbsp;André</em></h1>
         <p class="lead">
           Sou o Dr. Alexandre Okubo, dermatologista formado pela Faculdade de Medicina da USP, com residência no
           Hospital das Clínicas. Atendo na Vila Clementino, em São Paulo, e em Santo André.
@@ -102,7 +102,7 @@ const areas = [
     <div class="wrap grid grid--2 approach">
       <div>
         <p class="eyebrow">Abordagem</p>
-        <h2 class="mt0">A consulta começa pela sua história</h2>
+        <h2 class="mt0">Hábitos também entram na consulta</h2>
       </div>
       <div class="prose">
         <p>
@@ -128,12 +128,12 @@ const areas = [
           <div class={i === 0 ? 'card loc loc--main' : 'card loc'}>
             <p class="loc-city">{l.city}{l.district && ` · ${l.district}`}</p>
             <h3>{l.shortName}</h3>
-            <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city} – {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
+            <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city}, {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
             <p class="signature">{l.payment}. {l.note}</p>
             <p class="loc-actions">
               {l.whatsapp
                 ? <a class="btn btn--sm" href={waLink(l.phone)} rel="noopener" target="_blank">Agendar pelo WhatsApp</a>
-                : <a class="btn btn--sm btn--ghost" href={`tel:${telIntl(l.phone)}`}>Ligar para a clínica</a>}
+                : <a class="btn btn--sm btn--ghost" href={`tel:${telIntl(l.phone)}`}>Ligar: {l.phone}</a>}
               <a href={mapLink(l)} rel="noopener" target="_blank">Como chegar</a>
             </p>
             <a href={`/onde-atendo/${l.slug}/`}>Detalhes da unidade →</a>
