@@ -24,27 +24,27 @@ No consultório, uma das frases que mais ouço é: "meu cabelo começou a cair, 
 
 ## Por que o cabelo cai meses depois
 
-Cada fio passa por fases: cresce por anos (fase anágena), para de crescer e depois se solta (fase telógena). Normalmente, só uma pequena parte dos fios está na fase de queda ao mesmo tempo.
+Cada fio passa por fases: cresce por anos (fase anágena), para de crescer e fica em repouso por alguns meses até se soltar (fase telógena). Normalmente, só uma pequena parte dos fios está nessa fase ao mesmo tempo.
 
-Um evento forte para o organismo pode fazer muitos fios entrarem juntos na fase de repouso. Como essa fase dura alguns meses, a queda só aparece depois. Por isso a pessoa raramente liga a queda ao que aconteceu.
+Um evento forte para o organismo pode fazer muitos fios entrarem juntos na fase telógena. Como ela dura alguns meses, a queda só aparece depois. Por isso a pessoa raramente liga a queda ao que aconteceu.
 
 ## Gatilhos mais comuns
 
-- Estresse emocional intenso
-- Febre alta ou infecções, incluindo COVID-19
-- Cirurgias e internações
-- Parto
+- **Estresse emocional intenso**
+- **Febre alta ou infecções**, incluindo COVID-19
+- **Cirurgias e internações**
+- **Parto**
 - **Perda de peso rápida**, seja por dietas muito restritivas, cirurgia bariátrica ou canetas emagrecedoras (veja abaixo)
 - **Medicamentos**: início, troca ou suspensão de alguns remédios (veja abaixo)
-- Alterações de tireoide e deficiências nutricionais, como a de ferro
+- **Tireoide e nutrientes:** alterações da tireoide e deficiências, como a de ferro
 
 ## Medicamentos: uma causa frequente e muitas vezes esquecida
 
-Vários medicamentos de uso comum podem desencadear o eflúvio telógeno, tanto quando são iniciados quanto quando são suspensos ou trocados. Entre os exemplos estão anticoncepcionais hormonais (principalmente na suspensão), anticoagulantes, alguns remédios para pressão, retinoides orais, anticonvulsivantes e medicamentos para a tireoide.
+Vários medicamentos de uso comum podem desencadear o eflúvio telógeno, tanto quando são iniciados quanto quando são suspensos ou trocados. Entre os exemplos estão anticoncepcionais hormonais (principalmente na suspensão), anticoagulantes, alguns remédios para pressão, retinoides orais (como a isotretinoína), anticonvulsivantes e medicamentos para a tireoide.
 
-Como a queda aparece meses depois, raramente a pessoa faz essa ligação. Por isso, na consulta, reviso todos os medicamentos, suplementos e vitaminas usados nos últimos meses. Se puder, traga essa lista com as datas aproximadas de início e de suspensão.
+Na consulta, reviso todos os medicamentos, suplementos e vitaminas usados nos últimos meses. Se puder, traga essa lista com as datas aproximadas de início e de suspensão.
 
-Assim como no caso das canetas emagrecedoras, a regra é a mesma: não suspenda nenhum medicamento por conta própria. Quando há suspeita, o ajuste é combinado com o médico que o prescreveu.
+Não suspenda nenhum medicamento por conta própria. Quando há suspeita, o ajuste é combinado com o médico que o receitou.
 
 ## Canetas emagrecedoras e queda de cabelo
 
@@ -54,9 +54,9 @@ O principal fator parece ser a própria perda de peso rápida, que muitas vezes 
 
 Se você usa uma dessas canetas e notou queda de cabelo:
 
-- Não interrompa o tratamento sem orientação. Converse com o médico que o prescreveu.
-- Procure um dermatologista para confirmar o tipo de queda, já que o uso dessas medicações também foi associado à piora da alopecia androgenética.
-- Cuide da alimentação, com atenção à quantidade de proteína, e investigue possíveis deficiências nutricionais.
+- **Não interrompa as aplicações** sem falar com quem as receitou.
+- **Confirme o tipo de queda** com um dermatologista, porque o uso desses medicamentos também foi associado à piora da alopecia androgenética (a calvície de padrão hereditário).
+- **Cuide da alimentação**, com atenção à quantidade de proteína, e investigue possíveis deficiências de nutrientes.
 
 Na maioria dos casos, o cabelo tende a voltar a crescer com esses cuidados, muitas vezes sem necessidade de interromper o tratamento para perda de peso.
 
@@ -64,18 +64,28 @@ Veja também o que as canetas emagrecedoras podem causar [na pele, nas unhas e n
 
 ## Como saber se é eflúvio telógeno
 
-Os sinais típicos são queda espalhada por todo o couro cabeludo, sem falhas localizadas, e mais fios no travesseiro, no ralo e na escova. O diagnóstico, porém, depende do exame. Na consulta, avalio a história, examino o couro cabeludo com tricoscopia e, quando necessário, peço exames de sangue.
+Os sinais típicos são queda espalhada por todo o couro cabeludo, sem falhas localizadas, e mais fios no travesseiro, no ralo e na escova. O diagnóstico, porém, depende do exame. Na consulta, avalio a história, examino o couro cabeludo com [tricoscopia](https://primedermatologia.com/tratamentos/tricoscopia/) (exame com lente de aumento) e, quando necessário, peço exames de sangue.
 
-Isso importa porque outras causas de queda, como a alopecia androgenética, podem aparecer ao mesmo tempo e precisam de tratamento diferente.
+Outras causas de queda, como a alopecia androgenética, podem aparecer ao mesmo tempo e pedem outro tratamento.
 
 ## Quanto tempo dura
 
-Na maioria dos casos, a queda diminui depois que o gatilho é resolvido, e o cabelo volta a crescer nos meses seguintes. Quando a queda passa de seis meses, fala-se em eflúvio telógeno crônico, que merece investigação mais detalhada.
+Na maioria dos casos, a queda diminui depois que o gatilho é resolvido, e o cabelo volta a crescer nos meses seguintes. Quando a queda passa de seis meses, fala-se em eflúvio telógeno crônico, que pede investigação mais detalhada.
 
 ## O que ajuda
 
-O ponto principal é identificar e tratar a causa. Em alguns casos, uso tratamentos que estimulam o crescimento, sempre com indicação individual. Sono, alimentação adequada e manejo do estresse fazem parte do plano, porque o cabelo costuma refletir o que o corpo viveu.
+O tratamento começa por identificar e corrigir a causa. Em alguns casos, uso tratamentos que estimulam o crescimento. Dormir bem, comer proteína suficiente e reduzir o estresse também ajudam.
+
+## Nem toda queda de cabelo é eflúvio telógeno
+
+- **Alopecia androgenética:** os fios afinam aos poucos, nas entradas e no topo da cabeça nos homens e no topo, com a risca mais larga, nas mulheres.
+- **Alopecia areata:** falhas redondas e lisas, sem cabelo, que aparecem de repente.
+- **Doenças do couro cabeludo:** dermatite seborreica, psoríase ou micose, com coceira, descamação ou vermelhidão.
+
+Uma pessoa pode ter mais de uma causa ao mesmo tempo, e o exame do couro cabeludo ajuda a separar cada uma.
 
 ## Quando procurar um dermatologista
 
 Procure avaliação se a queda durar mais de três meses, se surgirem falhas, se houver coceira, dor ou vermelhidão no couro cabeludo, ou se você notar redução do volume do cabelo.
+
+Veja como avalio a queda de cabelo na [dermatologia clínica](/dermatologia-clinica/).

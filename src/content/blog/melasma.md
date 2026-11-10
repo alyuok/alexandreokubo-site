@@ -23,9 +23,6 @@ status: aprovado
 ---
 
 O melasma é uma das queixas mais comuns no consultório, e também uma das que mais frustram. Muitas pacientes já fizeram vários tratamentos, viram as manchas clarearem e, meses depois, voltarem. Isso não significa que o tratamento falhou: é a natureza do melasma.
-
-Entender por que isso acontece é o primeiro passo para controlar as manchas a longo prazo.
-
 ## O que é o melasma
 
 O melasma é uma condição crônica em que as células que produzem pigmento (melanócitos) ficam mais ativas em algumas áreas do rosto, formando manchas acastanhadas, geralmente simétricas, na testa, nas maçãs do rosto, no buço e no queixo.
@@ -43,13 +40,13 @@ O melasma é uma condição crônica em que as células que produzem pigmento (m
 
 ## Por que o melasma volta
 
-O melasma não é só "pigmento parado na pele". Há alterações na própria pele, inclusive nos vasos e nas camadas mais profundas, que mantêm os melanócitos estimulados. Por isso, mesmo depois de clarear, as manchas podem voltar quando a pele é exposta ao sol, ao calor ou a mudanças hormonais.
+No melasma, a pele em volta da mancha também muda, inclusive nos vasos e nas camadas mais profundas, que mantêm os melanócitos estimulados. Por isso, mesmo depois de clarear, as manchas podem voltar quando a pele é exposta ao sol, ao calor ou a mudanças hormonais.
 
-A conclusão prática é simples: o melasma não tem cura definitiva, mas pode ser controlado. O tratamento tem uma fase de clareamento e uma fase de manutenção, que dura enquanto a tendência ao melasma existir.
+O melasma não tem cura definitiva, mas pode ser controlado. O tratamento tem uma fase de clareamento e uma fase de manutenção, que dura enquanto a tendência ao melasma existir.
 
-## Protetor solar com cor: a base de tudo
+## Protetor solar com cor no melasma
 
-Sem proteção adequada, nenhum tratamento se sustenta. Para o melasma, o protetor ideal é o **com cor**, que contém óxidos de ferro, os pigmentos que dão cor ao produto e bloqueiam também a luz visível. Estudos mostram que o protetor com cor reduz as recaídas do melasma em comparação com o protetor sem cor.
+Sem protetor, o clareamento não se mantém. Para o melasma, o protetor indicado é o **com cor**, que contém óxidos de ferro, os pigmentos que dão cor ao produto e bloqueiam também a luz visível. Estudos mostram que o protetor com cor reduz as recaídas do melasma em comparação com o protetor sem cor.
 
 Algumas orientações:
 
@@ -59,7 +56,7 @@ Algumas orientações:
 
 ## Cremes clareadores
 
-Os tratamentos tópicos continuam sendo a base do clareamento:
+Os principais tratamentos tópicos são:
 
 - **Hidroquinona**: é considerada o tratamento tópico de referência. Costuma ser usada em ciclos, com acompanhamento, porque o uso prolongado e sem orientação pode causar efeitos indesejados, como escurecimento paradoxal da pele.
 - **Combinações**: a associação de hidroquinona com tretinoína e um corticoide suave, por tempo limitado, aparece nos estudos entre os tratamentos tópicos de referência.
@@ -67,7 +64,7 @@ Os tratamentos tópicos continuam sendo a base do clareamento:
 
 ## Ácido tranexâmico
 
-O ácido tranexâmico é um medicamento que, por via oral, ganhou espaço no tratamento do melasma. Uma análise de 22 estudos randomizados, com 1.280 pacientes, mostrou redução significativa da gravidade do melasma, com os melhores resultados para a via oral, seguida das aplicações na pele e do uso tópico.
+O ácido tranexâmico é um medicamento que, por via oral, passou a ser usado no tratamento do melasma. Uma análise de 22 estudos randomizados, com 1.280 pacientes, mostrou melhora da gravidade do melasma, com os melhores resultados para a via oral, seguida das aplicações na pele e do uso tópico.
 
 Na prática, uso o ácido tranexâmico de duas formas: por via oral, quando indicado, e aplicado na pele junto com o microagulhamento, técnica conhecida como *drug delivery*, em que as microperfurações facilitam a entrada do medicamento.
 
@@ -75,16 +72,15 @@ A via oral não é indicada para todos. Pessoas com histórico de trombose ou co
 
 ## Procedimentos: peelings, microagulhamento e lasers
 
-Os procedimentos podem acelerar e aumentar o clareamento, mas no melasma exigem cuidado redobrado: um procedimento agressivo pode inflamar a pele e piorar as manchas.
+Os procedimentos podem acelerar e aumentar o clareamento, mas no melasma exigem cuidado na escolha do aparelho e da potência.
 
 - **Peelings superficiais**: ajudam a renovar a camada de pele com pigmento, como complemento aos cremes.
-- **Microagulhamento**: associado a clareadores ou ao ácido tranexâmico aplicado na pele, teve bons resultados em estudos. Na Prime, uso o [microagulhamento robótico](https://primedermatologia.com/tratamentos/microagulhamento-robotico/), que controla a profundidade e a distribuição das microperfurações.
+- **Microagulhamento**: associado a clareadores ou ao ácido tranexâmico aplicado na pele, melhorou as manchas em estudos. Na Prime, uso o [microagulhamento robótico](https://primedermatologia.com/tratamentos/microagulhamento-robotico/), que controla a profundidade e a distribuição das microperfurações.
 - **Laser Nd:YAG no modo *toning***: é um modo de baixa energia, específico para melasma, que age sobre o pigmento com pouca irritação da pele. Uso sempre associado ao tratamento tópico. Veja como funciona o [laser Nd:YAG na Prime](https://primedermatologia.com/tratamentos/laser-nd-yag/).
 - **Luz intensa pulsada**: é útil para outras manchas, como as de sol, mas evito no melasma, pelo risco de piora.
 
-Lasers e luzes usados de forma inadequada podem inflamar a pele e escurecer as manchas, e é por isso que a escolha do equipamento e dos parâmetros faz tanta diferença no melasma.
 
-Em uma análise que comparou 39 estudos com lasers, os melhores resultados vieram das combinações: laser associado a cremes clareadores, e não laser isolado. É a mesma lógica de todo o tratamento do melasma.
+Em uma análise que comparou 39 estudos com lasers, os melhores resultados vieram das combinações de laser com cremes clareadores.
 
 ## Quanto tempo leva
 

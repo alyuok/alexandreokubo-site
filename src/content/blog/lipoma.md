@@ -24,9 +24,9 @@ status: aprovado
 
 ## O que é o lipoma
 
-O lipoma é um nódulo benigno formado por células de gordura, parecidas com as da gordura normal do corpo e envolvidas por uma camada fina. Ele fica logo abaixo da pele, no tecido gorduroso (subcutâneo).
+O lipoma é um nódulo benigno formado por células de gordura, parecidas com as da gordura normal do corpo e envolvidas por uma camada fina. Fica logo abaixo da pele, no tecido gorduroso (subcutâneo).
 
-Ele aparece em qualquer idade, mas costuma surgir entre os 40 e os 60 anos. Os locais mais comuns são a cabeça, o pescoço, os ombros e as costas.
+Pode aparecer em qualquer idade, mas costuma surgir entre os 40 e os 60 anos. Os locais mais comuns são a cabeça, o pescoço, os ombros e as costas.
 
 ### Como reconhecer
 
@@ -40,7 +40,7 @@ Algumas pessoas têm vários lipomas. Raramente, isso faz parte de uma condiçã
 
 ## Por que aparece
 
-A causa exata não é conhecida, e não há relação comprovada com a alimentação. Por isso, mudar a dieta não faz o lipoma sumir.
+A causa exata não é conhecida. Não há relação comprovada com a alimentação, e mudar a dieta não faz o lipoma sumir.
 
 ## Precisa tirar?
 
@@ -50,12 +50,12 @@ Os motivos para retirar são:
 
 - **Incômodo ou dor** com a roupa, a alça da bolsa, a mochila ou ao deitar.
 - **Crescimento** perceptível.
-- **Incômodo estético.**
+- **Aparência que incomoda.**
 - **Dúvida no diagnóstico.**
 
 ## Quando o lipoma precisa de exame de imagem
 
-O lipoma comum é benigno, mas existem tumores de gordura menos inocentes, como o tumor lipomatoso atípico e o lipossarcoma, que podem ser parecidos ao toque. As revisões de ortopedia oncológica separam os casos pelo tamanho, acima de 5 cm, e pela profundidade, abaixo da fáscia (a membrana que cobre os músculos). Uma revisão de 2018 recomenda ressonância magnética para toda massa abaixo da fáscia e para as de mais de 5 cm no subcutâneo. Uma revisão francesa propõe começar pelo ultrassom, que mede o tamanho, mostra a profundidade e avalia a circulação dentro do nódulo.
+O lipoma comum é benigno, mas existem tumores de gordura que não são benignos, como o lipossarcoma (um câncer da gordura) e o tumor lipomatoso atípico (de comportamento intermediário), que podem ser parecidos ao toque. As revisões de ortopedia oncológica separam os casos pelo tamanho, acima de 5 cm, e pela profundidade, abaixo da fáscia (a membrana que cobre os músculos). Uma revisão de 2018 recomenda ressonância magnética para toda massa abaixo da fáscia e para as de mais de 5 cm no subcutâneo. Uma revisão francesa propõe começar pelo ultrassom, que mede o tamanho, mostra a profundidade e avalia a circulação dentro do nódulo.
 
 Quando há dúvida, peço um ultrassom antes de operar. Desconfio mais quando o nódulo:
 
@@ -71,7 +71,7 @@ Encaminho os lipomas grandes para um cirurgião, e a cirurgia é feita no hospit
 
 O lipoma pequeno e superficial é retirado no consultório, com anestesia local. Por um corte sobre o nódulo, ele é solto da gordura em volta e retirado inteiro, com a camada que o envolve. Depois, a pele é fechada com pontos.
 
-O tamanho do corte depende do tamanho do lipoma. Existem técnicas com cortes menores do que o nódulo. Em um estudo coreano com 112 lipomas retirados por uma incisão de cerca de um terço do diâmetro, houve 2 seromas (acúmulos de líquido), 2 hematomas e 1 lesão de nervo. O estudo foi retrospectivo e feito num único centro.
+O tamanho do corte depende do tamanho do lipoma. Existem técnicas com cortes menores do que o nódulo. Em um estudo coreano com 112 lipomas retirados por uma incisão de cerca de um terço do diâmetro, houve 2 seromas (acúmulos de líquido), 2 hematomas e 1 lesão de nervo. O estudo analisou prontuários antigos (retrospectivo) de um único centro.
 
 Em geral, envio o lipoma retirado para exame anatomopatológico, que confirma o diagnóstico ao microscópio.
 

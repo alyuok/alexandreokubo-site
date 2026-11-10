@@ -36,7 +36,7 @@ status: aprovado
 
 O corpo transforma o álcool em uma substância chamada acetaldeído e, em seguida, elimina o acetaldeído com a ajuda de uma enzima, a ALDH2. Algumas pessoas herdam uma versão dessa enzima que funciona pouco. O acetaldeído se acumula e provoca vermelhidão no rosto e coração acelerado, mesmo com pouca bebida.
 
-Essa variante é comum em pessoas de origem do leste da Ásia, como japoneses, coreanos e chineses. Cerca de 540 milhões de pessoas no mundo têm essa variante.
+Essa variante é comum em pessoas de origem do leste da Ásia, como japoneses, coreanos e chineses: cerca de 540 milhões de pessoas no mundo.
 
 O diagnóstico é feito pela história: a vermelhidão aparece pouco depois do primeiro copo e some quando o álcool é eliminado. Não peço exame genético para confirmar.
 
@@ -59,24 +59,24 @@ Muitos pacientes contam que o vinho tinto é o que mais avermelha o rosto durant
 
 ## Câncer de pele
 
-Uma metanálise de 2017 reuniu 13 estudos com mais de 95 mil casos de câncer de pele não melanoma. A cada 10 g de álcool por dia, menos de uma dose, o risco de carcinoma basocelular subiu 7% e o de carcinoma espinocelular, 11%.
+Uma meta-análise de 2017 reuniu 13 estudos com mais de 95 mil casos de câncer de pele não melanoma. A cada 10 g de álcool por dia, menos de uma dose, o risco de carcinoma basocelular subiu 7% e o de carcinoma espinocelular, 11%.
 
 É um aumento pequeno, que cresce com a quantidade, e os próprios autores alertam que outros fatores podem explicar parte dele. A prevenção principal continua a mesma: protetor solar e exame periódico da pele.
 
 ## Psoríase
 
-Uma metanálise de 2026, com 30 estudos, encontrou associação entre álcool e risco de psoríase. A associação foi menor que a do cigarro e perdeu força depois de um ajuste para o viés de publicação, que é a tendência de estudos sem resultado ficarem sem publicar. Os autores consideraram a evidência sobre álcool menos sólida.
+Uma meta-análise de 2026, com 30 estudos, encontrou associação entre álcool e risco de psoríase. A associação foi menor que a do cigarro e perdeu força depois de um ajuste para o viés de publicação, a tendência de estudos sem resultado não serem publicados. Os autores consideraram a evidência sobre álcool menos sólida.
 
 Para quem já tem psoríase, o consumo de álcool entra na conversa sobre o tratamento, assim como o cigarro, que explico no artigo sobre [cigarro e pele](/blog/cigarro-e-pele/).
 
 ## Queda de cabelo
 
-As duas metanálises mais recentes sobre álcool e calvície de padrão hormonal (alopecia androgenética) chegaram a resultados diferentes:
+As duas meta-análises mais recentes sobre álcool e calvície de padrão hormonal (alopecia androgenética) chegaram a resultados diferentes:
 
 - **Metanálise de 2024:** com 6 estudos, não encontrou associação significativa entre beber e ter calvície.
 - **Metanálise de 2026:** com 31 estudos sobre vários fatores de risco, associou o álcool à piora da calvície.
 
-Com resultados assim, não dá para dizer que o álcool causa calvície. A história familiar continua sendo o fator mais forte.
+Com resultados assim, não dá para dizer que o álcool causa calvície. O fator mais forte é a história familiar.
 
 ## Álcool e isotretinoína
 

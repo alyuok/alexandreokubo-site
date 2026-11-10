@@ -30,8 +30,6 @@ status: aprovado
 
 "Parece que minha pele mudou de um ano para o outro." Ouço muito essa frase de pacientes entre os 45 e os 55 anos. E, na maioria das vezes, a impressão está certa: a menopausa acelera o envelhecimento da pele de uma forma que nenhum creme isolado consegue compensar.
 
-Entender o que está acontecendo ajuda a escolher o que vale a pena fazer, e a não gastar com o que não vai funcionar.
-
 ## Por que a pele muda na menopausa
 
 A pele tem receptores para o estrogênio. Esse hormônio estimula a produção de colágeno, mantém a espessura da pele, a circulação e a capacidade de reter água. Quando os ovários reduzem a produção de estrogênio, tudo isso diminui.
@@ -48,11 +46,9 @@ A perda de colágeno é rápida no começo: estudos clássicos estimam que cerca
 
 Essas mudanças variam muito de uma mulher para outra e também dependem de genética, exposição ao sol, tabagismo e outras doenças.
 
-## Cabelos e pelos: o que é da menopausa e o que não é
+## Cabelos e pelos na menopausa
 
-Com a queda do estrogênio, os hormônios masculinos, que as mulheres também produzem, passam a ter um efeito relativamente maior. Isso favorece a alopecia androgenética feminina, a causa mais comum de afinamento dos cabelos na mulher, que fica mais frequente depois da menopausa. O mesmo desequilíbrio explica os pelos mais grossos no rosto.
-
-Mas nem toda queda nessa fase é hormonal. Alterações de tireoide, deficiência de ferro, medicamentos e o [eflúvio telógeno](/blog/queda-de-cabelo-depois-de-estresse/) também são comuns. Um sinal que merece atenção especial é o recuo da linha do cabelo na testa, às vezes junto com a perda das sobrancelhas: pode ser a alopecia frontal fibrosante, uma doença que afeta principalmente mulheres depois da menopausa e que deixa cicatriz se não for tratada cedo.
+Com a queda do estrogênio, os hormônios masculinos, que as mulheres também produzem, passam a ter um efeito relativamente maior. Isso favorece a alopecia androgenética feminina, a causa mais comum de afinamento dos cabelos na mulher. Ela fica mais frequente depois da menopausa. O mesmo desequilíbrio explica os pelos mais grossos no rosto.
 
 ## Reposição hormonal melhora a pele?
 
@@ -60,24 +56,32 @@ Em parte, sim. Uma revisão de estudos com mais de 1.500 mulheres mostrou que a 
 
 Mesmo assim, as diretrizes atuais não indicam a reposição hormonal só para tratar a pele ou os cabelos. Ela é indicada principalmente para os fogachos (ondas de calor), para os sintomas genitais e urinários da menopausa e para a prevenção da perda óssea, e tem riscos que dependem da idade, do tempo desde a menopausa e do histórico de cada mulher. Essa decisão é feita com o ginecologista.
 
-Se você já usa reposição hormonal por indicação do seu ginecologista, ótimo: a pele também tende a se beneficiar. Se não usa, há muito o que o dermatologista pode fazer.
+Se você já usa reposição hormonal por indicação do seu ginecologista, ótimo: a pele também tende a se beneficiar. Se não usa, os tratamentos abaixo também são uma opção.
 
 Cremes de estrogênio para o rosto ainda são pouco estudados para essa finalidade e não devem ser usados por conta própria.
 
 ## O que o dermatologista pode fazer
 
-O plano é individual, mas costuma combinar três frentes:
+O plano é individual e costuma juntar:
 
-- **Cuidados diários**: protetor solar todos os dias, hidratante adequado ao novo tipo de pele e sabonetes suaves. Parece simples, mas é a base que sustenta qualquer outro tratamento.
+- **Cuidados diários**: protetor solar todos os dias, hidratante adequado ao novo tipo de pele e sabonetes suaves.
 - **Tratamentos tópicos com prescrição**: os retinoides, derivados da vitamina A, estimulam a produção de colágeno e têm boa evidência no tratamento do envelhecimento da pele. A concentração e a forma de uso são ajustadas para não irritar a pele mais sensível dessa fase.
-- **Procedimentos no consultório**: bioestimuladores de colágeno (ácido poli-L-láctico, hidroxiapatita de cálcio e policaprolactona), fios de PDO (polidioxanona), ácido hialurônico e toxina botulínica podem ser indicados para flacidez, perda de volume e rugas. Na Prime, também utilizo tecnologias como luz intensa pulsada, laser Nd:YAG 1064 nm, laser de érbio (Er:YAG) ablativo, plasma e microagulhamento robótico, indicadas conforme o objetivo, como manchas, vasinhos, textura da pele, rugas finas e flacidez leve. A escolha depende do que mais incomoda, do exame da pele e do histórico de saúde. Veja mais sobre a [dermatologia estética](/dermatologia-estetica/).
+- **Procedimentos no consultório**: bioestimuladores de colágeno (ácido poli-L-láctico, hidroxiapatita de cálcio e policaprolactona), fios de PDO (polidioxanona), ácido hialurônico e toxina botulínica podem ser indicados para flacidez, perda de volume e rugas. Na Prime, também uso aparelhos como luz intensa pulsada, laser Nd:YAG 1064 nm, laser de érbio (Er:YAG) ablativo, plasma e microagulhamento robótico, indicadas conforme o objetivo, como manchas, vasinhos, textura da pele, rugas finas e flacidez leve. A escolha depende do que mais incomoda, do exame da pele e do histórico de saúde.
 
 Para os cabelos, o tratamento começa pelo diagnóstico da causa da queda. A partir daí, há medicamentos tópicos e orais e procedimentos que ajudam a controlar o afinamento.
 
 Para os pelos do rosto, a [depilação com laser de diodo](https://primedermatologia.com/estetica/depilacao-a-laser/) é uma opção, depois de avaliar se há outra causa hormonal envolvida. O laser age sobre o pigmento do pelo, por isso funciona nos pelos escuros, mas não nos brancos ou muito claros.
 
-## Uma consulta que vai além da estética
+## Exame das pintas na menopausa
 
 A menopausa também é um bom momento para examinar a pele inteira. Décadas de exposição ao sol aumentam o risco de câncer de pele, e lesões novas ou que mudam de aspecto devem ser avaliadas. Na consulta, aproveito para revisar pintas e manchas do corpo todo.
 
+## Nem toda queda de cabelo na menopausa é hormonal
+
+Alterações de tireoide, deficiência de ferro, medicamentos e o [eflúvio telógeno](/blog/queda-de-cabelo-depois-de-estresse/) também são comuns nessa fase. Fique atenta ao recuo da linha do cabelo na testa, às vezes junto com a perda das sobrancelhas: pode ser a alopecia frontal fibrosante, uma doença que afeta principalmente mulheres depois da menopausa e que deixa cicatriz se não for tratada cedo.
+
+## Quando procurar um dermatologista
+
 Procure um dermatologista se a pele mudou rapidamente, se a queda de cabelo aumentou, se surgiram pelos ou acne fora do comum para você, ou se há alguma lesão de pele que chamou sua atenção.
+
+Veja os tratamentos de [dermatologia estética](/dermatologia-estetica/) para a pele na menopausa.

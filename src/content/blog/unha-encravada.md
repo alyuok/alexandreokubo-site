@@ -24,7 +24,7 @@ status: aprovado
 
 Dor no canto da unha do dedão, vermelhidão, inchaço e, às vezes, pus. A unha encravada é um dos problemas mais comuns dos pés, e muita gente passa meses entre manicure, antibiótico e "cantinho" cortado em casa, com melhora por alguns dias e volta da dor logo depois.
 
-O motivo é simples: enquanto a borda da unha continuar entrando na pele, a inflamação volta.
+Enquanto a borda da unha continuar entrando na pele, a inflamação volta.
 
 ## O que é e por que acontece
 
@@ -71,28 +71,45 @@ Quem tem **diabetes, má circulação ou imunidade baixa** não deve tentar trat
 
 ## Como é o tratamento no consultório
 
-**Nos casos leves**, há técnicas simples que afastam a borda da unha da pele e aliviam a dor rapidamente, como colocar uma pequena mecha de algodão ou um tubinho plástico sob a borda que encrava. Também trato a inflamação e, quando presentes, a micose e o suor excessivo.
+### Casos leves
 
-**Nos casos moderados a graves ou que voltam**, o tratamento considerado de referência é a cirurgia da unha encravada, conhecida popularmente como **cantoplastia**, feita no consultório com anestesia local. Realizo esse procedimento na Prime Dermatologia, em São Paulo, e na Clínica Portugal, em Santo André:
+Há técnicas simples que afastam a borda da unha da pele e aliviam a dor rapidamente, como colocar uma pequena mecha de algodão ou um tubinho plástico sob a borda que encrava. Também trato a inflamação e, quando presentes, a micose e o suor excessivo.
 
-1. Retiro apenas a faixa lateral da unha que está encravando, e não a unha inteira.
+### Casos moderados a graves ou que voltam
+
+O tratamento considerado de referência é a cirurgia da unha encravada, conhecida popularmente como cantoplastia, feita no consultório com anestesia local. Realizo esse procedimento na Prime Dermatologia, em São Paulo, e na Clínica Portugal, em Santo André:
+
+1. Retiro apenas a faixa lateral da unha que está encravando.
 2. Removo a raiz (matriz) dessa faixa com uma pequena cirurgia, a matricectomia, para que ela não volte a crescer.
-3. Quando há granuloma, ele é removido no mesmo procedimento.
+3. Quando há granuloma, removo no mesmo procedimento.
 
 A unha fica um pouco mais estreita, e a chance de voltar a encravar naquele lado cai muito. O tempo de recuperação varia de caso a caso, e os cuidados com o curativo e a volta às atividades são orientados na consulta.
 
-**O que é cantoplastia?** É o nome mais usado no Brasil para a cirurgia da unha encravada. Na prática, inclui a retirada da borda que encrava e a matricectomia, que trata a raiz dessa borda. Por ser uma cirurgia, deve ser feita por médico, com anestesia local e material estéril.
+### O que é cantoplastia?
 
-**Por que não tirar a unha inteira?** Porque a unha volta a crescer com o mesmo formato, e a chance de encravar de novo é a maior entre todos os tratamentos.
+É o nome mais usado no Brasil para essa cirurgia, que junta a retirada da borda e a matricectomia. Por ser uma cirurgia, deve ser feita por médico, com material estéril.
 
-**E o fenol?** Em outros países, a raiz da unha costuma ser tratada com fenol, uma substância química. No Brasil, o uso do fenol em procedimentos está proibido pela Anvisa. Os estudos mais recentes mostram que a matricectomia cirúrgica tem resultado semelhante ao do fenol na prevenção da volta do problema, com cicatrização mais rápida.
+### Por que não tirar a unha inteira?
+
+Porque a unha volta a crescer com o mesmo formato, e a chance de encravar de novo é a maior entre todos os tratamentos.
+
+### E o fenol?
+
+Em outros países, a raiz da unha costuma ser tratada com fenol, uma substância química. No Brasil, o uso do fenol em procedimentos está proibido pela Anvisa. Os estudos mais recentes mostram que a matricectomia cirúrgica tem resultado semelhante ao do fenol na prevenção da volta do problema, com cicatrização mais rápida.
 
 ## Como evitar que volte
 
-- Corte as unhas dos pés retas, sem arredondar os cantos e sem deixar muito curtas
-- Prefira calçados com espaço para os dedos, principalmente para esporte
-- Trate a micose de unha e o suor excessivo, quando presentes
-- Leve o próprio material à manicure ou podóloga e peça para não aprofundar os cantos
+- **Corte reto:** sem arredondar os cantos e sem deixar as unhas dos pés muito curtas.
+- **Calçados:** com espaço para os dedos, principalmente para esporte.
+- **Micose e suor:** trate quando estiverem presentes.
+- **Manicure:** leve o próprio material e peça para não aprofundar os cantos.
+
+## Nem toda dor no canto da unha é unha encravada
+
+- **Paroníquia:** inflamação da pele em volta da unha, comum em quem mexe na cutícula ou fica muito com as mãos ou os pés molhados.
+- **Micose de unha:** a unha grossa pode apertar a pele do canto e doer.
+- **Verruga perto da unha:** endurece a pele do canto e pode ser confundida com granuloma.
+- **Exostose subungueal:** um pequeno crescimento de osso embaixo da unha, que a levanta e dói ao calçar.
 
 ## Quando procurar um dermatologista
 

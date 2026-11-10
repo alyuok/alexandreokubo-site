@@ -30,223 +30,129 @@ sources:
 status: aprovado
 ---
 
-"Doutor, já tratei essa unha como micose por meses e ela continua igual." É uma frase comum no consultório. No exame, às vezes encontro pequenos furinhos na superfície da unha, uma mancha amarelada que parece uma gota de óleo embaixo dela e, em alguns casos, sinais de psoríase no couro cabeludo ou nos cotovelos que a pessoa nunca tinha notado.
+"Doutor, já tratei essa unha como micose por meses e ela continua igual." Ouço isso com frequência. No exame, às vezes encontro pequenos furinhos na superfície da unha, uma mancha amarelada que parece uma gota de óleo embaixo dela e, em alguns casos, sinais de psoríase no couro cabeludo ou nos cotovelos que a pessoa nunca tinha notado.
 
-Psoríase nas unhas, também chamada de psoríase ungueal, é uma manifestação inflamatória que pode provocar pequenas depressões na superfície da unha, manchas amareladas, espessamento e descolamento. Essas alterações são frequentemente confundidas com micose, mas as doenças têm causas e tratamentos diferentes. Em algumas pessoas, a psoríase aparece somente nas unhas, mesmo sem lesões visíveis na pele.
+A psoríase nas unhas (psoríase ungueal) pode causar furinhos, manchas amareladas, espessamento e descolamento da unha. Essas alterações costumam ser confundidas com micose, mas as duas doenças têm causas e tratamentos diferentes. Em algumas pessoas, a psoríase aparece só nas unhas, sem nenhuma placa na pele.
 
-Outro aspecto importante é sua associação com a artrite psoriásica. Por isso, o exame dermatológico não deve se limitar à aparência das unhas.
+A psoríase nas unhas também se associa à artrite psoriásica. Por isso, na consulta, examino além das unhas.
 
 ## O que é a psoríase nas unhas?
 
-A psoríase é uma doença inflamatória crônica, relacionada a alterações do funcionamento do sistema imunológico. Embora seja mais conhecida pelas placas avermelhadas e descamativas na pele, também pode atingir o couro cabeludo, as articulações e as unhas.
+A psoríase é uma doença inflamatória crônica, ligada a um desequilíbrio do sistema de defesa do corpo. É mais conhecida pelas placas vermelhas e descamativas na pele, mas também atinge o couro cabeludo, as articulações e as unhas.
 
-Quando acomete as unhas, a inflamação pode ocorrer em duas estruturas principais:
+Na unha, a inflamação pode estar em dois lugares:
 
-- **Matriz ungueal**: região responsável pela formação da lâmina da unha.
-- **Leito ungueal**: tecido localizado abaixo da lâmina, sobre o qual ela permanece aderida.
+- **Matriz:** a raiz da unha, que fabrica a parte dura.
+- **Leito:** a pele embaixo da unha, onde ela fica grudada.
 
-Essa diferença explica por que a psoríase pode provocar alterações tão variadas.
-
-Estima-se que aproximadamente metade das pessoas com psoríase cutânea apresente alterações nas unhas em algum momento da doença. Entre pacientes com artrite psoriásica, essa frequência pode ser ainda maior.
-
-Em uma parcela menor dos casos, as unhas são a única manifestação aparente da psoríase, o que pode dificultar o reconhecimento da doença.
+Cerca de metade das pessoas com psoríase na pele tem alteração nas unhas em algum momento, e entre quem tem artrite psoriásica a proporção é maior. Numa parte menor dos casos, as unhas são o único sinal da doença, e isso atrasa o diagnóstico.
 
 ## Quais são os sintomas da psoríase nas unhas?
 
-As alterações dependem da região da unidade ungueal atingida pela inflamação.
+Os sinais mudam conforme o lugar inflamado. Nem todos aparecem juntos: uma pessoa pode ter um só, e outra, várias unhas afetadas de jeitos diferentes, nas mãos ou nos pés.
 
-### Alterações da matriz ungueal
+### Quando a inflamação está na raiz (matriz)
 
-Quando a inflamação afeta a região onde a unha é formada, podem surgir:
+- **Furinhos (pitting):** pequenos pontos afundados na superfície da unha.
+- **Manchas brancas (leuconíquia):** áreas esbranquiçadas na unha.
+- **Pontos vermelhos na lúnula:** na meia-lua clara perto da base da unha.
+- **Unha frágil:** irregular, quebradiça ou esfarelando.
 
-- **Depressões puntiformes (pitting)**: pequenos furinhos ou pontos afundados na superfície da unha.
-- **Leuconíquia**: manchas ou áreas esbranquiçadas na lâmina ungueal.
-- **Pontos avermelhados na lúnula**: alterações na região da meia-lua, próxima à base da unha.
-- **Fragilidade e alterações da superfície**: unhas irregulares, quebradiças ou com aspecto de esfarelamento.
+### Quando a inflamação está embaixo da unha (leito)
 
-### Alterações do leito ungueal
-
-Quando a inflamação ocorre abaixo da unha, os sinais mais frequentes incluem:
-
-- **Mancha em gota de óleo**: área amarelada ou alaranjada, também conhecida como mancha salmão, que parece estar sob a unha.
-- **Onicólise**: descolamento da lâmina ungueal, geralmente começando pela extremidade.
-- **Hiperqueratose subungueal**: acúmulo de material abaixo da unha, provocando espessamento.
-- **Hemorragias em estilha**: pequenas linhas avermelhadas ou escurecidas, semelhantes a farpas, que acompanham o sentido de crescimento da unha.
-
-Nem todos esses sinais aparecem simultaneamente. Uma pessoa pode apresentar apenas uma alteração, enquanto outra pode ter várias unhas comprometidas de maneiras diferentes.
-
-As unhas das mãos e dos pés podem ser afetadas.
+- **Mancha em gota de óleo:** área amarelada ou alaranjada sob a unha, também chamada de mancha salmão.
+- **Descolamento (onicólise):** a unha se solta da pele, em geral a partir da ponta.
+- **Espessamento (hiperqueratose subungueal):** acúmulo de material embaixo da unha, que a deixa grossa.
+- **Hemorragias em estilha:** linhas finas avermelhadas ou escuras, como farpas, no sentido do crescimento da unha.
 
 ## Psoríase nas unhas ou micose: como diferenciar?
 
-Essa é uma das principais dificuldades no diagnóstico das doenças ungueais.
+As duas podem engrossar, descolar, mudar a cor e enfraquecer a unha. Os furinhos e a mancha em gota de óleo puxam para a psoríase, mas nenhum sinal isolado confirma o diagnóstico. E as duas podem estar na mesma unha ao mesmo tempo.
 
-Tanto a psoríase quanto a onicomicose, conhecida como micose de unha, podem causar espessamento, descolamento, mudança de cor e fragilidade da lâmina.
-
-Alguns achados, como as depressões puntiformes e a mancha em gota de óleo, favorecem o diagnóstico de psoríase. Entretanto, nenhum sinal isolado é suficiente para confirmar a doença em todos os casos.
-
-Há ainda outra possibilidade: a psoríase e a micose podem ocorrer simultaneamente na mesma unha.
-
-Por isso, nem sempre é possível diferenciá-las apenas observando a aparência.
-
-Quando existe dúvida, a investigação micológica ajuda a identificar uma possível infecção por fungos e evita tratamentos inadequados.
-
-Se você já tratou uma alteração ungueal como micose e não apresentou melhora, pode ser necessário reavaliar o diagnóstico.
-
-Leia também: [Micose de unha: por que nem toda unha grossa é fungo](/blog/micose-de-unha-onicomicose/).
+Por isso, só olhar nem sempre basta. Na dúvida, peço o exame que pesquisa fungos na unha, para não tratar a doença errada. Se você já tratou uma unha como micose e ela não melhorou, vale rever o diagnóstico. Explico os sinais da micose no artigo sobre [por que nem toda unha grossa é fungo](/blog/micose-de-unha-onicomicose/).
 
 ## A psoríase nas unhas pode indicar artrite psoriásica?
 
-Sim. A presença de psoríase ungueal está associada a uma maior probabilidade de artrite psoriásica, doença inflamatória que pode comprometer as articulações e outras estruturas musculoesqueléticas.
+Pode. Quem tem psoríase nas unhas tem mais chance de ter artrite psoriásica, uma inflamação das articulações e dos tendões. Isso não quer dizer que toda pessoa com a unha afetada vai ter artrite.
 
-Isso não significa que toda pessoa com psoríase nas unhas desenvolverá artrite. Entretanto, essa associação merece atenção.
+A raiz da unha fica colada à articulação da ponta do dedo e aos tendões que se prendem ali, e a inflamação pode atingir as duas regiões. Na consulta, pergunto sobre:
 
-A unidade ungueal e a articulação localizada na ponta do dedo possuem uma relação anatômica importante, especialmente por sua proximidade com estruturas tendíneas e ligamentares envolvidas no processo inflamatório.
+- **Articulações:** dor ou inchaço.
+- **Rigidez de manhã:** que melhora com o movimento.
+- **Dedo inchado por inteiro (dactilite):** parece uma salsicha.
+- **Dor onde o tendão se prende no osso (entesite):** como no calcanhar.
 
-Na avaliação dermatológica, procuro investigar sintomas como:
-
-- Dor ou inchaço nas articulações.
-- Rigidez ao acordar, principalmente quando melhora com o movimento.
-- Inchaço difuso de um dedo, conhecido como dactilite.
-- Dor em regiões de inserção dos tendões, como o calcanhar, que pode representar entesite.
-
-Esses sintomas não confirmam artrite psoriásica, mas podem indicar a necessidade de avaliação reumatológica.
-
-O reconhecimento precoce da doença é importante para iniciar o tratamento adequado e reduzir o risco de dano articular.
+Esses sintomas não confirmam a artrite, mas indicam a avaliação de um reumatologista. Tratar cedo reduz o risco de dano nas articulações.
 
 ## Como é feito o diagnóstico da psoríase ungueal?
 
-O diagnóstico começa com a avaliação clínica.
+Na consulta, examino as unhas das mãos e dos pés para ver quais partes estão afetadas. Também olho a pele e o couro cabeludo, porque uma placa de psoríase em outro lugar ajuda a fechar o diagnóstico. A dermatoscopia, uma lente de aumento com luz, mostra detalhes que não aparecem a olho nu.
 
-Durante a consulta, examino as unhas das mãos e dos pés, procurando identificar quais estruturas parecem estar comprometidas.
-
-Também avalio a pele e o couro cabeludo, pois a presença de outras manifestações de psoríase pode ajudar a esclarecer o quadro.
-
-A dermatoscopia, método que permite ampliar a visualização das estruturas da unha, pode auxiliar na identificação de alterações que nem sempre são evidentes a olho nu.
-
-Quando existe suspeita de micose associada ou dúvida diagnóstica, pode ser necessária a coleta de material ungueal para exame micológico.
-
-Outras doenças também precisam ser consideradas, como líquen plano ungueal, eczema, traumatismos repetitivos e determinadas alterações inflamatórias ou vasculares.
-
-A biópsia da unidade ungueal é reservada para situações específicas, quando os achados clínicos e os exames complementares não são suficientes.
-
-O objetivo é identificar corretamente a causa da alteração antes de definir o tratamento.
+Quando há suspeita de micose junto, colho um pedaço da unha para o exame de fungos. A biópsia da unha fica para os casos em que o exame e os outros testes não esclarecem.
 
 ## Como avaliar a gravidade da psoríase nas unhas?
 
-O número de unhas afetadas é importante, mas não é o único critério.
+O número de unhas afetadas conta, mas uma única unha muito grossa ou descolada já pode doer e atrapalhar o trabalho e as tarefas com as mãos. Na avaliação, considero a extensão das alterações, se a raiz ou o leito estão inflamados, o quanto isso atrapalha o dia a dia e se há psoríase em outros lugares.
 
-Uma única unha muito comprometida pode provocar dor, dificuldade para realizar tarefas e incômodo significativo, principalmente quando há espessamento ou descolamento da lâmina.
-
-Na avaliação, considero a extensão das alterações, o comprometimento da matriz e do leito, o impacto nas atividades diárias e a presença de psoríase em outras regiões.
-
-Existem ferramentas específicas para acompanhar a gravidade, como o NAPSI (Nail Psoriasis Severity Index), que permite registrar diferentes manifestações da doença e avaliar sua evolução ao longo do tratamento.
-
-A avaliação da qualidade de vida também é relevante, pois as alterações ungueais podem interferir no trabalho, nas atividades manuais e nas relações sociais.
+Para acompanhar a evolução, existe uma escala própria, o NAPSI (índice de gravidade da psoríase ungueal), que registra cada tipo de alteração ao longo do tratamento.
 
 ## Quais são os tratamentos para psoríase nas unhas?
 
-O tratamento é individualizado e depende da extensão das alterações, das estruturas atingidas e da presença de manifestações cutâneas ou articulares.
-
-A psoríase é uma doença crônica, sem cura definitiva atualmente, mas existem tratamentos capazes de controlar a inflamação e melhorar o aspecto e a função das unhas.
+A escolha depende de quantas unhas estão afetadas, de qual parte da unha está inflamada e de haver psoríase na pele ou nas articulações. A psoríase não tem cura definitiva, mas é controlável: o tratamento pode controlar a inflamação e melhorar o aspecto e a função das unhas.
 
 ### 1. Tratamentos locais
 
-Quando poucas unhas estão comprometidas, prescrevo medicamentos tópicos, como corticosteroides e derivados da vitamina D, entre eles o calcipotriol.
+Quando poucas unhas estão afetadas, prescrevo remédios de passar, como corticoides e derivados da vitamina D, entre eles o calcipotriol. O desafio é fazer o remédio chegar ao ponto inflamado, principalmente quando a inflamação está na raiz da unha.
 
-A escolha depende da localização da inflamação e das características das lesões.
+### 2. Infiltração de corticoide
 
-Um dos desafios é conseguir que o medicamento alcance a estrutura ungueal afetada, especialmente quando a inflamação está localizada na matriz.
+Quando poucas unhas estão afetadas e o remédio de passar não bastou, faço no consultório a infiltração de corticoide, uma injeção na região inflamada. Pode causar desconforto e efeitos no local, por isso a indicação é avaliada caso a caso.
 
-### 2. Infiltração intralesional de corticosteroides
+### 3. Comprimidos e biológicos
 
-Em determinadas situações, principalmente quando há comprometimento de poucas unhas e resposta insuficiente ao tratamento tópico, faço a infiltração local de corticosteroide no consultório.
+Quando a psoríase nas unhas é extensa, não responde, atrapalha muito a vida ou vem junto com psoríase importante na pele e nas articulações, uso remédios que agem no corpo todo. Prescrevo o metotrexato e os medicamentos biológicos, que bloqueiam pontos específicos da inflamação da psoríase. Há também outros remédios orais, para casos específicos.
 
-Aplico o medicamento na região afetada para que ele atue diretamente sobre o processo inflamatório.
-
-A indicação exige avaliação cuidadosa, pois o procedimento pode provocar desconforto e apresentar efeitos adversos locais.
-
-### 3. Tratamentos sistêmicos e medicamentos biológicos
-
-Quando a psoríase ungueal é extensa, resistente, provoca impacto importante na qualidade de vida ou está associada a manifestações relevantes na pele e nas articulações, considero os medicamentos sistêmicos.
-
-Prescrevo o metotrexato e os medicamentos biológicos. Há também outros medicamentos orais, indicados em situações específicas.
-
-Os medicamentos biológicos atuam em vias específicas da resposta inflamatória envolvida na psoríase e podem melhorar as manifestações ungueais.
-
-A escolha depende das características de cada paciente, das doenças associadas, das contraindicações e dos tratamentos utilizados anteriormente.
-
-Essas terapias exigem acompanhamento médico e, conforme o medicamento, avaliações laboratoriais periódicas.
+A escolha leva em conta as outras doenças, as contraindicações e os tratamentos já feitos. Esses remédios pedem acompanhamento e, conforme o medicamento, exames de sangue periódicos.
 
 ### 4. Laser
 
-Alguns lasers, como o laser de corante pulsado (PDL), o Nd:YAG e o laser de CO₂ fracionado, foram estudados na psoríase ungueal, com resultados que sugerem benefício em situações específicas. Os estudos ainda têm limitações.
+Alguns lasers, como o laser de corante pulsado, o Nd:YAG e o laser de CO₂ fracionado, foram estudados na psoríase ungueal, com sinais de benefício, mas os estudos ainda têm limitações.
 
-Na Prime Dermatologia, uso o Lunula, um laser de baixa intensidade que não aquece a unha, empregado sobretudo na micose de unha. Na psoríase ungueal, a evidência para esse aparelho ainda é insuficiente. Por isso, só o indico em casos selecionados, como complemento e nunca no lugar dos tratamentos convencionais, e explico essa limitação na consulta.
+Na Prime Dermatologia, uso o Lunula, um laser de baixa intensidade que não aquece a unha, usado sobretudo na micose de unha. Na psoríase ungueal, a evidência para esse aparelho ainda é insuficiente. Por isso, só o indico como complemento, nunca no lugar dos tratamentos convencionais, e explico essa limitação na consulta.
 
 ## Quanto tempo demora para a psoríase ungueal melhorar?
 
-O tratamento exige acompanhamento porque as unhas crescem lentamente.
+A unha cresce devagar. Mesmo quando a inflamação está controlada, a parte danificada só sai à medida que a unha nova cresce. Nas mãos, a unha cresce em média cerca de 3,5 mm por mês; nos pés, menos da metade disso. A renovação completa leva alguns meses nas mãos e costuma levar um ano ou mais nos pés.
 
-Mesmo quando a inflamação começa a ser controlada, a parte danificada da unha precisa crescer e ser progressivamente substituída.
-
-Nas mãos, a unha cresce em média cerca de 3,5 mm por mês. Nos pés, o crescimento é mais lento, menos da metade disso. Na prática, a renovação completa leva alguns meses nas mãos e costuma levar um ano ou mais nos pés, dependendo de fatores individuais.
-
-Isso não significa que todos os pacientes precisarão desse período para perceber alguma melhora. Entretanto, a recuperação da aparência da unha geralmente é mais lenta do que a melhora das lesões de psoríase na pele.
-
-Durante o acompanhamento, avalio a redução das alterações inflamatórias e o crescimento de uma nova porção de unha com aparência mais preservada.
-
-A ausência de melhora imediata não significa necessariamente que o tratamento esteja falhando.
+Por isso, a unha demora mais para melhorar do que a pele. Se nos primeiros meses a mudança for pequena, o tratamento pode estar funcionando. Nas consultas, acompanho a inflamação e o crescimento da unha nova, que deve vir com aspecto melhor.
 
 ## Quais cuidados ajudam a evitar a piora?
 
-Além do tratamento médico, alguns cuidados podem reduzir traumas e irritações que agravam as alterações ungueais.
+Pequenos machucados podem desencadear ou piorar a psoríase no local (o chamado fenômeno de Koebner). Estes cuidados protegem as unhas, mas não substituem o tratamento:
 
-- Manter as unhas curtas, sem cortá-las excessivamente.
-- Evitar retirar ou manipular de forma agressiva as cutículas.
-- Não tentar remover o material acumulado sob a unha com objetos pontiagudos.
-- Utilizar luvas durante atividades que envolvam contato frequente com água ou produtos de limpeza.
-- Hidratar regularmente as mãos e a região ao redor das unhas.
-- Evitar procedimentos de manicure que provoquem traumatismos repetidos.
+- **Unhas curtas:** sem cortar rente demais.
+- **Cutículas:** não retire nem empurre com força.
+- **Material embaixo da unha:** não tente tirar com objetos pontudos.
+- **Luvas:** para lavar louça e usar produtos de limpeza.
+- **Hidratante:** nas mãos e em volta das unhas, todos os dias.
+- **Manicure:** evite procedimentos que machuquem a unha.
 
-Esses cuidados são importantes porque pequenas lesões podem desencadear ou agravar manifestações da psoríase, o chamado fenômeno de Koebner.
+## Psoríase nas unhas é contagiosa?
 
-Eles ajudam a proteger as unhas, mas não substituem o tratamento da inflamação.
+Não. A psoríase é causada pelo próprio sistema de defesa do corpo e não passa pelo contato, por objetos compartilhados nem pela convivência.
 
-## Perguntas frequentes sobre psoríase nas unhas
+## Nem toda unha alterada é psoríase
 
-### Psoríase nas unhas é contagiosa?
+Além da micose, outras doenças deixam a unha com aspecto parecido:
 
-Não. A psoríase é uma doença inflamatória imunomediada e não é transmitida pelo contato físico, compartilhamento de objetos ou convivência com outras pessoas.
+- **Líquen plano da unha:** inflamação que afina a unha e pode deixá-la com estrias.
+- **Eczema:** inflamação da pele em volta, que altera a unha que cresce.
+- **Machucados repetidos:** como o atrito do sapato ou o hábito de mexer na cutícula.
 
-### Posso ter psoríase nas unhas sem ter manchas na pele?
-
-Sim. Embora seja menos comum, a psoríase pode se manifestar exclusivamente nas unhas. Nesses casos, o diagnóstico pode ser mais difícil, pois outras doenças apresentam alterações semelhantes.
-
-### Psoríase nas unhas pode ser confundida com micose?
-
-Sim. Ambas podem provocar espessamento, descolamento e mudança na coloração das unhas. Além disso, psoríase e onicomicose podem coexistir. O exame dermatológico e, quando necessário, a investigação micológica ajudam a diferenciá-las.
-
-### A psoríase ungueal tem cura?
-
-Atualmente, não existe cura definitiva para a psoríase. Entretanto, os tratamentos disponíveis podem controlar a inflamação e proporcionar melhora importante das alterações ungueais. A doença pode apresentar períodos de melhora e recorrência.
-
-### Quem tem psoríase nas unhas vai desenvolver artrite?
-
-Não necessariamente. A psoríase ungueal está associada a maior probabilidade de artrite psoriásica, mas muitas pessoas nunca desenvolvem comprometimento articular. Sintomas como dor, inchaço e rigidez devem ser investigados.
-
-### Quanto tempo leva para a unha voltar ao normal?
-
-A melhora depende da gravidade da doença, da resposta ao tratamento e da velocidade de crescimento ungueal. Como a lâmina cresce lentamente, a recuperação visual pode levar vários meses e nem sempre é completa.
+Por isso, o diagnóstico vem antes do tratamento.
 
 ## Quando procurar um dermatologista?
 
-Alterações persistentes nas unhas merecem avaliação, principalmente quando apresentam espessamento, manchas, depressões na superfície ou descolamento.
+Procure avaliação se a unha engrossou, mudou de cor, tem furinhos ou está descolando, principalmente se já foi tratada como micose e não melhorou. Quem já tem psoríase na pele e começa a ter alteração nas unhas também deve ser examinado. Se tiver dor ou inchaço nas articulações, conte na consulta.
 
-Também recomendo investigar quando uma unha tratada repetidamente como micose não melhora, ou quando a pessoa já tem diagnóstico de psoríase e começa a apresentar alterações ungueais.
-
-Se houver sintomas articulares associados, a investigação torna-se ainda mais importante.
-
-O diagnóstico correto permite escolher o tratamento mais adequado e evita que diferentes doenças sejam tratadas como se fossem a mesma condição.
-
-Para conhecer outras condições atendidas, visite a página de [dermatologia clínica](/dermatologia-clinica/).
+Veja como avalio e trato as doenças das unhas na [dermatologia clínica](/dermatologia-clinica/).

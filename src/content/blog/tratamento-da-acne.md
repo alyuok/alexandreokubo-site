@@ -26,11 +26,11 @@ status: aprovado
 
 Muita gente chega ao consultório depois de anos tentando tratar a acne com sabonetes, receitas da internet e produtos indicados por amigos. Alguns ajudam um pouco, mas a acne volta. O motivo costuma ser o mesmo: o tratamento não era o adequado para aquele tipo de acne, ou foi interrompido antes de fazer efeito.
 
-A acne tem tratamentos com muita evidência científica. Para funcionarem, é preciso escolher o certo para cada caso e manter pelo tempo necessário.
+Os tratamentos funcionam quando combinam com o tipo de acne e são mantidos por meses.
 
 ## Por que não vale esperar passar
 
-A acne pode melhorar sozinha com o tempo, mas esperar tem custo. A acne inflamada, com espinhas vermelhas, dolorosas ou profundas, pode deixar [cicatrizes](/blog/cicatrizes-de-acne-subcisao/) e manchas que duram muito mais do que a própria acne. Ela também afeta a autoestima, e o impacto emocional é um dos critérios que os dermatologistas consideram na escolha do tratamento.
+A acne pode melhorar sozinha com o tempo, mas esperar tem riscos. A acne inflamada, com espinhas vermelhas, dolorosas ou profundas, pode deixar [cicatrizes](/blog/cicatrizes-de-acne-subcisao/) e manchas que duram muito mais do que a própria acne. Ela também afeta a autoestima, e o impacto emocional é um dos critérios que os dermatologistas consideram na escolha do tratamento.
 
 ## Como o tratamento é escolhido
 
@@ -43,9 +43,9 @@ Na consulta, avalio:
 - **O que já foi usado**, por quanto tempo e com que resultado
 - **O impacto na sua vida**
 
-A partir disso, o tratamento é montado em etapas, quase sempre combinando mais de um mecanismo de ação.
+A partir disso, o tratamento é montado em etapas, quase sempre com mais de um remédio, cada um agindo numa causa da acne.
 
-## Cremes e géis: a base de quase todo tratamento
+## Cremes e géis para acne
 
 Os tratamentos tópicos com melhor evidência, segundo a diretriz da Academia Americana de Dermatologia de 2024, são:
 
@@ -54,7 +54,7 @@ Os tratamentos tópicos com melhor evidência, segundo a diretriz da Academia Am
 - **Ácido azelaico**: ajuda nas lesões inflamadas e nas manchas que a acne deixa
 - **Antibióticos tópicos**: sempre associados ao peróxido de benzoíla, para evitar resistência bacteriana
 
-Três pontos fazem diferença no resultado:
+Para o creme funcionar:
 
 1. **Paciência**: a melhora costuma aparecer entre 8 e 12 semanas. Trocar de produto a cada duas semanas impede qualquer tratamento de funcionar.
 2. **Irritação no início é comum**: vermelhidão e descamação nas primeiras semanas, principalmente com retinoides. Há formas de usar que reduzem isso, como começar em dias alternados e usar hidratante.
@@ -62,14 +62,14 @@ Três pontos fazem diferença no resultado:
 
 ## Antibióticos orais
 
-Nos casos moderados a graves, com muitas lesões inflamadas, o dermatologista pode associar um antibiótico oral, como a doxiciclina. A regra é usar por tempo limitado, em geral alguns meses, e sempre junto com o tratamento tópico. O uso prolongado de antibióticos favorece a resistência bacteriana, e a diretriz recomenda limitar esse uso.
+Nos casos moderados a graves, com muitas lesões inflamadas, posso associar um antibiótico oral, como a doxiciclina. A regra é usar por tempo limitado, em geral alguns meses, e sempre junto com o tratamento tópico. O uso prolongado de antibióticos favorece a resistência bacteriana, e a diretriz recomenda limitar esse uso.
 
 ## Tratamentos hormonais, para mulheres
 
 Em mulheres, principalmente na acne adulta que piora no período menstrual e se concentra na parte de baixo do rosto e no queixo, os tratamentos hormonais podem ser uma boa opção:
 
 - **Anticoncepcionais combinados**, com escolha feita em conjunto com o ginecologista quando necessário
-- **Espironolactona**, que reduz o efeito dos hormônios masculinos na pele. Um estudo randomizado britânico de 2024, com 410 mulheres, mostrou melhora maior do que com placebo, mais evidente após seis meses de uso.
+- **Espironolactona**, que reduz o efeito dos hormônios masculinos na pele. Um estudo britânico de 2024, em que 410 mulheres foram sorteadas para receber o remédio ou placebo, mostrou melhora maior do que com placebo, mais evidente após seis meses de uso.
 
 Nesses casos, também investigo sinais de alterações hormonais, como a síndrome dos ovários policísticos.
 
@@ -82,21 +82,38 @@ A isotretinoína oral é considerada o tratamento de referência para a acne gra
 - Acne que não melhorou com os tratamentos anteriores ou que volta sempre
 - Acne que causa grande sofrimento emocional
 
-**Como é o tratamento.** A dose é calculada pelo peso e ajustada ao longo de vários meses. Estudos recentes mostram que doses diárias menores, em casos moderados, têm eficácia parecida com a dose convencional e são mais bem toleradas. A escolha é individual.
+### Como é o tratamento com isotretinoína
 
-**Efeitos colaterais esperados.** Os mais comuns são boca, lábios, pele e olhos ressecados, que são controlados com hidratantes e protetor labial. O medicamento pode alterar colesterol, triglicerídeos e enzimas do fígado, por isso faço exames antes e durante o tratamento.
+A dose é calculada pelo peso e ajustada ao longo de vários meses. Estudos recentes mostram que doses diárias menores, em casos moderados, têm eficácia parecida com a dose convencional e são mais bem toleradas.
 
-**Gravidez.** Este é o cuidado mais importante: a isotretinoína causa malformações graves no bebê. Mulheres que podem engravidar precisam usar método contraceptivo eficaz antes, durante e após o tratamento, e fazer teste de gravidez. No Brasil, o medicamento exige receita especial e, para mulheres, um termo de consentimento assinado.
+### Efeitos colaterais da isotretinoína
 
-**E a depressão?** É uma das dúvidas mais frequentes. Uma análise de 2024 com mais de 1,6 milhão de pessoas não encontrou aumento do risco de suicídio ou de transtornos psiquiátricos entre os usuários de isotretinoína, e outra revisão mostrou que os sintomas depressivos tendem a diminuir com o tratamento, provavelmente pela melhora da pele. Ainda assim, acompanho o humor durante todo o tratamento, e qualquer mudança deve ser comunicada.
+Os mais comuns são boca, lábios, pele e olhos ressecados, que são controlados com hidratantes e protetor labial. O medicamento pode alterar colesterol, triglicerídeos e enzimas do fígado, por isso faço exames antes e durante o tratamento.
+
+### Isotretinoína e gravidez
+
+A isotretinoína causa malformações graves no bebê. Mulheres que podem engravidar precisam usar método contraceptivo eficaz antes, durante e após o tratamento, e fazer teste de gravidez. No Brasil, o medicamento exige receita especial e, para mulheres, um termo de consentimento assinado.
+
+### Isotretinoína causa depressão?
+
+Uma análise de 2024 com mais de 1,6 milhão de pessoas não encontrou aumento do risco de suicídio ou de transtornos psiquiátricos entre os usuários de isotretinoína, e outra revisão mostrou que os sintomas depressivos tendem a diminuir com o tratamento, provavelmente pela melhora da pele. Ainda assim, acompanho o humor durante todo o tratamento, e qualquer mudança deve ser comunicada.
 
 ## Procedimentos ajudam?
 
-Alguns procedimentos podem complementar o tratamento, como a infiltração de corticoide em nódulos grandes e dolorosos, que reduz a inflamação em poucos dias. Peelings e tecnologias de luz têm evidência mais limitada para tratar a acne ativa e não substituem os medicamentos. Depois que a acne está controlada, os procedimentos ganham papel importante no tratamento de manchas e cicatrizes.
+Alguns procedimentos podem complementar o tratamento, como a infiltração de corticoide em nódulos grandes e dolorosos, que reduz a inflamação em poucos dias. Peelings e tecnologias de luz têm evidência mais limitada para tratar a acne ativa e não substituem os medicamentos. Depois que a acne está controlada, os procedimentos passam a tratar manchas e cicatrizes.
 
 ## E a alimentação?
 
 A alimentação pode influenciar a acne em algumas pessoas, principalmente o excesso de açúcar e de leite, mas não substitui o tratamento. Explico o que os estudos mostram no artigo sobre [alimentação e acne](/blog/alimentacao-e-acne/).
+
+## Nem toda espinha é acne
+
+Outras doenças fazem bolinhas parecidas e pedem outro tratamento:
+
+- **Rosácea:** vermelhidão no meio do rosto e bolinhas, mas sem cravos. Explico a diferença no artigo sobre [rosácea e o que piora a vermelhidão](/blog/rosacea/).
+- **Foliculite:** inflamação na raiz dos pelos, comum na barba, no peito e nas costas.
+- **Dermatite perioral:** bolinhas pequenas em volta da boca e do nariz, que costumam piorar com corticoide.
+- **Acne causada por remédios:** surge com corticoide, anabolizantes e alguns outros medicamentos.
 
 ## Quando procurar um dermatologista
 

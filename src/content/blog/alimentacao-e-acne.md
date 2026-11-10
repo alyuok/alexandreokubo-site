@@ -1,7 +1,7 @@
 ---
 title: 'Alimentação e acne: o que os estudos mostram sobre açúcar, leite, chocolate e whey'
 description: 'O que a ciência sabe sobre a relação entre dieta e acne: alimentos de alto índice glicêmico, leite e derivados, chocolate, whey protein e o que pode proteger a pele, sem dietas radicais.'
-answer: 'A alimentação não causa acne sozinha, mas pode influenciar. Os estudos mais consistentes associam a acne a uma dieta rica em açúcares e alimentos de alto índice glicêmico e ao consumo de leite, especialmente o desnatado. Ainda assim, a dieta é um complemento: ela não substitui o tratamento dermatológico, e restrições radicais não são recomendadas.'
+answer: 'A alimentação não causa acne sozinha, mas pode influenciar. Os estudos mais consistentes associam a acne a uma dieta rica em açúcares e alimentos de alto índice glicêmico e ao consumo de leite, especialmente o desnatado. Ainda assim, a dieta não substitui o tratamento dermatológico, e restrições radicais não são recomendadas.'
 pubDate: 2026-10-24
 reviewedDate: 2026-10-24
 category: 'Estilo de vida e pele'
@@ -28,7 +28,7 @@ sources:
 status: aprovado
 ---
 
-"Doutor, preciso cortar o chocolate?" É uma das perguntas que mais ouço de quem tem acne. Por muitos anos, a resposta padrão foi que a alimentação não tinha relação com a acne. Hoje sabemos que ela pode influenciar, mas de um jeito mais específico, e menos radical, do que muita gente imagina.
+"Doutor, preciso cortar o chocolate?" É uma das perguntas que mais ouço de quem tem acne. Por muitos anos, a resposta padrão foi que a alimentação não tinha relação com a acne. Hoje sabemos que ela pode influenciar, mas de um jeito mais específico do que muita gente imagina, e sem precisar de cortes radicais.
 
 ## A alimentação causa acne?
 
@@ -36,48 +36,59 @@ Não sozinha. A acne depende principalmente de fatores hormonais, genéticos e d
 
 A diretriz da Academia Americana de Dermatologia, de 2024, reconhece que os estudos sobre dieta e acne ainda são conflitantes e não faz uma recomendação formal de dieta para tratar a acne. Mas há alguns padrões que aparecem de forma consistente.
 
-## Açúcar e alimentos de alto índice glicêmico
+## Açúcar piora a acne?
 
 Alimentos de alto índice glicêmico são os que elevam o açúcar no sangue rapidamente: doces, refrigerantes e sucos adoçados, pão branco, biscoitos e outros produtos ultraprocessados. Esse pico de açúcar aumenta a insulina e um hormônio chamado IGF-1, que estimulam a produção de sebo e o entupimento dos poros.
 
 É também onde está a evidência mais forte. Em estudos randomizados pequenos, feitos na Austrália e na Coreia, jovens com acne que seguiram uma dieta de baixa carga glicêmica por 10 a 12 semanas tiveram redução maior das lesões do que os que mantiveram a alimentação habitual. Em um grande estudo francês com mais de 24 mil adultos, o consumo de bebidas açucaradas e de produtos gordurosos e açucarados foi associado à acne atual.
 
-## Leite e derivados
+## Leite causa acne?
 
-Uma análise de 14 estudos, com mais de 78 mil crianças, adolescentes e jovens, encontrou maior chance de acne em quem consome leite, e a associação foi mais forte com o consumo diário. Curiosamente, o leite desnatado aparece com associação igual ou maior que a do leite integral, o que sugere que o efeito não vem da gordura, mas de proteínas e hormônios presentes no leite.
+Uma análise de 14 estudos, com mais de 78 mil crianças, adolescentes e jovens, encontrou maior chance de acne em quem consome leite, e a associação foi mais forte com o consumo diário. O leite desnatado aparece com associação igual ou maior que a do integral. Isso sugere que o efeito vem das proteínas e dos hormônios do leite, já que o desnatado tem pouca gordura.
 
 Dois cuidados na interpretação:
 
 - São estudos observacionais. Eles mostram associação, não provam que o leite causa acne.
 - O efeito, quando existe, é moderado e varia de pessoa para pessoa.
 
-Na prática, para quem tem acne e toma vários copos de leite por dia, vale observar se a pele melhora ao reduzir. Cortar todos os derivados, sem orientação, não é necessário e pode prejudicar a ingestão de cálcio e de proteína.
+Na prática, para quem tem acne e toma vários copos de leite por dia, observe se a pele melhora ao reduzir. Cortar todos os derivados, sem orientação, não é necessário e pode prejudicar a ingestão de cálcio e de proteína.
 
 ## E o chocolate?
 
-Alguns estudos pequenos sugerem que o chocolate pode piorar a acne em pessoas predispostas, inclusive o amargo. Mas os dados ainda são limitados, e o chocolate costuma vir acompanhado de açúcar e leite, o que dificulta saber o que pesa mais. Não há motivo para proibir: se você percebe piora depois de consumir, vale reduzir.
+Alguns estudos pequenos sugerem que o chocolate pode piorar a acne em pessoas predispostas, inclusive o amargo. Mas os dados ainda são limitados, e o chocolate costuma vir acompanhado de açúcar e leite, o que dificulta saber o que pesa mais. Não há motivo para proibir: se você percebe piora depois de consumir, reduza.
 
-## Whey protein e suplementos para academia
+## Whey protein causa acne?
 
-Há relatos e estudos observacionais associando o whey protein, feito a partir do soro do leite, ao aparecimento ou à piora da acne, principalmente em homens jovens que treinam. Por outro lado, um estudo randomizado de 2024, com rapazes que já tinham acne leve a moderada, não encontrou piora com 30 g de whey por dia durante seis meses.
+Há relatos e estudos observacionais associando o whey protein, feito a partir do soro do leite, ao aparecimento ou à piora da acne, principalmente em homens jovens que treinam. Mas um estudo randomizado de 2024 (em que os participantes foram sorteados para cada grupo), com rapazes que já tinham acne leve a moderada, não encontrou piora com 30 g de whey por dia durante seis meses.
 
-Ou seja, a questão não está resolvida. Se a acne começou ou piorou depois de iniciar o whey, vale conversar sobre isso na consulta. E lembre que a proteína pode vir da alimentação, como explico no artigo sobre [proteína, cabelos e unhas](/blog/suplemento-cabelo-unha-proteina/).
+Ou seja, a questão não está resolvida. Se a acne começou ou piorou depois de iniciar o whey, converse sobre isso na consulta. E lembre que a proteína pode vir da alimentação, como explico no artigo sobre [proteína, cabelos e unhas](/blog/suplemento-cabelo-unha-proteina/).
 
 ## O que pode ajudar
 
 Os padrões alimentares associados a menos acne são os mesmos que fazem bem à saúde em geral:
 
-- Frutas, verduras e legumes (as frutas inteiras, não os sucos adoçados)
-- Peixes e outras fontes de ômega-3
-- Cereais integrais, feijão, lentilha e grão-de-bico no lugar de farinhas refinadas
-- Água no lugar de refrigerantes e sucos industrializados
+- **Frutas, verduras e legumes:** as frutas inteiras, em vez dos sucos adoçados.
+- **Peixes** e outras fontes de ômega-3.
+- **Cereais integrais, feijão, lentilha e grão-de-bico** no lugar de farinhas refinadas.
+- **Água** no lugar de refrigerantes e sucos industrializados.
 
 ## Dieta não substitui tratamento
 
-Ajustar a alimentação pode ajudar, mas não trata a acne sozinho. Os tratamentos com melhor evidência são os medicamentos tópicos e, nos casos moderados a graves, os orais, indicados pelo dermatologista. Esperar meses só com mudanças na dieta, enquanto a acne inflamada continua, aumenta o risco de [cicatrizes](/blog/cicatrizes-de-acne-subcisao/), que são muito mais difíceis de tratar do que a acne em si.
+Os tratamentos com melhor evidência são os medicamentos tópicos e, nos casos moderados a graves, os orais, indicados pelo dermatologista. Esperar meses só com mudanças na dieta, enquanto a acne inflamada continua, aumenta o risco de [cicatrizes](/blog/cicatrizes-de-acne-subcisao/), que são muito mais difíceis de tratar do que a acne em si.
 
-Também vale cuidado com dietas muito restritivas, principalmente em adolescentes. Elas podem levar a deficiências nutricionais e a uma relação ruim com a comida, sem garantia de melhora da pele.
+Cuidado também com dietas muito restritivas, principalmente em adolescentes. Elas podem levar a deficiências nutricionais e a uma relação ruim com a comida, sem garantia de melhora da pele.
+
+## Nem toda piora da acne vem da comida
+
+- **Hormônios:** a acne piora antes da menstruação e na síndrome dos ovários policísticos.
+- **Cosméticos e protetores oleosos:** podem entupir os poros.
+- **Remédios:** corticoide e anabolizantes podem causar ou piorar a acne.
+- **Sono e estresse:** em fases difíceis, muita gente nota mais espinhas.
+
+Por isso, antes de cortar um alimento, olhe para o conjunto. Explico os tratamentos no artigo sobre [como tratar a acne](/blog/tratamento-da-acne/).
 
 ## Quando procurar um dermatologista
 
 Procure avaliação se a acne é dolorosa, deixa manchas ou marcas, não melhora com os cuidados básicos ou afeta sua autoestima. Na consulta, além de definir o tratamento, converso sobre a alimentação e outros hábitos que podem estar influenciando a pele, como parte da minha [abordagem](/abordagem/).
+
+Veja como trato a acne na [dermatologia clínica](/dermatologia-clinica/).

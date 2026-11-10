@@ -54,7 +54,7 @@ Os sinais mais comuns, que podem aparecer juntos ou separados, são:
 - **Espessamento da pele**, principalmente no nariz (rinofima), mais comum em homens
 - **Sintomas nos olhos**: ardência, sensação de areia, olho seco, vermelhidão e terçol de repetição
 
-É mais comum em mulheres e costuma aparecer a partir dos 30 anos, com mais casos entre os 45 e os 60, mas homens também têm, muitas vezes em formas mais intensas. E não é uma doença só de pele muito clara: em peles morenas e negras, comuns no Brasil, a vermelhidão é menos visível e a rosácea tende a ser pouco diagnosticada. Nesses casos, a ardência, a sensibilidade a produtos e a piora com os gatilhos clássicos ajudam no diagnóstico.
+É mais comum em mulheres e costuma aparecer a partir dos 30 anos, com mais casos entre os 45 e os 60, mas homens também têm, muitas vezes em formas mais intensas. Em peles morenas e negras, comuns no Brasil, a vermelhidão é menos visível e a rosácea tende a ser pouco diagnosticada. Nesses casos, a ardência, a sensibilidade a produtos e a piora com os gatilhos clássicos ajudam no diagnóstico.
 
 ## Rosácea não é acne
 
@@ -82,16 +82,16 @@ Calor é um dos gatilhos mais fortes: dias quentes, sauna, banho muito quente, f
 
 ### Exercício físico
 
-O exercício intenso esquenta o corpo e pode provocar vermelhidão, mas **não é motivo para parar de se exercitar**. Algumas medidas ajudam:
+O exercício intenso esquenta o corpo e pode provocar vermelhidão. Dá para continuar treinando com algumas medidas:
 
 - Treine em horários e ambientes mais frescos, com ventilador ou ar-condicionado
 - Faça intervalos e beba água gelada
 - Tenha uma toalha úmida e fria por perto
 - Prefira, quando possível, atividades de intensidade moderada ou divididas em blocos
 
-### Bebidas quentes: o problema é o calor, não o café
+### Café piora a rosácea?
 
-Um estudo clássico mostrou que o café quente provoca vermelhidão em pessoas com rosácea, mas o café frio, não. A água quente teve o mesmo efeito do café quente. Ou seja, o gatilho é a temperatura da bebida, e não a cafeína.
+Um estudo clássico mostrou que o café quente provoca vermelhidão em pessoas com rosácea, mas o café frio, não. A água quente teve o mesmo efeito do café quente. O gatilho é a temperatura da bebida.
 
 Um grande estudo americano, com mais de 82 mil mulheres acompanhadas por 14 anos, até encontrou menor risco de rosácea em quem tomava mais café com cafeína. Por isso, não há motivo para cortar o café: deixar a bebida esfriar um pouco antes de tomar já costuma ajudar.
 
@@ -106,7 +106,7 @@ Pimenta e comidas muito condimentadas ativam os mesmos receptores de calor da pe
 - **Alimentos com cinamaldeído**, como canela, tomate, frutas cítricas e chocolate
 - **Alimentos ricos em histamina**, como queijos curados, embutidos e vinho
 
-Mas é preciso cuidado: **não há estudos de boa qualidade mostrando que dietas de exclusão melhoram a rosácea**. Cortar uma longa lista de alimentos sem saber se eles realmente pioram a sua pele só torna a alimentação mais pobre e difícil. O caminho é observar o que pesa no seu caso, com o diário de gatilhos.
+**Não há estudos de boa qualidade mostrando que dietas de exclusão melhoram a rosácea**. Cortar uma longa lista de alimentos sem saber se eles realmente pioram a sua pele só torna a alimentação mais pobre e difícil. Observe o que pesa no seu caso com o diário de gatilhos.
 
 ### Estresse e emoções
 
@@ -135,32 +135,32 @@ Alguns medicamentos podem provocar vermelhidão no rosto ou piorar a rosácea, c
 
 ## Diário de gatilhos: como descobrir os seus
 
-Como os gatilhos variam muito, a forma mais prática de identificar os seus é anotar, por duas a quatro semanas:
+A forma mais prática de identificar os seus gatilhos é anotar, por duas a quatro semanas:
 
 1. **Quando a pele piorou**: data, horário e intensidade
 2. **O que aconteceu nas horas anteriores**: alimentos e bebidas, exposição ao sol ou ao calor, exercício, situações de estresse, produtos novos
 3. **Quanto tempo durou a crise**
 
-Depois de algumas semanas, os padrões costumam aparecer. A ideia não é evitar tudo, mas reconhecer os gatilhos que realmente pesam e decidir, com informação, o que vale a pena mudar.
+Depois de algumas semanas, os padrões costumam aparecer. Com isso, você reconhece os gatilhos que pesam no seu caso e decide, com informação, o que vale mudar.
 
 ## Tratamento: de acordo com os sinais de cada pessoa
 
-O tratamento é montado conforme os sinais que predominam, e quase sempre combina mais de uma estratégia. Os consensos internacionais recomendam buscar o controle mais completo possível dos sinais, e não se contentar com uma melhora parcial.
+O tratamento é montado conforme os sinais que predominam, e quase sempre combina mais de uma estratégia. Os consensos internacionais recomendam buscar o controle mais completo possível dos sinais.
 
-**Bolinhas inflamadas**
+### Bolinhas inflamadas
 
 - **Medicamentos tópicos**: a ivermectina tópica, o ácido azelaico e o metronidazol estão entre as opções com melhor evidência. Em um estudo com 962 pacientes, a ivermectina tópica reduziu mais as lesões inflamatórias do que o metronidazol em 16 semanas.
 - **Medicamentos orais**: nos casos moderados a graves, antibióticos da família das tetraciclinas em doses baixas, usados pelo efeito anti-inflamatório. Nos casos que não respondem a esses tratamentos, uso a isotretinoína em doses baixas, com acompanhamento e exames.
 
-**Vasinhos e vermelhidão persistente: luz intensa pulsada**
+### Vasinhos e vermelhidão persistente: luz intensa pulsada
 
 Os cuidados com os gatilhos e com a pele são a base para reduzir a vermelhidão ao longo do tempo. Para os vasinhos e a vermelhidão que não passa, o tratamento que mais uso é a [luz intensa pulsada](https://primedermatologia.com/tratamentos/luz-intensa-pulsada/), que atua nos vasos dilatados. Em alguns casos, também uso o laser Nd:YAG. Costumam ser necessárias algumas sessões, e manutenções periódicas ajudam, porque a rosácea continua ativa. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
 
-**Espessamento do nariz (rinofima)**
+### Espessamento do nariz (rinofima)
 
 Nas fases iniciais, a isotretinoína pode ajudar. Quando o espessamento já está estabelecido, o tratamento envolve procedimentos, como o laser de érbio ablativo, que remodela a pele. Nos casos muito avançados, com grande aumento do nariz, o tratamento é cirúrgico, e encaminho para um especialista nesse tipo de cirurgia.
 
-**Olhos**
+### Olhos
 
 Ardência, olho seco e terçol de repetição podem ser sinais de rosácea ocular. Nesses casos, o tratamento é feito junto com o oftalmologista, com cuidados com as pálpebras e, quando indicado, medicamentos.
 
@@ -170,8 +170,10 @@ Os medicamentos para as bolinhas inflamadas costumam mostrar resultado entre 8 e
 
 ## Nem toda vermelhidão é rosácea
 
-Outras condições também deixam o rosto vermelho, como a dermatite seborreica, a dermatite perioral, as alergias de contato, a acne e, mais raramente, doenças autoimunes como o lúpus. Cada uma tem tratamento diferente, e algumas pioram com produtos usados para as outras. Por isso, o diagnóstico é feito no exame da pele, com dermatoscopia, e, quando necessário, exames complementares.
+Outras condições também deixam o rosto vermelho, como a dermatite seborreica (descamação oleosa ao lado do nariz e nas sobrancelhas), a dermatite perioral (bolinhas em volta da boca), as alergias de contato, a acne e, mais raramente, doenças autoimunes como o lúpus. Cada uma tem tratamento diferente, e algumas pioram com produtos usados para as outras. Por isso, o diagnóstico é feito no exame da pele, com dermatoscopia, e, quando necessário, exames complementares.
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se você fica vermelho com facilidade, tem vermelhidão que não passa, vasinhos no rosto, bolinhas que não melhoram com produtos para acne, ardência com cosméticos, ou se já usou corticoide no rosto e a pele piorou. Na consulta, confirmo o diagnóstico, ajudo a identificar seus gatilhos e monto um tratamento de acordo com os sinais e a rotina de cada pessoa. Veja também como trato a rosácea e outras condições na [dermatologia clínica](/dermatologia-clinica/).
+Procure avaliação se você fica vermelho com facilidade, tem vermelhidão que não passa, vasinhos no rosto, bolinhas que não melhoram com produtos para acne, ardência com cosméticos, ou se já usou corticoide no rosto e a pele piorou. Na consulta, confirmo o diagnóstico e começamos juntos o diário de gatilhos.
+
+Veja como trato a rosácea e outras condições na [dermatologia clínica](/dermatologia-clinica/).

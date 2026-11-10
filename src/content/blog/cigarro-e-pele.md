@@ -1,7 +1,7 @@
 ---
 title: 'Cigarro faz mal para a pele? O que os estudos mostram e o que pode melhorar ao parar'
 description: 'Como o cigarro se associa a rugas, psoríase, hidradenite, câncer de pele, queda de cabelo e pior cicatrização, o que os estudos permitem afirmar e o que pode melhorar ao parar de fumar.'
-answer: 'Sim. Fumar está associado a envelhecimento precoce da pele, sobretudo no meio e na parte de baixo do rosto, a mais risco de psoríase, hidradenite e carcinoma espinocelular, e a mais complicações na cicatrização depois de cirurgias. Parar de fumar se associa a menos complicações cirúrgicas e a menor risco de hidradenite com o passar dos anos.'
+answer: 'Sim. Fumar está associado a envelhecimento precoce da pele, sobretudo no meio e na parte de baixo do rosto, a mais risco de psoríase, hidradenite (nódulos dolorosos nas axilas e na virilha) e carcinoma espinocelular (um tipo de câncer de pele), e a mais complicações na cicatrização depois de cirurgias. Parar de fumar se associa a menos complicações cirúrgicas e a menor risco de hidradenite com o passar dos anos.'
 pubDate: 2026-10-26
 reviewedDate: 2026-10-26
 category: 'Estilo de vida e pele'
@@ -100,11 +100,11 @@ O carcinoma espinocelular é o tipo de câncer de pele mais ligado ao cigarro no
 - **Metanálise de 2020:** reuniu estudos que acompanharam as pessoas ao longo do tempo. Fumantes atuais tiveram risco cerca de 32% maior. Ex-fumantes não tiveram aumento.
 - **Estudo inglês com mais de 1,2 milhão de mulheres:** o risco foi maior nos braços e nas pernas, mas não no rosto.
 
-Um estudo genético de 2023, feito para testar se o cigarro é a causa, não confirmou o aumento de risco. Parte da associação, então, pode vir de outros fatores. Por isso o texto fala em associação.
+Um estudo genético de 2023, feito para testar se o cigarro é a causa, não confirmou o aumento de risco. Parte da associação, então, pode vir de outros fatores.
 
 ### Basocelular e melanoma
 
-Alguns estudos encontraram menos carcinoma basocelular e menos melanoma em fumantes. Isso não quer dizer que o cigarro proteja a pele. Um estudo australiano mostrou que fumantes fazem menos exames de pele e menos procedimentos, e por isso uma parte desses cânceres pode simplesmente não ser diagnosticada. Outros fatores, como diferenças de exposição ao sol, também podem explicar o resultado.
+Alguns estudos encontraram menos carcinoma basocelular e menos melanoma em fumantes. Isso não quer dizer que o cigarro proteja a pele. Um estudo australiano mostrou que fumantes fazem menos exames de pele e menos procedimentos, e por isso uma parte desses cânceres pode não ser diagnosticada. Outros fatores, como diferenças de exposição ao sol, também podem explicar o resultado.
 
 ## Cicatrização depois de cirurgias
 

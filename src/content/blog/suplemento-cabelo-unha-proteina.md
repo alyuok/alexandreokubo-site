@@ -32,25 +32,27 @@ status: aprovado
 
 No consultório, vejo com frequência mulheres que chegam com queda de cabelo ou unhas fracas já tomando um polivitamínico, às vezes dois. Quando pergunto o que comeram no dia anterior, aparece o mesmo padrão: café com pão de manhã, uma salada no almoço, um lanche à noite. Pouca proteína no dia inteiro.
 
-O suplemento não compensa isso. E entender o porquê ajuda a gastar energia, e dinheiro, no que de fato faz diferença.
+O suplemento não compensa isso. Entender o porquê evita gastar dinheiro com o frasco errado.
 
 ## Cabelo e unha são feitos de proteína
 
 O fio de cabelo e a unha são formados principalmente por queratina, uma proteína. As células da raiz do cabelo estão entre as que mais se multiplicam no corpo, e por isso dependem de um fornecimento constante de proteína e energia.
 
-Quando a alimentação não cobre o que o corpo precisa, ele prioriza órgãos vitais. Cabelos e unhas ficam para depois. O resultado pode ser queda difusa, fios mais finos e unhas que quebram e descamam com facilidade.
+Quando a alimentação não cobre o que o corpo precisa, ele manda o que tem para os órgãos vitais. Cabelos e unhas ficam para depois. O resultado pode ser queda difusa, fios mais finos e unhas que quebram e descamam com facilidade.
 
-## Proteína: o ponto mais esquecido
+## Proteína: a parte que mais falta no prato
 
 Muita gente acha que come proteína suficiente porque come "de tudo". Na prática, a quantidade costuma ficar abaixo do necessário, principalmente em quem:
 
 - Faz dietas restritivas ou pula refeições
-- Está perdendo peso rápido, com dieta, [canetas emagrecedoras](/blog/queda-de-cabelo-depois-de-estresse/) ou após cirurgia bariátrica
+- Está perdendo peso rápido, com dieta, [canetas emagrecedoras](/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/) ou após cirurgia bariátrica
 - Segue uma alimentação vegetariana ou vegana sem planejamento
 - Tem mais de 65 anos, idade em que o corpo aproveita pior a proteína e passa a precisar de mais
 - Treina com frequência e não ajustou a alimentação
 
-**Quanto é suficiente?** A referência geral para adultos é de pelo menos 0,8 g de proteína por quilo de peso por dia. Para pessoas acima de 65 anos, especialistas recomendam de 1,0 a 1,2 g por quilo, e mais para quem pratica atividade física. Para uma mulher de 60 kg, isso significa pelo menos 48 g por dia, ou de 60 a 72 g depois dos 65 anos.
+### Quanta proteína comer por dia
+
+A referência geral para adultos é de pelo menos 0,8 g de proteína por quilo de peso por dia. Para pessoas acima de 65 anos, especialistas recomendam de 1,0 a 1,2 g por quilo, e mais para quem pratica atividade física. Para uma mulher de 60 kg, isso significa pelo menos 48 g por dia, ou de 60 a 72 g depois dos 65 anos.
 
 Para ter uma ideia, aproximadamente:
 
@@ -64,7 +66,7 @@ Distribuir a proteína entre as refeições, em vez de concentrá-la no jantar, 
 ## Por que só o polivitamínico não resolve
 
 - **Vitamina não substitui proteína.** Um polivitamínico praticamente não tem proteína nem calorias. Se a base da alimentação está insuficiente, o cabelo continua sem matéria-prima.
-- **O benefício depende do caso.** Quando há deficiência, corrigi-la é parte do tratamento. Sem deficiência, alguns suplementos com combinações de nutrientes mostraram possível benefício para a queda de cabelo em estudos, mas a maioria desses estudos é pequena e de qualidade limitada. Eles podem complementar o tratamento, não substituí-lo.
+- **O benefício depende do caso.** Quando há deficiência, corrigi-la é parte do tratamento. Sem deficiência, alguns suplementos com combinações de nutrientes mostraram possível benefício para a queda de cabelo em estudos, mas a maioria desses estudos é pequena e de qualidade limitada. Eles podem entrar como complemento.
 - **Em excesso, alguns pioram.** Vitamina A e selênio em doses altas podem causar queda de cabelo. Somar vários suplementos "para cabelo" aumenta esse risco.
 
 ## E a biotina?
@@ -72,7 +74,7 @@ Distribuir a proteína entre as refeições, em vez de concentrá-la no jantar, 
 A biotina, uma vitamina do complexo B, está presente na maioria dos suplementos para cabelo e unha. O que os estudos mostram depende do problema:
 
 - **Unhas quebradiças**: é uma das opções mais estudadas. Em estudos pequenos, a biotina aumentou a espessura da unha e reduziu as fissuras em parte dos pacientes, com uso por vários meses. Faltam estudos maiores, mas, por ter poucos efeitos colaterais, pode ser uma opção associada aos cuidados com as unhas.
-- **Queda de cabelo**: o benefício está bem estabelecido quando há deficiência de biotina, que é incomum, mas pode ocorrer, por exemplo, com o uso de alguns anticonvulsivantes, como o valproato, e com o consumo excessivo de álcool. Sem deficiência, a biotina isolada não tem efeito comprovado, e por isso ela costuma fazer parte de um plano maior, não ser o tratamento principal.
+- **Queda de cabelo**: o benefício está bem estabelecido quando há deficiência de biotina, que é incomum, mas pode ocorrer, por exemplo, com o uso de alguns anticonvulsivantes, como o valproato, e com o consumo excessivo de álcool. Sem deficiência, a biotina isolada não tem efeito comprovado, e por isso, quando a uso, ela entra junto com outras medidas.
 
 **Atenção aos exames de sangue.** A biotina pode alterar o resultado de vários exames, como os de tireoide e alguns exames do coração, levando a resultados falsamente alterados. Como ela está em muitos suplementos, às vezes a pessoa nem sabe que está tomando. Se você usa suplemento para cabelo, pele ou unha, confira o rótulo, avise o médico e suspenda o uso 3 dias antes de colher exames de sangue, salvo outra orientação do seu médico.
 
@@ -84,14 +86,18 @@ Não existe um "check-up do cabelo" que sirva para todo mundo. Os exames são es
 - **Vitamina D, zinco e vitamina B12**, quando há fatores de risco, como cirurgia bariátrica, alimentação vegana ou uso de alguns medicamentos
 - **Tireoide e fase hormonal**, porque alterações da tireoide e a [menopausa](/blog/menopausa-e-pele/) também mudam cabelos e unhas
 
-Quando uma deficiência é encontrada, ela deve ser corrigida, com dose e tempo definidos pelo médico.
+Se algum exame vier baixo, defino a dose e por quanto tempo repor.
 
 ## E as unhas?
 
 A unha da mão leva de seis a nove meses para se renovar por completo, e a do pé, mais de um ano. Por isso qualquer mudança na alimentação demora a aparecer nas unhas.
 
-Unha fraca nem sempre é falta de nutriente. Contato frequente com água e produtos de limpeza, removedores de esmalte e alongamentos estão entre as causas mais comuns. E unha grossa ou amarelada pode ser [micose de unha](/blog/micose-de-unha-onicomicose/), que precisa de outro tratamento.
+## Nem toda unha fraca é falta de nutriente
+
+Contato frequente com água e produtos de limpeza, removedores de esmalte e alongamentos estão entre as causas mais comuns. E unha grossa ou amarelada pode ser [micose de unha](/blog/micose-de-unha-onicomicose/), que precisa de outro tratamento.
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se a queda de cabelo dura mais de três meses, se os fios estão ficando mais finos ou se as unhas mudaram de aspecto. Na consulta, além de examinar o couro cabeludo e as unhas, reviso a alimentação, os medicamentos e os suplementos em uso. Muitas vezes, ajustar o que está no prato faz mais diferença do que acrescentar mais um frasco.
+Procure avaliação se a queda de cabelo dura mais de três meses, se os fios estão ficando mais finos ou se as unhas mudaram de aspecto. Na consulta, além de examinar o couro cabeludo e as unhas, reviso a alimentação, os medicamentos e os suplementos em uso.
+
+Veja como avalio a queda de cabelo e as unhas na [dermatologia clínica](/dermatologia-clinica/).

@@ -47,7 +47,7 @@ Por isso, o nome mais correto é cisto epidérmico. "Cisto sebáceo" é o nome p
 
 ### No couro cabeludo
 
-No couro cabeludo, o cisto mais comum é de outro tipo, o cisto triquilemal (ou pilar), que nasce da raiz do fio. Ele costuma ser mais liso e mais firme, sem o ponto central, e é comum aparecer mais de um, em pessoas da mesma família. Uma revisão sobre lesões do couro cabeludo aponta que os cistos somam mais da metade das lesões benignas dessa região. O tratamento é o mesmo: retirada da cápsula, quando incomoda.
+No couro cabeludo, o cisto mais comum é de outro tipo, o cisto triquilemal (ou pilar), que nasce da raiz do fio. Ele costuma ser mais liso e mais firme, sem o ponto central. Muitas vezes aparece mais de um, e é comum que outras pessoas da família também tenham. Uma revisão sobre lesões do couro cabeludo aponta que os cistos somam mais da metade das lesões benignas dessa região. O tratamento é o mesmo: retirada da cápsula, quando incomoda.
 
 ## Por que o cisto inflama
 
@@ -64,13 +64,13 @@ Espremer o cisto em casa pode:
 - **Deixar a cápsula no lugar.** O conteúdo sai, mas a bolsa continua e volta a encher. É por isso que o cisto "some e volta".
 - **Aumentar a cicatriz,** porque a pele em volta fica mais inflamada e frágil.
 
-Agulha, alfinete e lâmina pioram esses riscos.
+Com agulha, alfinete ou lâmina, esses riscos aumentam.
 
 ## Precisa tirar?
 
 Não necessariamente. O cisto sebáceo é benigno, e um cisto pequeno, que não incomoda e não muda, pode ser só acompanhado.
 
-A transformação em câncer é muito rara. Em um centro americano, entre 1.904 cistos epidérmicos registrados ao longo de 10 anos, 3 tinham carcinoma espinocelular. Em uma série coreana de 9 casos desse tipo, mais da metade dos pacientes já tinha retirado ou drenado o cisto antes, e ele havia voltado várias vezes.
+A transformação em câncer é muito rara. Em um centro americano, entre 1.904 cistos epidérmicos registrados ao longo de 10 anos, 3 tinham carcinoma espinocelular, um tipo de câncer de pele. Em uma série coreana de 9 casos desse tipo, mais da metade dos pacientes já tinha retirado ou drenado o cisto antes, e ele havia voltado várias vezes.
 
 Os motivos para retirar são:
 
@@ -86,7 +86,7 @@ A retirada é feita em consultório, com anestesia local. O objetivo é tirar a 
 
 Existem duas formas principais:
 
-- **Retirada completa com bisturi:** um corte em forma de fuso sobre o cisto, retirada da bolsa inteira e pontos. Costuma ser a escolha para cistos maiores ou que já inflamaram.
+- **Retirada completa com bisturi:** um corte em forma de folha (fuso) sobre o cisto, retirada da bolsa inteira e pontos. Costuma ser a escolha para cistos maiores ou que já inflamaram.
 - **Retirada por incisão pequena:** um corte de poucos milímetros, por onde o conteúdo e depois a cápsula são retirados. Deixa uma cicatriz menor, mas funciona melhor em cistos pequenos e que nunca inflamaram.
 
 Escolho a técnica de acordo com o tamanho, o local e a história de cada cisto. Em geral, envio a cápsula retirada para exame anatomopatológico, que confirma o diagnóstico ao microscópio.
@@ -113,6 +113,6 @@ Outras lesões podem parecer um cisto:
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se o cisto inflamou, se já inflamou antes e voltou, se cresceu rápido, se ficou endurecido ou se incomoda. Procure atendimento no mesmo dia se houver febre, se a vermelhidão estiver se espalhando pela pele em volta ou se a dor for intensa. Para agendar a avaliação, veja como é a [retirada de cisto sebáceo](/retirada-de-cisto-sebaceo/) no consultório.
+Procure avaliação se o cisto inflamou, se já inflamou antes e voltou, se cresceu rápido, se ficou endurecido ou se incomoda. Procure atendimento no mesmo dia se houver febre, se a vermelhidão estiver se espalhando pela pele em volta ou se a dor for intensa. Para agendar, veja a página de [retirada de cisto sebáceo](/retirada-de-cisto-sebaceo/).
 
 Veja como é feita a retirada de cistos e outras lesões na [cirurgia dermatológica](/cirurgia-dermatologica/).

@@ -1,7 +1,7 @@
 ---
 title: 'Probióticos ajudam na acne? O que os estudos permitem dizer'
 description: 'O que a ciência sabe sobre probióticos e acne: o que mostram os ensaios clínicos e as meta-análises, por que o resultado de uma cepa não vale para qualquer produto, o que dizer dos cremes com probióticos e quando o probiótico entra no tratamento.'
-answer: 'Os probióticos podem ajudar na acne de forma modesta, como complemento do tratamento, e não como substituto. Os estudos ainda são pequenos, testaram cepas específicas e mostraram efeito mais claro depois de cerca de 12 semanas. O resultado de uma cepa não vale para qualquer probiótico.'
+answer: 'Os probióticos podem ajudar na acne de forma modesta, somados ao tratamento médico. Os estudos ainda são pequenos, testaram cepas específicas e mostraram efeito mais claro depois de cerca de 12 semanas. O resultado de uma cepa não vale para qualquer probiótico.'
 pubDate: 2026-10-25
 reviewedDate: 2026-10-25
 category: 'Estilo de vida e pele'
@@ -30,13 +30,13 @@ sources:
 status: aprovado
 ---
 
-"Doutor, li que a acne vem do intestino. Um probiótico resolve?" Ouço essa pergunta com frequência no consultório. O probiótico pode ajudar um pouco, em alguns casos, mas não resolve a acne sozinho. A resposta depende de qual probiótico, para quem e por quanto tempo.
+"Doutor, li que a acne vem do intestino. Um probiótico resolve?" Ouço essa pergunta com frequência no consultório. O probiótico pode ajudar um pouco, em alguns casos, mas não resolve a acne sozinho. Depende do probiótico e de quanto tempo ele é usado.
 
 ## O que são probióticos
 
 Probióticos são microrganismos vivos, em geral bactérias, que, tomados na quantidade adequada, podem trazer algum benefício à saúde. Os mais usados pertencem a dois grupos: lactobacilos e bifidobactérias.
 
-O efeito de um probiótico depende da cepa, que é a "versão" específica da bactéria. Dois produtos com "lactobacilo" no rótulo podem ter cepas diferentes, com efeitos diferentes. Por isso, o resultado de um estudo vale para a cepa testada, e não para qualquer probiótico da farmácia.
+O efeito de um probiótico depende da cepa, que é a "versão" específica da bactéria. Dois produtos com "lactobacilo" no rótulo podem ter cepas diferentes, com efeitos diferentes. Por isso, o resultado de um estudo vale só para a cepa testada.
 
 ## Por que o intestino teria a ver com a acne
 
@@ -50,20 +50,20 @@ A hipótese faz sentido, mas boa parte dela vem de estudos de laboratório. Para
 
 Em um estudo espanhol de 2024, jovens de 12 a 30 anos com acne tomaram, por 12 semanas, uma cápsula com um lactobacilo (*Lacticaseibacillus rhamnosus*) associado à espirulina, ou um placebo. A acne melhorou na avaliação geral em 50% de quem tomou a cápsula (20 de 40) e em 29% de quem tomou o placebo (10 de 34). Os cravos diminuíram mais no grupo da cápsula. No total de lesões, a diferença para o placebo não foi significativa.
 
-O estudo tem dois limites. O produto não era só um probiótico, porque também tinha espirulina. E foram menos de 80 participantes. É um resultado que ainda precisa ser confirmado.
+O estudo tem dois limites. O produto não era só um probiótico, porque também tinha espirulina. E foram menos de 80 participantes.
 
 ### Probiótico junto do antibiótico
 
 Dois estudos testaram o probiótico como complemento do antibiótico oral, que é um tratamento comum na acne moderada:
 
 - **Com minociclina:** em um estudo de 2013, com 45 mulheres, o grupo que tomou probiótico e antibiótico juntos teve menos lesões, em 8 e 12 semanas, do que os grupos que tomaram só um ou só o outro. Duas das 15 participantes que tomaram só o antibiótico interromperam o tratamento por candidíase vaginal. O estudo foi aberto: as participantes sabiam o que estavam tomando, o que enfraquece a conclusão.
-- **Com doxiciclina:** em um estudo de 2024, com 80 pessoas com acne moderada, todas usaram adapaleno e doxiciclina, e metade recebeu também um probiótico, por 3 meses. Quem tomou o probiótico teve melhora maior na testa, no queixo e no nariz. Nas bochechas, nas costas e no peito, não houve diferença.
+- **Com doxiciclina:** em um estudo de 2024, com 80 pessoas com acne moderada, todas usaram adapaleno (um gel para acne) e doxiciclina, e metade recebeu também um probiótico, por 3 meses. Quem tomou o probiótico teve melhora maior na testa, no queixo e no nariz. Nas bochechas, nas costas e no peito, não houve diferença.
 
 ### O que as revisões concluem
 
 - **Efeito modesto:** uma meta-análise de 2025 que incluiu só estudos duplo-cegos (em que nem o paciente nem o médico sabem quem tomou o quê) encontrou uma redução modesta das lesões inflamatórias. Mas eram apenas 3 estudos, com 231 pacientes, e a certeza da evidência foi classificada como baixa a moderada.
 - **Leva tempo:** outra meta-análise de 2025, com 9 estudos e 623 pacientes, encontrou pouca diferença em 4 semanas. Em 12 semanas, o grupo do probiótico teve acne menos grave e menos lesões.
-- **Estudos pequenos:** uma revisão americana de 2023 sobre suplementos para acne considerou que os probióticos têm um possível papel, mas lembrou que muitos estudos eram pequenos.
+- **Estudos pequenos:** uma revisão americana de 2023 sobre suplementos para acne concluiu que os probióticos podem ajudar, mas lembrou que muitos estudos eram pequenos.
 
 A diretriz da Academia Americana de Dermatologia, de 2024, reúne 18 recomendações para o tratamento da acne. Os probióticos não estão entre elas.
 
@@ -75,7 +75,7 @@ Os estudos testaram cápsulas com cepas definidas, em doses conhecidas. Não dá
 
 A pele tem a sua própria microbiota, diferente da do intestino. Alguns cremes e loções usam substâncias produzidas por bactérias na fermentação, e não as bactérias vivas.
 
-Em um estudo de 2022, com 104 pessoas com acne leve a moderada, uma loção feita a partir de um lactobacilo reduziu as lesões inflamatórias de forma parecida com o peróxido de benzoíla a 2,5%, em 4 semanas. A loção causou menos efeitos colaterais: 8% contra 27% no grupo do peróxido. Nenhum dos dois tratamentos melhorou os cravos. O resultado vale para aquela loção, não para qualquer cosmético com "probiótico" no rótulo.
+Em um estudo de 2022, com 104 pessoas com acne leve a moderada, uma loção feita a partir de um lactobacilo reduziu as lesões inflamatórias de forma parecida com o peróxido de benzoíla a 2,5%, em 4 semanas. A loção causou menos efeitos colaterais: 8% contra 27% no grupo do peróxido. Nenhum dos dois tratamentos melhorou os cravos. O resultado vale para aquela loção.
 
 ## Probiótico é seguro?
 
@@ -85,7 +85,7 @@ O cuidado maior é para quem tem a imunidade muito baixa, por doença ou por med
 
 ## Como uso na prática
 
-Na consulta, às vezes indico um probiótico como complemento do tratamento da acne, mas não como regra. As situações em que mais considero essa opção são:
+Às vezes indico um probiótico junto do tratamento da acne. As situações em que mais considero essa opção são:
 
 - **Junto do antibiótico oral:** é a situação com mais estudos, como os descritos acima.
 - **Quando há queixa intestinal:** se a pessoa também tem sintomas intestinais, avalio se o probiótico faz sentido no caso dela.

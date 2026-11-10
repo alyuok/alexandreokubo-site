@@ -1,7 +1,7 @@
 ---
 title: 'Ceratose seborreica: as "verrugas da idade" que não são verruga'
 description: 'O que é a ceratose seborreica, por que aparece com a idade, como diferenciá-la de uma pinta perigosa, quando ela precisa de exame e como é feita a retirada.'
-answer: 'A ceratose seborreica é uma lesão benigna da camada mais superficial da pele, marrom ou escura, com aspecto de "colada" na pele, que aparece com a idade. Ela não vira câncer e não precisa ser retirada. Mas pode ser parecida com um melanoma, por isso o diagnóstico deve ser feito com dermatoscopia, e a retirada, quando o paciente quer, é feita no consultório.'
+answer: 'A ceratose seborreica é uma lesão benigna da camada mais superficial da pele, marrom ou escura, com aspecto de "colada" na pele, que aparece com a idade. Ela não vira câncer e não precisa ser retirada. Mas pode ser parecida com um melanoma, por isso o diagnóstico é feito com dermatoscopia. Quando o paciente quer, a retirada é feita no consultório.'
 pubDate: 2026-11-05
 reviewedDate: 2026-11-05
 category: 'Pele'
@@ -24,7 +24,7 @@ status: aprovado
 
 ## O que é a ceratose seborreica
 
-A ceratose seborreica é a lesão benigna mais comum da pele. Ela é formada por células da camada mais superficial da pele (a epiderme), que se multiplicam e se empilham. Não é verruga, porque não é causada por vírus, e não passa de uma pessoa para outra.
+A ceratose seborreica é a lesão benigna mais comum da pele. Ela é formada por células da camada mais superficial da pele (a epiderme), que se multiplicam e se empilham. A ceratose não é causada por vírus, por isso não passa de uma pessoa para outra.
 
 ### Como reconhecer
 
@@ -43,7 +43,7 @@ Ela não está relacionada a falta de higiene nem à oleosidade da pele, apesar 
 
 ## A ceratose seborreica vira câncer?
 
-Não. As alterações genéticas encontradas nas ceratoses não dão a elas potencial de virar câncer.
+Não. As alterações genéticas das ceratoses não as transformam em câncer.
 
 O risco é de confusão: algumas ceratoses são muito parecidas com um melanoma, e alguns melanomas são parecidos com ceratoses. Uma revisão italiana sobre esses casos aponta que eles podem ser difíceis de separar a olho nu, mesmo para dermatologistas experientes.
 
@@ -55,7 +55,7 @@ A dermatoscopia é um exame feito na consulta, com uma lente de aumento e luz es
 
 *Ceratose seborreica vista no dermatoscópio, com a régua do aparelho ao lado. Os pontos escuros são as aberturas parecidas com cravos. Foto de paciente, publicada com autorização.*
 
-Faço a dermatoscopia nas lesões escuras durante a consulta. Quando ela não deixa o diagnóstico claro, faço a biópsia, e o exame ao microscópio confirma o que é. Explico como funciona a [avaliação de pintas](/avaliacao-de-pintas/) no consultório.
+Faço a dermatoscopia nas lesões escuras durante a consulta. Explico como funciona a [avaliação de pintas](/avaliacao-de-pintas/) no consultório.
 
 ### Quando muitas aparecem de repente
 
@@ -85,11 +85,11 @@ Os tratamentos com cremes e soluções ainda têm efeito limitado. Uma solução
 
 Os efeitos colaterais possíveis de todos os métodos são mancha clara ou escura no local, cicatriz e volta da lesão.
 
-Congelar ou vaporizar a lesão não deixa material para o microscópio. Por isso, quando há dúvida no diagnóstico, retiro a lesão ou faço uma biópsia e envio para exame antes de tratar.
+A criocirurgia e o plasma não deixam material para o microscópio. Por isso, quando há dúvida no diagnóstico, retiro a lesão ou faço uma biópsia e envio para exame antes de tratar.
 
 ## Nem toda mancha escura e áspera é ceratose seborreica
 
-- **Melanoma:** a lesão que muda de tamanho, de forma ou de cor, que tem várias cores ou bordas irregulares, deve ser examinada. Explico os sinais de alerta na [avaliação de pintas](/avaliacao-de-pintas/).
+- **Melanoma:** a lesão que muda de tamanho, de forma ou de cor, que tem várias cores ou bordas irregulares, deve ser examinada. Veja os [sinais de alerta de uma pinta](/avaliacao-de-pintas/).
 - **Ceratose actínica:** manchas ásperas e avermelhadas em áreas de sol, como o rosto, as orelhas e o dorso das mãos. Ela pode evoluir para câncer de pele e tem tratamento diferente.
 - **Carcinoma basocelular pigmentado:** pode ser escuro e brilhante, e às vezes sangra com facilidade.
 - **Verruga viral:** causada por vírus, mais comum nas mãos e nos pés.

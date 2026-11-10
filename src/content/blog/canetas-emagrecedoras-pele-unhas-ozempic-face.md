@@ -1,7 +1,7 @@
 ---
 title: 'Canetas emagrecedoras e a pele: cabelo, unhas e o chamado "Ozempic face"'
 description: 'O que os estudos mostram sobre semaglutida, tirzepatida e a pele: queda de cabelo, alterações nas unhas, reações na pele e a perda de volume do rosto, o chamado "Ozempic face", e o que pode ser feito.'
-answer: 'As canetas emagrecedoras, como semaglutida e tirzepatida, podem estar associadas a queda de cabelo, alterações nas unhas e reações na pele. O chamado "Ozempic face" é a perda de volume do rosto causada principalmente pelo emagrecimento rápido, e não por um efeito exclusivo do medicamento. Proteína adequada, perda de peso gradual e avaliação dermatológica ajudam a prevenir e tratar essas alterações.'
+answer: 'As canetas emagrecedoras, como semaglutida e tirzepatida, podem estar associadas a queda de cabelo, alterações nas unhas e reações na pele. O chamado "Ozempic face" é a perda de volume do rosto causada principalmente pelo emagrecimento rápido, e não por um efeito exclusivo do medicamento. Perder peso de forma gradual e comer proteína suficiente ajudam a prevenir; os tratamentos dermatológicos ajudam quando a alteração já apareceu.'
 pubDate: 2026-10-24
 reviewedDate: 2026-10-24
 category: 'Pele'
@@ -30,11 +30,11 @@ status: aprovado
 
 As canetas emagrecedoras, como a semaglutida e a tirzepatida, mudaram o tratamento da obesidade e do diabetes. Com o uso cada vez maior, chegam ao consultório dermatológico perguntas novas: "meu cabelo começou a cair", "minhas unhas estão descolando", "meu rosto envelheceu de repente".
 
-Algumas dessas mudanças têm relação com o medicamento, outras com o emagrecimento em si, e outras ainda não estão bem esclarecidas. Este artigo resume o que os estudos mostram até agora.
+Algumas dessas mudanças têm relação com o medicamento, outras com o emagrecimento em si, e outras ainda não estão bem esclarecidas.
 
-Um ponto antes de tudo: **não interrompa o tratamento por conta própria.** Os benefícios desses medicamentos para a saúde são importantes, e a maior parte das alterações de pele, cabelo e unhas pode ser tratada. Qualquer ajuste deve ser conversado com o médico que prescreveu.
+**Não interrompa o tratamento por conta própria.** Os benefícios desses medicamentos para a saúde são importantes, e a maior parte das alterações de pele, cabelo e unhas pode ser tratada. Qualquer ajuste deve ser conversado com o médico que prescreveu.
 
-## Cabelo: a alteração mais estudada
+## Caneta emagrecedora faz o cabelo cair?
 
 A queda de cabelo é a alteração mais bem documentada. Um estudo publicado em 2026 no BMJ, com mais de 12 mil adultos com diabetes, encontrou risco maior de queda de cabelo em quem iniciou essas medicações do que em quem usou outros remédios para diabetes. A associação foi com quedas que não deixam cicatriz, principalmente o [eflúvio telógeno](/blog/queda-de-cabelo-depois-de-estresse/), em que muitos fios caem de uma vez alguns meses depois de um estresse para o organismo.
 
@@ -44,7 +44,7 @@ O que parece pesar mais:
 - **Dose e tempo de uso**
 - **Alimentação com pouca proteína**, comum quando o apetite diminui muito
 
-A associação também parece variar entre os medicamentos da classe, e os estudos ainda não são totalmente concordantes sobre qual tem maior risco. Na maioria dos casos, a queda é temporária. Mas, como o emagrecimento também pode revelar ou acelerar a calvície de padrão hormonal, vale confirmar o tipo de queda com um dermatologista.
+A associação também parece variar entre os medicamentos da classe, e os estudos ainda não são totalmente concordantes sobre qual tem maior risco. Na maioria dos casos, a queda é temporária. Mas, como o emagrecimento também pode revelar ou acelerar a calvície de padrão hormonal, confirme o tipo de queda com um dermatologista.
 
 ## Unhas: um sinal novo, ainda em investigação
 
@@ -56,14 +56,14 @@ Em 2026, um grupo da Universidade de Bolonha apresentou no congresso europeu de 
 
 O descolamento da unha chamou a atenção dos pesquisadores porque, ao contrário da unha frágil, não costuma ser explicado só pela perda de peso ou pela falta de nutrientes. Isso levanta a hipótese de um efeito do próprio medicamento.
 
-**Mas os resultados precisam ser vistos com cautela:**
+Mas o estudo tem limites:
 
 - Os dados vieram de um questionário online, sem exame das unhas por dermatologista
 - Cerca de metade dos usuários já tinha problemas nas unhas antes de começar o tratamento
 - Quando os pesquisadores consideraram só as alterações que começaram depois do início das canetas, a diferença desapareceu
 - O estudo ainda é preliminar e não foi publicado em revista científica
 
-Na prática, o que esse estudo reforça é: se você usa canetas e notou mudanças nas unhas, vale examinar. Descolamento e alteração de cor também são sinais de [micose de unha](/blog/micose-de-unha-onicomicose/), psoríase e traumas, condições comuns e tratáveis, que precisam ser diferenciadas antes de atribuir a alteração ao medicamento.
+Se você usa a caneta e notou mudanças nas unhas, procure avaliação. Descolamento e alteração de cor também são sinais de [micose de unha](/blog/micose-de-unha-onicomicose/), psoríase e traumas, condições comuns e tratáveis, que precisam ser diferenciadas antes de atribuir a alteração ao medicamento.
 
 ## Pele: reações menos comuns
 
@@ -77,9 +77,9 @@ Por outro lado, há estudos pequenos mostrando melhora da psoríase em pessoas c
 
 ## O chamado "Ozempic face"
 
-O chamado "Ozempic face" é o rosto com aparência mais magra, encovada e envelhecida em quem emagrece com essas canetas. Apesar do nome, **não é um efeito exclusivo de um medicamento**: alterações parecidas acontecem depois de outras formas de emagrecimento intenso, como a cirurgia bariátrica.
+O chamado "Ozempic face" é o rosto com aparência mais magra, encovada e envelhecida em quem emagrece com essas canetas. Alterações parecidas acontecem depois de outras formas de emagrecimento intenso, como a cirurgia bariátrica.
 
-**O que acontece no rosto:**
+### O que acontece no rosto
 
 - O rosto tem compartimentos de gordura que dão sustentação e contorno. Com o emagrecimento, eles diminuem, principalmente os mais superficiais
 - Estudos com exames de imagem mostraram redução de cerca de 9% no volume do terço médio do rosto, com perda estimada de 7% a cada 10 kg perdidos
@@ -105,8 +105,15 @@ Quando a perda de volume já aconteceu, os procedimentos dermatológicos podem a
 - **Fios de PDO**, absorvíveis, para sustentação e estímulo de colágeno em casos selecionados de flacidez
 - **Tecnologias que estimulam o colágeno**, como lasers e microagulhamento, para a qualidade da pele
 
-O momento de cada tratamento faz diferença. Os bioestimuladores podem ser iniciados ainda durante o emagrecimento: como o colágeno se forma ao longo de meses, começar cedo ajuda a preservar a firmeza da pele enquanto o peso diminui. Já a reposição de volume com ácido hialurônico costuma ser planejada quando o peso estiver mais próximo do estável, para não precisar refazer o tratamento a cada etapa. Os estudos sobre esses tratamentos especificamente no chamado "Ozempic face" ainda são limitados, e o plano é sempre individual. Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que realizo.
+O momento de cada tratamento faz diferença. Costumo começar o bioestimulador ainda durante o emagrecimento: como o colágeno se forma ao longo de meses, começar cedo ajuda a preservar a firmeza da pele enquanto o peso diminui. Já o ácido hialurônico, para repor volume, deixo para quando o peso estiver mais próximo do estável, para não precisar refazer o tratamento a cada etapa. Os estudos sobre esses tratamentos especificamente no chamado "Ozempic face" ainda são limitados.
+
+## Nem toda alteração é causada pela caneta
+
+- **Queda de cabelo:** pode ser a calvície de padrão hormonal, que o emagrecimento revelou, a falta de ferro ou de proteína, ou uma alteração da tireoide. Explico a queda que aparece meses depois de um emagrecimento rápido no artigo sobre [queda de cabelo depois de um período de estresse](/blog/queda-de-cabelo-depois-de-estresse/).
+- **Unhas:** descolamento e mudança de cor também aparecem na micose de unha, na psoríase e depois de machucados repetidos.
 
 ## Quando procurar um dermatologista
 
 Procure avaliação se você usa ou vai começar a usar canetas emagrecedoras e notou queda de cabelo, alterações nas unhas, reações na pele ou mudanças no rosto que incomodam. Na consulta, avalio o que pode estar relacionado ao medicamento, ao emagrecimento ou a outras causas, reviso a alimentação e defino o tratamento junto com o acompanhamento do seu médico.
+
+Veja os procedimentos de [dermatologia estética](/dermatologia-estetica/) que faço para o rosto.

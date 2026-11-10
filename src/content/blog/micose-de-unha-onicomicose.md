@@ -34,7 +34,7 @@ status: aprovado
 
 Unha amarelada, grossa, quebradiça ou descolando da pele. A primeira suspeita costuma ser micose, e muita gente já chega ao consultório depois de meses passando esmalte antifúngico comprado na farmácia, sem melhora.
 
-A micose de unha, ou onicomicose, é de fato a doença de unha mais comum. Mas não é a única que deixa a unha com esse aspecto. E é justamente aí que muitos tratamentos falham.
+A micose de unha, ou onicomicose, é a doença de unha mais comum. Mas outras doenças deixam a unha com o mesmo aspecto, e muitos tratamentos falham por isso.
 
 ## O que é a onicomicose
 
@@ -47,7 +47,7 @@ Os sinais mais comuns são:
 - Descolamento da unha a partir da ponta
 - Unha frágil, que esfarela ou quebra com facilidade
 
-Não é só uma questão estética. Sem tratamento, a unha pode ficar dolorosa, atrapalhar o uso de sapatos e servir de porta de entrada para outras infecções, o que preocupa especialmente quem tem diabetes ou problemas de circulação.
+Sem tratamento, a unha pode ficar dolorosa, atrapalhar o uso de sapatos e facilitar a entrada de bactérias, o que preocupa especialmente quem tem diabetes ou problemas de circulação.
 
 ## Nem toda unha grossa é micose
 
@@ -59,7 +59,7 @@ Isso evita meses de tratamento para uma doença que a pessoa não tem.
 
 ## Por que a automedicação costuma falhar
 
-- **O diagnóstico pode estar errado**, como vimos acima.
+- **O diagnóstico pode estar errado**: a unha pode não ter fungo.
 - **O produto não chega ao fungo.** A unha é uma barreira espessa, e tratamentos de superfície funcionam melhor em casos leves, que atingem só a ponta da unha.
 - **O tratamento é interrompido cedo.** A unha do pé cresce devagar, e a melhora visível demora meses. Muita gente desiste antes.
 - **O pé de atleta não é tratado junto**, e o fungo volta a infectar a unha.
@@ -70,11 +70,11 @@ O tratamento é escolhido de acordo com a quantidade de unhas afetadas, a extens
 
 - **Tratamento tópico** (esmaltes e soluções antifúngicas): indicado para casos leves a moderados, ou quando o tratamento oral não é possível. Tem poucos efeitos colaterais, mas exige uso diário por muitos meses.
 - **Tratamento oral**: é considerado o tratamento de referência nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
-- **Tratamento combinado**: unir tratamento oral e tópico aumenta as chances de cura em vários casos.
+- **Tratamento combinado**: associar o oral ao tópico melhora os resultados em parte dos casos.
 - **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir. Quando necessário, faço o desbaste no próprio consultório.
-- **Laser**: na Prime, utilizo o Lunula, um laser de baixa intensidade que não aquece a unha e costuma ser bem tolerado. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. O protocolo costuma ter pelo menos 8 sessões, uma por semana. O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que possível, porém, associo o laser aos antifúngicos: em estudos com outros tipos de laser, a combinação com antifúngicos tópicos teve resultados melhores do que o antifúngico tópico sozinho.
+- **Laser**: na Prime, uso o Lunula, um laser de baixa intensidade que não aquece a unha e costuma ser bem tolerado. Em estudos iniciais, ele aumentou a área de unha saudável em boa parte das unhas tratadas, e foi liberado pela FDA, a agência reguladora dos Estados Unidos, para esse fim. O protocolo costuma ter pelo menos 8 sessões, uma por semana. O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que possível, porém, associo o laser aos antifúngicos: em estudos com outros tipos de laser, a combinação com antifúngicos tópicos teve resultados melhores do que o antifúngico tópico sozinho.
 
-Um ponto de atenção: já existem fungos resistentes a alguns antifúngicos em vários países. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
+Em vários países, já existem fungos resistentes a alguns antifúngicos. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
 
 ## Quanto tempo leva
 
