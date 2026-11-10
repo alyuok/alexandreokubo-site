@@ -56,7 +56,8 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - [ ] Próximos temas: toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas de micose de unha e unha encravada: textos em `docs/anuncios-google-ads.md` (07/11) e prompt de criação e ativação em
-  `docs/prompt-campanhas-unha-google-ads-2026-11-10.md` (10/11). Ele confirma orçamento, lance e raio (sugestão do Claude), roda o prompt e manda o relatório.
+  `docs/prompt-campanhas-unha-google-ads-2026-11-10.md`. Textos e valores (R$ 20/dia cada, Maximizar cliques com CPC máx. R$ 6, raios) aprovados por ele em 10/11.
+  Falta ele rodar o prompt e mandar o relatório. Em 7 dias, revisar os termos de pesquisa; em 14, comparar o custo por conversão com o do cisto.
 
 ### Depois que ele enviar a informação
 - [ ] Conferir no Google Ads, a partir de 10/11, se a "Clique telefone" passou de "Inativo" para registrando (rótulo publicado em 07/11).

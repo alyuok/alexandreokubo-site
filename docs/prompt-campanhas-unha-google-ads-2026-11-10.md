@@ -3,13 +3,13 @@
 Para colar no Claude que opera a conta do Google Ads "Prime Dermato" (375-279-5144).
 Textos: `docs/anuncios-google-ads.md` (rascunho de 07/11, com as decisões dele). Colar este prompt vale como "aprovado" desses textos.
 
-Antes de colar, confirme ou troque os valores da seção VALORES (orçamento, lance e raio). Eles são sugestão do Claude, não decisão dele.
+Textos e valores da seção VALORES aprovados por ele em 10/11.
 URLs conferidas no ar em 10/11 (todas 200): `/micose-de-unha/`, `/unha-encravada/`, `/sobre/`, `/onde-atendo/`, `/blog/micose-de-unha-onicomicose/`, `/blog/unha-encravada/`.
 
 ```text
 Você vai verificar e, se tudo estiver certo, criar e ativar duas campanhas de Pesquisa na conta do Google Ads "Prime Dermato" (ID 375-279-5144) do Dr. Alexandre Okubo, dermatologista (CRM-SP 90.743, RQE 30.051). Ele autorizou o que está abaixo. Responda em português.
 
-VALORES (definidos por ele antes de colar)
+VALORES (aprovados por ele)
 - Orçamento diário: Micose de unha R$ 20,00. Unha encravada R$ 20,00.
 - Lance: Maximizar cliques, com limite de CPC máximo de R$ 6,00, nas duas.
 - Região da Micose de unha: raio de 15 km em torno da R. Borges Lagoa, 1065, Vila Clementino, São Paulo, SP.
