@@ -45,7 +45,8 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 
 ## Do lado do Claude (próximas sessões)
 
-### Regra permanente
+### Regras permanentes
+- **Foco em SEO e GEO (regra fixa, muito importante, pedido dele em 10/11):** todo artigo e página existe para ser encontrado no Google e citado por ferramentas de IA. Qualquer texto novo ou revisão de linguagem preserva isso: H1 e title com o termo que as pessoas buscam (e o local, quando couber); `answer` direto no topo; subtítulos no formato das perguntas reais; nome popular ao lado do termo técnico; links internos com âncora descritiva; números com fonte. Nunca trocar um termo buscado por sinônimo só para evitar repetição, nem cortar a resposta direta para deixar o texto mais "literário". Também no `CLAUDE.md`.
 - Ao terminar qualquer artigo ou página, rodar um agente separado para revisar a linguagem com `docs/glossario-cliches-ia.md` (não aparentar IA) antes de mandar a prévia. Pedido dele em 09/11; também no `CLAUDE.md`.
 
 ### Auditoria de 29/10 (publicada em 29/10)

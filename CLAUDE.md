@@ -2,6 +2,7 @@
 
 Dermatologista, CRM-SP 90.743, RQE 30.051. Diretor técnico da Prime Dermatologia e Saúde Emocional.
 Objetivo do site: SEO, GEO e AEO, atrair pacientes particulares e construir autoridade.
+**Foco em SEO e GEO (regra fixa, muito importante, pedido dele em 10/11):** todo artigo e página existe para ser encontrado no Google e citado por ferramentas de IA. Qualquer texto novo ou revisão de linguagem preserva isso: H1 e title com o termo que as pessoas buscam (e o local, quando couber); `answer` direto no topo; subtítulos no formato das perguntas reais; nome popular ao lado do termo técnico; links internos com âncora descritiva; números com fonte. Nunca trocar um termo buscado por sinônimo só para evitar repetição, nem cortar a resposta direta para deixar o texto mais "literário".
 Astro 5 estático, GitHub alyuok/alexandreokubo-site, Cloudflare Pages (`npm run build`, saída `dist`, Node 22).
 Pendências abertas: `PENDENCIAS.md` (atualize ao concluir ou criar uma).
 
@@ -26,7 +27,7 @@ Nada vai para produção sem o "aprovado" explícito dele. Para pequenas trocas 
 ## Fluxo de um artigo
 1. Pesquise no PubMed (ver "Fontes") e escreva `src/content/blog/<slug>.md` com `status: rascunho`.
 2. Frontmatter: `title`, `description`, `answer` (resposta direta de 2 a 3 frases, AEO), `pubDate`, `reviewedDate`,
-   `category` (`'Pele'` ou `'Estilo de vida e pele'`), `about` (termos médicos), `sources` (`label` + `url`), `status`.
+   `category` (`'Pele'`, `'Unhas'`, `'Cabelos'` ou `'Estilo de vida e pele'`; as duas do meio foram incluídas em 10/11), `about` (termos médicos), `sources` (`label` + `url`), `status`.
 3. Rode `PREVIEW_DRAFTS=1 npm run build && npm run check`. O `check` aponta links internos quebrados e páginas fora do sitemap.
 4. Faça o commit e o push para `main` e `rascunhos`. O rascunho fica escondido em produção.
 5. Confirme a prévia: `https://rascunhos.alexandreokubo-site.pages.dev/blog/<slug>/`. A produção deve dar 404.
