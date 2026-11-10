@@ -62,7 +62,7 @@ Algumas orientações:
 Os tratamentos tópicos continuam sendo a base do clareamento:
 
 - **Hidroquinona**: é considerada o tratamento tópico de referência. Costuma ser usada em ciclos, com acompanhamento, porque o uso prolongado e sem orientação pode causar efeitos indesejados, como escurecimento paradoxal da pele.
-- **Combinações**: a associação de hidroquinona com tretinoína e um corticoide suave, por tempo limitado, teve um dos melhores resultados entre os tratamentos tópicos nos estudos.
+- **Combinações**: a associação de hidroquinona com tretinoína e um corticoide suave, por tempo limitado, aparece nos estudos entre os tratamentos tópicos de referência.
 - **Outros clareadores**: ácido azelaico, ácido kójico, niacinamida, ácido tranexâmico tópico e outros ativos são úteis principalmente na manutenção, ou para quem não tolera a hidroquinona.
 
 ## Ácido tranexâmico
