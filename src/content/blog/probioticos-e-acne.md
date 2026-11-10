@@ -63,7 +63,7 @@ Dois estudos testaram o probiótico como complemento do antibiótico oral, que �
 
 - **Efeito modesto:** uma meta-análise de 2025 que incluiu só estudos duplo-cegos (em que nem o paciente nem o médico sabem quem tomou o quê) encontrou uma redução modesta das lesões inflamatórias. Mas eram apenas 3 estudos, com 231 pacientes, e a certeza da evidência foi classificada como baixa a moderada.
 - **Leva tempo:** outra meta-análise de 2025, com 9 estudos e 623 pacientes, encontrou pouca diferença em 4 semanas. Em 12 semanas, o grupo do probiótico teve acne menos grave e menos lesões.
-- **Estudos pequenos:** uma revisão americana de 2023 sobre suplementos para acne concluiu que os probióticos podem ajudar, mas lembrou que muitos estudos eram pequenos.
+- **Estudos pequenos:** uma revisão americana de 2023 sobre suplementos para acne considerou que os probióticos podem ter algum papel, mas lembrou que muitos estudos eram pequenos.
 
 A diretriz da Academia Americana de Dermatologia, de 2024, reúne 18 recomendações para o tratamento da acne. Os probióticos não estão entre elas.
 

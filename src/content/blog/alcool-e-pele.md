@@ -59,19 +59,19 @@ Muitos pacientes contam que o vinho tinto é o que mais avermelha o rosto durant
 
 ## Câncer de pele
 
-Uma meta-análise de 2017 reuniu 13 estudos com mais de 95 mil casos de câncer de pele não melanoma. A cada 10 g de álcool por dia, menos de uma dose, o risco de carcinoma basocelular subiu 7% e o de carcinoma espinocelular, 11%.
+Uma metanálise de 2017 reuniu 13 estudos com mais de 95 mil casos de câncer de pele não melanoma. A cada 10 g de álcool por dia, menos de uma dose, o risco de carcinoma basocelular subiu 7% e o de carcinoma espinocelular, 11%.
 
 É um aumento pequeno, que cresce com a quantidade, e os próprios autores alertam que outros fatores podem explicar parte dele. A prevenção principal continua a mesma: protetor solar e exame periódico da pele.
 
 ## Psoríase
 
-Uma meta-análise de 2026, com 30 estudos, encontrou associação entre álcool e risco de psoríase. A associação foi menor que a do cigarro e perdeu força depois de um ajuste para o viés de publicação, a tendência de estudos sem resultado não serem publicados. Os autores consideraram a evidência sobre álcool menos sólida.
+Uma metanálise de 2026, com 30 estudos, encontrou associação entre álcool e risco de psoríase. A associação foi menor que a do cigarro e perdeu força depois de um ajuste para o viés de publicação, a tendência de estudos sem resultado não serem publicados. Os autores consideraram a evidência sobre álcool menos sólida.
 
 Para quem já tem psoríase, o consumo de álcool entra na conversa sobre o tratamento, assim como o cigarro, que explico no artigo sobre [cigarro e pele](/blog/cigarro-e-pele/).
 
 ## Queda de cabelo
 
-As duas meta-análises mais recentes sobre álcool e calvície de padrão hormonal (alopecia androgenética) chegaram a resultados diferentes:
+As duas metanálises mais recentes sobre álcool e calvície de padrão hormonal (alopecia androgenética) chegaram a resultados diferentes:
 
 - **Metanálise de 2024:** com 6 estudos, não encontrou associação significativa entre beber e ter calvície.
 - **Metanálise de 2026:** com 31 estudos sobre vários fatores de risco, associou o álcool à piora da calvície.

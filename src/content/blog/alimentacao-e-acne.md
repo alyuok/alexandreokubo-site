@@ -36,7 +36,7 @@ Não sozinha. A acne depende principalmente de fatores hormonais, genéticos e d
 
 A diretriz da Academia Americana de Dermatologia, de 2024, reconhece que os estudos sobre dieta e acne ainda são conflitantes e não faz uma recomendação formal de dieta para tratar a acne. Mas há alguns padrões que aparecem de forma consistente.
 
-## Açúcar piora a acne?
+## Açúcar e alimentos de alto índice glicêmico pioram a acne?
 
 Alimentos de alto índice glicêmico são os que elevam o açúcar no sangue rapidamente: doces, refrigerantes e sucos adoçados, pão branco, biscoitos e outros produtos ultraprocessados. Esse pico de açúcar aumenta a insulina e um hormônio chamado IGF-1, que estimulam a produção de sebo e o entupimento dos poros.
 
@@ -80,7 +80,7 @@ Cuidado também com dietas muito restritivas, principalmente em adolescentes. El
 
 ## Nem toda piora da acne vem da comida
 
-- **Hormônios:** a acne piora antes da menstruação e na síndrome dos ovários policísticos.
+- **Hormônios:** a acne pode piorar antes da menstruação e é mais comum na síndrome dos ovários policísticos.
 - **Cosméticos e protetores oleosos:** podem entupir os poros.
 - **Remédios:** corticoide e anabolizantes podem causar ou piorar a acne.
 - **Sono e estresse:** em fases difíceis, muita gente nota mais espinhas.

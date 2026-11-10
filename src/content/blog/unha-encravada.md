@@ -71,11 +71,11 @@ Quem tem **diabetes, má circulação ou imunidade baixa** não deve tentar trat
 
 ## Como é o tratamento no consultório
 
-### Casos leves
+### Como tratar a unha encravada leve?
 
 Há técnicas simples que afastam a borda da unha da pele e aliviam a dor rapidamente, como colocar uma pequena mecha de algodão ou um tubinho plástico sob a borda que encrava. Também trato a inflamação e, quando presentes, a micose e o suor excessivo.
 
-### Casos moderados a graves ou que voltam
+### Quando a unha encravada precisa de cirurgia (cantoplastia)?
 
 O tratamento considerado de referência é a cirurgia da unha encravada, conhecida popularmente como cantoplastia, feita no consultório com anestesia local. Realizo esse procedimento na Prime Dermatologia, em São Paulo, e na Clínica Portugal, em Santo André:
 
@@ -108,7 +108,8 @@ Em outros países, a raiz da unha costuma ser tratada com fenol, uma substância
 
 - **Paroníquia:** inflamação da pele em volta da unha, comum em quem mexe na cutícula ou fica muito com as mãos ou os pés molhados.
 - **Micose de unha:** a unha grossa pode apertar a pele do canto e doer.
-- **Verruga perto da unha:** endurece a pele do canto e pode ser confundida com granuloma.
+- **Verruga perto da unha:** endurece a pele do canto e pode ser confundida com unha encravada.
+- **Lesão que não cicatriza:** uma "carne esponjosa" que sangra à toa ou não melhora precisa de biópsia, porque alguns tumores de pele podem imitá-la.
 - **Exostose subungueal:** um pequeno crescimento de osso embaixo da unha, que a levanta e dói ao calçar.
 
 ## Quando procurar um dermatologista

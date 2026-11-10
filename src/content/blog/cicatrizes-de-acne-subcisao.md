@@ -22,7 +22,7 @@ status: aprovado
 
 A acne passou, mas as marcas ficaram. Para muita gente, as cicatrizes incomodam tanto quanto as espinhas incomodavam, e é comum ouvir no consultório que já foram feitos vários tratamentos sem a melhora esperada.
 
-Em boa parte desses casos, faltou escolher a técnica certa: cada tipo de cicatriz responde a técnicas diferentes.
+Em boa parte desses casos, a técnica não combinava com o tipo de cicatriz: cada tipo responde a um tratamento diferente.
 
 ## Nem toda marca de acne é cicatriz
 

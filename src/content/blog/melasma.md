@@ -40,7 +40,7 @@ O melasma é uma condição crônica em que as células que produzem pigmento (m
 
 ## Por que o melasma volta
 
-No melasma, a pele em volta da mancha também muda, inclusive nos vasos e nas camadas mais profundas, que mantêm os melanócitos estimulados. Por isso, mesmo depois de clarear, as manchas podem voltar quando a pele é exposta ao sol, ao calor ou a mudanças hormonais.
+No melasma, a pele da mancha também muda por baixo, inclusive nos vasos e nas camadas mais profundas, que mantêm os melanócitos estimulados. Por isso, mesmo depois de clarear, as manchas podem voltar quando a pele é exposta ao sol, ao calor ou a mudanças hormonais.
 
 O melasma não tem cura definitiva, mas pode ser controlado. O tratamento tem uma fase de clareamento e uma fase de manutenção, que dura enquanto a tendência ao melasma existir.
 
@@ -72,13 +72,12 @@ A via oral não é indicada para todos. Pessoas com histórico de trombose ou co
 
 ## Procedimentos: peelings, microagulhamento e lasers
 
-Os procedimentos podem acelerar e aumentar o clareamento, mas no melasma exigem cuidado na escolha do aparelho e da potência.
+Os procedimentos podem acelerar e aumentar o clareamento, mas no melasma exigem cuidado na escolha do aparelho e da potência, porque um procedimento forte demais pode inflamar a pele e escurecer as manchas.
 
 - **Peelings superficiais**: ajudam a renovar a camada de pele com pigmento, como complemento aos cremes.
 - **Microagulhamento**: associado a clareadores ou ao ácido tranexâmico aplicado na pele, melhorou as manchas em estudos. Na Prime, uso o [microagulhamento robótico](https://primedermatologia.com/tratamentos/microagulhamento-robotico/), que controla a profundidade e a distribuição das microperfurações.
 - **Laser Nd:YAG no modo *toning***: é um modo de baixa energia, específico para melasma, que age sobre o pigmento com pouca irritação da pele. Uso sempre associado ao tratamento tópico. Veja como funciona o [laser Nd:YAG na Prime](https://primedermatologia.com/tratamentos/laser-nd-yag/).
 - **Luz intensa pulsada**: é útil para outras manchas, como as de sol, mas evito no melasma, pelo risco de piora.
-
 
 Em uma análise que comparou 39 estudos com lasers, os melhores resultados vieram das combinações de laser com cremes clareadores.
 

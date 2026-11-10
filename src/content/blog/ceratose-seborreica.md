@@ -24,7 +24,7 @@ status: aprovado
 
 ## O que é a ceratose seborreica
 
-A ceratose seborreica é a lesão benigna mais comum da pele. Ela é formada por células da camada mais superficial da pele (a epiderme), que se multiplicam e se empilham. A ceratose não é causada por vírus, por isso não passa de uma pessoa para outra.
+A ceratose seborreica é a lesão benigna mais comum da pele. Ela é formada por células da camada mais superficial da pele (a epiderme), que se multiplicam e se empilham. Não é verruga: não é causada por vírus e, por isso, não passa de uma pessoa para outra.
 
 ### Como reconhecer
 
@@ -85,7 +85,7 @@ Os tratamentos com cremes e soluções ainda têm efeito limitado. Uma solução
 
 Os efeitos colaterais possíveis de todos os métodos são mancha clara ou escura no local, cicatriz e volta da lesão.
 
-A criocirurgia e o plasma não deixam material para o microscópio. Por isso, quando há dúvida no diagnóstico, retiro a lesão ou faço uma biópsia e envio para exame antes de tratar.
+A criocirurgia, a eletrocoagulação e o plasma não deixam material para o microscópio. Por isso, quando há dúvida no diagnóstico, retiro a lesão ou faço uma biópsia e envio para exame antes de tratar.
 
 ## Nem toda mancha escura e áspera é ceratose seborreica
 

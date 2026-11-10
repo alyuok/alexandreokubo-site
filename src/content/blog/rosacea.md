@@ -174,6 +174,6 @@ Outras condições também deixam o rosto vermelho, como a dermatite seborreica 
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se você fica vermelho com facilidade, tem vermelhidão que não passa, vasinhos no rosto, bolinhas que não melhoram com produtos para acne, ardência com cosméticos, ou se já usou corticoide no rosto e a pele piorou. Na consulta, confirmo o diagnóstico e começamos juntos o diário de gatilhos.
+Procure avaliação se você fica vermelho com facilidade, tem vermelhidão que não passa, vasinhos no rosto, bolinhas que não melhoram com produtos para acne, ardência com cosméticos, ou se já usou corticoide no rosto e a pele piorou. Na consulta, confirmo o diagnóstico, ajudo a identificar seus gatilhos e monto o tratamento conforme os sinais.
 
 Veja como trato a rosácea e outras condições na [dermatologia clínica](/dermatologia-clinica/).

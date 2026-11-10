@@ -63,7 +63,7 @@ Uma revisão de 2023 analisou 49 estudos, com 1.329 pacientes. As opções descr
 - **Ácido tricloroacético:** um ácido aplicado na placa, em concentração alta, por um médico. Em uma série canadense de 77 pacientes tratados com a concentração de 80%, 97% tiveram melhora, mas cerca de 1 em cada 4 relatou que a placa voltou.
 - **Eletrocirurgia (corrente elétrica), plasma e criocirurgia (congelamento):** outras formas de remover as camadas superficiais da placa, usadas em lesões menores.
 
-A pele da pálpebra é fina, e com todos os métodos, o efeito colateral mais comum foi a mudança de cor da pele no local (mais clara ou mais escura). Nas placas perto do canto do olho, retirar pele demais pode puxar a pálpebra para baixo. Por isso, em placas grandes, o tratamento pode ser feito em etapas.
+A pele da pálpebra é fina, e o efeito colateral mais comum, em todos os métodos, foi a mudança de cor da pele no local (mais clara ou mais escura). Nas placas perto do canto do olho, retirar pele demais pode puxar a pálpebra para baixo. Por isso, em placas grandes, o tratamento pode ser feito em etapas.
 
 No consultório, uso o plasma e o ácido tricloroacético. A escolha entre os dois depende da placa.
 

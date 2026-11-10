@@ -40,7 +40,7 @@ O fio de cabelo e a unha são formados principalmente por queratina, uma proteí
 
 Quando a alimentação não cobre o que o corpo precisa, ele manda o que tem para os órgãos vitais. Cabelos e unhas ficam para depois. O resultado pode ser queda difusa, fios mais finos e unhas que quebram e descamam com facilidade.
 
-## Proteína: a parte que mais falta no prato
+## Falta de proteína causa queda de cabelo?
 
 Muita gente acha que come proteína suficiente porque come "de tudo". Na prática, a quantidade costuma ficar abaixo do necessário, principalmente em quem:
 
@@ -50,7 +50,7 @@ Muita gente acha que come proteína suficiente porque come "de tudo". Na prátic
 - Tem mais de 65 anos, idade em que o corpo aproveita pior a proteína e passa a precisar de mais
 - Treina com frequência e não ajustou a alimentação
 
-### Quanta proteína comer por dia
+### Quanta proteína preciso comer por dia?
 
 A referência geral para adultos é de pelo menos 0,8 g de proteína por quilo de peso por dia. Para pessoas acima de 65 anos, especialistas recomendam de 1,0 a 1,2 g por quilo, e mais para quem pratica atividade física. Para uma mulher de 60 kg, isso significa pelo menos 48 g por dia, ou de 60 a 72 g depois dos 65 anos.
 
@@ -74,7 +74,7 @@ Distribuir a proteína entre as refeições, em vez de concentrá-la no jantar, 
 A biotina, uma vitamina do complexo B, está presente na maioria dos suplementos para cabelo e unha. O que os estudos mostram depende do problema:
 
 - **Unhas quebradiças**: é uma das opções mais estudadas. Em estudos pequenos, a biotina aumentou a espessura da unha e reduziu as fissuras em parte dos pacientes, com uso por vários meses. Faltam estudos maiores, mas, por ter poucos efeitos colaterais, pode ser uma opção associada aos cuidados com as unhas.
-- **Queda de cabelo**: o benefício está bem estabelecido quando há deficiência de biotina, que é incomum, mas pode ocorrer, por exemplo, com o uso de alguns anticonvulsivantes, como o valproato, e com o consumo excessivo de álcool. Sem deficiência, a biotina isolada não tem efeito comprovado, e por isso, quando a uso, ela entra junto com outras medidas.
+- **Queda de cabelo**: o benefício está bem estabelecido quando há deficiência de biotina, que é incomum, mas pode ocorrer, por exemplo, com o uso de alguns anticonvulsivantes, como o valproato, e com o consumo excessivo de álcool. Sem deficiência, a biotina isolada não tem efeito comprovado, e por isso costuma entrar junto com outras medidas.
 
 **Atenção aos exames de sangue.** A biotina pode alterar o resultado de vários exames, como os de tireoide e alguns exames do coração, levando a resultados falsamente alterados. Como ela está em muitos suplementos, às vezes a pessoa nem sabe que está tomando. Se você usa suplemento para cabelo, pele ou unha, confira o rótulo, avise o médico e suspenda o uso 3 dias antes de colher exames de sangue, salvo outra orientação do seu médico.
 
@@ -86,7 +86,7 @@ Não existe um "check-up do cabelo" que sirva para todo mundo. Os exames são es
 - **Vitamina D, zinco e vitamina B12**, quando há fatores de risco, como cirurgia bariátrica, alimentação vegana ou uso de alguns medicamentos
 - **Tireoide e fase hormonal**, porque alterações da tireoide e a [menopausa](/blog/menopausa-e-pele/) também mudam cabelos e unhas
 
-Se algum exame vier baixo, defino a dose e por quanto tempo repor.
+Se faltar algum nutriente, defino a dose e por quanto tempo repor.
 
 ## E as unhas?
 

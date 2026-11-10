@@ -56,7 +56,7 @@ Em parte, sim. Uma revisão de estudos com mais de 1.500 mulheres mostrou que a 
 
 Mesmo assim, as diretrizes atuais não indicam a reposição hormonal só para tratar a pele ou os cabelos. Ela é indicada principalmente para os fogachos (ondas de calor), para os sintomas genitais e urinários da menopausa e para a prevenção da perda óssea, e tem riscos que dependem da idade, do tempo desde a menopausa e do histórico de cada mulher. Essa decisão é feita com o ginecologista.
 
-Se você já usa reposição hormonal por indicação do seu ginecologista, ótimo: a pele também tende a se beneficiar. Se não usa, os tratamentos abaixo também são uma opção.
+Se você já usa reposição hormonal por indicação do seu ginecologista, ótimo: a pele também tende a se beneficiar. Se não usa, há outras opções, descritas abaixo.
 
 Cremes de estrogênio para o rosto ainda são pouco estudados para essa finalidade e não devem ser usados por conta própria.
 
@@ -66,7 +66,7 @@ O plano é individual e costuma juntar:
 
 - **Cuidados diários**: protetor solar todos os dias, hidratante adequado ao novo tipo de pele e sabonetes suaves.
 - **Tratamentos tópicos com prescrição**: os retinoides, derivados da vitamina A, estimulam a produção de colágeno e têm boa evidência no tratamento do envelhecimento da pele. A concentração e a forma de uso são ajustadas para não irritar a pele mais sensível dessa fase.
-- **Procedimentos no consultório**: bioestimuladores de colágeno (ácido poli-L-láctico, hidroxiapatita de cálcio e policaprolactona), fios de PDO (polidioxanona), ácido hialurônico e toxina botulínica podem ser indicados para flacidez, perda de volume e rugas. Na Prime, também uso aparelhos como luz intensa pulsada, laser Nd:YAG 1064 nm, laser de érbio (Er:YAG) ablativo, plasma e microagulhamento robótico, indicadas conforme o objetivo, como manchas, vasinhos, textura da pele, rugas finas e flacidez leve. A escolha depende do que mais incomoda, do exame da pele e do histórico de saúde.
+- **Procedimentos no consultório**: bioestimuladores de colágeno (ácido poli-L-láctico, hidroxiapatita de cálcio e policaprolactona), fios de PDO (polidioxanona), ácido hialurônico e toxina botulínica podem ser indicados para flacidez, perda de volume e rugas. Na Prime, também uso aparelhos como luz intensa pulsada, laser Nd:YAG 1064 nm, laser de érbio (Er:YAG) ablativo, plasma e microagulhamento robótico, indicados conforme o objetivo, como manchas, vasinhos, textura da pele, rugas finas e flacidez leve. A escolha depende do que mais incomoda, do exame da pele e do histórico de saúde.
 
 Para os cabelos, o tratamento começa pelo diagnóstico da causa da queda. A partir daí, há medicamentos tópicos e orais e procedimentos que ajudam a controlar o afinamento.
 

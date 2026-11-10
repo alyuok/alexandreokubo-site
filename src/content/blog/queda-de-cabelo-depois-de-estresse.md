@@ -30,13 +30,13 @@ Um evento forte para o organismo pode fazer muitos fios entrarem juntos na fase 
 
 ## Gatilhos mais comuns
 
-- **Estresse emocional intenso**
-- **Febre alta ou infecções**, incluindo COVID-19
-- **Cirurgias e internações**
-- **Parto**
-- **Perda de peso rápida**, seja por dietas muito restritivas, cirurgia bariátrica ou canetas emagrecedoras (veja abaixo)
-- **Medicamentos**: início, troca ou suspensão de alguns remédios (veja abaixo)
-- **Tireoide e nutrientes:** alterações da tireoide e deficiências, como a de ferro
+- Estresse emocional intenso
+- Febre alta ou infecções, incluindo COVID-19
+- Cirurgias e internações
+- Parto
+- Perda de peso rápida, por dietas muito restritivas, cirurgia bariátrica ou canetas emagrecedoras (veja abaixo)
+- Medicamentos: início, troca ou suspensão de alguns remédios (veja abaixo)
+- Alterações da tireoide e deficiências de nutrientes, como a de ferro
 
 ## Medicamentos: uma causa frequente e muitas vezes esquecida
 
@@ -78,7 +78,7 @@ O tratamento começa por identificar e corrigir a causa. Em alguns casos, uso tr
 
 ## Nem toda queda de cabelo é eflúvio telógeno
 
-- **Alopecia androgenética:** os fios afinam aos poucos, nas entradas e no topo da cabeça nos homens e no topo, com a risca mais larga, nas mulheres.
+- **Alopecia androgenética:** os fios afinam aos poucos. Nos homens, nas entradas e no topo da cabeça; nas mulheres, no topo, com a risca cada vez mais larga.
 - **Alopecia areata:** falhas redondas e lisas, sem cabelo, que aparecem de repente.
 - **Doenças do couro cabeludo:** dermatite seborreica, psoríase ou micose, com coceira, descamação ou vermelhidão.
 

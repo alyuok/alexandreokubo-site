@@ -34,7 +34,7 @@ status: aprovado
 
 A psoríase nas unhas (psoríase ungueal) pode causar furinhos, manchas amareladas, espessamento e descolamento da unha. Essas alterações costumam ser confundidas com micose, mas as duas doenças têm causas e tratamentos diferentes. Em algumas pessoas, a psoríase aparece só nas unhas, sem nenhuma placa na pele.
 
-A psoríase nas unhas também se associa à artrite psoriásica. Por isso, na consulta, examino além das unhas.
+A psoríase nas unhas também se associa à artrite psoriásica. Por isso, na consulta, examino também a pele, o couro cabeludo e as articulações.
 
 ## O que é a psoríase nas unhas?
 
@@ -45,7 +45,7 @@ Na unha, a inflamação pode estar em dois lugares:
 - **Matriz:** a raiz da unha, que fabrica a parte dura.
 - **Leito:** a pele embaixo da unha, onde ela fica grudada.
 
-Cerca de metade das pessoas com psoríase na pele tem alteração nas unhas em algum momento, e entre quem tem artrite psoriásica a proporção é maior. Numa parte menor dos casos, as unhas são o único sinal da doença, e isso atrasa o diagnóstico.
+Cerca de metade das pessoas com psoríase na pele tem alteração nas unhas em algum momento, e entre quem tem artrite psoriásica a proporção é maior. Numa parte menor dos casos, as unhas são o único sinal da doença, o que pode atrasar o diagnóstico.
 
 ## Quais são os sintomas da psoríase nas unhas?
 
@@ -75,7 +75,7 @@ Por isso, só olhar nem sempre basta. Na dúvida, peço o exame que pesquisa fun
 
 Pode. Quem tem psoríase nas unhas tem mais chance de ter artrite psoriásica, uma inflamação das articulações e dos tendões. Isso não quer dizer que toda pessoa com a unha afetada vai ter artrite.
 
-A raiz da unha fica colada à articulação da ponta do dedo e aos tendões que se prendem ali, e a inflamação pode atingir as duas regiões. Na consulta, pergunto sobre:
+A raiz da unha fica muito perto da articulação da ponta do dedo e dos tendões que se prendem ali, e a inflamação pode atingir as duas regiões. Na consulta, pergunto sobre:
 
 - **Articulações:** dor ou inchaço.
 - **Rigidez de manhã:** que melhora com o movimento.
@@ -98,7 +98,7 @@ Para acompanhar a evolução, existe uma escala própria, o NAPSI (índice de gr
 
 ## Quais são os tratamentos para psoríase nas unhas?
 
-A escolha depende de quantas unhas estão afetadas, de qual parte da unha está inflamada e de haver psoríase na pele ou nas articulações. A psoríase não tem cura definitiva, mas é controlável: o tratamento pode controlar a inflamação e melhorar o aspecto e a função das unhas.
+A escolha depende de quantas unhas estão afetadas, de qual parte da unha está inflamada e de haver psoríase na pele ou nas articulações. A psoríase não tem cura definitiva, mas é controlável: o tratamento reduz a inflamação e pode melhorar o aspecto e a função das unhas.
 
 ### 1. Tratamentos locais
 
@@ -118,13 +118,13 @@ A escolha leva em conta as outras doenças, as contraindicações e os tratament
 
 Alguns lasers, como o laser de corante pulsado, o Nd:YAG e o laser de CO₂ fracionado, foram estudados na psoríase ungueal, com sinais de benefício, mas os estudos ainda têm limitações.
 
-Na Prime Dermatologia, uso o Lunula, um laser de baixa intensidade que não aquece a unha, usado sobretudo na micose de unha. Na psoríase ungueal, a evidência para esse aparelho ainda é insuficiente. Por isso, só o indico como complemento, nunca no lugar dos tratamentos convencionais, e explico essa limitação na consulta.
+Na Prime Dermatologia, uso o Lunula, um laser de baixa intensidade que não aquece a unha, indicado sobretudo na micose de unha. Na psoríase ungueal, a evidência para esse aparelho ainda é insuficiente. Por isso, só o indico em casos selecionados, como complemento, nunca no lugar dos tratamentos convencionais, e explico essa limitação na consulta.
 
 ## Quanto tempo demora para a psoríase ungueal melhorar?
 
 A unha cresce devagar. Mesmo quando a inflamação está controlada, a parte danificada só sai à medida que a unha nova cresce. Nas mãos, a unha cresce em média cerca de 3,5 mm por mês; nos pés, menos da metade disso. A renovação completa leva alguns meses nas mãos e costuma levar um ano ou mais nos pés.
 
-Por isso, a unha demora mais para melhorar do que a pele. Se nos primeiros meses a mudança for pequena, o tratamento pode estar funcionando. Nas consultas, acompanho a inflamação e o crescimento da unha nova, que deve vir com aspecto melhor.
+Por isso, a unha demora mais para melhorar do que a pele. Se nos primeiros meses a mudança for pequena, o tratamento pode estar funcionando. Nas consultas, acompanho a inflamação e o crescimento da unha nova, que pode vir com aspecto melhor. A recuperação nem sempre é completa.
 
 ## Quais cuidados ajudam a evitar a piora?
 
@@ -136,6 +136,18 @@ Pequenos machucados podem desencadear ou piorar a psoríase no local (o chamado 
 - **Luvas:** para lavar louça e usar produtos de limpeza.
 - **Hidratante:** nas mãos e em volta das unhas, todos os dias.
 - **Manicure:** evite procedimentos que machuquem a unha.
+
+## Psoríase nas unhas tem cura?
+
+Não há cura definitiva, mas é controlável. A doença alterna fases de melhora e de piora, e o tratamento é ajustado em cada fase.
+
+## Dá para ter psoríase só nas unhas?
+
+Sim. É menos comum, mas acontece, e o diagnóstico fica mais difícil porque outras doenças deixam a unha parecida.
+
+## Quem tem psoríase nas unhas vai ter artrite?
+
+Não necessariamente. O risco é maior, mas muita gente nunca tem problema nas articulações. Dor, inchaço e rigidez devem ser investigados.
 
 ## Psoríase nas unhas é contagiosa?
 
