@@ -89,6 +89,12 @@ O que comparar e como ler:
 - [ ] **Status:** anúncios da Marcação aprovados, sem reprovação nova nos recursos, e o aviso da tag resolvido depois de adicionar os domínios.
 - [ ] **Decisão:** com 15 a 30 conversões por mês em uma campanha, avaliar a troca para lances por conversão. Antes disso, manter Maximizar cliques.
 
+### Revisão de linguagem por agentes (10/11)
+Itens 1 a 7 (CFM e regras) publicados em 10/11. Faltam, com o "sim" dele:
+- [ ] Itens 8 a 12: psoríase nas unhas (nota 4,5, reescrever a forma), rosácea (seis "não é X"), melasma (frase repetida 4 vezes), tiques ("Este é o cuidado mais importante", "Isso importa porque"), FAQs copiados entre cisto, cirurgia e unha encravada, texto do botão de agendamento igual ao H2 da home.
+- [ ] Itens 13 a 19: seções "Nem todo X é Y" em 8 artigos e "Quando procurar"/link final em 5; termos sem explicação; H1 com slogan (home, abordagem, dermatologia clínica, onde atendo); "em Vila Clementino/em Centro" nos títulos; link de "canetas" no artigo de suplementos; rótulos dos botões; meia-risca; negrito das listas.
+- [ ] Decisões dele: manter ou trocar os H1 com slogan; conteúdo novo de "Nem todo" para unha encravada, alimentação e acne; falas reais para as aberturas; reescrita da psoríase nas unhas; categorias "Unhas" e "Cabelos" no CLAUDE.md.
+
 ### Manutenção
 - [ ] O "Leia também" da dermatologia clínica chegou a 11 links (com probióticos e acne). Deixar só os 6 a 8 artigos mais procurados.
   A escolha deve seguir os dados do Search Console, que ele vai enviar.
