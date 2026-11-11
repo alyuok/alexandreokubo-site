@@ -15,7 +15,7 @@ sources:
     url: 'https://doi.org/10.1093/asj/sjz288'
   - label: 'Lei H et al. Eruptive syringomas: summary of ninety cases and a brief literature review. J Cosmet Dermatol, 2022'
     url: 'https://doi.org/10.1111/jocd.15489'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, apareceram umas bolinhas embaixo dos olhos. Já tentei espremer e não sai nada." Não sai porque não há nada dentro para sair. Na maioria das vezes, essas bolinhas são siringomas.
