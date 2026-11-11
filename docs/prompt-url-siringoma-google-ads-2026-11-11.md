@@ -1,5 +1,7 @@
 # Prompt: URL final do grupo "Plasmage Siringomas" (11/11/2026)
 
+**Sem efeito:** rodado em 11/11 na conta 138-068-5039, o grupo não existe. "Plasmage Siringomas" é uma frase de destaque (recurso sem URL), como mostra o bloco 3.3 de `prompt-ajustes-google-ads-2026-11-07.md`.
+
 Para colar no Claude que opera o Google Ads "Prime Dermato". Em 11/11 o relatório foi feito na conta 138-068-5039; os prompts antigos citam 375-279-5144. Use a conta em que estão as campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa".
 
 ---

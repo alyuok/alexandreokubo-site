@@ -19,7 +19,7 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 - [ ] GA4: marcar como eventos principais `contato_whatsapp`, `contato_doctoralia` e `contato_telefone` (em 07/11, eram 0 eventos principais).
 - [ ] Vincular o GA4 ao Google Ads (conta "Prime Dermato"). Se importar eventos do GA4 como conversão, deixá-los como secundários: as principais são as da tag do site.
 
-### Google Ads: correções da auditoria de 07/11 (`Prime Dermato`, 375-279-5144)
+### Google Ads: correções da auditoria de 07/11 (`Prime Dermato`, 138-068-5039)
 - [ ] Quem montou as campanhas e os rascunhos "(Clube Fiel)"? Se foi agência, conferir se ainda tem acesso à conta.
 
 ### Search Console
@@ -52,7 +52,7 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
 
 ### Aguardando decisão dele
-- [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console e apontar o grupo de anúncios "Plasmage Siringomas" para essa URL.
+- [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console . "Plasmage Siringomas" é frase de destaque (sem URL), não grupo de anúncios: não há anúncio de siringoma na conta.
 - [ ] Próximos temas: toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).
@@ -63,7 +63,6 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   Corrigido o que importa: as campanhas de consultas e cisto passaram a usar as metas padrão da conta, e as metas padrão filtram por origem (Contato: só Site; Lead telefônico: só chamadas de anúncios).
   De 04 a 10/11, a coluna Conversões só contou WhatsApp, Doctoralia e telefone. Falta conferir, em Metas > Resumo, se só "Contato" e "Lead telefônico" estão como metas padrão da conta (Rotas, Engajamento, Página, Agendamento e Formulário fora).
   Na exportação de 21/11, segmentar por "Ação de conversão" mesmo assim.
-- [ ] ID da conta: os prompts citam 375-279-5144, mas o relatório de 11/11 foi feito na 138-068-5039, com as mesmas campanhas. Ele confirmar qual é o ID certo da "Prime Dermato".
 - [ ] Campanhas antigas pausadas ("Unhas - Inicio 18/03 (Clube Fiel)", três Inteligentes de Lunula e unha encravada): deixar pausadas. Não reativar.
 
 ### Depois que ele enviar a informação
