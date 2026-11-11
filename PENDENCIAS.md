@@ -52,7 +52,7 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 Medição no ar depois da publicação: home no celular com desempenho 91 (era 60), CLS 0,001 (era 0,338) e acessibilidade 100 em todas as páginas medidas.
 
 ### Aguardando decisão dele
-- [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console . "Plasmage Siringomas" é frase de destaque (sem URL), não grupo de anúncios: não há anúncio de siringoma na conta.
+- [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console. "Plasmage Siringomas" é frase de destaque (sem URL), não grupo de anúncios: não há anúncio de siringoma na conta.
 - [ ] Próximos temas: toxina botulínica, fios de PDO, olheiras, bioestimulador.
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).
