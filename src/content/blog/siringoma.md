@@ -62,11 +62,11 @@ Formam-se pequenas crostas, que caem sozinhas em 3 a 6 dias. Nesse período, nã
 
 ### Pele morena ou negra
 
-Na pele morena ou negra, o risco mais comum é a hiperpigmentação pós-inflamatória, uma mancha escura no local tratado, que tende a clarear com os meses. A hipocromia, uma mancha mais clara que a pele, é mais rara. Nesses casos, ajusto a intensidade do tratamento e reforço a proteção solar antes e depois.
+Na pele morena ou negra, o risco mais comum é a hiperpigmentação pós-inflamatória, uma mancha escura no local tratado, que tende a clarear com os meses. A hipocromia, uma mancha mais clara que a pele, é mais rara. Nesses casos, uso um creme clareador como preparo, algumas semanas antes, e depois do tratamento, além do protetor solar.
 
 ## Nem toda bolinha embaixo do olho é siringoma
 
-- **Milium:** bolinha branca e dura, como um grão de areia, cheia de queratina. Pode ser retirada com uma agulha.
+- **Milium:** bolinha branca e dura, como um grão de areia, cheia de queratina. Quando necessário, retiro com uma agulha na consulta, e ela também pode sair na [limpeza de pele](https://primedermatologia.com/estetica/limpeza-de-pele/).
 - **Xantelasma:** placa amarelada e macia, em geral no canto interno do olho, formada por gordura. Pede exame de colesterol. Veja [o que é o xantelasma e a relação com o colesterol](/blog/xantelasma/).
 - **Hiperplasia sebácea:** bolinha amarelada com um pequeno buraco no centro, mais comum na testa e nas bochechas.
 - **Ceratose seborreica:** lesão marrom, de superfície áspera, que parece "colada" na pele. Veja [o que é a ceratose seborreica](/blog/ceratose-seborreica/).
