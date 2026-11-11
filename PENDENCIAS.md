@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-11-10. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-11. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -58,9 +58,11 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   Em 11 ou 12/11: conferir a força do anúncio já calculada (estava "Ruim" no editor) e a análise de política da Unha encravada. Se continuar "Ruim", testar tirar a fixação dos títulos 1 e 2 (o CRM e o RQE seguem fixados na descrição 1 e no título 3).
   Por volta de 17/11: exportar os termos de pesquisa das duas campanhas para revisar as negativas. Por volta de 24/11: comparar o custo por conversão com o da campanha de cisto.
   Os recursos de mensagem de WhatsApp que o Google anexou às duas campanhas ficaram pausados. Idioma não configurável na interface atual.
-- [ ] Conversões principais: o relatório de 10/11 achou mais 4 ações como principais ("Business profile tracked call", "Calls from Smart Campaign Ads", "Smart campaign ad clicks to call", "Business profile - Form submit").
-  O prompt de 07/11 foi rodado (confirmado por ele em 10/11), então o bloco 4 não pegou ou o Google voltou a marcar essas ações como principais.
-  Rodar o prompt curto (passar as 4 para secundárias). Na exportação de 21/11, segmentar por "Ação de conversão" para contar só as 4 principais.
+- [ ] Conversões principais (resultado de 11/11, `docs/prompt-conversoes-secundarias-2026-11-11.md`): as ações criadas pelo Google (perfil da empresa, campanhas inteligentes, "Clicks to call") não podem ser reclassificadas ("criada pelo Google Ads e não pode ser editada").
+  Corrigido o que importa: as campanhas de consultas e cisto passaram a usar as metas padrão da conta, e as metas padrão filtram por origem (Contato: só Site; Lead telefônico: só chamadas de anúncios).
+  De 04 a 10/11, a coluna Conversões só contou WhatsApp, Doctoralia e telefone. Falta conferir, em Metas > Resumo, se só "Contato" e "Lead telefônico" estão como metas padrão da conta (Rotas, Engajamento, Página, Agendamento e Formulário fora).
+  Na exportação de 21/11, segmentar por "Ação de conversão" mesmo assim.
+- [ ] ID da conta: os prompts citam 375-279-5144, mas o relatório de 11/11 foi feito na 138-068-5039, com as mesmas campanhas. Ele confirmar qual é o ID certo da "Prime Dermato".
 - [ ] Campanhas antigas pausadas ("Unhas - Inicio 18/03 (Clube Fiel)", três Inteligentes de Lunula e unha encravada): deixar pausadas. Não reativar.
 
 ### Depois que ele enviar a informação
