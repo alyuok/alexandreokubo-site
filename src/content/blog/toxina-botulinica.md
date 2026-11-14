@@ -18,7 +18,7 @@ sources:
 status: rascunho
 ---
 
-"Doutor, eu quero tirar essa ruga da testa, mas não quero ficar com cara de assustada." É um pedido que ouço muito antes da toxina botulínica, e o medo por trás dele é perder a expressão.
+"Doutor, eu quero tirar essa ruga da testa, mas não quero ficar com cara de assustada." O medo é perder a expressão, e ele tem fundamento quando a dose é exagerada.
 
 ## O que é a toxina botulínica
 
@@ -34,7 +34,7 @@ Os usos estéticos mais estudados ficam no terço superior do rosto:
 - **Rugas da testa:** as linhas horizontais que aparecem ao levantar as sobrancelhas.
 - **Pés de galinha:** as linhas no canto dos olhos, que surgem ao sorrir.
 
-Uma meta-análise de 14 ensaios randomizados, com 8.369 pessoas, mostrou que a aplicação nas três regiões ao mesmo tempo reduz as rugas moderadas e graves dessas áreas.
+Quando as três regiões são tratadas juntas, as rugas moderadas e graves diminuem. É o que mostra uma meta-análise de 14 ensaios randomizados, com 8.369 pessoas.
 
 Também aplico em outras regiões, quando há indicação:
 
@@ -44,11 +44,11 @@ Também aplico em outras regiões, quando há indicação:
 
 ## Toxina botulínica para bruxismo
 
-No bruxismo, o hábito de ranger ou apertar os dentes, a toxina é aplicada no masseter, o músculo da mandíbula. Ela diminui a força da contração e pode aliviar a dor e o cansaço na face. Com o tempo, o músculo pode ficar menos volumoso, o que pode afinar um pouco o contorno do rosto. A toxina não trata a causa do bruxismo, e o acompanhamento com o dentista continua.
+No bruxismo, o hábito de ranger ou apertar os dentes, a toxina é aplicada no masseter, o músculo da mandíbula. Ela diminui a força da contração e pode aliviar a dor e o cansaço na face. Com o tempo, o músculo tende a ficar menos volumoso, e o contorno do rosto pode afinar um pouco. A toxina não trata a causa do bruxismo, e o acompanhamento com o dentista continua.
 
 ## Toxina botulínica para suor excessivo (hiperidrose)
 
-Na hiperidrose, a pessoa sua muito mais do que o calor ou o esforço explicam, em geral nas axilas, nas mãos ou nos pés. A toxina bloqueia o sinal do nervo para a glândula de suor, e a produção de suor tende a diminuir na área aplicada.
+Na hiperidrose, a pessoa sua muito mais do que o calor ou o esforço explicam, em geral nas axilas, nas mãos ou nos pés, as três regiões em que aplico. A toxina bloqueia o sinal do nervo para a glândula de suor, e a produção de suor tende a diminuir na área aplicada.
 
 Uma meta-análise de 8 ensaios randomizados, com 937 pessoas, mostrou que a toxina reduziu o suor e melhorou a qualidade de vida em comparação com o placebo. Os estudos acompanharam os pacientes por só 8 semanas, por isso não dizem quanto tempo o efeito dura a longo prazo.
 
@@ -60,29 +60,26 @@ A duração varia com a dose, a força dos músculos e a região. Depois desse p
 
 ## Como é a aplicação
 
-Antes de aplicar, peço para você fazer as expressões: franzir a testa, levantar as sobrancelhas, sorrir. Assim vejo quais músculos estão mais fortes e onde as rugas se formam. Um consenso de 17 especialistas, publicado em 2023, recomenda o mesmo: ajustar a dose e os pontos ao padrão de cada rosto, em vez de seguir um mapa igual para todos.
+Antes de aplicar, peço para você fazer as expressões: franzir a testa, levantar as sobrancelhas, sorrir. Assim vejo quais músculos estão mais fortes e onde as rugas se formam. Um consenso de 17 especialistas, publicado em 2023, recomenda o mesmo: ajustar a dose e os pontos ao padrão de cada rosto.
 
 A aplicação leva poucos minutos e é feita com agulha bem fina. Antes, uso creme anestésico e gelo, para diminuir o desconforto das picadas. Aplico tanto na Prime, na Vila Clementino (SP), quanto na Clínica Portugal, em Santo André.
 
 ### Cuidados depois da aplicação
 
-- **Massagem:** não massageie a região aplicada.
-- **Exercício:** evite exercício intenso no mesmo dia.
-- **Retorno:** de 15 a 20 dias depois, sem custo, para ver o resultado e, se preciso, ajustar algum ponto.
+Depois da aplicação, não massageie a região e evite exercício intenso no mesmo dia. O retorno é de 15 a 20 dias depois, sem custo, para ver o resultado e, se preciso, ajustar algum ponto.
 
 ## Toxina botulínica deixa o rosto artificial?
 
-Em geral, não. O aspecto congelado ou a sobrancelha arqueada demais costumam vir de dose alta ou de pontos mal escolhidos. Quando a dose é pensada para o seu rosto, a testa costuma continuar se movimentando, só que com menos força.
+Na maioria das vezes, não. O aspecto congelado ou a sobrancelha arqueada demais vêm, quase sempre, de dose alta ou de pontos mal escolhidos. Com a dose pensada para o seu rosto, a testa costuma continuar se movimentando, só que com menos força.
 
 ## Quais são os efeitos colaterais
 
-Os mais comuns são leves e passageiros:
+Os mais comuns são leves e passageiros, como pequenos hematomas e vermelhidão nos pontos da agulha. Outros que podem aparecer:
 
-- **Pequenos hematomas** e vermelhidão nos pontos da agulha.
 - **Dor de cabeça** nos primeiros dias.
 - **Queda da pálpebra ou da sobrancelha:** é menos comum e melhora sozinha em semanas, à medida que o efeito passa.
 
-Uma meta-análise de 20 ensaios randomizados, com mais de 9.800 pessoas, encontrou efeitos adversos pouco frequentes, mas um pouco mais comuns do que com o placebo (risco 1,22 vez maior).
+Somando 20 ensaios randomizados e mais de 9.800 pessoas, os efeitos adversos foram pouco frequentes, mas um pouco mais comuns do que com o placebo (risco 1,22 vez maior).
 
 ## Quem não deve aplicar toxina botulínica
 
@@ -97,11 +94,11 @@ Conte também na consulta se você usa algum remédio de uso contínuo ou se já
 
 - **Rugas paradas e profundas:** que ficam marcadas com o rosto relaxado. Podem precisar de preenchimento com ácido hialurônico ou de tratamentos que estimulam o colágeno, como bioestimuladores, microagulhamento e laser.
 - **Flacidez:** a pele que cai não melhora com a toxina. Nesses casos, avalio bioestimuladores ou fios. Veja como a pele muda na [menopausa e o que ajuda contra a flacidez](/blog/menopausa-e-pele/).
-- **Perda de volume depois de emagrecer:** é outra causa, com outro tratamento. Leia sobre o chamado ["Ozempic face" e a pele depois das canetas emagrecedoras](/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/).
+- **Perda de volume depois de emagrecer:** a toxina não repõe volume. Leia sobre o chamado ["Ozempic face" e a pele depois das canetas emagrecedoras](/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/).
 - **Manchas e textura:** dependem de laser, peeling ou cremes. Veja, por exemplo, [por que as manchas do melasma voltam e como controlar](/blog/melasma/).
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se as rugas de expressão incomodam você, se sua demais, se range ou aperta os dentes, se já aplicou e não gostou do resultado, ou se teve queda da pálpebra numa aplicação anterior. Na consulta, examino o rosto em movimento, explico o que a toxina pode e o que não pode fazer e, se for o caso, o que combinar com ela.
+Procure avaliação se as rugas de expressão incomodam você, se sua demais ou se range ou aperta os dentes. Venha também se já aplicou e não gostou do resultado ou se teve queda da pálpebra numa aplicação anterior. Na consulta, examino o rosto em movimento, explico o que a toxina pode e o que não pode fazer e, se for o caso, o que combinar com ela.
 
 Veja os outros procedimentos que faço na [dermatologia estética](/dermatologia-estetica/).
