@@ -71,6 +71,7 @@ Capturas de tela: playwright com `executablePath: '/opt/pw-browsers/chromium'`, 
 - Medicamentos e produtos pelo nome genérico. Exceções de aparelho: Lunula (site e anúncios) e Plasmage (anúncios; decisão dele em 07/11/2026).
 - Em anúncio (Google Ads), nunca use marca de medicamento.
 - "Ozempic" só aparece como nome do fenômeno, entre aspas: o chamado "Ozempic face".
+- "Botox" pode aparecer no texto do site, entre aspas, como nome popular da toxina botulínica (decisão dele em 14/11/2026). Nunca em anúncios.
 
 ## Fontes
 - Use o PubMed (ferramentas MCP do PubMed) e prefira diretrizes, consensos, meta-análises e ensaios randomizados.
@@ -115,6 +116,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Clínicas:** Prime (Vila Clementino, SP: clínica, cirúrgica e estética) e Clínica Portugal (Centro, Santo André: clínica, cirúrgica e estética; lá não há lasers nem luz intensa pulsada, mas há microagulhamento e plasma).
   Agenda: Doctoralia (URL em `site.ts`), em que o paciente escolhe entre as duas unidades.
 - **Injetáveis:** toxina botulínica; ácido hialurônico; bioestimuladores (ácido poli-L-láctico, hidroxiapatita de cálcio, policaprolactona); fios de PDO.
+- **Toxina botulínica (confirmado em 14/11/2026):** rugas do terço superior, hiperidrose, bruxismo (masseter), sorriso gengival, bandas do pescoço e queixo, nas duas clínicas. Creme anestésico e gelo antes. Depois: não massagear e evitar exercício intenso no mesmo dia. Retorno de 15 a 20 dias, sem custo. Não aplica na gravidez nem na amamentação.
 - **Aparelhos:** luz intensa pulsada; Nd:YAG 1064 nm (inclui o modo toning; não tem pulso longo); Er:YAG ablativo; plasma; microagulhamento robótico;
   depilação com laser de diodo; laser Lunula para micose de unha (lasers e luz intensa pulsada só na Prime).
   Ultrassom microfocado e laser de CO2: aluga quando necessário. Não citar no site.
