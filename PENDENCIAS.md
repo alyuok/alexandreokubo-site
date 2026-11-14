@@ -34,7 +34,7 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 
 ### Cadastros
 - [ ] Doctoralia: corrigir "Consulta Dermatologia: a partir de R$ 0" (parece erro de cadastro; visto em 2026-10-28).
-- [ ] Avaliações no Google, estimuladas nas duas clínicas: em 14/11, Prime com 25 e Clínica Portugal com 40. Falta enviar a nota média (estrelas) das duas e o link do perfil da Clínica Portugal.
+- [ ] Avaliações no Google, estimuladas nas duas clínicas: em 14/11, Prime com 25 e Clínica Portugal com 40. Clínica Portugal com nota 4,9; link de avaliação: https://g.page/r/CcPGJf_S_L3wEAI/review. Falta a nota da Prime. Nova medição do ritmo em 28/11 (lembrete agendado).
 - Perfil pessoal do Dr. Alexandre no endereço da Prime: cancelado em 09/11 (dois perfis no mesmo endereço disputam a mesma vaga no Maps). Não recriar.
   O perfil do Google da Prime (avaliações, categorias, telefone) está no `PENDENCIAS.md` do clinicaprime.
 
