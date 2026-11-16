@@ -67,13 +67,13 @@ Uso, conforme o caso:
 - **Minoxidil tópico:** loção ou espuma aplicada no couro cabeludo. Numa revisão com metanálise de 2026, com 23 estudos em homens, o minoxidil a 5% ficou em primeiro lugar na classificação do estudo entre os tratamentos tópicos comparados.
 - **Minoxidil oral em dose baixa:** em comprimido. Uma metanálise de 2025 não encontrou alteração importante da pressão arterial com doses de até 5 mg por dia. O efeito colateral mais comum foi o aumento de pelos no corpo e no rosto.
 - **Finasterida e dutasterida:** reduzem o hormônio que afina o fio. São usadas sobretudo em homens.
-- **Espironolactona:** em mulheres, quando há influência hormonal.
+- **Espironolactona:** em mulheres, quando há influência hormonal. Ela não pode ser usada na gravidez, por isso exige método anticoncepcional durante o tratamento.
 
 O resultado aparece devagar, depois de alguns meses, e o tratamento é de longo prazo: quando ele é interrompido, a queda tende a voltar.
 
 ### Alopecia areata
 
-Faço infiltração de corticoide nas falhas e uso a crioterapia com nitrogênio líquido. Nos casos extensos, existem ainda remédios por via oral, indicados em casos selecionados.
+Faço infiltração de corticoide nas falhas e uso a crioterapia com nitrogênio líquido. Nos casos extensos, prescrevo remédios por via oral, como os inibidores de JAK, que agem na resposta autoimune contra a raiz do fio.
 
 ### Procedimentos no couro cabeludo
 
