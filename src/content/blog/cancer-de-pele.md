@@ -17,7 +17,7 @@ sources:
     url: 'https://doi.org/10.1200/JCO.2010.28.7078'
   - label: 'Aldraibi S et al. Comparative efficacy of photodynamic therapy versus cryotherapy for actinic keratosis: a systematic review and meta-analysis of randomized controlled trials. J Cosmet Dermatol, 2026'
     url: 'https://doi.org/10.1111/jocd.70749'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, essa feridinha no nariz sangra, fecha e abre de novo há meses. Achei que era espinha." Essa é uma das falas mais comuns que ouço antes de um diagnóstico de câncer de pele. Em geral não dói, e por isso costuma ficar para depois.
