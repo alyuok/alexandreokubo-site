@@ -3,7 +3,7 @@ title: 'Cicatrizes de acne: tipos, tratamentos e quando a subcisão é indicada'
 description: 'Os tipos de cicatriz de acne, por que cada um pede um tratamento diferente, como funcionam a subcisão e o CROSS e por que combinar técnicas costuma trazer mais melhora do que uma técnica isolada.'
 answer: 'As cicatrizes de acne mais comuns são deprimidas e se dividem em três tipos: onduladas, em "caixa" e em "picador de gelo". Cada tipo responde melhor a técnicas diferentes. A subcisão é indicada principalmente para as cicatrizes onduladas, presas por traves fibrosas, e costuma ser combinada, em sessões separadas, com lasers, microagulhamento ou bioestimuladores.'
 pubDate: 2026-10-24
-reviewedDate: 2026-10-24
+reviewedDate: 2026-11-16
 category: 'Pele'
 about: ['Cicatrizes de acne', 'Subcisão', 'CROSS com ácido tricloroacético', 'Acne']
 sources:
@@ -73,7 +73,7 @@ Os estudos mostram que, nas cicatrizes moderadas a graves, a combinação de té
 Por isso, a subcisão costuma fazer parte de um plano, com outras técnicas feitas em sessões separadas:
 
 - **CROSS**, para as cicatrizes em "picador de gelo"
-- **Lasers**, como o laser de érbio ablativo, que melhoram a textura e as bordas das cicatrizes
+- **Lasers**, como os lasers fracionados de CO2 e de érbio, que melhoram a textura e as bordas das cicatrizes. Na Prime, uso os dois; recuperação e cuidados estão na página de [rejuvenescimento a laser com CO2 e érbio](https://primedermatologia.com/tratamentos/rejuvenescimento-a-laser/)
 - **Microagulhamento**, que estimula a produção de colágeno (veja o [microagulhamento robótico da Prime](https://primedermatologia.com/tratamentos/microagulhamento-robotico/))
 - **Bioestimuladores de colágeno e ácido hialurônico**, que repõem volume nas áreas deprimidas
 
