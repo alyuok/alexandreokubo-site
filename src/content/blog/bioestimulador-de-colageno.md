@@ -57,11 +57,23 @@ A duração depende também da idade, da qualidade da pele e de hábitos como so
 
 ## Quando aparece o resultado
 
-Como o corpo precisa de tempo para formar colágeno, a melhora é progressiva. Com o ácido poli-L-láctico, o resultado costuma ser avaliado alguns meses depois da última sessão. O tratamento é planejado em etapas, e não em uma única aplicação.
+Como o corpo precisa de tempo para formar colágeno, a melhora é progressiva. Com o ácido poli-L-láctico, o resultado costuma ser avaliado alguns meses depois da última sessão. Em média, faço 3 sessões mensais, mas o número depende do grau de flacidez e do objetivo.
 
 ## Como é a aplicação
 
-Antes, examino o rosto e o pescoço para entender onde estão a flacidez e a perda de volume. A aplicação pode ser feita com agulha fina ou com cânula, uma agulha de ponta arredondada que reduz o risco de atingir vasos.
+Antes, examino o rosto e o pescoço para entender onde estão a flacidez e a perda de volume. Faço a aplicação com cânula, uma agulha de ponta arredondada que reduz o risco de atingir vasos. No dia da aplicação, uso anestésico em creme, e o próprio produto é misturado com anestésico. Aplico tanto na Prime, na Vila Clementino (SP), quanto na Clínica Portugal, em Santo André.
+
+### Cuidados e recuperação
+
+Nos 2 primeiros dias, é comum o rosto ficar inchado. Se a cânula atingir algum vaso pequeno, pode surgir um hematoma, que some em alguns dias. Depois do ácido poli-L-láctico, oriento massagear a região em casa nos dias seguintes, para espalhar o produto de forma uniforme.
+
+## Bioestimulador no corpo
+
+Também aplico bioestimulador fora do rosto, em áreas como colo, braços, abdome e glúteos, para melhorar a flacidez da pele. O consenso de 2018 descreve esse uso para a hidroxiapatita de cálcio diluída.
+
+## Bioestimulador junto com aparelhos
+
+O bioestimulador pode ser combinado com tecnologias que estimulam o colágeno por outro caminho, como o microagulhamento robótico e o laser. Faço essas combinações em sessões separadas.
 
 ## Bioestimulador para quem usa canetas emagrecedoras
 
@@ -71,13 +83,13 @@ A perda de peso rápida também tira gordura do rosto, e a pele pode ficar mais 
 
 Os efeitos mais comuns são leves e passageiros: dor no local, inchaço e pequenos hematomas.
 
-O risco mais conhecido é o nódulo, um caroço sob a pele. Ele aparece mais com o ácido poli-L-láctico, em 4,7% a 28,6% dos casos, conforme o estudo (revisão de 2026). A diluição correta e a profundidade da aplicação ajudam a reduzir esse risco.
+O risco mais conhecido é o nódulo, um caroço sob a pele. Ele aparece mais com o ácido poli-L-láctico, em 4,7% a 28,6% dos casos, conforme o estudo (revisão de 2026). A diluição correta, a profundidade da aplicação e a massagem em casa ajudam a reduzir esse risco.
 
 Complicações graves, como a obstrução de um vaso, são raras. Na revisão de 2025, houve um caso grave de necrose (morte de um trecho de pele por falta de circulação) com a hidroxiapatita de cálcio.
 
 ## Quem não deve fazer
 
-- **Gravidez e amamentação.**
+- **Gravidez e amamentação:** não aplico.
 - **Infecção ativa** na pele da área a ser tratada.
 - **Doenças autoimunes ativas** ou tendência a formar queloides, que pedem avaliação cuidadosa.
 
@@ -85,7 +97,7 @@ Se você precisa de resultado para uma data próxima, o bioestimulador não é a
 
 ## Nem toda flacidez é caso de bioestimulador
 
-- **Flacidez acentuada,** com muito excesso de pele: os injetáveis ajudam pouco, e a avaliação com cirurgião plástico pode ser indicada.
+- **Flacidez acentuada,** com muito excesso de pele: os injetáveis ajudam pouco, e encaminho para avaliação com cirurgião plástico.
 - **Rugas de expressão:** respondem à [toxina botulínica, o chamado "botox"](/blog/toxina-botulinica/).
 - **Sulcos e perda de volume localizada:** podem pedir preenchimento com ácido hialurônico, às vezes junto com o bioestimulador.
 - **Flacidez da menopausa:** a queda do estrogênio acelera a perda de colágeno. Veja [o que muda na pele na menopausa e o que ajuda](/blog/menopausa-e-pele/).
