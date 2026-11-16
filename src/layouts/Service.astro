@@ -39,9 +39,11 @@ const url = `${SITE_URL}/${slug}/`;
         <div class="grid grid--3">
           {g.items.map((it) => (
             <div class="card">
-              <h3>{it.t}</h3>
+              <h3>{it.href ? <a href={it.href}>{it.t}</a> : it.t}</h3>
               <p>{it.d}</p>
-              {it.href && <p class="card-more"><a href={it.href} aria-label={`${it.t}: saiba mais no site da Prime Dermatologia`}>Saiba mais no site da Prime</a></p>}
+              {it.href && (it.href.startsWith('http')
+                ? <p class="card-more"><a href={it.href} aria-label={`${it.t}: saiba mais no site da Prime Dermatologia`}>Saiba mais no site da Prime</a></p>
+                : <p class="card-more"><a href={it.href} aria-label={`${it.t}: leia mais`}>Leia mais</a></p>)}
             </div>
           ))}
         </div>
