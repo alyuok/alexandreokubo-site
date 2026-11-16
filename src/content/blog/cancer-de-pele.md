@@ -7,6 +7,8 @@ reviewedDate: 2026-11-16
 category: 'Pele'
 about: ['Câncer de pele', 'Carcinoma basocelular', 'Carcinoma espinocelular', 'Melanoma', 'Ceratose actínica', 'Dermatoscopia', 'Dezembro Laranja']
 sources:
+  - label: 'Instituto Nacional de Câncer (INCA). Estimativa 2026: síntese de resultados e comentários, triênio 2026 a 2028'
+    url: 'https://www.gov.br/inca/pt-br/assuntos/cancer/numeros/estimativa/sintese-de-resultados-e-comentarios'
   - label: 'Lauters R et al. Melanoma: diagnosis and treatment. Am Fam Physician, 2024'
     url: 'https://pubmed.ncbi.nlm.nih.gov/39418569/'
   - label: 'Peris K et al. European consensus-based interdisciplinary guideline for diagnosis and treatment of basal cell carcinoma, update 2023. Eur J Cancer, 2023'
@@ -25,6 +27,8 @@ status: rascunho
 Dezembro Laranja é a campanha de prevenção do câncer de pele no Brasil. Ela acontece no início do verão, quando a exposição ao sol aumenta. Aproveite para olhar a própria pele e, se o exame com o dermatologista estiver atrasado, marque.
 
 ## O que é o câncer de pele
+
+O câncer de pele é o tipo de câncer mais comum no Brasil. Para cada ano entre 2026 e 2028, o Instituto Nacional de Câncer (INCA) estima 263.280 casos novos de câncer de pele não melanoma (o basocelular e o espinocelular) e 9.360 de melanoma. Em 2023, o câncer de pele não melanoma causou 3.541 mortes, e o melanoma, 2.047.
 
 É o crescimento descontrolado de células da pele, causado sobretudo pelo dano que a radiação ultravioleta do sol acumula ao longo da vida. Existem três tipos principais:
 
