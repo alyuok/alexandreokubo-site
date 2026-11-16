@@ -2,8 +2,8 @@
 title: 'Toxina botulínica ("botox"): quanto tempo dura, como é a aplicação e quais os riscos'
 description: 'Toxina botulínica, o chamado "botox", nas rugas de testa, entre as sobrancelhas e pés de galinha, na rosácea, nos poros, no contorno da mandíbula, no suor excessivo e no bruxismo: como age, quanto tempo dura, cuidados depois da aplicação, efeitos colaterais e quem não deve fazer.'
 answer: 'A toxina botulínica relaxa músculos específicos do rosto e suaviza as rugas de expressão da testa, entre as sobrancelhas e dos pés de galinha. O efeito começa em poucos dias e dura, em geral, de 3 a 6 meses. Os efeitos colaterais mais comuns são leves, como pequenos hematomas e dor de cabeça, e a dose e os pontos são definidos depois de examinar como o rosto se movimenta.'
-pubDate: 2026-11-14
-reviewedDate: 2026-11-14
+pubDate: 2026-11-16
+reviewedDate: 2026-11-16
 category: 'Pele'
 about: ['Toxina botulínica tipo A', 'Rugas de expressão', 'Hiperidrose', 'Bruxismo', 'Hipertrofia do masseter', 'Rosácea', 'Bandas platismais', 'Linhas glabelares', 'Pés de galinha', 'Rugas da testa']
 sources:
@@ -23,7 +23,7 @@ sources:
     url: 'https://doi.org/10.1097/PRS.0000000000001841'
   - label: 'Braccini F et al. SAMCEP Society consensus on the treatment of upper facial lines with botulinum neurotoxin type A: a tailored approach. J Cosmet Dermatol, 2023'
     url: 'https://doi.org/10.1111/jocd.15768'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, eu quero tirar essa ruga da testa, mas não quero ficar com cara de assustada." O medo é perder a expressão, e ele tem fundamento quando a dose é exagerada.
@@ -53,7 +53,7 @@ Também aplico a toxina na parte de baixo do rosto e no pescoço, quando há ind
 - **Bandas do pescoço (bandas platismais):** os cordões verticais que aparecem ao contrair o pescoço.
 - **Contorno da mandíbula (técnica Nefertiti):** o platisma, músculo fino do pescoço, puxa para baixo o contorno inferior do rosto. Relaxar esse músculo pode ajudar a definir o contorno da mandíbula na flacidez leve.
 
-A técnica Nefertiti tem base sobretudo na experiência de especialistas, sem ensaios grandes. Ela não substitui o tratamento da flacidez e funciona como auxílio, junto com bioestimuladores ou fios. Por isso examino o pescoço em movimento antes de aplicar: em alguns padrões do platisma, a aplicação ajuda pouco ou pode até piorar o contorno.
+A técnica Nefertiti tem base sobretudo na experiência de especialistas. Ela não substitui o tratamento da flacidez e funciona como auxílio, junto com bioestimuladores ou fios. Por isso examino o pescoço em movimento antes de aplicar: em alguns padrões do platisma, a aplicação ajuda pouco ou pode até piorar o contorno.
 
 ## Toxina botulínica para vermelhidão e rosácea
 
