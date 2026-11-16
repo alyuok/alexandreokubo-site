@@ -1,7 +1,7 @@
 ---
 title: 'Câncer de pele: como identificar os sinais e quando procurar o dermatologista'
 description: 'Os tipos de câncer de pele (carcinoma basocelular, espinocelular e melanoma), como identificar os sinais com a regra ABCDE, quem tem mais risco, como prevenir e o que fazer no Dezembro Laranja.'
-answer: 'O câncer de pele aparece como uma pinta que muda, uma ferida que não cicatriza ou uma lesão nova que cresce. Os tipos mais comuns são o carcinoma basocelular e o espinocelular, que crescem devagar; o melanoma é menos comum e mais grave. Descoberto cedo, na maioria das vezes é tratado com uma pequena cirurgia. Na dúvida, a dermatoscopia e a biópsia confirmam o diagnóstico.'
+answer: 'O câncer de pele aparece como uma pinta que muda, uma ferida que não cicatriza ou uma lesão nova que cresce. Os tipos mais comuns são o carcinoma basocelular e o espinocelular, que crescem devagar; o melanoma é menos comum e mais grave. Descoberto cedo, na maioria das vezes pode ser tratado com uma pequena cirurgia. Na dúvida, a dermatoscopia ajuda a avaliar a lesão e a biópsia confirma o diagnóstico.'
 pubDate: 2026-11-16
 reviewedDate: 2026-11-16
 category: 'Pele'
@@ -28,9 +28,9 @@ Dezembro Laranja é a campanha de prevenção do câncer de pele no Brasil. Ela 
 
 ## O que é o câncer de pele
 
-O câncer de pele é o tipo de câncer mais comum no Brasil. Para cada ano entre 2026 e 2028, o Instituto Nacional de Câncer (INCA) estima 263.280 casos novos de câncer de pele não melanoma (o basocelular e o espinocelular) e 9.360 de melanoma. Em 2023, o câncer de pele não melanoma causou 3.541 mortes, e o melanoma, 2.047.
+O câncer de pele é o tipo de câncer mais comum no Brasil. O Instituto Nacional de Câncer (INCA) estima, para cada ano do triênio 2026 a 2028, 263.280 casos novos de câncer de pele não melanoma (o basocelular e o espinocelular) e 9.360 de melanoma. Segundo o INCA, em 2023 o câncer de pele não melanoma causou 3.541 mortes, e o melanoma, 2.047.
 
-É o crescimento descontrolado de células da pele, causado sobretudo pelo dano que a radiação ultravioleta do sol acumula ao longo da vida. Existem três tipos principais:
+O câncer de pele é o crescimento descontrolado de células da pele, causado sobretudo pelo dano que a radiação ultravioleta do sol acumula ao longo da vida. Existem três tipos principais:
 
 - **Carcinoma basocelular:** o mais comum. Cresce devagar e quase nunca se espalha para outros órgãos, mas pode destruir a pele e as estruturas em volta se não for tratado.
 - **Carcinoma espinocelular:** o segundo mais comum. Também cresce na pele exposta ao sol e, em alguns casos, pode se espalhar.
@@ -84,7 +84,7 @@ Explico como é o exame na página de [avaliação de pintas com dermatoscopia](
 
 ## Câncer de pele tem cura?
 
-Na maioria dos casos descobertos cedo, o tratamento resolve a lesão e o prognóstico é bom. O tratamento principal dos carcinomas basocelular e espinocelular é a retirada cirúrgica completa, segundo a diretriz europeia de 2023. Faço essa cirurgia nas duas clínicas, com anestesia local, e envio a peça para exame, para confirmar que a lesão saiu inteira.
+Na maioria dos casos descobertos cedo, a retirada da lesão é suficiente e o prognóstico é bom. O tratamento principal dos carcinomas basocelular e espinocelular é a retirada cirúrgica completa, segundo a diretriz europeia de 2023. Faço essa cirurgia nas duas clínicas, com anestesia local, e envio a peça para exame, para confirmar que a lesão saiu inteira.
 
 No melanoma, faço a biópsia e, quando o diagnóstico é confirmado, encaminho para o tratamento especializado. O que mais pesa no prognóstico é a espessura do melanoma: os finos, com menos de 0,8 mm, em geral não precisam de outro tratamento depois da retirada com margem.
 
@@ -95,7 +95,7 @@ O protetor solar usado todos os dias ajuda. Num ensaio clínico randomizado na A
 Outras medidas:
 
 - **Sombra e horário:** evite o sol forte do meio do dia.
-- **Roupa, chapéu e óculos:** protegem mais do que o protetor sozinho.
+- **Roupa, chapéu e óculos:** completam a proteção do protetor solar.
 - **Bronzeamento artificial:** não faça.
 - **Crianças:** a proteção na infância conta para o resto da vida.
 - **Autoexame:** olhe a pele uma vez por mês, com espelho, incluindo couro cabeludo, sola dos pés e entre os dedos.
