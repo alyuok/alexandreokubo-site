@@ -77,7 +77,7 @@ Faço infiltração de corticoide nas falhas e uso crioterapia com nitrogênio l
 
 ### Procedimentos no couro cabeludo
 
-Como complemento ao tratamento com remédios, uso microagulhamento, MMP e intradermoterapia, técnicas que levam medicamentos ao couro cabeludo por pequenas perfurações. A evidência para esses procedimentos é menor do que para o minoxidil e a finasterida, e eles entram junto com o tratamento principal, não no lugar dele.
+Uso microagulhamento, MMP e intradermoterapia, técnicas que levam medicamentos ao couro cabeludo por pequenas perfurações. Esses procedimentos nunca são feitos sozinhos (em monoterapia), mas como auxiliares do tratamento principal.
 
 ### Transplante capilar
 
