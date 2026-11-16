@@ -54,7 +54,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 ### Aguardando decisão dele
 - [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console. "Plasmage Siringomas" é frase de destaque (sem URL), não grupo de anúncios: não há anúncio de siringoma na conta.
 - [ ] Toxina botulínica publicada em 16/11 (`/blog/toxina-botulinica/`): ele pedir a indexação no Search Console.
-- [ ] Câncer de pele publicado em 16/11 (`/blog/cancer-de-pele/`, Dezembro Laranja): ele pedir a indexação no Search Console e linkar o artigo no post do Instagram do início de dezembro.
+- [ ] Câncer de pele publicado em 16/11 (`/blog/cancer-de-pele/`, Dezembro Laranja): indexação pedida; falta ele linkar o artigo no post do Instagram do início de dezembro.
 - [ ] Bioestimulador de colágeno publicado em 16/11 (`/blog/bioestimulador-de-colageno/`): ele pedir a indexação no Search Console.
 - [ ] Próximos temas: fios de PDO, olheiras.
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
