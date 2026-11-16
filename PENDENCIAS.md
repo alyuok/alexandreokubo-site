@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-11-14. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-16. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 ## Do lado do Dr. Alexandre
 
@@ -54,9 +54,12 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 ### Aguardando decisão dele
 - [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console. "Plasmage Siringomas" é frase de destaque (sem URL), não grupo de anúncios: não há anúncio de siringoma na conta.
 - [ ] Toxina botulínica publicada em 16/11 (`/blog/toxina-botulinica/`): ele pedir a indexação no Search Console.
+- [ ] Queda de cabelo (artigo geral) publicado em 16/11 (`/blog/queda-de-cabelo/`): ele pedir a indexação no Search Console.
+- [ ] Subitens clicáveis nas páginas de serviço (branch `subitens-clicaveis`, na prévia desde 16/11): título de cada item vira link para o artigo ou para a página da Prime. Aguarda o "aprovado". Quando publicar, incluir o link de "Queda de cabelo" para `/blog/queda-de-cabelo/`.
+- [ ] Artigos para os subitens sem texto (pedido dele em 16/11), nesta ordem: dermatite (atópica, seborreica e de contato), psoríase, urticária e fios de PDO. Prática já confirmada e registrada no `CLAUDE.md`. Para fios de PDO, faltam: duração da sessão, tempo de recuperação e duração do efeito.
 - [ ] Câncer de pele publicado em 16/11 (`/blog/cancer-de-pele/`, Dezembro Laranja): indexação pedida; falta ele linkar o artigo no post do Instagram do início de dezembro.
 - [ ] Bioestimulador de colágeno publicado em 16/11 (`/blog/bioestimulador-de-colageno/`): ele pedir a indexação no Search Console.
-- [ ] Próximos temas: fios de PDO, olheiras.
+- [ ] Próximos temas: olheiras, melanoma, carcinoma basocelular (os de fios de PDO, dermatite, psoríase e urticária estão no item dos subitens).
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).
   Em 11 ou 12/11: conferir a força do anúncio já calculada (estava "Ruim" no editor) e a análise de política da Unha encravada. Se continuar "Ruim", testar tirar a fixação dos títulos 1 e 2 (o CRM e o RQE seguem fixados na descrição 1 e no título 3).
