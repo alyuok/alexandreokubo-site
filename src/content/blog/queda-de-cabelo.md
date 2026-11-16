@@ -58,13 +58,13 @@ Uma revisão de 2026 sobre a avaliação da queda de cabelo também recomenda ti
 
 ## Tratamento da queda de cabelo
 
-O tratamento depende do tipo de queda. Por isso, tomar suplemento por conta própria raramente resolve. Quando os exames mostram falta de ferro, vitamina D ou outra deficiência, a reposição faz parte do tratamento. Explico o que se sabe no artigo sobre [suplementos para cabelo e unha](/blog/suplemento-cabelo-unha-proteina/).
+O tratamento depende do tipo de queda, e tomar suplemento por conta própria raramente resolve. Quando os exames mostram falta de ferro, vitamina D ou outra deficiência, a reposição faz parte do tratamento. O que se sabe sobre eles está no artigo sobre [suplementos para cabelo e unha](/blog/suplemento-cabelo-unha-proteina/).
 
 ### Calvície (alopecia androgenética)
 
 Uso, conforme o caso:
 
-- **Minoxidil tópico:** loção ou espuma aplicada no couro cabeludo. Numa revisão com metanálise de 2026, com 23 estudos em homens, o minoxidil a 5% ficou em primeiro lugar na classificação do estudo entre os tratamentos tópicos comparados.
+- **Minoxidil tópico:** loção ou espuma aplicada no couro cabeludo. Numa revisão com metanálise de 2026, com 23 estudos em homens, o minoxidil a 5% ficou no topo da classificação entre os tratamentos tópicos comparados nessa metanálise.
 - **Minoxidil oral em dose baixa:** em comprimido. Uma metanálise de 2025 não encontrou alteração importante da pressão arterial com doses de até 5 mg por dia. O efeito colateral mais comum foi o aumento de pelos no corpo e no rosto.
 - **Finasterida e dutasterida:** reduzem o hormônio que afina o fio. São usadas sobretudo em homens.
 - **Espironolactona:** em mulheres, quando há influência hormonal. Ela não pode ser usada na gravidez.
@@ -73,11 +73,11 @@ O resultado aparece devagar, depois de alguns meses, e o tratamento é de longo 
 
 ### Alopecia areata
 
-Faço infiltração de corticoide nas falhas e uso a crioterapia com nitrogênio líquido. Nos casos extensos, prescrevo remédios por via oral, como os inibidores de JAK, que agem na resposta autoimune contra a raiz do fio.
+Faço infiltração de corticoide nas falhas e uso crioterapia com nitrogênio líquido. Nos casos extensos, prescrevo remédios por via oral, como os inibidores de JAK, que agem na resposta autoimune contra a raiz do fio.
 
 ### Procedimentos no couro cabeludo
 
-Como complemento ao tratamento com remédios, uso microagulhamento, MMP e intradermoterapia, técnicas que levam medicamentos ao couro cabeludo por pequenas perfurações. A evidência para esses procedimentos é menor do que para o minoxidil e a finasterida, e por isso eles entram junto com o tratamento principal, não no lugar dele.
+Como complemento ao tratamento com remédios, uso microagulhamento, MMP e intradermoterapia, técnicas que levam medicamentos ao couro cabeludo por pequenas perfurações. A evidência para esses procedimentos é menor do que para o minoxidil e a finasterida, e eles entram junto com o tratamento principal, não no lugar dele.
 
 ### Transplante capilar
 
