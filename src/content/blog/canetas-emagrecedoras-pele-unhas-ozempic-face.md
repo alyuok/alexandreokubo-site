@@ -100,7 +100,7 @@ As alterações costumam ser mais perceptíveis em pessoas mais velhas, que perd
 
 Quando a perda de volume já aconteceu, os procedimentos dermatológicos podem ajudar a repor parte do volume e melhorar a firmeza da pele:
 
-- **Bioestimuladores de colágeno**, como o ácido poli-L-láctico, a hidroxiapatita de cálcio e a policaprolactona, que melhoram a firmeza de forma gradual
+- **Bioestimuladores de colágeno**, como o ácido poli-L-láctico, a hidroxiapatita de cálcio e a policaprolactona, que melhoram a firmeza de forma gradual (veja [como funciona o bioestimulador de colágeno e quanto tempo dura](/blog/bioestimulador-de-colageno/))
 - **Ácido hialurônico**, para repor volume em pontos específicos, como as maçãs do rosto e as têmporas
 - **Fios de PDO**, absorvíveis, para sustentação e estímulo de colágeno em casos selecionados de flacidez
 - **Tecnologias que estimulam o colágeno**, como lasers e microagulhamento, para a qualidade da pele

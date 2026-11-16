@@ -15,7 +15,7 @@ sources:
     url: 'https://doi.org/10.1097/DSS.0000000000001685'
   - label: 'Flores Rodríguez JC et al. Mechanisms of cytokine modulation and inflammatory cascade in bio-stimulatory skin rejuvenation: a comprehensive literature review. Cureus, 2026'
     url: 'https://doi.org/10.7759/cureus.107800'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, eu não quero encher o rosto, só queria a pele mais firme." Para esse pedido, o bioestimulador de colágeno é uma das opções que avalio.
