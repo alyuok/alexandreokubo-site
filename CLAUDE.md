@@ -120,7 +120,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Bioestimuladores (confirmado em 16/11/2026):** em média 3 sessões mensais, conforme a flacidez. Cânula, anestésico misturado ao produto e anestésico em creme. Orienta massagem em casa depois do ácido poli-L-láctico. Inchaço nos 2 primeiros dias; hematoma se atingir vaso. Não aplica na gravidez, na amamentação nem com infecção ativa. Aplica também no corpo, nas duas clínicas. Combina com aparelhos em sessões separadas. Flacidez acentuada: encaminha para cirurgião plástico.
 - **Aparelhos:** luz intensa pulsada; Nd:YAG Q-switched 1064 nm e 532 nm (inclui o modo toning; não tem pulso longo; confirmado em 16/11/2026, marca não citada no site); Er:YAG ablativo; plasma; microagulhamento robótico;
   depilação com laser de diodo; laser Lunula para micose de unha (lasers e luz intensa pulsada só na Prime).
-  Ultrassom microfocado e laser de CO2: aluga quando necessário. Não citar no site.
+  Laser de CO2: alugado, mas pode ser citado no site (decisão dele em 16/11/2026, "fazemos muito"). Ultrassom microfocado: aluga quando necessário. Não citar no site.
 - **Pintas:** faz dermatoscopia na consulta. Não faz mapeamento corporal total; não prometa esse exame.
 - **Teleconsulta:** atende por teleconsulta (agendada pela Doctoralia).
 - **Fotos de pacientes:** só com autorização escrita do paciente (confirmada em 30/10 para a unha encravada e o cisto, e em 05/11 para a foto da dermatoscopia em `/avaliacao-de-pintas/` a da placa no artigo de xantelasma e a da dermatoscopia no artigo de ceratose seborreica, com diagnóstico confirmado), sem identificação e sem metadados (GPS, data).
