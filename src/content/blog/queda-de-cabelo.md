@@ -13,7 +13,7 @@ sources:
     url: 'https://doi.org/10.3390/medicina62071282'
   - label: 'Chen M et al. Low-dose oral minoxidil does not significantly affect blood pressure: a systematic review and meta-analysis. J Am Acad Dermatol, 2025'
     url: 'https://doi.org/10.1016/j.jaad.2024.10.057'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, está saindo um tufo de cabelo no banho e no travesseiro. Vou ficar careca?" Ouço muito essa pergunta no consultório. A resposta depende de descobrir qual tipo de queda está acontecendo, porque cada uma tem causa e tratamento diferentes.
