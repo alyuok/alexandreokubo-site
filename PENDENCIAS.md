@@ -54,8 +54,6 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 ### Aguardando decisão dele
 - [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console. "Plasmage Siringomas" é frase de destaque (sem URL), não grupo de anúncios: não há anúncio de siringoma na conta.
 - [ ] Toxina botulínica publicada em 16/11 (`/blog/toxina-botulinica/`): ele pedir a indexação no Search Console.
-- [ ] Queda de cabelo (artigo geral) publicado em 16/11 (`/blog/queda-de-cabelo/`): ele pedir a indexação no Search Console.
-- [ ] Subitens clicáveis nas páginas de serviço (branch `subitens-clicaveis`, na prévia desde 16/11): título de cada item vira link para o artigo ou para a página da Prime. Aguarda o "aprovado". Quando publicar, incluir o link de "Queda de cabelo" para `/blog/queda-de-cabelo/`.
 - [ ] Artigos para os subitens sem texto (pedido dele em 16/11), nesta ordem: dermatite (atópica, seborreica e de contato), psoríase, urticária e fios de PDO. Prática já confirmada e registrada no `CLAUDE.md`. Para fios de PDO, faltam: duração da sessão, tempo de recuperação e duração do efeito.
 - [ ] Câncer de pele publicado em 16/11 (`/blog/cancer-de-pele/`, Dezembro Laranja): indexação pedida; falta ele linkar o artigo no post do Instagram do início de dezembro.
 - [ ] Bioestimulador de colágeno publicado em 16/11 (`/blog/bioestimulador-de-colageno/`): ele pedir a indexação no Search Console.
