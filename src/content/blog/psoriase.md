@@ -5,7 +5,7 @@ answer: 'A psoríase é uma doença inflamatória da pele, de origem imunológic
 pubDate: 2026-11-17
 reviewedDate: 2026-11-17
 category: 'Pele'
-about: ['Psoríase', 'Psoríase em placas', 'Artrite psoriásica', 'Imunobiológicos', 'Fototerapia']
+about: ['Psoríase', 'Psoríase em placas', 'Psoríase ungueal', 'Psoríase invertida', 'Psoríase gutata', 'Artrite psoriásica', 'Imunobiológicos', 'Fototerapia']
 sources:
   - label: 'Romiti R et al. Highlights of the Brazilian Society of Dermatology Brazilian Consensus on Psoriasis. An Bras Dermatol, 2025'
     url: 'https://doi.org/10.1016/j.abd.2025.501242'
@@ -33,15 +33,39 @@ Uma revisão de 168 estudos, publicada no BMJ em 2020, encontrou a doença em ce
 - **Placas avermelhadas e grossas,** com bordas bem marcadas e cobertas por escamas esbranquiçadas ou prateadas.
 - **Locais mais comuns:** cotovelos, joelhos, couro cabeludo, região lombar e umbigo.
 - **Coceira e ardor,** que variam de pessoa para pessoa.
-- **Unhas** com pequenos furinhos, manchas amareladas ou descolamento, como explico no artigo sobre [psoríase nas unhas](/blog/psoriase-nas-unhas/).
+- **Unhas** com pequenos furinhos, manchas amareladas ou descolamento (veja abaixo).
 
 ### Tipos de psoríase
 
 - **Em placas (vulgar):** a forma mais comum, com as placas descritas acima.
-- **Gutata:** muitas lesões pequenas, em gotas, pelo corpo. Costuma aparecer depois de uma infecção de garganta, principalmente em jovens.
-- **Invertida:** nas dobras (axilas, virilhas, abaixo das mamas), com pele vermelha e lisa, quase sem escamas.
+- **Gutata:** muitas lesões pequenas, em gotas, pelo corpo, em geral depois de uma infecção de garganta (veja abaixo).
+- **Invertida:** nas dobras, com pele vermelha e lisa, quase sem escamas (veja abaixo).
 - **Pustulosa:** com bolinhas de pus sem infecção, localizada nas palmas e plantas ou, mais raramente, espalhada pelo corpo.
 - **Eritrodérmica:** quando quase toda a pele fica vermelha e descamando. É rara e exige atendimento rápido.
+
+## Psoríase ungueal (psoríase nas unhas)
+
+A psoríase pode atingir a raiz e o leito da unha. Os sinais mais comuns são pequenos furinhos na superfície (depressões puntiformes), manchas amareladas ou cor de salmão sob a unha (mancha em gota de óleo), descolamento da ponta da unha (onicólise) e unhas grossas e quebradiças.
+
+A aparência lembra muito a da micose, e as duas podem existir juntas, por isso o diagnóstico precisa ser confirmado antes de tratar. A psoríase nas unhas também é mais comum em quem tem artrite psoriásica e pode indicar maior risco de desenvolvê-la. Por isso, quando vejo alteração nas unhas, examino também as articulações.
+
+O tratamento pode incluir remédios locais, infiltração na região da unha, remédios por via oral ou imunobiológicos, conforme o número de unhas afetadas e a situação da pele e das articulações. Explico os detalhes no artigo sobre [psoríase nas unhas: como identificar e diferenciar da micose](/blog/psoriase-nas-unhas/).
+
+## Psoríase invertida (nas dobras)
+
+Na psoríase invertida, as placas aparecem nas dobras do corpo: axilas, virilhas, região genital, sulco entre as nádegas, abaixo das mamas e atrás das orelhas. Por causa do suor e do atrito, quase não há escamas. A pele fica vermelha, lisa, brilhante e bem delimitada, às vezes com fissuras que ardem.
+
+É comum ela ser confundida com micose ou com assadura, e tratada por muito tempo com creme antifúngico sem melhora. Na dúvida, examino a pele em outras áreas, como couro cabeludo, unhas e umbigo, onde a psoríase costuma deixar pistas.
+
+A pele das dobras é fina e absorve mais o que é aplicado nela, o que aumenta o risco de afinamento da pele com o corticoide. Por isso, o tratamento usa corticoides de baixa potência por períodos curtos e cremes anti-inflamatórios sem corticoide, como tacrolimo e pimecrolimo, para manter o controle. Manter a região seca e evitar roupas apertadas também ajuda.
+
+## Psoríase gutata (em gotas)
+
+A psoríase gutata aparece de repente, com dezenas de pequenas placas avermelhadas e descamativas, do tamanho de uma gota, espalhadas pelo tronco, braços e pernas. É mais comum em crianças, adolescentes e adultos jovens e costuma surgir algumas semanas depois de uma infecção de garganta por estreptococo.
+
+Em muitas pessoas, o quadro melhora sozinho em algumas semanas ou meses. Em parte delas, porém, a psoríase gutata é o primeiro sinal de uma psoríase em placas que vai continuar ao longo da vida, por isso vale o acompanhamento.
+
+O tratamento usa cremes anti-inflamatórios e, quando as lesões são muitas, fototerapia, para a qual encaminho a um serviço especializado. Se a infecção de garganta ainda estiver ativa, ela também precisa ser tratada.
 
 ## O que causa e o que piora a psoríase
 
