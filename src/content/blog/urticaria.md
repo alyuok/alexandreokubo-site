@@ -15,7 +15,7 @@ sources:
     url: 'https://doi.org/10.1111/cea.14561'
   - label: 'Kapat A et al. Effect of dietary intervention in paediatric patients with chronic spontaneous urticaria: open labelled randomised controlled trial. Maedica (Bucur), 2025'
     url: 'https://doi.org/10.26574/maedica.2025.20.2.275'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, deve ser alguma coisa que eu comi." É a primeira suspeita da maioria dos pacientes que atendo com urticária. Na urticária aguda, às vezes é. Na crônica, quase nunca a comida é a causa, mas alguns alimentos podem piorar as crises.
