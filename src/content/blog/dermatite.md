@@ -21,7 +21,7 @@ sources:
     url: 'https://doi.org/10.1111/cod.70195'
   - label: 'Sandler M, Yu J. Contact allergy screening for atopic dermatitis. Immunol Allergy Clin North Am, 2026'
     url: 'https://doi.org/10.1016/j.iac.2026.04.008'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, já passei tudo quanto é pomada e a coceira sempre volta." Quase sempre, antes de mudar o remédio, o primeiro passo é saber qual dermatite a pessoa tem.
