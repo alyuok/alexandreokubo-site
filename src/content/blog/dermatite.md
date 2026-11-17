@@ -66,13 +66,13 @@ Por isso, oriento banho morno e rápido, sabonete suave e hidratante logo depois
 
 ### Como tratar a crise de dermatite atópica
 
-Nas crises, o tratamento usa cremes anti-inflamatórios: corticoides tópicos de potência adequada a cada área do corpo e, no rosto e nas dobras, os inibidores de calcineurina (tacrolimo e pimecrolimo). Depois da crise, os cremes podem ser mantidos duas vezes por semana nas áreas que costumam inflamar, para espaçar as crises.
+Nas crises, uso cremes anti-inflamatórios: corticoides tópicos de potência adequada a cada área do corpo e, no rosto e nas dobras, os inibidores de calcineurina (tacrolimo e pimecrolimo). Depois da crise, oriento manter o creme duas vezes por semana nas áreas que costumam inflamar, para espaçar as crises.
 
 ### Dermatite atópica moderada a grave: biológicos e inibidores de JAK
 
 Quando os cremes não bastam, há remédios que agem no sistema imunológico. Prescrevo:
 
-- **Imunobiológicos:** remédios injetáveis que bloqueiam sinais específicos da inflamação, como dupilumabe, tralocinumabe e lebriquizumabe.
+- **Imunobiológicos:** remédios injetáveis que bloqueiam sinais específicos da inflamação, como dupilumabe e lebriquizumabe.
 - **Inibidores de JAK:** comprimidos que reduzem a inflamação por dentro da célula, como upadacitinibe, abrocitinibe e baricitinibe.
 
 A diretriz europeia de 2025 (EuroGuiDerm) inclui esses dois grupos entre as opções de tratamento sistêmico da dermatite atópica, ao lado dos imunossupressores tradicionais. A atualização americana de 2025 recomenda novos biológicos, como o lebriquizumabe e o nemolizumabe, junto com os cremes. A escolha depende da idade, de outras doenças, de planos de gravidez e de exames feitos antes e durante o tratamento.
@@ -92,7 +92,7 @@ Uma meta-análise de 2026, com 26 estudos, encontrou piora moderada da qualidade
 - **Couro cabeludo:** xampus com antifúngico (como cetoconazol ou ciclopirox), sulfeto de selênio ou piritionato de zinco, deixados alguns minutos antes de enxaguar. Nas crises, loções de corticoide por poucos dias.
 - **Rosto e corpo:** cremes com antifúngico e, nas crises, anti-inflamatórios. No rosto, os inibidores de calcineurina são uma opção ao corticoide para uso repetido.
 - **Manutenção:** o xampu ou o creme antifúngico uma ou duas vezes por semana, para espaçar as crises.
-- **Casos extensos ou que não respondem:** remédios por via oral, como antifúngicos ou isotretinoína em dose baixa.
+- **Casos extensos ou que não respondem:** prescrevo remédios por via oral, como antifúngicos ou isotretinoína em dose baixa.
 
 Um consenso europeu de 2026, com 33 especialistas, recomenda combinar antifúngico e anti-inflamatório, tanto na crise quanto na manutenção, e reservar os remédios por via oral para os casos extensos ou resistentes.
 
@@ -109,7 +109,7 @@ A dermatite seborreica do couro cabeludo pode vir junto com queda de cabelo, mas
 
 O teste de contato (patch test) é o exame que identifica a substância responsável pela alergia. Pequenas quantidades de várias substâncias ficam presas nas costas por alguns dias, e a pele é avaliada nas leituras seguintes.
 
-A diretriz europeia de 2026 recomenda o teste para quem tem suspeita de dermatite alérgica de contato, e ele também ajuda a separar a alergia de contato da dermatite atópica, que podem existir juntas. Quando o quadro sugere alergia, faço a avaliação e encaminho para o teste de contato.
+A diretriz europeia de 2026 recomenda o teste para quem tem suspeita de dermatite alérgica de contato, e ele também ajuda a separar a alergia de contato da dermatite atópica, que podem existir juntas. Quando o quadro sugere alergia, faço a avaliação e encaminho ao alergista para o teste de contato.
 
 ### Como é o tratamento da dermatite de contato
 
@@ -122,7 +122,7 @@ O tratamento mais importante é afastar a causa. Por isso, descobrir a substânc
 - **Rosácea:** vermelhidão no centro do rosto, com ardor e vasinhos. Às vezes vem junto com a dermatite seborreica. Veja [rosácea: o que piora e como tratar](/blog/rosacea/).
 - **Escabiose (sarna):** coceira que piora à noite e atinge outras pessoas da casa.
 
-Também existe a dermatite atópica que não responde ao tratamento porque, na verdade, era outra doença. Por isso, quando o tratamento bem feito não funciona, o diagnóstico precisa ser revisto antes de aumentar o remédio.
+Também existe a dermatite atópica que não responde ao tratamento porque, na verdade, era outra doença. Por isso, quando o tratamento bem feito não funciona, reviso o diagnóstico antes de aumentar o remédio.
 
 ## Quando procurar um dermatologista
 
