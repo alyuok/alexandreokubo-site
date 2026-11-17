@@ -54,7 +54,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 ### Aguardando decisão dele
 - [ ] Siringoma publicado em 11/11 (`/blog/siringoma/`): ele pedir a indexação no Search Console. "Plasmage Siringomas" é frase de destaque (sem URL), não grupo de anúncios: não há anúncio de siringoma na conta.
 - [ ] Toxina botulínica publicada em 16/11 (`/blog/toxina-botulinica/`): ele pedir a indexação no Search Console.
-- [ ] Artigos para os subitens sem texto (pedido dele em 16/11), nesta ordem: dermatite (publicado em 17/11, `/blog/dermatite/`: ele pedir a indexação), psoríase, urticária e fios de PDO. Prática já confirmada e registrada no `CLAUDE.md`. Fios de PDO publicado em 17/11 (`/blog/fios-de-pdo/`): ele pedir a indexação no Search Console.
+- [ ] Artigos para os subitens sem texto (pedido dele em 16/11), nesta ordem: dermatite (publicado em 17/11, `/blog/dermatite/`: ele pedir a indexação), psoríase (rascunho em prévia desde 17/11, `/blog/psoriase/`), urticária e fios de PDO. Prática já confirmada e registrada no `CLAUDE.md`. Fios de PDO publicado em 17/11 (`/blog/fios-de-pdo/`): ele pedir a indexação no Search Console.
 - [ ] Câncer de pele publicado em 16/11 (`/blog/cancer-de-pele/`, Dezembro Laranja): indexação pedida; falta ele linkar o artigo no post do Instagram do início de dezembro.
 - [ ] Bioestimulador de colágeno publicado em 16/11 (`/blog/bioestimulador-de-colageno/`): ele pedir a indexação no Search Console.
 - [ ] Próximos temas: olheiras, melanoma, carcinoma basocelular (os de fios de PDO, dermatite, psoríase e urticária estão no item dos subitens).
