@@ -60,29 +60,40 @@ Uma revisão sistemática de 2024, com 21 estudos, concluiu que a evidência mai
 
 ### Quais alimentos são retirados durante o teste
 
-Durante as semanas de teste, os alimentos mais retirados são:
+A lista que uso na orientação separa dois grupos. O primeiro reúne alimentos ricos em histamina. O segundo, alimentos que têm pouca histamina, mas podem estimular a liberação dela no corpo ou trazem substâncias parecidas. Nem todos pioram a urticária de todo mundo, e é isso que o teste mostra.
 
-- **Queijos curados**, como parmesão e queijos amarelos envelhecidos.
-- **Embutidos e carnes curadas:** salame, presunto cru, linguiça e salsicha.
-- **Peixes enlatados, defumados ou em conserva**, como atum e sardinha em lata, e frutos do mar que não estejam bem frescos.
-- **Bebidas fermentadas** (vinho, cerveja e espumante), que já aparecem entre os gatilhos acima.
-- **Alimentos fermentados**, como chucrute e molho de soja.
-- **Industrializados com corantes e conservantes**, como refrigerantes, salgadinhos, balas e sobremesas prontas.
-- **Algumas frutas e verduras**, como tomate, morango, espinafre e frutas cítricas, que podem liberar histamina em pessoas sensíveis. Observe se pioram no seu caso.
+Alimentos ricos em histamina:
+
+- **Bebidas alcoólicas:** sobretudo vinho tinto e cerveja, já citados entre os gatilhos.
+- **Peixes e frutos do mar:** enlatados, defumados, congelados ou em conserva, como atum, sardinha, cavalinha, arenque e mariscos. Peixe que não está fresco acumula mais histamina.
+- **Carnes curadas, defumadas e embaladas:** salsicha, linguiça curada, salame, frios e bacon. Prefira carne fresca.
+- **Queijos:** principalmente os curados, maturados, defumados e azuis. Quanto mais tempo de maturação, mais histamina.
+- **Alimentos fermentados:** chucrute, kimchi, kefir, molho de soja e vinagre.
+
+Alimentos que podem liberar histamina ou têm substâncias parecidas:
+
+- **Frutas:** banana, abacaxi, mamão, frutas cítricas (limão, lima e laranja), morango e cereja.
+- **Verduras e legumes:** tomate, berinjela, espinafre e cogumelos.
+- **Temperos:** pimenta em pó, canela e cravo.
+- **Oleaginosas e amendoim:** amêndoas, castanhas, avelãs, pistache e amendoim.
+- **Leguminosas:** grão-de-bico, lentilha, ervilha e soja.
+- **Outros:** chá, chocolate, carne de porco, clara de ovo e alimentos com corantes e conservantes.
 
 ### Como fazer o teste com a dieta
 
-A dieta não é para a vida toda. Ela funciona como um teste: por algumas semanas, você evita esses alimentos e anota as crises. Se houver melhora clara, os alimentos voltam um de cada vez, para descobrir quais pesam no seu caso. Se não houver melhora, não faz sentido continuar a restrição. Cortar muitos alimentos por muito tempo, sem orientação, empobrece a alimentação e, se não houve melhora, não traz benefício. Observe e anote num diário o que comeu, os remédios que tomou, as horas de sono e quando as placas apareceram.
+A dieta não é para a vida toda. Ela funciona como um teste: por pelo menos 1 mês, você evita esses alimentos e anota as crises. Se houver melhora clara, os alimentos voltam um de cada vez, para descobrir quais pesam no seu caso. Se não houver melhora, não faz sentido continuar. Como a lista é longa, cortar tudo por muito tempo, sem orientação, empobrece a alimentação.
+
+Observe e anote num diário o que comeu, os remédios que tomou, as horas de sono e quando as placas apareceram.
 
 ## Como é feito o diagnóstico
 
-O diagnóstico é feito pela história e pelo exame da pele. Na urticária crônica espontânea, costumam ser suficientes poucos exames de sangue, escolhidos conforme a história. Baterias grandes de exames e testes de alergia a dezenas de alimentos raramente encontram a causa.
+O diagnóstico é feito pela história e pelo exame da pele. Na urticária crônica espontânea, costumam ser suficientes poucos exames de sangue. Em geral, peço hemograma, marcadores de inflamação (PCR ou VHS) e exames da tireoide, incluindo os anticorpos, e outros conforme a história. Baterias grandes de exames e testes de alergia a dezenas de alimentos raramente encontram a causa.
 
 ## Como é o tratamento da urticária
 
 ### Anti-histamínicos
 
-O tratamento começa com anti-histamínicos de segunda geração, que dão menos sono, tomados todos os dias, e não só nas crises. Se não controlarem as crises, a diretriz internacional orienta aumentar a dose antes de passar para o próximo passo.
+Começo o tratamento com anti-histamínicos de segunda geração, que dão menos sono, tomados todos os dias, e não só nas crises. Se não bastarem, aumento a dose antes de passar ao omalizumabe, como orienta a diretriz internacional.
 
 ### Omalizumabe na urticária crônica
 
@@ -90,11 +101,11 @@ Quando os anti-histamínicos em dose alta não controlam a urticária crônica, 
 
 Numa meta-análise de 2026, com 8 estudos e 4.516 pacientes com urticária crônica, o tempo mediano de uso do omalizumabe foi de 3,1 anos. Quando o tratamento foi interrompido, o motivo mais comum foi a doença estar controlada. Efeitos colaterais levaram a poucas interrupções.
 
+Em geral, acompanho a urticária no próprio consultório, do diagnóstico ao tratamento com omalizumabe.
+
 ### Corticoide
 
-O corticoide por via oral pode ser usado por poucos dias numa crise forte, mas não serve para tratamento contínuo, por causa dos efeitos colaterais.
-
-Em geral, acompanho a urticária no próprio consultório, do diagnóstico ao tratamento com omalizumabe.
+Numa crise forte, posso usar corticoide por via oral por poucos dias. Ele não serve para tratamento contínuo, por causa dos efeitos colaterais.
 
 ## Quando a urticária é uma emergência
 
