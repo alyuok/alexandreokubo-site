@@ -29,7 +29,7 @@ O tratamento também é conhecido como "lifting com fios" ou "fios de sustentaç
 ## Fios lisos e fios espiculados: qual a diferença
 
 - **Fios lisos:** não têm garras. São colocados em grande número, como uma rede sob a pele, para estimular colágeno, o que pode melhorar a firmeza e a textura. Não puxam o tecido.
-- **Fios espiculados (com garras):** têm pequenas farpas ao longo do fio, que se prendem ao tecido. Ajudam a dar sustentação e a reposicionar áreas que caíram, como a bochecha e o contorno da mandíbula.
+- **Fios espiculados (com garras):** têm pequenas garras (farpas) ao longo do fio, que se prendem ao tecido. Ajudam a dar sustentação e a reposicionar áreas que caíram, como a bochecha e o contorno da mandíbula.
 - **Fios moldados:** também têm garras, mas elas são formadas no molde junto com o fio, em vez de cortadas nele depois. A função é a mesma dos espiculados: sustentação.
 
 Uso os três tipos, sempre do pescoço para cima: rosto, contorno da mandíbula e pescoço. A escolha depende do que o exame mostra. Pele fina e sem viço pede mais fios lisos; tecido que desceu pede fios com garras, espiculados ou moldados.
@@ -38,7 +38,7 @@ Uso os três tipos, sempre do pescoço para cima: rosto, contorno da mandíbula 
 
 - **Flacidez leve a moderada** no terço médio e inferior do rosto, no contorno da mandíbula e no pescoço.
 - **Pele com pouca firmeza**, em quem ainda não tem indicação de cirurgia.
-- **Rosto que perdeu sustentação depois de emagrecer**, junto com outros tratamentos (veja abaixo).
+- **Rosto que perdeu sustentação depois de emagrecer**, junto com outros tratamentos (veja a seção sobre canetas emagrecedoras).
 
 ## Os fios de PDO funcionam?
 
@@ -48,7 +48,7 @@ Uma meta-análise de 2021, com 26 estudos, mostrou que a satisfação cai com o 
 
 ## Quanto tempo dura o efeito dos fios de PDO
 
-Na minha prática, o efeito dura em média 6 meses. Varia com o tipo de fio, a qualidade da pele, a idade e a área tratada. O fio é absorvido aos poucos, e o colágeno formado ao redor dele ajuda a manter parte da melhora depois disso. Para manter o resultado, a aplicação pode ser repetida. Quando repetir, defino caso a caso, conforme a resposta da pele.
+Na minha prática, o efeito dura em média 6 meses. Varia com o tipo de fio, a qualidade da pele, a idade e a área tratada. Depois que o fio é absorvido, parte da melhora pode se manter pelo colágeno formado ao redor dele. A aplicação pode ser repetida para manter o resultado, e o momento certo defino caso a caso, conforme a resposta da pele.
 
 ## Como é a aplicação dos fios
 
@@ -58,7 +58,7 @@ Faço a aplicação na Prime, na Vila Clementino (SP), e na Clínica Portugal, e
 
 ## Como é a recuperação
 
-Conte com pelo menos 7 dias de recuperação. Nesse período, é comum ter inchaço, pequenos roxos (hematomas) e sensibilidade no local. Com os fios espiculados, a pele pode ficar com pequenas ondulações nos primeiros dias, que costumam se acomodar.
+Conte com pelo menos 7 dias de recuperação. Nesse período, é comum ter inchaço, pequenos roxos (hematomas) e sensibilidade no local. Com os fios espiculados, a pele pode ficar com pequenas ondulações nos primeiros dias, que costumam se acomodar. Depois de 1 mês, faço uma consulta de revisão, qualquer que seja o tipo de fio.
 
 ### Cuidados depois dos fios com garras
 
@@ -67,9 +67,9 @@ Conte com pelo menos 7 dias de recuperação. Nesse período, é comum ter incha
 - **Atividade física:** suspensa por 2 semanas.
 - **Massagem:** não massageie a região.
 
-Depois de 1 mês, faço uma consulta de revisão para avaliar o resultado.
-
 ## Quem não deve fazer fios de PDO
+
+Não aplico fios de PDO nestas situações:
 
 - **Gravidez e amamentação.**
 - **Infecção ativa** na pele da área a ser tratada.
@@ -78,7 +78,7 @@ Depois de 1 mês, faço uma consulta de revisão para avaliar o resultado.
 
 ## Fios de PDO junto com outros tratamentos
 
-Os fios podem ser combinados com toxina botulínica e com bioestimulador de colágeno. Faço cada um em uma sessão separada.
+Os fios podem ser combinados com a [toxina botulínica](/blog/toxina-botulinica/) e com o [bioestimulador de colágeno](/blog/bioestimulador-de-colageno/), cada um em uma sessão separada. É o que faço, por exemplo, em quem emagreceu com canetas emagrecedoras.
 
 ## Quais são os riscos dos fios de PDO
 
@@ -101,7 +101,7 @@ O emagrecimento rápido tira gordura do rosto, e a pele pode perder sustentaçã
 ## Nem toda flacidez é caso de fio
 
 - **Flacidez acentuada,** com muito excesso de pele: os fios ajudam pouco. Encaminho para avaliação com cirurgião plástico.
-- **Pele fina, sem firmeza, sem queda importante:** o [bioestimulador de colágeno](/blog/bioestimulador-de-colageno/) costuma ser a primeira opção.
+- **Pele fina, sem firmeza, sem queda importante:** o [bioestimulador de colágeno](/blog/bioestimulador-de-colageno/) costuma ser a primeira opção; os fios lisos podem entrar como complemento.
 - **Rugas de expressão:** costumam melhorar com a [toxina botulínica, o chamado "botox"](/blog/toxina-botulinica/).
 - **Flacidez da menopausa:** a queda do estrogênio acelera a perda de colágeno. Veja [o que muda na pele na menopausa e o que ajuda](/blog/menopausa-e-pele/).
 
