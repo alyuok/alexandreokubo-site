@@ -15,7 +15,7 @@ sources:
     url: 'https://doi.org/10.1097/DSS.0000000000004466'
   - label: 'Pham CT et al. Safety profile of thread lifts on the face and neck: an evidence-based systematic review. Dermatol Surg, 2021'
     url: 'https://doi.org/10.1097/DSS.0000000000003189'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, o fio levanta o rosto como uma plástica?" Não da mesma forma. Os fios de PDO podem melhorar uma flacidez leve a moderada, mas não substituem a cirurgia quando há muito excesso de pele.
