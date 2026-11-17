@@ -2,8 +2,8 @@
 title: 'Fios de PDO: o que são, quanto tempo dura e como é a recuperação'
 description: 'Fios de PDO (polidioxanona) para flacidez leve no rosto e no pescoço: diferença entre fios lisos e espiculados, como é a aplicação, recuperação, quanto tempo dura o efeito e quais os riscos.'
 answer: 'Fios de PDO são fios absorvíveis de polidioxanona, colocados sob a pele com agulha ou cânula. Os fios lisos podem estimular colágeno e melhorar a qualidade da pele; os espiculados, com pequenas garras, ajudam a dar sustentação e a reposicionar tecidos com flacidez leve a moderada. O efeito dura em média 6 meses, e o corpo absorve o fio com o tempo.'
-pubDate: 2026-11-16
-reviewedDate: 2026-11-16
+pubDate: 2026-11-17
+reviewedDate: 2026-11-17
 category: 'Pele'
 about: ['Fios de PDO', 'Polidioxanona', 'Fios de sustentação', 'Thread lift', 'Flacidez facial']
 sources:
@@ -30,8 +30,9 @@ O tratamento também é conhecido como "lifting com fios" ou "fios de sustentaç
 
 - **Fios lisos:** não têm garras. São colocados em grande número, como uma rede sob a pele, para estimular colágeno, o que pode melhorar a firmeza e a textura. Não puxam o tecido.
 - **Fios espiculados (com garras):** têm pequenas farpas ao longo do fio, que se prendem ao tecido. Ajudam a dar sustentação e a reposicionar áreas que caíram, como a bochecha e o contorno da mandíbula.
+- **Fios moldados:** também têm garras, mas elas são formadas no molde junto com o fio, em vez de cortadas nele depois. A função é a mesma dos espiculados: sustentação.
 
-Uso os dois tipos, sempre do pescoço para cima: rosto, contorno da mandíbula e pescoço. A escolha depende do que o exame mostra. Pele fina e sem viço pede mais fios lisos; tecido que desceu pede fios espiculados.
+Uso os três tipos, sempre do pescoço para cima: rosto, contorno da mandíbula e pescoço. A escolha depende do que o exame mostra. Pele fina e sem viço pede mais fios lisos; tecido que desceu pede fios com garras, espiculados ou moldados.
 
 ## Para quem os fios de PDO são indicados
 
@@ -47,11 +48,11 @@ Uma meta-análise de 2021, com 26 estudos, mostrou que a satisfação cai com o 
 
 ## Quanto tempo dura o efeito dos fios de PDO
 
-Na minha prática, o efeito dura em média 6 meses. Varia com o tipo de fio, a qualidade da pele, a idade e a área tratada. O fio é absorvido aos poucos, e o colágeno formado ao redor dele ajuda a manter parte da melhora depois disso. Para manter o resultado, a aplicação pode ser repetida.
+Na minha prática, o efeito dura em média 6 meses. Varia com o tipo de fio, a qualidade da pele, a idade e a área tratada. O fio é absorvido aos poucos, e o colágeno formado ao redor dele ajuda a manter parte da melhora depois disso. Para manter o resultado, a aplicação pode ser repetida. Quando repetir, defino caso a caso, conforme a resposta da pele.
 
 ## Como é a aplicação dos fios
 
-A sessão dura cerca de 45 minutos. Nos fios espiculados, aplico anestésico local ao longo do trajeto. Os fios lisos são finos e costumam ser colocados sem anestesia.
+A sessão dura cerca de 45 minutos. Conforme o tipo de fio, uso agulha ou cânula (agulha de ponta arredondada). Nos fios com garras, aplico anestésico local ao longo do trajeto. Os fios lisos são finos e costumam ser colocados sem anestesia.
 
 Faço a aplicação na Prime, na Vila Clementino (SP), e na Clínica Portugal, em Santo André.
 
@@ -59,12 +60,25 @@ Faço a aplicação na Prime, na Vila Clementino (SP), e na Clínica Portugal, e
 
 Conte com pelo menos 7 dias de recuperação. Nesse período, é comum ter inchaço, pequenos roxos (hematomas) e sensibilidade no local. Com os fios espiculados, a pele pode ficar com pequenas ondulações nos primeiros dias, que costumam se acomodar.
 
-### Cuidados depois dos fios espiculados
+### Cuidados depois dos fios com garras
 
 - **Movimentos amplos do rosto:** evite abrir muito a boca, como ao bocejar, nos primeiros dias.
 - **Dormir:** de barriga para cima, se possível, para não pressionar o rosto.
 - **Atividade física:** suspensa por 2 semanas.
 - **Massagem:** não massageie a região.
+
+Depois de 1 mês, faço uma consulta de revisão para avaliar o resultado.
+
+## Quem não deve fazer fios de PDO
+
+- **Gravidez e amamentação.**
+- **Infecção ativa** na pele da área a ser tratada.
+- **Doença autoimune em atividade.**
+- **Uso de anticoagulante**, que aumenta o risco de sangramento e de hematomas.
+
+## Fios de PDO junto com outros tratamentos
+
+Os fios podem ser combinados com toxina botulínica e com bioestimulador de colágeno. Faço cada um em uma sessão separada.
 
 ## Quais são os riscos dos fios de PDO
 
