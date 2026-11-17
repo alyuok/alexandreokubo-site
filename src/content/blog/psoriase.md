@@ -15,7 +15,7 @@ sources:
     url: 'https://doi.org/10.1016/j.jaad.2018.11.057'
   - label: 'Xie W et al. Impact of biologic therapies on the risk of progression from psoriasis to psoriatic arthritis: a systematic review and meta-analysis of cohort studies. Am J Clin Dermatol, 2026'
     url: 'https://doi.org/10.1007/s40257-026-01065-8'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, isso pega?" É a primeira pergunta de muita gente com psoríase, e a resposta é não. A psoríase não passa de uma pessoa para outra, nem pelo toque, nem pela piscina.
@@ -49,7 +49,7 @@ A psoríase pode atingir a raiz e o leito da unha. Os sinais mais comuns são pe
 
 A aparência lembra muito a da micose, e as duas podem existir juntas, por isso o diagnóstico precisa ser confirmado antes de tratar. A psoríase nas unhas também é mais comum em quem tem artrite psoriásica e pode indicar maior risco de desenvolvê-la. Por isso, quando vejo alteração nas unhas, examino também as articulações.
 
-O tratamento pode incluir remédios locais, infiltração na região da unha, remédios por via oral ou imunobiológicos, conforme o número de unhas afetadas e a situação da pele e das articulações. Explico os detalhes no artigo sobre [psoríase nas unhas: como identificar e diferenciar da micose](/blog/psoriase-nas-unhas/).
+O tratamento pode incluir remédios locais, infiltração de corticoide na região da unha, que faço no consultório, remédios por via oral ou imunobiológicos, conforme o número de unhas afetadas e a situação da pele e das articulações. Explico os detalhes no artigo sobre [psoríase nas unhas: como identificar e diferenciar da micose](/blog/psoriase-nas-unhas/).
 
 ## Psoríase invertida (nas dobras)
 
@@ -57,7 +57,7 @@ Na psoríase invertida, as placas aparecem nas dobras do corpo: axilas, virilhas
 
 É comum ela ser confundida com micose ou com assadura, e tratada por muito tempo com creme antifúngico sem melhora. Na dúvida, examino a pele em outras áreas, como couro cabeludo, unhas e umbigo, onde a psoríase costuma deixar pistas.
 
-A pele das dobras é fina e absorve mais o que é aplicado nela, o que aumenta o risco de afinamento da pele com o corticoide. Por isso, o tratamento usa corticoides de baixa potência por períodos curtos e cremes anti-inflamatórios sem corticoide, como tacrolimo e pimecrolimo, para manter o controle. Manter a região seca e evitar roupas apertadas também ajuda.
+A pele das dobras é fina e absorve mais o que é aplicado nela, o que aumenta o risco de afinamento da pele com o corticoide. Por isso, uso corticoides de baixa potência por períodos curtos e cremes anti-inflamatórios sem corticoide, como tacrolimo e pimecrolimo, para manter o controle. Quando a psoríase invertida é extensa ou não responde, os imunobiológicos também são uma opção. Manter a região seca e evitar roupas apertadas também ajuda.
 
 ## Psoríase gutata (em gotas)
 
