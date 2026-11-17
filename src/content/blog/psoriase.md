@@ -59,7 +59,7 @@ Anotar o que aconteceu antes de cada piora ajuda a descobrir os seus gatilhos.
 
 ## Psoríase é só na pele?
 
-Não. A psoríase é uma doença inflamatória que não se limita à pele. Estudos mostram associação com maior risco de artrite, obesidade, diabetes, pressão alta, colesterol alterado e doenças do coração, além de ansiedade e depressão. Por isso, a avaliação da psoríase inclui perguntas sobre articulações, peso e exames.
+Não. A psoríase é uma doença inflamatória que não se limita à pele. Estudos mostram associação com maior risco de artrite, obesidade, diabetes, pressão alta, colesterol alterado e doenças do coração, além de ansiedade e depressão. Por isso, na consulta, pergunto também sobre articulações, peso e exames.
 
 ### Artrite psoriásica
 
@@ -69,18 +69,18 @@ A psoríase evolui para artrite psoriásica em até 30% das pessoas, segundo uma
 
 A escolha depende da extensão das placas, dos locais atingidos (rosto, unhas, genitais e couro cabeludo pesam mais), da presença de artrite e do impacto na vida da pessoa.
 
-- **Cremes e loções:** corticoides, análogos da vitamina D e hidratantes, para a psoríase leve e localizada.
+- **Cremes e loções:** uso corticoides, análogos da vitamina D e hidratantes, para a psoríase leve e localizada.
 - **Fototerapia:** sessões de luz ultravioleta, algumas vezes por semana, para a psoríase moderada ou extensa. Quando está indicada, encaminho para um serviço de fototerapia.
-- **Remédios por via oral:** como metotrexato, ciclosporina e as pequenas moléculas, para casos moderados a graves.
+- **Remédios por via oral:** para casos moderados a graves. Entre eles, prescrevo o metotrexato.
 - **Imunobiológicos:** remédios injetáveis que bloqueiam sinais específicos da inflamação.
 
 O consenso brasileiro de psoríase da Sociedade Brasileira de Dermatologia, atualizado em 2024 com a participação de 85 dermatologistas e reumatologistas, orienta a ordem de escolha desses tratamentos e as linhas de imunobiológicos para adultos e crianças.
 
 ### Imunobiológicos para psoríase
 
-Prescrevo imunobiológicos quando estão indicados. Pelas diretrizes, isso vale em geral para a psoríase moderada a grave, para quem não respondeu a outros tratamentos e para quem tem artrite. Eles agem em pontos específicos da inflamação (TNF-alfa, interleucina 17 e interleucina 23) e são aplicados por injeção, em intervalos que variam de semanas a meses, conforme o remédio.
+Prescrevo imunobiológicos quando estão indicados. Pelas diretrizes, isso vale em geral para a psoríase moderada a grave, para quem não respondeu a outros tratamentos e para quem tem artrite. Eles agem em pontos específicos da inflamação, e uso as três classes: anti-TNF-alfa, anti-interleucina 17 e anti-interleucina 23 e são aplicados por injeção, em intervalos que variam de semanas a meses, conforme o remédio.
 
-Antes de começar, são necessários exames, incluindo a investigação de tuberculose. Durante o tratamento, o acompanhamento é periódico.
+Antes de começar, peço exames, incluindo a investigação de tuberculose. Durante o tratamento, o acompanhamento é periódico.
 
 Em estudos observacionais, o uso de imunobiológicos se associou a um risco 46% menor de a psoríase evoluir para artrite psoriásica, em comparação com outros tratamentos (meta-análise de 15 estudos, com 124.138 pacientes). Por serem estudos de observação, eles mostram associação, e não provam que o remédio previne a artrite.
 
@@ -101,6 +101,6 @@ Em estudos observacionais, o uso de imunobiológicos se associou a um risco 46% 
 
 ## Quando procurar um dermatologista
 
-Procure avaliação se você tem placas que descamam e não melhoram, se a psoríase voltou mesmo com tratamento, se as placas atingem o rosto, as unhas ou os genitais, ou se surgiram dores nas articulações. Na consulta, avalio a extensão da psoríase e escolho o tratamento com você. Atendo na Prime, na Vila Clementino (SP), e na Clínica Portugal, em Santo André.
+Procure avaliação se você tem placas que descamam e não melhoram, se a psoríase voltou mesmo com tratamento, se as placas atingem o rosto, as unhas ou os genitais, ou se surgiram dores nas articulações. Na consulta, avalio a extensão da psoríase, examino unhas e articulações e escolho o tratamento com você. Atendo na Prime, na Vila Clementino (SP), e na Clínica Portugal, em Santo André.
 
 Veja as outras doenças de pele que trato na [dermatologia clínica](/dermatologia-clinica/).
