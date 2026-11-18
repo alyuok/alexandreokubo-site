@@ -74,6 +74,12 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - [ ] Conferir e atualizar a URL da Doctoralia em `site.ts` (`primaryUrl` e `sameAs`), quando ele corrigir a especialidade no perfil.
   Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
 
+### Google Ads: negativas aplicadas em 18/11 (autorizadas por ele)
+- [ ] Conferir se o Chrome aplicou: 44 negativas de frase em "Micose de unha - Pesquisa" (remédio, produtos, nomes de remédio, tratamento em casa, podologia); 24 em "Unha encravada - Pesquisa" (aparelhos, produtos caseiros, pdf, antes e depois, bebê, podóloga, pós-operatório); retirada de "tempo de recuperação" e "cuidados após" de "Cisto sebáceo – Pesquisa".
+- Em 10 a 16/11, 72% do gasto visível de micose foi em busca de remédio ou tratamento caseiro, sem conversão (R$ 74,45 por conversão). Se continuar acima de R$ 50 por conversão em 2 semanas, avaliar concentrar a campanha no laser Lunula.
+- Unha encravada: a única conversão visível veio de "o que fazer para aliviar a dor"; não negativar "o que fazer", dor, pus, inflamada. Reavaliar "remédio", "antibiótico" e "anti-inflamatório" em 21/11.
+- 2 tags de conversão inativas na conta: ele mandar os nomes. Cisto e Marcação de consultas com aviso "Não há palavras-chave relevantes suficientes".
+
 ### Google Ads: nova análise em 21/11/2026 (2 semanas depois dos ajustes de 07/11)
 Ele exporta os dados do período de 08/11 a 21/11 e o relatório de termos de pesquisa em CSV. O Claude compara com a linha de base abaixo.
 A linha de base é a semana de 31/10 a 06/11, a primeira com as conversões novas do site medindo. Compare taxas e médias por dia, porque os períodos têm tamanhos diferentes.
