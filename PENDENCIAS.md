@@ -80,6 +80,11 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - Unha encravada: a única conversão visível veio de "o que fazer para aliviar a dor"; não negativar "o que fazer", dor, pus, inflamada. Reavaliar "remédio", "antibiótico" e "anti-inflamatório" em 21/11.
 - Conversões (18/11): Clique WhatsApp, Doctoralia e telefone funcionam (telefone registrou em 17/11). O "Requer atenção" é só a sugestão de conversões otimizadas com código na página, que não se aplica (o site não tem formulário com e-mail ou telefone). "Lead WhatsApp" e "agendamento" estão com configuração incorreta: conferir se alguma campanha usa e, se não, remover. Cisto e Marcação de consultas com aviso "Não há palavras-chave relevantes suficientes".
 
+### Google Ads: Marcação de consultas (análise de 18/11)
+- 10 a 16/11: R$ 749 em 7 dias (cerca de R$ 107/dia, contra R$ 16,49/dia na linha de base), 20 conversões, R$ 37,46 por conversão. "consulta com dermatologista": R$ 237 por 1 conversão. Melhores: [dermatologista], "clinica dermatologica sp", "medico de pele" (baixa qualidade), "dermatologista consulta", "dermatologista em sao paulo".
+- [ ] Pausar a palavra-chave "dr alexandre okubo" (autorizado por ele em 18/11).
+- [ ] Ele mandar o CSV de termos de pesquisa, o orçamento diário e o histórico de alterações desde 01/11 (prompt do Chrome de 18/11). Depois, decidir sobre "consulta com dermatologista" e as negativas convênio, plano de saúde, hospital, residência, curso, vaga, emprego, salário.
+
 ### Google Ads: nova análise em 21/11/2026 (2 semanas depois dos ajustes de 07/11)
 Ele exporta os dados do período de 08/11 a 21/11 e o relatório de termos de pesquisa em CSV. O Claude compara com a linha de base abaixo.
 A linha de base é a semana de 31/10 a 06/11, a primeira com as conversões novas do site medindo. Compare taxas e médias por dia, porque os períodos têm tamanhos diferentes.
