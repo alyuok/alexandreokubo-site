@@ -61,7 +61,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - [ ] Próximos temas: olheiras, melanoma, carcinoma basocelular (os de fios de PDO, dermatite, psoríase e urticária estão no item dos subitens).
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).
-  Atrasado (era 11/12/11): conferir a força do anúncio e a política da Unha encravada. Prompt pronto em `docs/prompt-pendencias-atrasadas-google-ads-2026-11-18.md` (Passo 1); tirar a fixação dos títulos 1 e 2 só se ele escrever "pode tirar a fixação".
+  Atrasado (era para 11 ou 12/11): conferir a força do anúncio e a política da Unha encravada. Prompt pronto em `docs/prompt-pendencias-atrasadas-google-ads-2026-11-18.md` (Passo 1); tirar a fixação dos títulos 1 e 2 só se ele escrever "pode tirar a fixação".
   A exportação de termos de 17/11 foi absorvida pela de 21/11 (período 08/11 a 21/11). Por volta de 24/11: comparar o custo por conversão com o da campanha de cisto.
   Os recursos de mensagem de WhatsApp que o Google anexou às duas campanhas ficaram pausados. Idioma não configurável na interface atual.
 - [ ] Conversões principais (resultado de 11/11, `docs/prompt-conversoes-secundarias-2026-11-11.md`): as ações criadas pelo Google (perfil da empresa, campanhas inteligentes, "Clicks to call") não podem ser reclassificadas ("criada pelo Google Ads e não pode ser editada").
