@@ -147,6 +147,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Xantelasma:** trata com plasma e ácido tricloroacético. Colesterol alterado: encaminha para cardiologia ou endocrinologia.
 - **Siringomas:** trata com Plasmage (confirmado em 07/11/2026).
 - **Ceratose seborreica:** criocirurgia, eletrocoagulação e plasma, nas duas clínicas. Na dúvida diagnóstica, envia para exame.
+- **Cisto sebáceo (18/11/2026):** receita antibiótico quando há sinais de infecção; faz infiltração de corticoide no cisto inflamado em alguns casos; compressa morna só para conforto até a drenagem ou cirurgia.
 - **Lipoma:** na dúvida, pede ultrassom. Lipomas grandes: encaminha para cirurgião, com cirurgia no hospital. Em geral, envia a peça para exame.
 - **Pintas (mapeamento):** quando o mapeamento corporal total é indicado, orienta onde fazer.
 - **Teleconsulta:** por vídeo. Pintas, primeira consulta de lesões e procedimentos só no presencial.

@@ -65,9 +65,10 @@ Quando o cisto inflama, fica vermelho, quente, inchado e dolorido. Nessa fase:
 
 - **Não esprema** nem fure com agulha: isso pode romper a cápsula e piorar a inflamação.
 - **Não passe pomada por conta própria** esperando que ela resolva.
+- **Compressa com água morna** pode dar conforto enquanto a lesão amadurece ou até a drenagem ou a cirurgia. Ela alivia, mas não resolve o cisto.
 - **Procure avaliação nos primeiros dias.** Na consulta, avalio se há infecção de verdade ou só inflamação, e decido entre drenar, tratar a inflamação e operar depois, ou operar já.
 
-Por isso, nem todo cisto inflamado precisa de antibiótico. Se houver sinais de infecção, eu o receito na consulta.
+Por isso, nem todo cisto inflamado precisa de antibiótico. Se houver sinais de infecção, eu o receito na consulta. Em alguns casos, também faço infiltração de corticoide no cisto, uma injeção que ajuda a reduzir a inflamação mais rápido.
 
 ## Posso espremer o cisto sebáceo?
 
