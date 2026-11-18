@@ -106,6 +106,6 @@ Itens 1 a 19 publicados em 10/11 (CFM, padrões de IA, H1 descritivos, seções 
 - [ ] Apagar no GitHub o branch `claude/zealous-cannon-zhcrnu-revisao`, criado por engano em 10/11 (a sessão não tem permissão para apagar).
 
 ### Manutenção
-- [ ] O "Leia também" da dermatologia clínica chegou a 11 links (com probióticos e acne). Deixar só os 6 a 8 artigos mais procurados.
+- O "Leia também" da dermatologia clínica foi reduzido a 8 links em 18/11 (artigos que não estão nos cartões). Rever com dados do Search Console no fim de dezembro.
   A escolha deve seguir os dados do Search Console, que ele vai enviar.
 - [ ] Atualizar `LAST_REVIEWED` em `site.ts` sempre que ele revisar o conteúdo institucional.
