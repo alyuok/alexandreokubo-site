@@ -17,7 +17,6 @@ Tudo o que é da Prime (site primedermatologia.com, perfil do Google da clínica
 O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da auditoria (CFM) se resolveu com a troca.
 
 ### Google Ads e GA4
-- [ ] Criar a campanha de cisto sebáceo (Pesquisa, R$ 25/dia, raio de ~10 km nas duas clínicas, URL `/retirada-de-cisto-sebaceo/`). Após 2 semanas, enviar ao Claude o relatório de termos de pesquisa.
 - [ ] GA4: marcar como eventos principais `contato_whatsapp`, `contato_doctoralia` e `contato_telefone` (em 07/11, eram 0 eventos principais).
 - [ ] Vincular o GA4 ao Google Ads (conta "Prime Dermato"). Se importar eventos do GA4 como conversão, deixá-los como secundários: as principais são as da tag do site.
 
