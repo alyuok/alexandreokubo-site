@@ -1,9 +1,9 @@
 ---
-title: 'Cisto sebáceo: por que inflama, por que não espremer e quando operar'
-description: 'O que é o cisto sebáceo (cisto epidérmico), por que ele inflama e volta, por que espremer piora, quando o antibiótico ajuda, como é a retirada e quando procurar um dermatologista.'
-answer: 'O cisto sebáceo é uma bolinha sob a pele, revestida por uma cápsula e cheia de queratina, uma massa branca e de cheiro forte. Ele é benigno e não precisa ser retirado se não incomoda. Quando inflama, cresce ou volta, o tratamento indicado é a retirada cirúrgica da cápsula inteira, com anestesia local.'
+title: 'Cisto sebáceo: o que é, por que inflama, pomada e quando retirar'
+description: 'Cisto sebáceo (cisto epidérmico): o que é, por que inflama, se existe pomada, o que fazer quando inflama e como é a retirada com dermatologista.'
+answer: 'O cisto sebáceo é uma bolinha sob a pele, revestida por uma cápsula e cheia de queratina, uma massa branca e de cheiro forte. Ele é benigno e não precisa ser retirado se não incomoda. Nenhuma pomada faz o cisto sumir. Quando inflama, o dermatologista decide entre drenar, tratar a inflamação e operar depois, ou operar já; quando volta ou cresce, a retirada da cápsula inteira, com anestesia local, reduz a chance de ele voltar.'
 pubDate: 2026-10-26
-reviewedDate: 2026-10-26
+reviewedDate: 2026-11-18
 category: 'Pele'
 about: ['Cisto epidérmico', 'Cisto sebáceo', 'Cisto triquilemal', 'Cirurgia dermatológica']
 sources:
@@ -28,13 +28,13 @@ status: aprovado
 
 "Doutor, tenho essa bolinha nas costas há anos. Às vezes sai uma massa branca com cheiro ruim. Agora ficou vermelha e dói." Essa história costuma ser a de um cisto sebáceo.
 
-## O que é o cisto sebáceo
+## O que é cisto sebáceo?
 
 Apesar do nome, o cisto sebáceo não é cheio de sebo. Ele é uma pequena bolsa sob a pele, com uma parede própria (a cápsula), formada por células parecidas com as da superfície da pele. Essas células continuam produzindo queratina, a mesma proteína da camada mais externa da pele, e ela se acumula dentro da bolsa. É essa massa branca e pastosa, de cheiro forte, que sai quando o cisto é apertado.
 
 Por isso, o nome mais correto é cisto epidérmico. "Cisto sebáceo" é o nome popular, e é o que uso aqui.
 
-### Como reconhecer
+### Como reconhecer um cisto sebáceo?
 
 - **Uma bolinha sob a pele,** firme ou amolecida, que se move um pouco quando você a empurra.
 - **Um ponto escuro no centro,** em parte dos casos. É a abertura de um poro por onde o cisto se comunica com a superfície.
@@ -45,28 +45,44 @@ Por isso, o nome mais correto é cisto epidérmico. "Cisto sebáceo" é o nome p
 
 *Cisto nas costas, medido com paquímetro na consulta. Foto de paciente, publicada com autorização.*
 
-### No couro cabeludo
+### Cisto sebáceo no couro cabeludo é diferente?
 
 No couro cabeludo, o cisto mais comum é de outro tipo, o cisto triquilemal (ou pilar), que nasce da raiz do fio. Ele costuma ser mais liso e mais firme, sem o ponto central. Muitas vezes aparece mais de um, e é comum que outras pessoas da família também tenham. Uma revisão sobre lesões do couro cabeludo aponta que os cistos somam mais da metade das lesões benignas dessa região. O tratamento é o mesmo: retirada da cápsula, quando incomoda.
 
-## Por que o cisto inflama
+## Por que o cisto sebáceo inflama?
 
 O mecanismo ainda é discutido. A explicação mais aceita é que a parede se rompe sob a pele, por um aperto, uma batida ou o atrito da roupa. A queratina vaza para os tecidos em volta, e o corpo reage a ela como reage a um corpo estranho, com inflamação intensa.
 
 Por fora, a inflamação se parece com uma infecção. Em um estudo com 76 cistos inflamados sem febre nem outros sintomas no corpo, quase metade (47%) não teve crescimento de bactérias causadoras de doença na cultura. Mesmo assim, em uma pesquisa com médicos, 84% dos clínicos gerais e 94% dos dermatologistas disseram que receitariam antibiótico para um cisto inflamado. Quando o exame mostra sinais de infecção, o antibiótico entra no tratamento.
 
-## Por que não espremer
+## Existe pomada para cisto sebáceo?
+
+Nenhuma pomada faz o cisto sebáceo sumir. O cisto tem uma cápsula sob a pele, e a pomada não remove essa cápsula. Pomadas com antibiótico, com corticoide ou "puxa-pus" não tiram a cápsula, por isso o cisto continua no lugar, mesmo quando a inflamação passa.
+
+### Cisto sebáceo inflamado: o que fazer?
+
+Quando o cisto inflama, fica vermelho, quente, inchado e dolorido. Nessa fase:
+
+- **Não esprema** nem fure com agulha: isso pode romper a cápsula e piorar a inflamação.
+- **Não passe pomada por conta própria** esperando que ela resolva.
+- **Procure avaliação nos primeiros dias.** Na consulta, avalio se há infecção de verdade ou só inflamação, e decido entre drenar, tratar a inflamação e operar depois, ou operar já.
+
+Por isso, nem todo cisto inflamado precisa de antibiótico. Se houver sinais de infecção, eu o receito na consulta.
+
+## Posso espremer o cisto sebáceo?
+
+Não. Espremer tira só o conteúdo e pode romper a cápsula, piorar a inflamação e levar bactérias para dentro.
 
 Espremer o cisto em casa pode:
 
-- **Romper a cápsula por dentro,** espalhando queratina e provocando a inflamação descrita acima.
+- **Romper a cápsula por dentro,** espalhando queratina e provocando inflamação.
 - **Levar bactérias da pele para dentro,** transformando a inflamação em infecção.
 - **Deixar a cápsula no lugar.** O conteúdo sai, mas a bolsa continua e volta a encher. É por isso que o cisto "some e volta".
 - **Aumentar a cicatriz,** porque a pele em volta fica mais inflamada e frágil.
 
 Com agulha, alfinete ou lâmina, esses riscos aumentam.
 
-## Precisa tirar?
+## Cisto sebáceo precisa ser retirado?
 
 Não necessariamente. O cisto sebáceo é benigno, e um cisto pequeno, que não incomoda e não muda, pode ser só acompanhado.
 
@@ -80,7 +96,7 @@ Os motivos para retirar são:
 - **Incômodo estético,** sobretudo no rosto e no pescoço.
 - **Dúvida no diagnóstico,** quando a bolinha não tem o aspecto típico de cisto.
 
-## Como é a retirada
+## Como é a retirada do cisto sebáceo?
 
 A retirada é feita em consultório, com anestesia local. O objetivo é tirar a cápsula inteira, porque é ela que produz a queratina. Se um pedaço fica, o cisto pode voltar.
 
@@ -93,11 +109,11 @@ Escolho a técnica de acordo com o tamanho, o local e a história de cada cisto.
 
 Faço a retirada nas duas clínicas: na Prime Dermatologia e Saúde Emocional, na Vila Clementino, em São Paulo, e na Clínica Portugal, em Santo André.
 
-### E se o cisto estiver inflamado?
+### Dá para operar o cisto sebáceo inflamado?
 
 Com o cisto inflamado, a cápsula fica frágil e se desfaz, o que dificulta a retirada completa. A conduta tradicional é tratar a inflamação primeiro, às vezes com uma drenagem, e operar depois que ela passa. Um estudo chinês com 351 pacientes comparou essa conduta com a retirada imediata do cisto inflamado, em casos selecionados. A retirada imediata reduziu o tempo de antibiótico, as complicações e o custo. Decido caso a caso, no exame, entre drenar, tratar a inflamação e operar depois, ou operar já.
 
-### Depois da retirada
+### Como é a recuperação depois da retirada?
 
 Os cuidados são com o curativo e, quando há pontos, com a retirada deles depois de 7 a 14 dias, conforme o local. Na maioria dos casos, dá para voltar às atividades no mesmo dia ou no seguinte. Se você fuma, conte na consulta: o cigarro está associado a mais complicações na cicatrização, como explico no artigo sobre [cigarro e pele](/blog/cigarro-e-pele/).
 
