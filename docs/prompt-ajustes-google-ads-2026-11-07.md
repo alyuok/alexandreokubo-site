@@ -1,3 +1,5 @@
+> **Correção de 18/11/2026:** a conta "Prime Dermato" é a **138-068-5039** (confirmado por ele). O número 375-279-5144 citado abaixo está errado. Fonte única: `analytics.adsAccount` em `src/data/site.ts`.
+
 # Prompt: ajustes na conta do Google Ads (07/11/2026)
 
 Para colar no Claude que opera a conta "Prime Dermato" (375-279-5144). Baseado na auditoria de 07/11 e no CSV de termos de pesquisa (08/10 a 06/11).

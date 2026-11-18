@@ -57,10 +57,12 @@ export const reviews = [
 // Medição. Vazio = nada é carregado.
 // ga4: ID de medição do fluxo web (formato G-XXXXXXXXXX).
 // googleAds: ID da tag do Google Ads (formato AW-XXXXXXXXXX), não o número da conta.
+// adsAccount: número da conta "Prime Dermato" (confirmado por ele em 18/11/2026). Fonte única; documentos remetem aqui.
 // adsConversions: rótulo de cada ação de conversão criada no Google Ads.
 export const analytics = {
   ga4: 'G-PYB8EG1D9J',
   googleAds: 'AW-1066674224',
+  adsAccount: '138-068-5039',
   adsConversions: { whatsapp: 'FKQACKPi-qYdELDQ0PwD', doctoralia: 'AEreCKbi-qYdELDQ0PwD', telefone: 'mvy8CP2K8bMdELDQ0PwD' } as Record<string, string>,
 };
 

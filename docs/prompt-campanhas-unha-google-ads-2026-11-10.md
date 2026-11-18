@@ -1,3 +1,5 @@
+> **Correção de 18/11/2026:** a conta "Prime Dermato" é a **138-068-5039** (confirmado por ele). O número 375-279-5144 citado abaixo está errado. Fonte única: `analytics.adsAccount` em `src/data/site.ts`.
+
 # Prompt: verificar e ativar as campanhas de micose de unha e unha encravada (10/11/2026)
 
 Para colar no Claude que opera a conta do Google Ads "Prime Dermato" (375-279-5144).

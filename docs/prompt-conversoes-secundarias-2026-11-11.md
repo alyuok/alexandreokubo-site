@@ -1,3 +1,5 @@
+> **Correção de 18/11/2026:** a conta "Prime Dermato" é a **138-068-5039** (confirmado por ele). O número 375-279-5144 citado abaixo está errado. Fonte única: `analytics.adsAccount` em `src/data/site.ts`.
+
 Você vai operar a conta do Google Ads "Prime Dermato" (375-279-5144). Tarefa única: corrigir quais ações de conversão são PRINCIPAIS. Não mexa em campanhas, anúncios, lances, orçamentos nem palavras-chave.
 
 CONTEXTO

@@ -4,7 +4,7 @@ Dermatologista, CRM-SP 90.743, RQE 30.051. Diretor técnico da Prime Dermatologi
 Objetivo do site: SEO, GEO e AEO, atrair pacientes particulares e construir autoridade.
 **Foco em SEO e GEO (regra fixa, muito importante, pedido dele em 10/11):** todo artigo e página existe para ser encontrado no Google e citado por ferramentas de IA. Qualquer texto novo ou revisão de linguagem preserva isso: H1 e title com o termo que as pessoas buscam (e o local, quando couber); `answer` direto no topo; subtítulos no formato das perguntas reais; nome popular ao lado do termo técnico; links internos com âncora descritiva; números com fonte. Nunca trocar um termo buscado por sinônimo só para evitar repetição, nem cortar a resposta direta para deixar o texto mais "literário".
 Astro 5 estático, GitHub alyuok/alexandreokubo-site, Cloudflare Pages (`npm run build`, saída `dist`, Node 22).
-Pendências abertas: `PENDENCIAS.md` (atualize ao concluir ou criar uma).
+Pendências abertas: `PENDENCIAS.md` (atualize ao concluir ou criar uma). Antes de criar uma pendência, veja se ela pertence ao clinicaprime; se sim, escreva lá. Google Ads e GA4 `G-PYB8EG1D9J` são deste repositório; perfil do Google, GA4, domínios e DNS da Prime são do clinicaprime. O outro arquivo só aponta, sem copiar número nem status.
 Outros agentes (Codex, Cursor etc.) leem `AGENTS.md`, que só aponta para este arquivo. Este `CLAUDE.md` é a fonte única das regras: mudanças vão aqui, nunca no `AGENTS.md`.
 
 ## Como falar com ele
@@ -160,6 +160,6 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Redes:** o handle é alexandreokubodermato. O TikTok é @alexandreokubo.dermato até a troca (ver PENDENCIAS.md).
 
 ## Medição
-GA4 `G-PYB8EG1D9J`, Google Ads `AW-1066674224`, conversões em `analytics.adsConversions` (`site.ts`).
+GA4 `G-PYB8EG1D9J`, Google Ads `AW-1066674224`, conversões em `analytics.adsConversions` (`site.ts`). Conta do Google Ads "Prime Dermato": `analytics.adsAccount` (138-068-5039, confirmado em 18/11/2026).
 Os cliques em links `tel:` disparam a conversão `telefone` ("Clique telefone"), via `src/components/Analytics.astro`.
 O Analytics carrega antes do aceite, com Consent Mode (sinais sem cookie até o "Aceitar"). Decisão dele em 29/10/2026: manter assim.

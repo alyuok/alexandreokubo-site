@@ -1,6 +1,8 @@
 # Pendências
 
-Atualizado em 2026-11-16. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-18. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+
+**Dono de cada assunto:** este arquivo é o único dono do Google Ads (todas as campanhas, conta "Prime Dermato", ID em `analytics.adsAccount` de `src/data/site.ts`) e do GA4 `G-PYB8EG1D9J`. O `PENDENCIAS.md` do clinicaprime só aponta para cá.
 
 ## Do lado do Dr. Alexandre
 
