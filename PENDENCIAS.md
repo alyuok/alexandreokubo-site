@@ -61,8 +61,8 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - [ ] Próximos temas: olheiras, melanoma, carcinoma basocelular (os de fios de PDO, dermatite, psoríase e urticária estão no item dos subitens).
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).
-  Em 11 ou 12/11: conferir a força do anúncio já calculada (estava "Ruim" no editor) e a análise de política da Unha encravada. Se continuar "Ruim", testar tirar a fixação dos títulos 1 e 2 (o CRM e o RQE seguem fixados na descrição 1 e no título 3).
-  Por volta de 17/11: exportar os termos de pesquisa das duas campanhas para revisar as negativas. Por volta de 24/11: comparar o custo por conversão com o da campanha de cisto.
+  Atrasado (era 11/12/11): conferir a força do anúncio e a política da Unha encravada. Prompt pronto em `docs/prompt-pendencias-atrasadas-google-ads-2026-11-18.md` (Passo 1); tirar a fixação dos títulos 1 e 2 só se ele escrever "pode tirar a fixação".
+  A exportação de termos de 17/11 foi absorvida pela de 21/11 (período 08/11 a 21/11). Por volta de 24/11: comparar o custo por conversão com o da campanha de cisto.
   Os recursos de mensagem de WhatsApp que o Google anexou às duas campanhas ficaram pausados. Idioma não configurável na interface atual.
 - [ ] Conversões principais (resultado de 11/11, `docs/prompt-conversoes-secundarias-2026-11-11.md`): as ações criadas pelo Google (perfil da empresa, campanhas inteligentes, "Clicks to call") não podem ser reclassificadas ("criada pelo Google Ads e não pode ser editada").
   Corrigido o que importa: as campanhas de consultas e cisto passaram a usar as metas padrão da conta, e as metas padrão filtram por origem (Contato: só Site; Lead telefônico: só chamadas de anúncios).
@@ -76,7 +76,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
 
 ### Google Ads: negativas aplicadas em 18/11 (autorizadas por ele)
-- [ ] Conferir se o Chrome aplicou: 44 negativas de frase em "Micose de unha - Pesquisa" (remédio, produtos, nomes de remédio, tratamento em casa, podologia); 24 em "Unha encravada - Pesquisa" (aparelhos, produtos caseiros, pdf, antes e depois, bebê, podóloga, pós-operatório); retirada de "tempo de recuperação" e "cuidados após" de "Cisto sebáceo – Pesquisa".
+- [ ] Conferir se o Chrome aplicou (Passo 2 do prompt de 18/11 acima): 44 negativas de frase em "Micose de unha - Pesquisa" (remédio, produtos, nomes de remédio, tratamento em casa, podologia); 24 em "Unha encravada - Pesquisa" (aparelhos, produtos caseiros, pdf, antes e depois, bebê, podóloga, pós-operatório); retirada de "tempo de recuperação" e "cuidados após" de "Cisto sebáceo – Pesquisa".
 - Em 10 a 16/11, 72% do gasto visível de micose foi em busca de remédio ou tratamento caseiro, sem conversão (R$ 74,45 por conversão). Se continuar acima de R$ 50 por conversão em 2 semanas, avaliar concentrar a campanha no laser Lunula.
 - Unha encravada: a única conversão visível veio de "o que fazer para aliviar a dor"; não negativar "o que fazer", dor, pus, inflamada. Reavaliar "remédio", "antibiótico" e "anti-inflamatório" em 21/11.
 - Conversões (18/11): Clique WhatsApp, Doctoralia e telefone funcionam (telefone registrou em 17/11). O "Requer atenção" é só a sugestão de conversões otimizadas com código na página, que não se aplica (o site não tem formulário com e-mail ou telefone). "Lead WhatsApp" e "agendamento" estão com configuração incorreta: conferir se alguma campanha usa e, se não, remover. Cisto e Marcação de consultas com aviso "Não há palavras-chave relevantes suficientes".
