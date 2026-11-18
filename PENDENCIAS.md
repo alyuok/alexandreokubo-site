@@ -85,6 +85,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - Palavra-chave "dr alexandre okubo" pausada em 18/11 (ele rodou o prompt).
 - Aplicadas em 18/11 (56 negativas no total): dr, dra, doutora, itaquaquecetuba, mairinque, carapicuíba, carapicuiba, jundiaí, jundiai, posto de saúde, posto de saude, ubs. Orçamento caiu de R$ 110 para R$ 30/dia em 13/11 (explica o gasto alto de 10 a 16/11).
 - [ ] Teste de 2 semanas aplicado em 18/11 (reavaliar por volta de 02/12): reativada "melhores dermatologistas sp"; acrescentar "melhores dermatologistas" e "dermatologista particular" (frase). Volumes OpenSEO (Brasil): 170, 90 e 320 buscas/mês. Anúncios seguem sem superlativo.
+- [ ] Micose de unha (18/11): criar grupo "Laser" (anúncio sem superlativo, destino /micose-de-unha/, palavras de frase: tratamento a laser para micose de unha, laser para micose de unha, laser micose unha, lunula laser, laser lunula) e negativas "caneta" e "dispositivo". Volumes OpenSEO (Brasil): tratamento a laser 90/mês, lunula laser 30/mês. Artigo de micose ganhou a seção "Qual o melhor tratamento para micose de unha?" (110 + 70 buscas/mês).
 - [ ] Imagem 600x314 (logo da Prime com a foto dele) reprovada por texto sobreposto: trocar por foto sem texto ou remover (decisão dele).
 - [ ] Ele mandar o CSV de termos de pesquisa, o orçamento diário e o histórico de alterações desde 01/11 (prompt do Chrome de 18/11). Depois, decidir sobre "consulta com dermatologista" e as negativas convênio, plano de saúde, hospital, residência, curso, vaga, emprego, salário.
 
