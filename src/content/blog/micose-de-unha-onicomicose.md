@@ -3,9 +3,9 @@ title: 'Micose de unha (onicomicose): por que nem toda unha grossa é fungo e co
 description: 'O que é a onicomicose, como confirmar o diagnóstico antes de tratar, quais são as opções de tratamento, quanto tempo leva e como evitar que a micose de unha volte.'
 answer: 'A onicomicose é a infecção da unha por fungos e é a doença de unha mais comum no consultório. Como outras condições deixam a unha com aparência parecida, o diagnóstico deve ser confirmado por exame antes do tratamento, que pode ser tópico, oral ou combinado, e costuma levar meses.'
 pubDate: 2026-10-23
-reviewedDate: 2026-10-23
+reviewedDate: 2026-11-18
 category: 'Unhas'
-about: ['Onicomicose', 'Doenças das unhas']
+about: ['Onicomicose', 'Micose de unha', 'Tratamento a laser para micose de unha', 'Doenças das unhas']
 sources:
   - label: 'Lipner SR, Scher RK. Onychomycosis: treatment and prevention of recurrence. J Am Acad Dermatol, 2019'
     url: 'https://doi.org/10.1016/j.jaad.2018.05.1260'
@@ -66,15 +66,19 @@ Isso evita meses de tratamento para uma doença que a pessoa não tem.
 - **O tratamento é interrompido cedo.** A unha do pé cresce devagar, e a melhora visível demora meses. Muita gente desiste antes.
 - **O pé de atleta não é tratado junto**, e o fungo volta a infectar a unha.
 
+## Qual o melhor tratamento para micose de unha?
+
+A escolha depende de quantas unhas estão afetadas e de quanto de cada unha o fungo atingiu. Nos casos moderados a graves, o antifúngico por via oral é considerado o tratamento de referência. Nos leves, que atingem só a ponta de poucas unhas, o tratamento tópico (esmalte ou solução antifúngica) pode bastar. O laser de baixa intensidade entra como opção para quem não pode ou não quer tomar remédio, ou junto com os antifúngicos. Antes de escolher, o diagnóstico precisa ser confirmado, porque nem toda unha grossa tem fungo.
+
 ## Como é o tratamento
 
 O tratamento é escolhido de acordo com a quantidade de unhas afetadas, a extensão do comprometimento em cada unha, o tipo de fungo, a idade, outras doenças e os medicamentos que a pessoa já usa.
 
 - **Tratamento tópico** (esmaltes e soluções antifúngicas): indicado para casos leves a moderados, ou quando o tratamento oral não é possível. Tem poucos efeitos colaterais, mas exige uso diário por muitos meses.
-- **Tratamento oral**: é considerado o tratamento de referência nos casos moderados a graves e tem duração menor. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
+- **Tratamento oral**: tem duração menor que o tópico. Como alguns antifúngicos interagem com outros medicamentos e exigem acompanhamento, a prescrição e o monitoramento são médicos.
 - **Tratamento combinado**: associar o oral ao tópico melhora os resultados em parte dos casos.
 - **Desbaste da unha**: reduzir a espessura e retirar a parte infectada diminui a quantidade de fungos e ajuda o medicamento a agir. Quando necessário, faço o desbaste no próprio consultório.
-- **Laser**: na Prime, uso o Lunula, um laser de baixa intensidade que não aquece a unha e costuma ser bem tolerado. A sessão não exige anestesia, você volta à rotina no mesmo dia e o laser trata unhas dos pés e das mãos. Num estudo retrospectivo com 50 unhas do pé, 67% tiveram crescimento de pelo menos 3 mm de unha saudável em 6 meses. O protocolo costuma ter pelo menos 8 sessões, uma por semana. O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que possível, porém, associo o laser aos antifúngicos: em estudos com outros tipos de laser, a combinação com antifúngicos tópicos teve resultados melhores do que o antifúngico tópico sozinho.
+- **Tratamento a laser**: na Prime, uso o Lunula, um laser de baixa intensidade que não aquece a unha e costuma ser bem tolerado. A sessão não exige anestesia, você volta à rotina no mesmo dia e o laser trata unhas dos pés e das mãos. Num estudo retrospectivo com 50 unhas do pé, 67% tiveram crescimento de pelo menos 3 mm de unha saudável em 6 meses. O protocolo costuma ter pelo menos 8 sessões, uma por semana. O Lunula pode ser feito de forma isolada por quem não pode ou não quer tomar medicamentos. Sempre que possível, porém, associo o laser aos antifúngicos: em estudos com outros tipos de laser, a combinação com antifúngicos tópicos teve resultados melhores do que o antifúngico tópico sozinho.
 
 Em vários países, já existem fungos resistentes a alguns antifúngicos. Usar o medicamento certo, na dose e pelo tempo corretos, também ajuda a evitar esse problema.
 
