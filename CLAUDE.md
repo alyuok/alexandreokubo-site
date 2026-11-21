@@ -150,7 +150,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Cisto sebáceo (18/11/2026):** receita antibiótico quando há sinais de infecção; faz infiltração de corticoide no cisto inflamado em alguns casos; compressa morna só para conforto até a drenagem ou cirurgia.
 - **Lipoma:** na dúvida, pede ultrassom. Lipomas grandes: encaminha para cirurgião, com cirurgia no hospital. Em geral, envia a peça para exame.
 - **Pintas (mapeamento):** quando o mapeamento corporal total é indicado, orienta onde fazer.
-- **Teleconsulta:** por vídeo. Pintas, primeira consulta de lesões e procedimentos só no presencial.
+- **Teleconsulta:** por vídeo. Serve para consultas e segunda opinião, principalmente quando a lesão pode ser vista por foto ou vídeo, além de retornos e resultado de exames (21/11/2026). Pintas (dermatoscopia), lesões que precisam ser tocadas e procedimentos só no presencial.
 - **Menopausa:** pelos indesejados com laser de diodo. O número de 30% de perda de colágeno está autorizado.
 - **Suplementos:** biotina tem papel nas unhas frágeis. Oriente suspender 3 dias antes de exames de sangue.
   Não diga que a biotina "não tem benefício".
