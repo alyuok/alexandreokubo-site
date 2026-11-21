@@ -344,7 +344,8 @@ const faq = [
   .pt-rotulo { margin-top: 20px; padding: 18px; border: 2px solid var(--gold); border-radius: 14px; background: #fbf6ea; scroll-margin-top: 90px; }
   .pt-rotulo.pisca { animation: pisca 1.2s ease 2; }
   @keyframes pisca { 50% { box-shadow: 0 0 0 6px rgba(203, 165, 84, 0.35); } }
-  .pt-rotulo-form { display: grid; grid-template-columns: 1fr 1.6fr 1fr 0.7fr; gap: 10px; align-items: end; }
+  .pt-rotulo-form { display: grid; grid-template-columns: 1fr 1fr; gap: 12px 14px; align-items: end; }
+  .pt-rotulo-form .btn { grid-column: 1 / -1; justify-self: start; }
   @media (max-width: 640px) { .pt-rotulo-form { grid-template-columns: 1fr; } }
   .pt-dialog { width: min(640px, 100vw - 24px); max-height: 88vh; border: 0; border-radius: 16px; padding: 18px; }
   .pt-dialog::backdrop { background: rgba(52, 53, 56, 0.5); }
