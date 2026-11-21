@@ -1,7 +1,7 @@
 ---
 title: 'Quanta proteína comer por dia: cálculo por peso, idade e objetivo'
 description: 'Quanta proteína você precisa por dia: a referência por quilo de peso, quanto muda depois dos 65 anos, para quem treina, emagrece ou usa caneta emagrecedora, como dividir entre as refeições e quanto tem nos alimentos do dia a dia.'
-answer: 'Um adulto saudável precisa de pelo menos 0,8 g de proteína por quilo de peso por dia. Depois dos 65 anos, a referência sobe para 1,0 a 1,2 g por quilo; para quem treina com regularidade, para 1,4 a 2,0 g; e, durante o emagrecimento, fica entre 1,2 e 1,6 g. O ideal é dividir essa quantidade entre as refeições, com 20 a 40 g em cada refeição principal.'
+answer: 'Um adulto saudável precisa de pelo menos 0,8 g de proteína por quilo de peso por dia. Depois dos 65 anos, a referência sobe para 1,0 a 1,2 g por quilo; para quem treina com regularidade, para 1,4 a 2,0 g; e, durante o emagrecimento, fica entre 1,2 e 1,6 g. Divida essa quantidade entre as refeições, com 20 a 40 g em cada refeição principal.'
 pubDate: 2026-11-21
 reviewedDate: 2026-11-21
 category: 'Estilo de vida e pele'
@@ -28,7 +28,7 @@ status: rascunho
 
 "Doutor, eu como bem, não sei por que meu cabelo está caindo." Quando peço para a paciente contar o que comeu no dia anterior, a conta costuma ser parecida: café com pão, salada com um pouco de frango no almoço, um lanche à noite. Somando tudo, a proteína do dia fica abaixo do mínimo, mesmo sem a pessoa passar fome.
 
-A proteína é a matéria-prima de músculos, pele, cabelos e unhas. Saber quanto você precisa, e se está chegando lá, é mais simples do que parece. Para fazer a conta com os seus dados, use a [calculadora de proteína diária](/calculadora-de-proteina/).
+A proteína é a matéria-prima de músculos, pele, cabelos e unhas. Para saber quanto você precisa e se está chegando lá, basta fazer a conta pelo seu peso. Para fazer a conta com os seus dados, use a [calculadora de proteína diária](/calculadora-de-proteina/).
 
 ## Quanta proteína preciso comer por dia?
 
@@ -44,15 +44,15 @@ Homens e mulheres seguem as mesmas recomendações por quilo. A diferença no to
 
 ### Quem tem obesidade calcula pelo peso atual?
 
-Não. O peso total inclui muita gordura, que usa pouca proteína para se manter. Um estudo em pacientes em hemodiálise sugere que, com IMC (índice de massa corporal) acima de 30, o cálculo pelo peso total pode superestimar a necessidade em dezenas de gramas por dia. Na prática, uso o peso que a pessoa teria com IMC 25 para a altura dela. É o que a calculadora faz.
+Em geral, não. O peso total inclui muita gordura, que usa pouca proteína para se manter. Um estudo em pacientes em hemodiálise, um grupo específico, sugere que, com IMC (índice de massa corporal) acima de 30, o cálculo pelo peso total pode superestimar a necessidade em dezenas de gramas por dia. Na prática, uso o peso que a pessoa teria com IMC 25 para a altura dela. É o que a calculadora faz.
 
-## Como dividir a proteína entre as refeições
+## Como dividir a proteína entre as refeições do dia?
 
 Comer a proteína toda de uma vez, no jantar, não equivale a distribuí-la ao longo do dia. A ISSN recomenda de 20 a 40 g de proteína por refeição, ou cerca de 0,25 g por quilo de peso, a cada 3 ou 4 horas. Para o emagrecimento, uma revisão no American Journal of Clinical Nutrition fala em pelo menos 25 a 30 g por refeição.
 
 O ponto fraco costuma ser o café da manhã. Pão com café soma cerca de 5 g. Um ovo, uma fatia de queijo ou um pote de iogurte natural já dobram ou triplicam essa conta. Os lanches ajudam a completar o dia, mas não substituem uma refeição principal sem proteína.
 
-## Quanta proteína tem nos alimentos
+## Quanta proteína tem nos alimentos do dia a dia?
 
 Os valores abaixo vêm da Tabela Brasileira de Composição de Alimentos da USP (TBCA), com exceção do ovo, em que uso a tabela TACO, da Unicamp. São aproximados: dependem do tamanho da porção e do preparo.
 
@@ -79,7 +79,7 @@ Para uma mulher de 60 kg com menos de 65 anos e pouco ativa, a meta é de 48 a 6
 - **Almoço:** arroz, 1 concha de feijão e 1 filé de frango (cerca de 39 g).
 - **Lanche:** 1 pote de iogurte natural (cerca de 7 g).
 
-O jantar ainda nem entrou na conta. Sem o ovo, o queijo e o frango, o mesmo dia ficaria perto de 20 g.
+E isso sem contar o jantar. Sem o ovo, o queijo e o frango, o mesmo dia ficaria perto de 20 g.
 
 ## Vegetarianos e veganos conseguem atingir a meta?
 
@@ -87,15 +87,15 @@ Conseguem, mas exige mais planejamento. Lentilha, grão-de-bico, feijões, tofu 
 
 ## Preciso de suplemento de proteína?
 
-Na maioria das vezes, não. A alimentação resolve. O suplemento em pó, como o whey (proteína do soro do leite), é uma forma prática de completar o dia para quem treina muito, para idosos com pouco apetite e para quem usa caneta emagrecedora e come pouco. Pela TBCA, uma dose de 30 g tem cerca de 23 g de proteína, mas confira sempre o rótulo, porque a quantidade muda entre as marcas.
+Na maioria das vezes, não: a alimentação dá conta. O suplemento em pó, como o whey (proteína do soro do leite), é uma forma prática de completar o dia para quem treina muito, para idosos com pouco apetite e para quem usa caneta emagrecedora e come pouco. Pela TBCA, uma dose de 30 g tem cerca de 23 g de proteína, mas confira sempre o rótulo, porque a quantidade muda entre as marcas.
 
 O colágeno em pó é uma proteína incompleta: falta a ele um aminoácido essencial, o triptofano. Ele entra na soma do dia, mas não substitui as outras fontes.
 
-## Proteína e canetas emagrecedoras
+## Quanta proteína comer por dia usando caneta emagrecedora?
 
 Os remédios da classe GLP-1, as chamadas canetas emagrecedoras, reduzem bastante o apetite. Um consenso de quatro sociedades americanas publicado em 2025 alerta para a perda de músculo e de osso durante o tratamento e recomenda alimentação adequada em proteína e treino de força. O consenso não fixa um número em gramas. Por isso, uso a faixa do emagrecimento, de 1,2 a 1,6 g por quilo, e oriento começar cada refeição pela proteína. Leia mais sobre [o efeito das canetas emagrecedoras na pele e nas unhas](/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/).
 
-## Quem precisa de cuidado com a proteína
+## Quem não deve aumentar a proteína por conta própria?
 
 Na doença renal crônica, a quantidade de proteína pode precisar ser menor, e quem define é o médico que acompanha você. Gestação, amamentação, doença do fígado e crianças também têm regras próprias. Nesses casos, não use a calculadora nem aumente a proteína por conta própria.
 
@@ -105,6 +105,6 @@ Pouca proteína pode contribuir para a queda de cabelo e para unhas fracas, mas 
 
 ## Quando procurar um dermatologista
 
-Procure uma avaliação se a queda de cabelo dura mais de três meses, se as unhas ficaram fracas ou mudaram de aspecto sem motivo claro, ou se você perdeu muito peso e a pele ficou flácida. Na consulta, avalio a pele, o couro cabeludo e as unhas, pergunto sobre a alimentação e peço os exames quando a história indica. Quando é preciso um plano alimentar detalhado, o acompanhamento com nutricionista faz diferença.
+Procure uma avaliação se a queda de cabelo dura mais de três meses, se as unhas ficaram fracas ou mudaram de aspecto sem motivo claro, ou se você perdeu muito peso e a pele ficou flácida. Na consulta, avalio a pele, o couro cabeludo e as unhas, pergunto sobre a alimentação e peço os exames quando a história indica. Quando é preciso um plano alimentar detalhado, o acompanhamento com nutricionista ajuda a montar o cardápio.
 
 [Conheça a dermatologia clínica e agende sua consulta](/dermatologia-clinica/).
