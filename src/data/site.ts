@@ -115,12 +115,19 @@ export const locations = [
   },
 ];
 
-export const nav = [
+export type NavItem = { href: string; label: string; children?: { href: string; label: string }[] };
+export const nav: NavItem[] = [
   { href: '/sobre/', label: 'Sobre' },
-  { href: '/abordagem/', label: 'Abordagem' },
-  { href: '/dermatologia-clinica/', label: 'Clínica' },
-  { href: '/cirurgia-dermatologica/', label: 'Cirurgia' },
-  { href: '/dermatologia-estetica/', label: 'Estética' },
+  { href: '/abordagem/', label: 'Como atendo' },
+  {
+    href: '/dermatologia-clinica/',
+    label: 'Tratamentos',
+    children: [
+      { href: '/dermatologia-clinica/', label: 'Dermatologia clínica' },
+      { href: '/cirurgia-dermatologica/', label: 'Cirurgia dermatológica' },
+      { href: '/dermatologia-estetica/', label: 'Dermatologia estética' },
+    ],
+  },
   { href: '/onde-atendo/', label: 'Onde atendo' },
   { href: '/blog/', label: 'Blog' },
 ];

@@ -10,7 +10,7 @@ import frauncesUrl from '@fontsource-variable/fraunces/files/fraunces-latin-wght
 import frauncesItalicUrl from '@fontsource-variable/fraunces/files/fraunces-latin-wght-italic.woff2?url';
 import dmSansUrl from '@fontsource/dm-sans/files/dm-sans-latin-400-normal.woff2?url';
 import Analytics from '../components/Analytics.astro';
-import { doctor, booking, locations, nav, analytics, SITE_URL, telIntl } from '../data/site';
+import { doctor, booking, locations, nav, analytics, SITE_URL, telIntl, waLink } from '../data/site';
 import { personSchema, websiteSchema, clinicSchema, breadcrumbSchema } from '../data/schema';
 
 interface Props {
@@ -38,6 +38,8 @@ const graph = {
   ],
 };
 const year = new Date().getFullYear();
+const ativo = (href: string) => Astro.url.pathname.startsWith(href);
+const slug = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z]+/g, '_');
 const hasAnalytics = Boolean(analytics.ga4 || analytics.googleAds);
 ---
 <!doctype html>
@@ -72,22 +74,38 @@ const hasAnalytics = Boolean(analytics.ga4 || analytics.googleAds);
         </a>
         <nav aria-label="Principal" class="nav-desktop">
           <ul>
-            {nav.map((n) => (
-              <li><a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>
+            {nav.map((n) => n.children ? (
+              <li>
+                <details class="sub">
+                  <summary class={n.children.some((c) => ativo(c.href)) ? 'is-active' : undefined}>{n.label}</summary>
+                  <ul>
+                    {n.children.map((c) => <li><a href={c.href} aria-current={ativo(c.href) ? 'page' : undefined}>{c.label}</a></li>)}
+                  </ul>
+                </details>
+              </li>
+            ) : (
+              <li><a href={n.href} aria-current={ativo(n.href) ? 'page' : undefined}>{n.label}</a></li>
             ))}
-            <li><a class="btn btn--sm" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar</a></li>
+            <li><a class="btn btn--sm" href="/onde-atendo/" data-agendar>Agendar consulta</a></li>
           </ul>
         </nav>
         <div class="header-mobile">
-          <a class="btn btn--sm header-book" href={booking.primaryUrl} rel="noopener" target="_blank">Agendar</a>
+          <a class="btn btn--sm header-book" href="/onde-atendo/" data-agendar>Agendar</a>
           <details class="menu">
             <summary aria-label="Abrir menu"><span></span><span></span></summary>
             <nav aria-label="Principal (celular)">
               <ul>
-                {nav.map((n) => (
-                  <li><a href={n.href} aria-current={Astro.url.pathname.startsWith(n.href) ? 'page' : undefined}>{n.label}</a></li>
+                {nav.map((n) => n.children ? (
+                  <li>
+                    <span class="menu-group">{n.label}</span>
+                    <ul class="menu-sub">
+                      {n.children.map((c) => <li><a href={c.href} aria-current={ativo(c.href) ? 'page' : undefined}>{c.label}</a></li>)}
+                    </ul>
+                  </li>
+                ) : (
+                  <li><a href={n.href} aria-current={ativo(n.href) ? 'page' : undefined}>{n.label}</a></li>
                 ))}
-                <li class="menu-cta"><a class="btn" href={booking.primaryUrl} rel="noopener" target="_blank">{booking.primaryLabel}</a></li>
+                <li class="menu-cta"><a class="btn" href="/onde-atendo/" data-agendar>Agendar consulta</a></li>
               </ul>
             </nav>
           </details>
@@ -134,6 +152,50 @@ const hasAnalytics = Boolean(analytics.ga4 || analytics.googleAds);
       </div>
     </footer>
     <Analytics />
+    <dialog class="agendar" id="agendar" aria-labelledby="agendar-t">
+      <div class="agendar-head">
+        <h2 id="agendar-t">Agendar consulta</h2>
+        <button type="button" class="agendar-x" data-fechar aria-label="Fechar">×</button>
+      </div>
+      <p class="agendar-sub">Escolha onde quer ser atendido.</p>
+      <div class="agendar-opcoes">
+        {locations.map((l) => (
+          <section class="agendar-op">
+            <h3>{l.city === 'São Paulo' ? 'São Paulo' : l.city} <small>{l.shortName}{l.district ? `, ${l.district}` : ''}</small></h3>
+            <p>{l.payment}</p>
+            <div class="agendar-btns">
+              {l.whatsapp
+                ? <a class="btn btn--sm" href={waLink(l.phone)} rel="noopener" target="_blank" data-event={`agendar_${slug(l.city)}_whatsapp`}>WhatsApp</a>
+                : <a class="btn btn--sm" href={`tel:${telIntl(l.phone)}`} data-event={`agendar_${slug(l.city)}_telefone`}>Ligar: {l.phone}</a>}
+              <a class="btn btn--sm btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event={`agendar_${slug(l.city)}_doctoralia`}>Doctoralia</a>
+            </div>
+          </section>
+        ))}
+        <section class="agendar-op">
+          <h3>Teleconsulta <small>por vídeo</small></h3>
+          <p>Para retornos, acompanhamento e resultado de exames. Pintas, primeira consulta de lesões e procedimentos, só presencial.</p>
+          <div class="agendar-btns">
+            <a class="btn btn--sm" href={booking.primaryUrl} rel="noopener" target="_blank" data-event="agendar_teleconsulta_doctoralia">Doctoralia</a>
+          </div>
+        </section>
+      </div>
+      <p class="agendar-nota">Na Doctoralia, você escolhe a unidade e o horário.</p>
+    </dialog>
+    <script>
+      const dlg = document.getElementById('agendar') as HTMLDialogElement | null;
+      document.addEventListener('click', (ev) => {
+        const t = ev.target as HTMLElement;
+        if (dlg && t.closest('[data-agendar]')) {
+          ev.preventDefault();
+          (document.querySelector('details.menu') as HTMLDetailsElement | null)?.removeAttribute('open');
+          dlg.showModal();
+          return;
+        }
+        if (dlg && (t === dlg || t.closest('[data-fechar]'))) dlg.close();
+        // Fecha o submenu "Tratamentos" ao clicar fora.
+        document.querySelectorAll('details.sub[open]').forEach((d) => { if (!d.contains(t)) d.removeAttribute('open'); });
+      });
+    </script>
   </body>
 </html>
 
@@ -151,6 +213,28 @@ const hasAnalytics = Boolean(analytics.ga4 || analytics.googleAds);
   .nav-desktop ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 22px; align-items: center; }
   .nav-desktop a:not(.btn) { color: var(--graphite); text-decoration: none; font-size: 0.95rem; }
   .nav-desktop a:not(.btn):hover, .nav-desktop a[aria-current='page'] { color: var(--gold-text); }
+  .sub { position: relative; }
+  .sub summary { list-style: none; cursor: pointer; font-size: 0.95rem; color: var(--graphite); }
+  .sub summary::-webkit-details-marker { display: none; }
+  .sub summary::after { content: ' ▾'; font-size: 0.75em; }
+  .sub summary:hover, .sub summary.is-active { color: var(--gold-text); }
+  .nav-desktop .sub ul { position: absolute; top: calc(100% + 14px); left: -16px; display: grid; gap: 0; min-width: 240px; padding: 8px 0; background: var(--white); border: 1px solid var(--line); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08); }
+  .nav-desktop .sub ul a { display: block; padding: 8px 16px; }
+  .menu-group { display: block; padding: 10px 0 2px; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+  .menu .menu-sub { position: static; padding: 0 0 0 14px; border: 0; background: none; }
+  .agendar { width: min(560px, 100vw - 24px); max-height: 90vh; border: 0; border-top: 3px solid var(--gold); padding: 20px; }
+  .agendar::backdrop { background: rgba(52, 53, 56, 0.55); }
+  .agendar-head { display: flex; justify-content: space-between; align-items: center; }
+  .agendar-head h2 { margin: 0; font-size: 1.5rem; }
+  .agendar-x { border: 0; background: none; font-size: 1.8rem; line-height: 1; cursor: pointer; }
+  .agendar-sub { margin: 4px 0 14px; color: var(--muted); }
+  .agendar-opcoes { display: grid; gap: 12px; }
+  .agendar-op { border: 1px solid var(--line); padding: 12px 14px; }
+  .agendar-op h3 { margin: 0; font-size: 1.15rem; }
+  .agendar-op h3 small { font-family: var(--sans); font-size: 0.85rem; color: var(--muted); font-weight: 400; }
+  .agendar-op p { margin: 4px 0 10px; font-size: 0.92rem; }
+  .agendar-btns { display: flex; flex-wrap: wrap; gap: 8px; }
+  .agendar-nota { font-size: 0.85rem; color: var(--muted); margin: 12px 0 0; }
 
   .menu summary { list-style: none; cursor: pointer; width: 44px; height: 44px; display: flex; flex-direction: column; justify-content: center; gap: 7px; padding: 10px; }
   .menu summary::-webkit-details-marker { display: none; }

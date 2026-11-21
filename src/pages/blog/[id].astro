@@ -12,7 +12,9 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
+// Sumário: só nos artigos longos (5 subtítulos ## ou mais).
+const toc = headings.filter((h) => h.depth === 2);
 const d = post.data;
 const isLifestyle = d.category === LIFESTYLE.name;
 const url = `${SITE_URL}/blog/${post.id}/`;
@@ -69,6 +71,12 @@ const schema = [
 
     <div class="prose">
       <p class="answer"><strong>Resposta rápida:</strong> {d.answer}</p>
+      {toc.length >= 5 && (
+        <nav class="toc" aria-label="Neste artigo">
+          <p class="toc-title">Neste artigo</p>
+          <ol>{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol>
+        </nav>
+      )}
       <Content />
 
       {d.sources.length > 0 && (
@@ -94,6 +102,10 @@ const schema = [
   .prose :global(p:has(> img) + p) { font-size: 0.85rem; color: var(--muted); max-width: 440px; margin-top: 0; }
   .post .page-head { padding-bottom: 8px; max-width: 820px; }
   .byline { font-size: 0.92rem; color: var(--muted); border-top: 1px solid var(--gold); padding-top: 12px; display: inline-block; }
+  .toc { border: 1px solid var(--line); background: var(--white); padding: 14px 20px; margin: 0 0 28px; }
+  .toc-title { margin: 0 0 6px; font-weight: 600; }
+  .toc ol { margin: 0; padding-left: 1.2em; }
+  .toc li { margin: 4px 0; line-height: 1.4; }
   .answer { background: var(--white); border-left: 2px solid var(--gold); padding: 18px 20px; font-size: 1.08rem; }
   .sources { font-size: 0.92rem; margin-top: 2.5rem; }
   .sources h2 { font-size: 1.2rem; }

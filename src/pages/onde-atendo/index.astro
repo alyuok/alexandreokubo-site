@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Cta from '../../components/Cta.astro';
-import { locations, booking, telIntl } from '../../data/site';
+import { locations, booking, telIntl, waLink } from '../../data/site';
 
 const title = 'Onde atendo: Vila Clementino (SP) e Santo André';
 const description =
@@ -11,15 +11,21 @@ const description =
   <div class="wrap page-head">
     <p class="eyebrow">Onde atendo</p>
     <h1>Consultórios na Vila Clementino (SP) e em Santo André</h1>
-    <p class="lead">Atendo na zona sul de São Paulo e no ABC.</p>
+    <p class="lead">Atendo na zona sul de São Paulo, no ABC e por teleconsulta.</p>
   </div>
-  <section class="section section--white">
+  <section class="section section--white locais">
     <div class="wrap grid grid--2">
       {locations.map((l) => (
         <div class="card">
           <h2 class="h3">{l.name}</h2>
           <p>{l.street}{l.district && `, ${l.district}`}<br />{l.city}, {l.region}, {l.postalCode}{l.phone && <><br /><a href={`tel:${telIntl(l.phone)}`}>{l.phone}</a></>}</p>
           <p class="signature">{l.payment}<br />{l.note}</p>
+          <div class="card-actions">
+            {l.whatsapp
+              ? <a class="btn btn--sm" href={waLink(l.phone)} rel="noopener" target="_blank" data-event={`onde_atendo_${l.slug}_whatsapp`}>Agendar pelo WhatsApp</a>
+              : <a class="btn btn--sm" href={`tel:${telIntl(l.phone)}`} data-event={`onde_atendo_${l.slug}_telefone`}>Ligar para agendar</a>}
+            <a class="btn btn--sm btn--ghost" href={booking.primaryUrl} rel="noopener" target="_blank" data-event={`onde_atendo_${l.slug}_doctoralia`}>Doctoralia</a>
+          </div>
           <a href={`/onde-atendo/${l.slug}/`}>Detalhes e como chegar →</a>
         </div>
       ))}
@@ -40,4 +46,6 @@ const description =
 
 <style>
   .h3 { font-size: 1.4rem; margin-top: 0; }
+  .locais { padding-top: clamp(20px, 3vw, 40px); }
+  .card-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 14px; }
 </style>
