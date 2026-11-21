@@ -9,7 +9,7 @@ import { medicalPageSchema, faqSchema } from '../data/schema';
 const url = `${SITE_URL}/calculadora-de-proteina/`;
 const title = 'Calculadora de proteína: quanta proteína você precisa por dia';
 const description =
-  'Calcule quanta proteína você precisa por dia pelo peso, idade, atividade física e objetivo, e some a proteína das suas refeições com medidas caseiras e valores da tabela TACO.';
+  'Calcule quanta proteína você precisa por dia pelo peso, idade, atividade física e objetivo, e some a proteína das suas refeições com medidas caseiras e valores da tabela brasileira TBCA.';
 
 const faq = [
   {
@@ -34,7 +34,7 @@ const faq = [
   },
   {
     q: 'Os valores dos alimentos são exatos?',
-    a: 'São aproximados. A proteína por 100 g vem da Tabela Brasileira de Composição de Alimentos (TACO). As medidas caseiras, como concha e filé médio, são estimativas de porção. Para produtos industrializados, o rótulo prevalece.',
+    a: 'São aproximados. A proteína por 100 g vem da Tabela Brasileira de Composição de Alimentos da USP (TBCA), conferida com a tabela TACO, da Unicamp. As medidas caseiras, como concha e filé médio, são estimativas de porção. Para produtos industrializados, o rótulo prevalece.',
   },
 ];
 ---
@@ -225,12 +225,13 @@ const faq = [
       <h2>De onde vêm os valores dos alimentos</h2>
       <p>
         A proteína de cada alimento, por 100 g da parte comestível, vem da Tabela Brasileira de Composição de Alimentos
-        (TACO), da Unicamp. O valor muda com o preparo: 100 g de peito de frango cru têm 21,5 g de proteína, e grelhado
-        têm 32,0 g, porque perde água. Por isso a lista traz o alimento já preparado.
+        da USP (TBCA), e cada valor foi conferido com a tabela TACO, da Unicamp. Quando o alimento não está na TBCA, vale
+        a TACO. O valor muda com o preparo: na TACO, 100 g de peito de frango cru têm 21,5 g de proteína, e grelhado têm
+        32,0 g, porque perde água. Por isso a lista traz o alimento já preparado.
       </p>
       <p>
-        As medidas caseiras (concha, filé médio, colher de sopa) são aproximadas, para quem não pesa a comida. Leite,
-        bebidas vegetais e suplementos não têm valor completo na TACO e usam a média dos rótulos. Para produtos
+        As medidas caseiras (concha, filé médio, colher de sopa) são aproximadas, para quem não pesa a comida. Alguns
+        itens, como bebidas vegetais e proteína em pó, variam muito de marca para marca. Para produtos
         industrializados, use o campo do rótulo: a formulação muda de marca para marca.
       </p>
 
@@ -267,6 +268,7 @@ const faq = [
         <li>Leidy HJ et al. The role of protein in weight loss and maintenance. Am J Clin Nutr, 2015. <a href="https://doi.org/10.3945/ajcn.114.084038">doi.org/10.3945/ajcn.114.084038</a></li>
         <li>Dam M et al. Are we overfeeding hemodialysis patients with protein? Exploring an alternative method to estimate protein needs. Clin Nutr ESPEN, 2021. <a href="https://doi.org/10.1016/j.clnesp.2021.06.012">doi.org/10.1016/j.clnesp.2021.06.012</a></li>
         <li>Mozaffarian D et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory. Am J Clin Nutr, 2025. <a href="https://doi.org/10.1016/j.ajcnut.2025.04.023">doi.org/10.1016/j.ajcnut.2025.04.023</a></li>
+        <li>Universidade de São Paulo (USP), Food Research Center (FoRC). Tabela Brasileira de Composição de Alimentos (TBCA). Consulta em 21/11/2026. <a href="https://www.tbca.net.br/">tbca.net.br</a></li>
         <li>NEPA/Unicamp. Tabela Brasileira de Composição de Alimentos (TACO), 4ª edição revisada e ampliada, 2011.</li>
       </ol>
     </div>
@@ -585,7 +587,7 @@ const faq = [
       <p><strong>Meta:</strong> ${res.alvo} g por dia (faixa de ${res.minimo} a ${res.maximo} g; mínimo ${res.minimo} g).<br/>
       <strong>Consumido:</strong> ${fmt(Math.round(total))} g (${Math.round((total / res.alvo) * 100)}% da meta).</p>
       <table><thead><tr><th>Refeição</th><th>Alimento</th><th>Proteína</th></tr></thead><tbody>${linhas || '<tr><td colspan="3">Nenhum item registrado.</td></tr>'}</tbody></table>
-      <p style="font-size:10pt;margin-top:16px">Cálculo educativo e aproximado. Valores dos alimentos: TACO (Unicamp) e média de rótulos; medidas caseiras estimadas.
+      <p style="font-size:10pt;margin-top:16px">Cálculo educativo e aproximado. Valores dos alimentos: TBCA (USP), conferidos com a TACO (Unicamp); medidas caseiras estimadas.
       Não substitui consulta médica nem plano alimentar com nutricionista. alexandreokubo.com.br/calculadora-de-proteina/</p>`;
     document.body.appendChild(p);
     p.classList.add('pt-print-host');

@@ -61,6 +61,8 @@ Para ter uma ideia, aproximadamente:
 - 1 concha de feijão: de 4 a 5 g
 - 1 pote de iogurte natural: de 5 a 7 g
 
+Para calcular a sua faixa e somar o que você come no dia, use a [calculadora de proteína diária](/calculadora-de-proteina/).
+
 Distribuir a proteína entre as refeições, em vez de concentrá-la no jantar, também ajuda. Quem tem doença renal deve seguir a orientação do seu médico, porque nesses casos a quantidade pode precisar ser menor. E, quando é preciso um plano alimentar detalhado, o acompanhamento com nutricionista faz diferença.
 
 ## Por que só o polivitamínico não resolve
