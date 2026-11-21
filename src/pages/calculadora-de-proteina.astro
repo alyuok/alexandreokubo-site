@@ -1,0 +1,598 @@
+---
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import { doctor, SITE_URL } from '../data/site';
+import { medicalPageSchema, faqSchema } from '../data/schema';
+
+// Calculadora de proteína: página indexável com app no navegador. Sem login; dados só no aparelho (localStorage).
+// Prévia apenas (branch lateral). Não publicar sem o "aprovado" dele.
+const url = `${SITE_URL}/calculadora-de-proteina/`;
+const title = 'Calculadora de proteína: quanta proteína você precisa por dia';
+const description =
+  'Calcule quanta proteína você precisa por dia pelo peso, idade, atividade física e objetivo, e some a proteína das suas refeições com medidas caseiras e valores da tabela TACO.';
+
+const faq = [
+  {
+    q: 'Quanta proteína uma pessoa precisa por dia?',
+    a: 'A referência geral para adultos é de pelo menos 0,8 g por quilo de peso por dia. Depois dos 65 anos, recomenda-se de 1,0 a 1,2 g por quilo. Quem treina com regularidade costuma precisar de 1,4 a 2,0 g por quilo.',
+  },
+  {
+    q: 'Quem tem obesidade calcula a proteína pelo peso atual?',
+    a: 'Não. Com IMC a partir de 30, o cálculo pelo peso total superestima a necessidade. A calculadora usa o peso de referência, que é o peso correspondente a um IMC de 25 para a sua altura.',
+  },
+  {
+    q: 'Quem usa caneta emagrecedora precisa de mais proteína?',
+    a: 'Durante o emagrecimento, a orientação é manter a ingestão de proteína e fazer exercício de força para preservar a massa muscular. A calculadora usa a faixa de 1,2 a 1,6 g por quilo do peso de referência, a mesma das dietas para emagrecer.',
+  },
+  {
+    q: 'Homens e mulheres precisam de quantidades diferentes por quilo?',
+    a: 'Por quilo, as recomendações são as mesmas para os dois sexos. A diferença no total vem do peso e da altura.',
+  },
+  {
+    q: 'Quem tem doença nos rins pode usar a calculadora?',
+    a: 'Não. Na doença renal, a quantidade de proteína pode precisar ser menor, e quem define é o médico que acompanha você. Por isso a calculadora não mostra número nesses casos, nem na gestação, na amamentação, na doença do fígado ou para menores de 18 anos.',
+  },
+  {
+    q: 'Os valores dos alimentos são exatos?',
+    a: 'São aproximados. A proteína por 100 g vem da Tabela Brasileira de Composição de Alimentos (TACO). As medidas caseiras, como concha e filé médio, são estimativas de porção. Para produtos industrializados, o rótulo prevalece.',
+  },
+];
+---
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={[{ name: 'Calculadora de proteína', href: '/calculadora-de-proteina/' }]}
+  schema={[
+    medicalPageSchema({ url, name: title, description, about: ['Proteínas na dieta', 'Necessidade nutricional', 'Massa muscular', 'Sarcopenia'] }),
+    {
+      '@type': 'WebApplication',
+      name: 'Calculadora de proteína diária',
+      url,
+      applicationCategory: 'HealthApplication',
+      operatingSystem: 'Qualquer navegador',
+      inLanguage: 'pt-BR',
+      isAccessibleForFree: true,
+      author: { '@id': `${SITE_URL}/#person` },
+    },
+    faqSchema(faq),
+  ]}
+>
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Ferramenta educativa · Alimentação e pele</p>
+      <h1>Calculadora de proteína: <em>quanta proteína você precisa por dia</em></h1>
+      <p class="lead">
+        A maioria dos adultos precisa de pelo menos 0,8 g de proteína por quilo de peso por dia. Depois dos 65 anos,
+        a referência sobe para 1,0 a 1,2 g por quilo. Para quem treina, vai de 1,4 a 2,0 g. Calcule a sua
+        faixa abaixo e some a proteína do que você comeu hoje, com medidas caseiras.
+      </p>
+      <p class="signature">{doctor.name} · Dermatologista · {doctor.crm} · {doctor.rqe}</p>
+    </div>
+  </section>
+
+  <section class="section section--white" id="app">
+    <div class="wrap pt-app">
+      <!-- Etapa 1: triagem -->
+      <form class="card pt-step" id="pt-triagem">
+        <h2 class="mt0">1. Antes de começar</h2>
+        <p>Marque se alguma situação vale para você:</p>
+        <label class="pt-check"><input type="checkbox" name="t" value="rim" /> Tenho doença nos rins ou alteração na função renal</label>
+        <label class="pt-check"><input type="checkbox" name="t" value="figado" /> Tenho doença no fígado (como cirrose)</label>
+        <label class="pt-check"><input type="checkbox" name="t" value="gestacao" /> Estou grávida ou amamentando</label>
+        <label class="pt-check"><input type="checkbox" name="t" value="menor" /> Tenho menos de 18 anos</label>
+        <label class="pt-check"><input type="checkbox" name="t" value="dieta" /> Sigo uma dieta com quantidade de proteína definida pelo meu médico</label>
+        <button class="btn" type="submit">Continuar</button>
+        <div class="pt-alert" id="pt-bloqueio" hidden>
+          <strong>Nesses casos, a calculadora não mostra um número.</strong>
+          A quantidade de proteína depende do seu caso e pode precisar ser menor ou maior que a média. Converse com o médico
+          que acompanha você ou com um nutricionista antes de mudar a alimentação.
+        </div>
+      </form>
+
+      <!-- Etapa 2: dados -->
+      <form class="card pt-step" id="pt-dados" hidden>
+        <h2 class="mt0">2. Seus dados</h2>
+        <div class="pt-grid">
+          <label>Sexo
+            <select name="sexo" required><option value="f">Feminino</option><option value="m">Masculino</option></select>
+          </label>
+          <label>Idade (anos)<input name="idade" type="number" inputmode="numeric" min="18" max="110" required /></label>
+          <label>Peso (kg)<input name="peso" type="number" inputmode="decimal" min="30" max="300" step="0.1" required /></label>
+          <label>Altura (cm)<input name="altura" type="number" inputmode="numeric" min="120" max="230" required /></label>
+        </div>
+        <fieldset>
+          <legend>Nível de atividade física</legend>
+          <label class="pt-radio"><input type="radio" name="atividade" value="sedentario" required /> <span><strong>Sedentário.</strong> Fica sentado a maior parte do dia e não faz exercício.</span></label>
+          <label class="pt-radio"><input type="radio" name="atividade" value="leve" /> <span><strong>Leve.</strong> Caminhadas ou exercício leve 1 a 2 vezes por semana.</span></label>
+          <label class="pt-radio"><input type="radio" name="atividade" value="moderado" /> <span><strong>Moderado.</strong> Exercício de 3 a 4 vezes por semana, como corrida, bicicleta, pilates ou musculação.</span></label>
+          <label class="pt-radio"><input type="radio" name="atividade" value="intenso" /> <span><strong>Intenso.</strong> Treino de força ou esporte 5 vezes ou mais por semana.</span></label>
+        </fieldset>
+        <fieldset>
+          <legend>Objetivo</legend>
+          <label class="pt-radio"><input type="radio" name="objetivo" value="manter" required /> <span><strong>Manter a saúde e o peso.</strong> Depois dos 65 anos, a faixa já considera a perda de músculo da idade.</span></label>
+          <label class="pt-radio"><input type="radio" name="objetivo" value="massa" /> <span><strong>Ganhar massa muscular</strong>, com treino de força.</span></label>
+          <label class="pt-radio"><input type="radio" name="objetivo" value="emagrecer" /> <span><strong>Emagrecer preservando os músculos.</strong></span></label>
+          <label class="pt-radio"><input type="radio" name="objetivo" value="caneta" /> <span><strong>Caneta emagrecedora.</strong> Uso medicamentos da classe GLP-1.</span></label>
+        </fieldset>
+        <button class="btn" type="submit">Calcular minha proteína</button>
+      </form>
+
+      <!-- Etapa 3: resultado -->
+      <section class="card pt-step" id="pt-resultado" hidden aria-live="polite">
+        <h2 class="mt0">3. Sua necessidade de proteína</h2>
+        <div class="pt-result">
+          <div class="pt-big"><span id="r-alvo">0</span><small> g por dia</small></div>
+          <p class="pt-sub">Faixa recomendada: <strong id="r-faixa"></strong>. Mínimo: <strong id="r-min"></strong>.</p>
+        </div>
+        <ul class="pt-facts">
+          <li><strong>IMC:</strong> <span id="r-imc"></span></li>
+          <li><strong>Peso usado no cálculo:</strong> <span id="r-peso"></span></li>
+          <li><strong>Faixa por quilo:</strong> <span id="r-gkg"></span></li>
+          <li><strong>Por refeição principal:</strong> cerca de <span id="r-ref"></span></li>
+        </ul>
+        <p class="pt-note" id="r-nota"></p>
+        <div class="pt-actions">
+          <a class="btn" href="#pt-diario">Somar o que comi hoje</a>
+          <button class="btn btn--ghost" type="button" id="pt-refazer">Refazer o cálculo</button>
+        </div>
+      </section>
+
+      <!-- Etapa 4: diário -->
+      <section class="card pt-step" id="pt-diario" hidden>
+        <h2 class="mt0">4. O que você comeu</h2>
+        <div class="pt-row">
+          <label>Dia <input type="date" id="d-data" /></label>
+          <label>Mostrar alimentos
+            <select id="d-dieta"><option value="o">Todos</option><option value="v">Vegetarianos</option><option value="vg">Veganos</option></select>
+          </label>
+        </div>
+        <div id="d-refeicoes"></div>
+        <details class="pt-custom">
+          <summary>Adicionar item pelo rótulo (suplemento, barra de proteína, produto industrializado)</summary>
+          <div class="pt-row">
+            <label>Refeição <select id="c-ref"></select></label>
+            <label>Nome <input id="c-nome" placeholder="Ex.: bebida láctea proteica" /></label>
+            <label>Proteína (g) <input id="c-g" type="number" inputmode="decimal" min="0" max="200" step="0.5" placeholder="23" /></label>
+            <button class="btn" type="button" id="c-add">Adicionar</button>
+          </div>
+        </details>
+      </section>
+
+      <!-- Etapa 5: painel -->
+      <section class="card pt-step pt-dash" id="pt-painel" hidden>
+        <h2 class="mt0">5. Seu painel do dia</h2>
+        <div class="pt-dash-top">
+          <svg class="pt-ring" viewBox="0 0 120 120" role="img" aria-labelledby="ring-t">
+            <title id="ring-t">Porcentagem da meta de proteína atingida</title>
+            <circle cx="60" cy="60" r="52" class="pt-ring-bg" />
+            <circle cx="60" cy="60" r="52" class="pt-ring-fg" id="ring" />
+            <text x="60" y="58" text-anchor="middle" class="pt-ring-n" id="ring-n">0%</text>
+            <text x="60" y="78" text-anchor="middle" class="pt-ring-s">da meta</text>
+          </svg>
+          <div>
+            <p class="pt-big"><span id="p-total">0</span><small> g de <span id="p-alvo">0</span> g</small></p>
+            <div class="pt-bar" aria-hidden="true">
+              <span class="pt-bar-fill" id="p-bar"></span>
+              <span class="pt-bar-mark" id="p-mark-min" title="Mínimo"></span>
+            </div>
+            <p class="pt-status" id="p-status"></p>
+          </div>
+        </div>
+        <h3>Proteína por refeição</h3>
+        <div id="p-refs" class="pt-refbars"></div>
+        <h3>Últimos 7 dias</h3>
+        <svg id="p-hist" class="pt-hist" viewBox="0 0 700 180" role="img" aria-label="Proteína nos últimos 7 dias"></svg>
+        <div class="pt-actions">
+          <button class="btn" type="button" id="pt-pdf">Gerar PDF ou imprimir</button>
+          <button class="btn btn--ghost" type="button" id="pt-limpar">Apagar o dia</button>
+        </div>
+        <p class="pt-note">Seus dados ficam salvos só neste aparelho, no navegador. Nada é enviado para o site.</p>
+      </section>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap prose">
+      <h2>Como a calculadora chega ao seu número</h2>
+      <p>
+        A conta multiplica o seu peso por uma faixa de gramas por quilo, que muda com a idade, a atividade física e o
+        objetivo. O resultado aparece como faixa, com um alvo no meio dela. O primeiro número da faixa é o mínimo
+        recomendado para a maior parte dos dias.
+      </p>
+      <ul>
+        <li><strong>Adultos sedentários:</strong> de 0,8 a 1,0 g por quilo. O 0,8 é a referência mínima para adultos saudáveis.</li>
+        <li><strong>A partir dos 65 anos:</strong> de 1,0 a 1,2 g por quilo, e 1,2 a 1,5 g para quem é ativo, segundo o grupo de especialistas PROT-AGE.</li>
+        <li><strong>Quem treina com regularidade:</strong> de 1,4 a 2,0 g por quilo, segundo a Sociedade Internacional de Nutrição Esportiva (ISSN).</li>
+        <li><strong>Ganho de massa muscular:</strong> de 1,6 a 2,0 g por quilo. Em uma meta-análise de 49 estudos, acima de cerca de 1,6 g por quilo não houve ganho adicional de massa magra.</li>
+        <li><strong>Emagrecimento, com ou sem caneta emagrecedora:</strong> de 1,2 a 1,6 g por quilo, para preservar os músculos enquanto o peso cai.</li>
+      </ul>
+
+      <h3>Por que o IMC muda o peso usado na conta</h3>
+      <p>
+        O IMC (índice de massa corporal) não muda a quantidade de proteína por quilo, mas decide qual peso entra na
+        conta. Com IMC a partir de 30, o peso total inclui muita gordura, e a gordura usa pouca proteína para se manter. Um
+        estudo em pacientes em hemodiálise sugere que, nessa faixa, calcular pelo peso total superestima a necessidade. Por isso a
+        calculadora usa o peso correspondente a um IMC de 25 para a sua altura.
+      </p>
+
+      <h3>Quanta proteína comer em cada refeição</h3>
+      <p>
+        Segundo a Sociedade Internacional de Nutrição Esportiva, dividir a proteína entre as refeições é melhor do que concentrar tudo no jantar. A referência é de 20 a 40 g
+        por refeição principal, ou cerca de 0,25 g por quilo de peso. Um café da manhã só de pão com café
+        soma pouca proteína. Um ovo, uma fatia de queijo ou um iogurte já mudam a conta.
+      </p>
+
+      <h2>De onde vêm os valores dos alimentos</h2>
+      <p>
+        A proteína de cada alimento, por 100 g da parte comestível, vem da Tabela Brasileira de Composição de Alimentos
+        (TACO), da Unicamp. O valor muda com o preparo: 100 g de peito de frango cru têm 21,5 g de proteína, e grelhado
+        têm 32,0 g, porque perde água. Por isso a lista traz o alimento já preparado.
+      </p>
+      <p>
+        As medidas caseiras (concha, filé médio, colher de sopa) são aproximadas, para quem não pesa a comida. Leite,
+        bebidas vegetais e suplementos não têm valor completo na TACO e usam a média dos rótulos. Para produtos
+        industrializados, use o campo do rótulo: a formulação muda de marca para marca.
+      </p>
+
+      <h2>Quem não deve usar a calculadora</h2>
+      <p>
+        Quem tem doença nos rins ou no fígado, está grávida ou amamentando, tem menos de 18 anos ou segue uma dieta
+        prescrita. Nesses casos, a quantidade de proteína é definida pelo médico que acompanha você. A calculadora é
+        educativa: não substitui a consulta nem um plano alimentar feito por nutricionista.
+      </p>
+
+      <h2>Proteína, pele, cabelo e unhas</h2>
+      <p>
+        Cabelo e unha são feitos principalmente de queratina, uma proteína. Quando falta proteína, o cabelo pode cair
+        mais e as unhas ficam fracas. Leia mais sobre <a href="/blog/suplemento-cabelo-unha-proteina/">suplemento para cabelo e unha e o papel da proteína</a>,
+        sobre <a href="/blog/queda-de-cabelo/">as causas da queda de cabelo</a> e sobre
+        <a href="/blog/canetas-emagrecedoras-pele-unhas-ozempic-face/">o que as canetas emagrecedoras fazem com a pele</a>.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--white">
+    <div class="wrap">
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap prose pt-fontes">
+      <h2>Fontes</h2>
+      <ol>
+        <li>Bauer J et al. Evidence-based recommendations for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group. J Am Med Dir Assoc, 2013. <a href="https://doi.org/10.1016/j.jamda.2013.05.021">doi.org/10.1016/j.jamda.2013.05.021</a></li>
+        <li>Jäger R et al. International Society of Sports Nutrition Position Stand: protein and exercise. J Int Soc Sports Nutr, 2017. <a href="https://doi.org/10.1186/s12970-017-0177-8">doi.org/10.1186/s12970-017-0177-8</a></li>
+        <li>Morton RW et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults. Br J Sports Med, 2018. <a href="https://doi.org/10.1136/bjsports-2017-097608">doi.org/10.1136/bjsports-2017-097608</a></li>
+        <li>Leidy HJ et al. The role of protein in weight loss and maintenance. Am J Clin Nutr, 2015. <a href="https://doi.org/10.3945/ajcn.114.084038">doi.org/10.3945/ajcn.114.084038</a></li>
+        <li>Dam M et al. Are we overfeeding hemodialysis patients with protein? Exploring an alternative method to estimate protein needs. Clin Nutr ESPEN, 2021. <a href="https://doi.org/10.1016/j.clnesp.2021.06.012">doi.org/10.1016/j.clnesp.2021.06.012</a></li>
+        <li>Mozaffarian D et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint Advisory. Am J Clin Nutr, 2025. <a href="https://doi.org/10.1016/j.ajcnut.2025.04.023">doi.org/10.1016/j.ajcnut.2025.04.023</a></li>
+        <li>NEPA/Unicamp. Tabela Brasileira de Composição de Alimentos (TACO), 4ª edição revisada e ampliada, 2011.</li>
+      </ol>
+    </div>
+  </section>
+
+  <div class="pt-print" id="pt-print" aria-hidden="true"></div>
+</Base>
+
+<style is:global>
+  .pt-app { display: grid; gap: 24px; max-width: 820px; }
+  .pt-step label { display: block; font-weight: 500; }
+  .pt-step input:not([type='checkbox']):not([type='radio']), .pt-step select {
+    display: block; width: 100%; margin-top: 4px; padding: 10px 12px; font: inherit;
+    border: 1px solid var(--line); border-radius: 10px; background: var(--white);
+  }
+  .pt-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+  .pt-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: end; margin-bottom: 12px; }
+  .pt-row > label { flex: 1 1 160px; }
+  fieldset { border: 0; padding: 0; margin: 18px 0; }
+  legend { font-weight: 600; margin-bottom: 6px; }
+  .pt-check, .pt-radio { display: flex !important; gap: 10px; align-items: flex-start; font-weight: 400 !important; margin: 8px 0; }
+  .pt-check input, .pt-radio input { margin-top: 6px; }
+  .pt-alert { margin-top: 16px; padding: 14px 16px; border-left: 3px solid var(--gold); background: var(--sand); }
+  .pt-big { font-family: var(--serif); font-size: 2.6rem; line-height: 1.1; margin: 8px 0; }
+  .pt-big small { font-family: var(--sans); font-size: 1rem; color: var(--muted); }
+  .pt-sub { margin: 0 0 12px; }
+  .pt-facts { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 6px 16px; }
+  .pt-note { font-size: 0.92rem; color: var(--muted); }
+  .pt-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+  .pt-meal { border-top: 1px solid var(--line); padding: 12px 0; }
+  .pt-meal h3 { display: flex; justify-content: space-between; margin: 0 0 8px; font-size: 1.05rem; }
+  .pt-meal ul { list-style: none; padding: 0; margin: 0 0 8px; }
+  .pt-meal li { display: flex; justify-content: space-between; gap: 8px; padding: 4px 0; border-bottom: 1px dashed var(--line); font-size: 0.95rem; }
+  .pt-meal li button { border: 0; background: none; color: var(--gold-text); cursor: pointer; font: inherit; }
+  .pt-add { display: grid; grid-template-columns: 2fr 1.3fr 0.7fr auto; gap: 8px; align-items: end; }
+  @media (max-width: 640px) { .pt-add { grid-template-columns: 1fr 1fr; } .pt-add input[list] { grid-column: 1 / -1; } }
+  .pt-add .btn { padding: 10px 14px; }
+  .pt-dash-top { display: grid; grid-template-columns: 140px 1fr; gap: 20px; align-items: center; }
+  @media (max-width: 520px) { .pt-dash-top { grid-template-columns: 1fr; justify-items: center; text-align: center; } }
+  .pt-ring { width: 140px; height: 140px; }
+  .pt-ring circle { fill: none; stroke-width: 12; }
+  .pt-ring-bg { stroke: var(--sand-deep); }
+  .pt-ring-fg { stroke: var(--gold); stroke-linecap: round; transform: rotate(-90deg); transform-origin: 60px 60px; stroke-dasharray: 326.7; stroke-dashoffset: 326.7; transition: stroke-dashoffset 0.5s; }
+  .pt-ring-n { font: 600 24px var(--sans); fill: var(--graphite); }
+  .pt-ring-s { font: 12px var(--sans); fill: var(--muted); }
+  .pt-bar { position: relative; height: 14px; border-radius: 99px; background: var(--sand-deep); overflow: visible; }
+  .pt-bar-fill { display: block; height: 100%; width: 0; border-radius: 99px; background: var(--gold); transition: width 0.5s; }
+  .pt-bar-mark { position: absolute; top: -4px; width: 2px; height: 22px; background: var(--graphite); }
+  .pt-status { font-weight: 600; margin-top: 10px; }
+  .pt-refbars { display: grid; gap: 8px; }
+  .pt-refbar { display: grid; grid-template-columns: 130px 1fr 64px; gap: 10px; align-items: center; font-size: 0.92rem; }
+  .pt-refbar .pt-bar { height: 10px; }
+  .pt-refbar .ok { background: #5d8a5a; }
+  .pt-hist { width: 100%; height: auto; }
+  .pt-hist text { font: 13px var(--sans); fill: var(--muted); }
+  .pt-fontes li { font-size: 0.92rem; }
+  .pt-print { display: none; }
+  @media print {
+    body > *:not(.pt-print-host) { display: none !important; }
+    .pt-print { display: block !important; font-size: 12pt; color: #000; }
+    .pt-print table { width: 100%; border-collapse: collapse; }
+    .pt-print td, .pt-print th { border-bottom: 1px solid #ccc; padding: 4px; text-align: left; }
+  }
+</style>
+
+<script>
+  import { alimentos, grupos, type Alimento } from '../data/proteina/alimentos';
+  import { calcular, type Perfil, type Resultado } from '../lib/proteina';
+
+  const REFEICOES = [
+    ['cafe', 'Café da manhã'],
+    ['lanche1', 'Lanche da manhã'],
+    ['almoco', 'Almoço'],
+    ['lanche2', 'Lanche da tarde'],
+    ['jantar', 'Jantar'],
+    ['ceia', 'Ceia'],
+    ['extra', 'Adicional ou suplemento'],
+  ] as const;
+  const PRINCIPAIS = ['cafe', 'almoco', 'jantar'];
+
+  type Item = { nome: string; g: number; qtd?: string };
+  type Dia = Record<string, Item[]>;
+  const LS_PERFIL = 'pt-perfil';
+  const LS_DIAS = 'pt-dias';
+
+  const $ = <T extends HTMLElement = HTMLElement>(id: string) => document.getElementById(id) as T;
+  const fmt = (n: number) => n.toLocaleString('pt-BR', { maximumFractionDigits: 1 });
+  const hoje = () => new Date(Date.now() - new Date().getTimezoneOffset() * 60000).toISOString().slice(0, 10);
+  const lerDias = (): Record<string, Dia> => JSON.parse(localStorage.getItem(LS_DIAS) || '{}');
+  const salvarDias = (d: Record<string, Dia>) => localStorage.setItem(LS_DIAS, JSON.stringify(d));
+  const track = (name: string) => (window as any).gtag?.('event', name);
+
+  let perfil: Perfil | null = JSON.parse(localStorage.getItem(LS_PERFIL) || 'null');
+  let res: Resultado | null = perfil ? calcular(perfil) : null;
+  let data = hoje();
+
+  const show = (id: string, on = true) => ($(id).hidden = !on);
+
+  // Etapa 1: triagem
+  $('pt-triagem').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const marcados = (e.currentTarget as HTMLFormElement).querySelectorAll('input:checked').length;
+    show('pt-bloqueio', marcados > 0);
+    if (marcados > 0) { track('proteina_triagem_bloqueio'); ['pt-dados', 'pt-resultado', 'pt-diario', 'pt-painel'].forEach((s) => show(s, false)); return; }
+    show('pt-dados');
+    $('pt-dados').scrollIntoView({ behavior: 'smooth' });
+  });
+
+  // Etapa 2: dados
+  $('pt-dados').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const f = new FormData(e.currentTarget as HTMLFormElement);
+    perfil = {
+      sexo: f.get('sexo') as Perfil['sexo'],
+      idade: Number(f.get('idade')),
+      peso: Number(f.get('peso')),
+      altura: Number(f.get('altura')),
+      atividade: f.get('atividade') as Perfil['atividade'],
+      objetivo: f.get('objetivo') as Perfil['objetivo'],
+    };
+    localStorage.setItem(LS_PERFIL, JSON.stringify(perfil));
+    res = calcular(perfil);
+    track('proteina_calculo');
+    mostrarResultado();
+    $('pt-resultado').scrollIntoView({ behavior: 'smooth' });
+  });
+
+  function preencherForm() {
+    if (!perfil) return;
+    const form = $('pt-dados') as HTMLFormElement;
+    for (const [k, v] of Object.entries(perfil)) {
+      const el = form.elements.namedItem(k) as any;
+      if (el instanceof RadioNodeList) el.value = String(v); else if (el) el.value = String(v);
+    }
+  }
+
+  function mostrarResultado() {
+    if (!res || !perfil) return;
+    $('r-alvo').textContent = String(res.alvo);
+    $('r-faixa').textContent = `${res.minimo} a ${res.maximo} g`;
+    $('r-min').textContent = `${res.minimo} g`;
+    $('r-imc').textContent = `${fmt(res.imc)} (${res.faixaImc})`;
+    $('r-peso').textContent = res.usouPesoRef ? `${fmt(res.pesoRef)} kg (peso de referência, IMC 25)` : `${fmt(res.pesoRef)} kg`;
+    $('r-gkg').textContent = `${fmt(res.gkgMin)} a ${fmt(res.gkgMax)} g por quilo (${res.base})`;
+    $('r-ref').textContent = `${res.porRefeicao} g`;
+    const notas: string[] = [];
+    if (res.usouPesoRef) notas.push('Com IMC a partir de 30, o cálculo usa o peso correspondente ao IMC 25, porque o peso total superestimaria a necessidade.');
+    if (res.imc < 18.5) notas.push('Seu IMC está abaixo do adequado. Procure uma avaliação médica ou com nutricionista.');
+    if (perfil.objetivo === 'caneta') notas.push('Com a caneta, o apetite cai. Comece as refeições pela proteína e combine com treino de força.');
+    if (perfil.objetivo === 'massa' && perfil.atividade !== 'intenso' && perfil.atividade !== 'moderado') notas.push('Ganho de massa muscular depende de treino de força; só a proteína não basta.');
+    $('r-nota').textContent = notas.join(' ');
+    ['pt-resultado', 'pt-diario', 'pt-painel'].forEach((s) => show(s));
+    renderDiario();
+  }
+
+  $('pt-refazer').addEventListener('click', () => { show('pt-dados'); preencherForm(); $('pt-dados').scrollIntoView({ behavior: 'smooth' }); });
+
+  // Etapa 4: diário
+  const dietaSel = $('d-dieta') as HTMLSelectElement;
+  const dataInp = $('d-data') as HTMLInputElement;
+  dataInp.value = data;
+  dataInp.max = hoje();
+  dataInp.addEventListener('change', () => { data = dataInp.value || hoje(); renderDiario(); });
+  dietaSel.addEventListener('change', renderDiario);
+
+  const filtrados = (): Alimento[] => {
+    const d = dietaSel.value;
+    return alimentos.filter((x) => d === 'o' || (d === 'v' ? x.dieta !== 'o' : x.dieta === 'vg'));
+  };
+  const rotuloAlimento = (x: Alimento) => `${x.nome}`;
+
+  function renderDiario() {
+    const dias = lerDias();
+    const dia: Dia = dias[data] || {};
+    const lista = filtrados();
+    const datalist = `<datalist id="pt-alimentos">${grupos.flatMap((g) => lista.filter((x) => x.grupo === g).map((x) => `<option value="${rotuloAlimento(x)}"></option>`)).join('')}</datalist>`;
+    $('d-refeicoes').innerHTML = datalist + REFEICOES.map(([k, nome]) => {
+      const itens = dia[k] || [];
+      const tot = itens.reduce((s, i) => s + i.g, 0);
+      return `<div class="pt-meal" data-ref="${k}">
+        <h3><span>${nome}</span><span>${fmt(tot)} g</span></h3>
+        <ul>${itens.map((i, n) => `<li><span>${i.qtd ? i.qtd + ' · ' : ''}${i.nome}</span><span>${fmt(i.g)} g <button type="button" data-del="${n}" aria-label="Remover">×</button></span></li>`).join('')}</ul>
+        <div class="pt-add">
+          <label>Alimento<input list="pt-alimentos" data-f="alim" placeholder="Digite: frango, ovo, feijão..." /></label>
+          <label>Medida<select data-f="med"><option value="">escolha o alimento</option></select></label>
+          <label>Qtd.<input type="number" data-f="qtd" value="1" min="0.25" max="20" step="0.25" inputmode="decimal" /></label>
+          <button class="btn" type="button" data-f="add">+</button>
+        </div>
+      </div>`;
+    }).join('');
+    ($('c-ref') as HTMLSelectElement).innerHTML = REFEICOES.map(([k, n]) => `<option value="${k}" ${k === 'extra' ? 'selected' : ''}>${n}</option>`).join('');
+    renderPainel();
+  }
+
+  const acharAlimento = (txt: string) => alimentos.find((x) => rotuloAlimento(x).toLowerCase() === txt.trim().toLowerCase());
+
+  $('d-refeicoes').addEventListener('input', (e) => {
+    const t = e.target as HTMLInputElement;
+    if (t.dataset.f !== 'alim') return;
+    const box = t.closest('.pt-add')!;
+    const sel = box.querySelector('[data-f="med"]') as HTMLSelectElement;
+    const al = acharAlimento(t.value);
+    sel.innerHTML = al
+      ? al.medidas.map(([r, g], i) => `<option value="${i}">${r} (~${g} g)</option>`).join('') + `<option value="g">gramas (peso)</option>`
+      : '<option value="">escolha o alimento</option>';
+  });
+
+  function addItem(ref: string, item: Item) {
+    const dias = lerDias();
+    dias[data] = dias[data] || {};
+    (dias[data][ref] = dias[data][ref] || []).push(item);
+    salvarDias(dias);
+    renderDiario();
+  }
+
+  $('d-refeicoes').addEventListener('click', (e) => {
+    const t = e.target as HTMLElement;
+    const meal = t.closest('.pt-meal') as HTMLElement | null;
+    if (!meal) return;
+    const ref = meal.dataset.ref!;
+    if (t.dataset.del !== undefined) {
+      const dias = lerDias();
+      dias[data]?.[ref]?.splice(Number(t.dataset.del), 1);
+      salvarDias(dias);
+      renderDiario();
+      return;
+    }
+    if (t.dataset.f !== 'add') return;
+    const box = t.closest('.pt-add')!;
+    const al = acharAlimento((box.querySelector('[data-f="alim"]') as HTMLInputElement).value);
+    const medV = (box.querySelector('[data-f="med"]') as HTMLSelectElement).value;
+    const qtd = Number((box.querySelector('[data-f="qtd"]') as HTMLInputElement).value) || 0;
+    if (!al || qtd <= 0 || medV === '') { (box.querySelector('[data-f="alim"]') as HTMLInputElement).focus(); return; }
+    const gramas = medV === 'g' ? qtd : al.medidas[Number(medV)][1] * qtd;
+    const qtdTxt = medV === 'g' ? `${fmt(qtd)} g` : `${fmt(qtd)} ${al.medidas[Number(medV)][0]}`;
+    addItem(ref, { nome: al.nome, g: Math.round(((gramas * al.p100) / 100) * 10) / 10, qtd: qtdTxt });
+    track('proteina_alimento');
+  });
+
+  $('c-add').addEventListener('click', () => {
+    const nome = ($('c-nome') as HTMLInputElement).value.trim() || 'Item do rótulo';
+    const g = Number(($('c-g') as HTMLInputElement).value);
+    if (!(g > 0)) { $('c-g').focus(); return; }
+    addItem(($('c-ref') as HTMLSelectElement).value, { nome: `${nome} (rótulo)`, g });
+    ($('c-nome') as HTMLInputElement).value = '';
+    ($('c-g') as HTMLInputElement).value = '';
+  });
+
+  // Etapa 5: painel
+  const totalDia = (dia: Dia = {}) => Object.values(dia).flat().reduce((s, i) => s + i.g, 0);
+
+  function renderPainel() {
+    if (!res) return;
+    const dias = lerDias();
+    const dia = dias[data] || {};
+    const total = totalDia(dia);
+    const pct = Math.round((total / res.alvo) * 100);
+    $('p-total').textContent = fmt(Math.round(total));
+    $('p-alvo').textContent = String(res.alvo);
+    $('ring-n').textContent = `${pct}%`;
+    $('ring').style.strokeDashoffset = String(326.7 * (1 - Math.min(pct, 100) / 100));
+    const escala = Math.max(res.maximo, total) * 1.05;
+    $('p-bar').style.width = `${Math.min(100, (total / escala) * 100)}%`;
+    $('p-mark-min').style.left = `${(res.minimo / escala) * 100}%`;
+    const st = $('p-status');
+    if (total === 0) st.textContent = 'Adicione o que você comeu para ver se atingiu o mínimo.';
+    else if (total < res.minimo) st.textContent = `Abaixo do mínimo: faltam ${fmt(Math.round(res.minimo - total))} g para chegar a ${res.minimo} g.`;
+    else if (total <= res.maximo) st.textContent = `Dentro da faixa recomendada (${res.minimo} a ${res.maximo} g).`;
+    else st.textContent = `Acima da faixa (${res.maximo} g). Para a maioria das pessoas saudáveis isso não é um problema, mas, em geral, não aumenta o ganho de músculo.`;
+
+    $('p-refs').innerHTML = REFEICOES.map(([k, nome]) => {
+      const g = (dia[k] || []).reduce((s, i) => s + i.g, 0);
+      if (!g && !PRINCIPAIS.includes(k)) return '';
+      const meta = PRINCIPAIS.includes(k) ? res!.porRefeicao : 0;
+      const w = Math.min(100, (g / Math.max(40, g)) * 100);
+      const ok = meta && g >= meta;
+      return `<div class="pt-refbar"><span>${nome}</span><span class="pt-bar"><span class="pt-bar-fill ${ok ? 'ok' : ''}" style="width:${w}%"></span>${meta ? `<span class="pt-bar-mark" style="left:${(meta / 40) * 100}%" title="Meta"></span>` : ''}</span><span>${fmt(Math.round(g))} g</span></div>`;
+    }).join('') + `<p class="pt-note">O traço marca a meta de cerca de ${res.porRefeicao} g nas refeições principais.</p>`;
+
+    // Histórico de 7 dias
+    const base = new Date(data + 'T12:00:00');
+    const pts = Array.from({ length: 7 }, (_, i) => {
+      const d = new Date(base); d.setDate(base.getDate() - (6 - i));
+      const k = d.toISOString().slice(0, 10);
+      return { k, lab: d.toLocaleDateString('pt-BR', { weekday: 'short', day: '2-digit' }), v: totalDia(dias[k]) };
+    });
+    const max = Math.max(res.maximo, ...pts.map((p) => p.v)) * 1.1;
+    const y = (v: number) => 150 - (v / max) * 130;
+    $('p-hist').innerHTML =
+      `<line x1="0" x2="700" y1="${y(res.minimo)}" y2="${y(res.minimo)}" stroke="#343538" stroke-dasharray="4 4" stroke-width="1"/>` +
+      `<text x="696" y="${y(res.minimo) - 4}" text-anchor="end">mínimo ${res.minimo} g</text>` +
+      pts.map((p, i) => {
+        const x = 20 + i * 97;
+        const h = 150 - y(p.v);
+        const cor = p.v >= res!.minimo ? '#cba554' : '#d9cdb8';
+        return `<rect x="${x}" y="${y(p.v)}" width="60" height="${h}" rx="6" fill="${cor}"><title>${p.lab}: ${fmt(Math.round(p.v))} g</title></rect>` +
+          `<text x="${x + 30}" y="${y(p.v) - 6}" text-anchor="middle">${p.v ? Math.round(p.v) : ''}</text>` +
+          `<text x="${x + 30}" y="172" text-anchor="middle">${p.lab}</text>`;
+      }).join('');
+  }
+
+  $('pt-limpar').addEventListener('click', () => {
+    if (!confirm('Apagar todos os itens deste dia?')) return;
+    const dias = lerDias(); delete dias[data]; salvarDias(dias); renderDiario();
+  });
+
+  // PDF: relatório próprio e impressão do navegador ("Salvar como PDF").
+  $('pt-pdf').addEventListener('click', () => {
+    if (!res || !perfil) return;
+    const dia = lerDias()[data] || {};
+    const total = totalDia(dia);
+    const linhas = REFEICOES.flatMap(([k, n]) => (dia[k] || []).map((i) => `<tr><td>${n}</td><td>${i.qtd ? i.qtd + ' · ' : ''}${i.nome}</td><td>${fmt(i.g)} g</td></tr>`)).join('');
+    const p = $('pt-print');
+    p.innerHTML = `<h1>Minha proteína do dia</h1>
+      <p>${new Date(data + 'T12:00:00').toLocaleDateString('pt-BR')} · ${perfil.idade} anos · ${fmt(perfil.peso)} kg · ${perfil.altura} cm · IMC ${fmt(res.imc)}</p>
+      <p><strong>Meta:</strong> ${res.alvo} g por dia (faixa de ${res.minimo} a ${res.maximo} g; mínimo ${res.minimo} g).<br/>
+      <strong>Consumido:</strong> ${fmt(Math.round(total))} g (${Math.round((total / res.alvo) * 100)}% da meta).</p>
+      <table><thead><tr><th>Refeição</th><th>Alimento</th><th>Proteína</th></tr></thead><tbody>${linhas || '<tr><td colspan="3">Nenhum item registrado.</td></tr>'}</tbody></table>
+      <p style="font-size:10pt;margin-top:16px">Cálculo educativo e aproximado. Valores dos alimentos: TACO (Unicamp) e média de rótulos; medidas caseiras estimadas.
+      Não substitui consulta médica nem plano alimentar com nutricionista. alexandreokubo.com.br/calculadora-de-proteina/</p>`;
+    document.body.appendChild(p);
+    p.classList.add('pt-print-host');
+    track('proteina_pdf');
+    window.print();
+  });
+
+  // Estado inicial: quem já calculou volta direto ao diário.
+  if (perfil && res) { preencherForm(); mostrarResultado(); }
+</script>

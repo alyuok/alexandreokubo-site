@@ -6,6 +6,10 @@ Atualizado em 2026-11-18. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ## Do lado do Dr. Alexandre
 
+### Calculadora de proteína (prévia em 2026-11-21, branch claude/admiring-euler-l36vy7)
+- [ ] Revisar a prévia `/calculadora-de-proteina/` e responder às perguntas enviadas; publicar só com o "aprovado".
+- [ ] Depois: artigo sobre proteína ligado à calculadora.
+
 ### Doctoralia
 - [ ] Tirar "Especialista em Medicina Estética" do perfil. Medicina estética não é especialidade reconhecida e isso é risco no CFM.
   Em 2026-10-26 ele verificou que o painel não permite a remoção. Próximo passo: pedir ao suporte da Doctoralia, por escrito, citando a Resolução CFM 2.336/2023.
