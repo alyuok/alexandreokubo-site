@@ -87,7 +87,9 @@ export const alimentos: Alimento[] = [
   a('camarao', 'Camarão cozido', G.peixe, 19.0, 284, 'o', [['colher de sopa cheia', 25], ['unidade grande', 15]], ['BRC0001E', 17.7]),
   a('pintado', 'Pintado grelhado', G.peixe, 30.8, 313, 'o', [['posta média', 120]], ['BRC0030E', 30.8]),
   // Ovos
-  a('ovo-cozido', 'Ovo cozido', G.ovo, 13.3, 488, 'v', [['unidade grande', 50], ['unidade média', 45]], ['BRC0010J', 10.4]),
+  // Exceção à TBCA (decisão dele em 21/11/2026): a TBCA dá 10,4 g (BRC0010J), fora do que outras tabelas mostram
+  // (TACO 13,3 g; USDA, ovo grande de 50 g com cerca de 6,3 g, ou 12,6 g/100 g). Usamos a TACO.
+  a('ovo-cozido', 'Ovo cozido', G.ovo, 13.3, 488, 'v', [['unidade grande', 50], ['unidade média', 45]]),
   a('ovo-frito', 'Ovo frito', G.ovo, 15.6, 490, 'v', [['unidade', 45]], ['BRC0015J', 15.6]),
   a('ovo-mexido', 'Ovo mexido ou omelete simples (ovo inteiro)', G.ovo, 13.0, 489, 'v', [['1 ovo', 50]], ['BRC0065J', 12.2]),
   a('clara', 'Clara de ovo cozida', G.ovo, 13.4, 486, 'v', [['clara de 1 ovo', 30]], ['BRC0004J', 13.4]),
