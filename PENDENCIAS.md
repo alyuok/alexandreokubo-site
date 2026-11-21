@@ -7,8 +7,7 @@ Atualizado em 2026-11-18. Ao concluir um item, apague-o. Ao surgir um novo, acre
 ## Do lado do Dr. Alexandre
 
 ### Calculadora de proteína (publicada em 2026-11-21)
-- [ ] Pedir a indexação de https://alexandreokubo.com.br/calculadora-de-proteina/ no Google Search Console.
-- [ ] Depois: artigo sobre proteína ligado à calculadora.
+- [ ] Pedir a indexação no Google Search Console de https://alexandreokubo.com.br/calculadora-de-proteina/, https://alexandreokubo.com.br/blog/quanta-proteina-por-dia/ e da home (cartão novo).
 
 ### Doctoralia
 - [ ] Tirar "Especialista em Medicina Estética" do perfil. Medicina estética não é especialidade reconhecida e isso é risco no CFM.

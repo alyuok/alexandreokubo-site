@@ -23,7 +23,7 @@ sources:
     url: 'https://doi.org/10.1016/j.ajcnut.2025.04.023'
   - label: 'USP/FoRC. Tabela Brasileira de Composição de Alimentos (TBCA)'
     url: 'https://www.tbca.net.br/'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, eu como bem, não sei por que meu cabelo está caindo." Quando peço para a paciente contar o que comeu no dia anterior, a conta costuma ser parecida: café com pão, salada com um pouco de frango no almoço, um lanche à noite. Somando tudo, a proteína do dia fica abaixo do mínimo, mesmo sem a pessoa passar fome.
