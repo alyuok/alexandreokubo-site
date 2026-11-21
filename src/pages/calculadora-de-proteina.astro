@@ -130,6 +130,11 @@ const faq = [
           <li><strong>Faixa por quilo:</strong> <span id="r-gkg"></span></li>
           <li><strong>Por refeição principal:</strong> cerca de <span id="r-ref"></span></li>
         </ul>
+        <div class="pt-alert pt-dica">
+          <strong>Divida a proteína entre as refeições.</strong> Em vez de comer toda a proteína do dia de uma vez,
+          distribua a quantidade entre o café da manhã, o almoço e o jantar, com cerca de <span id="r-ref2"></span> em
+          cada uma. Os lanches ajudam a completar o total. Uma refeição muito grande não substitui as outras.
+        </div>
         <p class="pt-note" id="r-nota"></p>
         <div class="pt-actions">
           <a class="btn" href="#pt-diario">Somar o que comi hoje</a>
@@ -176,6 +181,7 @@ const faq = [
               <span class="pt-bar-mark" id="p-mark-min" title="Mínimo"></span>
             </div>
             <p class="pt-status" id="p-status"></p>
+            <p class="pt-alert" id="p-dist" hidden></p>
           </div>
         </div>
         <h3>Proteína por refeição</h3>
@@ -414,6 +420,7 @@ const faq = [
     $('r-peso').textContent = res.usouPesoRef ? `${fmt(res.pesoRef)} kg (peso de referência, IMC 25)` : `${fmt(res.pesoRef)} kg`;
     $('r-gkg').textContent = `${fmt(res.gkgMin)} a ${fmt(res.gkgMax)} g por quilo (${res.base})`;
     $('r-ref').textContent = `${res.porRefeicao} g`;
+    $('r-ref2').textContent = `${res.porRefeicao} g`;
     const notas: string[] = [];
     if (res.usouPesoRef) notas.push('Com IMC a partir de 30, o cálculo usa o peso correspondente ao IMC 25, porque o peso total superestimaria a necessidade.');
     if (res.imc < 18.5) notas.push('Seu IMC está abaixo do adequado. Procure uma avaliação médica ou com nutricionista.');
@@ -538,6 +545,15 @@ const faq = [
     else if (total < res.minimo) st.textContent = `Abaixo do mínimo: faltam ${fmt(Math.round(res.minimo - total))} g para chegar a ${res.minimo} g.`;
     else if (total <= res.maximo) st.textContent = `Dentro da faixa recomendada (${res.minimo} a ${res.maximo} g).`;
     else st.textContent = `Acima da faixa (${res.maximo} g). Para a maioria das pessoas saudáveis isso não é um problema, mas, em geral, não aumenta o ganho de músculo.`;
+    // Alerta de concentração: mais da metade do dia numa só refeição, ou refeição principal abaixo da meta.
+    const porRef = REFEICOES.map(([k, n]) => [n, (dia[k] || []).reduce((a, i) => a + i.g, 0)] as const);
+    const maior = porRef.reduce((m, r) => (r[1] > m[1] ? r : m), porRef[0]);
+    const faltando = REFEICOES.filter(([k]) => PRINCIPAIS.includes(k) && (dia[k] || []).reduce((a, i) => a + i.g, 0) < res!.porRefeicao * 0.5).map(([, n]) => n.toLowerCase());
+    const dist = $('p-dist');
+    if (total >= 20 && maior[1] / total > 0.5) dist.textContent = `Mais da metade da proteína de hoje veio de uma só refeição (${maior[0].toLowerCase()}). Tente dividir melhor entre o café da manhã, o almoço e o jantar.`;
+    else if (total >= 20 && faltando.length) dist.textContent = `Pouca proteína em: ${faltando.join(', ')}. Procure incluir uma fonte de proteína nessa refeição.`;
+    else dist.textContent = '';
+    dist.hidden = !dist.textContent;
 
     $('p-refs').innerHTML = REFEICOES.map(([k, nome]) => {
       const g = (dia[k] || []).reduce((s, i) => s + i.g, 0);
