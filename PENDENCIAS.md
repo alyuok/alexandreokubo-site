@@ -6,8 +6,8 @@ Atualizado em 2026-11-18. Ao concluir um item, apague-o. Ao surgir um novo, acre
 
 ## Do lado do Dr. Alexandre
 
-### Calculadora de proteína (prévia em 2026-11-21, branch claude/admiring-euler-l36vy7)
-- [ ] Revisar a prévia `/calculadora-de-proteina/` e responder às perguntas enviadas; publicar só com o "aprovado".
+### Calculadora de proteína (publicada em 2026-11-21)
+- [ ] Pedir a indexação de https://alexandreokubo.com.br/calculadora-de-proteina/ no Google Search Console.
 - [ ] Depois: artigo sobre proteína ligado à calculadora.
 
 ### Doctoralia
