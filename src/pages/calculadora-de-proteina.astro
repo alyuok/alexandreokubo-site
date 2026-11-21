@@ -151,16 +151,35 @@ const faq = [
             <select id="d-dieta"><option value="o">Todos</option><option value="v">Vegetarianos</option><option value="vg">Veganos</option></select>
           </label>
         </div>
-        <div id="d-refeicoes"></div>
-        <details class="pt-custom">
-          <summary>Adicionar item pelo rótulo (suplemento, barra de proteína, produto industrializado)</summary>
-          <div class="pt-row">
+        <div id="d-refeicoes" class="pt-meals"></div>
+
+        <div class="pt-rotulo" id="pt-rotulo">
+          <h3 class="mt0">Produto industrializado ou suplemento? Use o rótulo</h3>
+          <p>
+            Suplemento de proteína, bebida láctea, barra de proteína, pão ou iogurte de marca: na tabela nutricional da
+            embalagem, procure a linha <strong>Proteínas (g)</strong> da porção que você consumiu e digite o número aqui.
+            O rótulo é mais preciso que qualquer tabela.
+          </p>
+          <div class="pt-rotulo-form">
             <label>Refeição <select id="c-ref"></select></label>
-            <label>Nome <input id="c-nome" placeholder="Ex.: bebida láctea proteica" /></label>
-            <label>Proteína (g) <input id="c-g" type="number" inputmode="decimal" min="0" max="200" step="0.5" placeholder="23" /></label>
-            <button class="btn" type="button" id="c-add">Adicionar</button>
+            <label>Produto <input id="c-nome" placeholder="Ex.: bebida láctea proteica" /></label>
+            <label>Proteína por porção (g) <input id="c-g" type="number" inputmode="decimal" min="0" max="200" step="0.5" placeholder="23" /></label>
+            <label>Porções <input id="c-porcoes" type="number" inputmode="decimal" min="0.5" max="10" step="0.5" value="1" /></label>
+            <button class="btn" type="button" id="c-add">Adicionar pelo rótulo</button>
           </div>
-        </details>
+        </div>
+
+        <dialog class="pt-dialog" id="pt-busca" aria-labelledby="b-titulo">
+          <div class="pt-dialog-head">
+            <h3 class="mt0" id="b-titulo">Adicionar alimento</h3>
+            <button type="button" class="pt-x" id="b-fechar" aria-label="Fechar">×</button>
+          </div>
+          <input type="search" id="b-q" placeholder="Busque: frango, ovo, feijão, queijo..." autocomplete="off" />
+          <div class="pt-chips" id="b-grupos" role="group" aria-label="Filtrar por tipo de alimento"></div>
+          <p class="pt-note mt0" id="b-dica"></p>
+          <ul class="pt-results" id="b-lista"></ul>
+          <p class="pt-note">Não achou o alimento? <button type="button" class="pt-link" id="b-rotulo">Adicione pelo rótulo</button></p>
+        </dialog>
       </section>
 
       <!-- Etapa 5: painel -->
@@ -304,14 +323,48 @@ const faq = [
   .pt-facts { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 6px 16px; }
   .pt-note { font-size: 0.92rem; color: var(--muted); }
   .pt-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
-  .pt-meal { border-top: 1px solid var(--line); padding: 12px 0; }
-  .pt-meal h3 { display: flex; justify-content: space-between; margin: 0 0 8px; font-size: 1.05rem; }
+  .pt-meals { display: grid; gap: 14px; }
+  .pt-meal { border: 1px solid var(--line); border-radius: 14px; background: var(--white); overflow: hidden; }
+  .pt-meal-head { display: flex; justify-content: space-between; align-items: center; gap: 10px; padding: 10px 14px; background: var(--sand-deep); }
+  .pt-meal-head h3 { margin: 0; font-size: 1.05rem; }
+  .pt-meal--principal .pt-meal-head { background: var(--graphite); color: var(--white); }
+  .pt-meal--principal .pt-meal-head h3 { color: var(--white); }
+  .pt-badge { font-weight: 600; font-size: 0.95rem; white-space: nowrap; }
+  .pt-badge.ok::before { content: '✓ '; }
+  .pt-meal-body { padding: 8px 14px 12px; }
   .pt-meal ul { list-style: none; padding: 0; margin: 0 0 8px; }
-  .pt-meal li { display: flex; justify-content: space-between; gap: 8px; padding: 4px 0; border-bottom: 1px dashed var(--line); font-size: 0.95rem; }
-  .pt-meal li button { border: 0; background: none; color: var(--gold-text); cursor: pointer; font: inherit; }
-  .pt-add { display: grid; grid-template-columns: 2fr 1.3fr 0.7fr auto; gap: 8px; align-items: end; }
-  @media (max-width: 640px) { .pt-add { grid-template-columns: 1fr 1fr; } .pt-add input[list] { grid-column: 1 / -1; } }
-  .pt-add .btn { padding: 10px 14px; }
+  .pt-meal li > span:last-child { white-space: nowrap; }
+  .pt-meal li { display: flex; justify-content: space-between; gap: 8px; padding: 6px 0; border-bottom: 1px dashed var(--line); font-size: 0.95rem; }
+  .pt-meal li button { border: 0; background: none; color: var(--gold-text); cursor: pointer; font: inherit; font-size: 1.2rem; line-height: 1; }
+  .pt-vazio { color: var(--muted); font-size: 0.92rem; margin: 4px 0 8px; }
+  .pt-meal-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+  .pt-meal-actions .btn { padding: 8px 14px; font-size: 0.95rem; }
+  .pt-btn-rotulo { background: var(--white); color: var(--gold-text); border: 1.5px solid var(--gold); }
+  .pt-rotulo { margin-top: 20px; padding: 18px; border: 2px solid var(--gold); border-radius: 14px; background: #fbf6ea; scroll-margin-top: 90px; }
+  .pt-rotulo.pisca { animation: pisca 1.2s ease 2; }
+  @keyframes pisca { 50% { box-shadow: 0 0 0 6px rgba(203, 165, 84, 0.35); } }
+  .pt-rotulo-form { display: grid; grid-template-columns: 1fr 1.6fr 1fr 0.7fr; gap: 10px; align-items: end; }
+  @media (max-width: 640px) { .pt-rotulo-form { grid-template-columns: 1fr; } }
+  .pt-dialog { width: min(640px, 100vw - 24px); max-height: 88vh; border: 0; border-radius: 16px; padding: 18px; }
+  .pt-dialog::backdrop { background: rgba(52, 53, 56, 0.5); }
+  .pt-dialog-head { display: flex; justify-content: space-between; align-items: center; }
+  .pt-x { border: 0; background: none; font-size: 1.8rem; cursor: pointer; line-height: 1; }
+  .pt-dialog input[type='search'] { width: 100%; padding: 12px 14px; font: inherit; font-size: 1.05rem; border: 1.5px solid var(--gold); border-radius: 10px; margin: 10px 0; }
+  .pt-chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 6px; }
+  .pt-chip { flex: none; border: 1px solid var(--line); background: var(--white); border-radius: 99px; padding: 6px 12px; font: inherit; font-size: 0.88rem; cursor: pointer; }
+  .pt-chip[aria-pressed='true'] { background: var(--graphite); color: var(--white); border-color: var(--graphite); }
+  .pt-results { list-style: none; padding: 0; margin: 0; max-height: 46vh; overflow-y: auto; }
+  .pt-results > li { border-bottom: 1px solid var(--line); }
+  .pt-res { display: flex; justify-content: space-between; gap: 10px; width: 100%; text-align: left; border: 0; background: none; padding: 10px 4px; font: inherit; cursor: pointer; }
+  .pt-res small { color: var(--muted); white-space: nowrap; }
+  .pt-res:hover { background: var(--sand); }
+  .pt-pick { display: grid; grid-template-columns: 1.5fr auto; gap: 10px; align-items: center; padding: 6px 4px 12px; }
+  .pt-pick select { padding: 10px; font: inherit; border: 1px solid var(--line); border-radius: 10px; }
+  .pt-step-qty { display: flex; align-items: center; gap: 6px; }
+  .pt-step-qty button { width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--line); background: var(--white); font-size: 1.2rem; cursor: pointer; }
+  .pt-step-qty output { min-width: 34px; text-align: center; font-weight: 600; }
+  .pt-pick-total { grid-column: 1 / -1; display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+  .pt-link { border: 0; background: none; color: var(--gold-text); text-decoration: underline; font: inherit; cursor: pointer; padding: 0; }
   .pt-dash-top { display: grid; grid-template-columns: 140px 1fr; gap: 20px; align-items: center; }
   @media (max-width: 520px) { .pt-dash-top { grid-template-columns: 1fr; justify-items: center; text-align: center; } }
   .pt-ring { width: 140px; height: 140px; }
@@ -445,43 +498,149 @@ const faq = [
     const d = dietaSel.value;
     return alimentos.filter((x) => d === 'o' || (d === 'v' ? x.dieta !== 'o' : x.dieta === 'vg'));
   };
-  const rotuloAlimento = (x: Alimento) => `${x.nome}`;
+
+  // Busca: sem acento, por palavras, com apelidos comuns.
+  const norm = (t: string) => t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  const APELIDOS: Record<string, string> = {
+    'patinho alcatra contrafile filemignon picanha coxao-mole lagarto musculo': 'bife carne vermelha boi',
+    'patinho-moido': 'carne moida',
+    'peito-grelhado peito-cozido coxa sobrecoxa frango-inteiro': 'galinha ave file',
+    'whey proteina-vegetal colageno': 'whey suplemento shake po',
+    'tilapia-merluza pescada salmao pintado': 'peixe file',
+    'leite-integral leite-desnatado bebida-soja bebida-aveia': 'leite copo bebida',
+    'pts': 'carne de soja vegana',
+    'tofu grao-de-bico lentilha quinoa': 'vegano vegetariano',
+  };
+  const extra: Record<string, string> = {};
+  for (const [ids, w] of Object.entries(APELIDOS)) for (const id of ids.split(' ')) extra[id] = (extra[id] || '') + ' ' + w;
+  const idx = alimentos.map((x) => [x, norm(`${x.nome} ${x.grupo} ${extra[x.id] || ''}`)] as const);
+  const COMUNS = ['ovo-cozido', 'peito-grelhado', 'patinho', 'feijao-carioca', 'arroz-branco', 'pao-frances', 'queijo-minas', 'mussarela', 'iogurte-natural', 'leite-integral', 'atum', 'whey'];
+  const protMedida = (x: Alimento, i = 0) => Math.round(((x.medidas[i][1] * x.p100) / 100) * 10) / 10;
+
+  let refAtual = 'cafe';
+  let grupoAtual = '';
+  const dlg = $('pt-busca') as HTMLDialogElement;
+  const bq = $('b-q') as HTMLInputElement;
+
+  function abrirBusca(ref: string) {
+    refAtual = ref;
+    $('b-titulo').textContent = `Adicionar ao ${REFEICOES.find(([k]) => k === ref)![1].toLowerCase()}`;
+    bq.value = '';
+    grupoAtual = '';
+    renderBusca();
+    dlg.showModal();
+    bq.focus();
+  }
+
+  function renderBusca() {
+    const permitidos = new Set(filtrados().map((x) => x.id));
+    $('b-grupos').innerHTML = ['', ...grupos].map((g) => `<button type="button" class="pt-chip" data-g="${g}" aria-pressed="${g === grupoAtual}">${g || 'Todos'}</button>`).join('');
+    const termos = norm(bq.value).split(/\s+/).filter(Boolean);
+    let lista: Alimento[];
+    if (!termos.length && !grupoAtual) {
+      lista = COMUNS.map((id) => alimentos.find((x) => x.id === id)!).filter((x) => x && permitidos.has(x.id));
+      $('b-dica').textContent = 'Mais comuns. Digite para buscar entre todos os alimentos ou escolha um tipo acima.';
+    } else {
+      lista = idx.filter(([x, h]) => permitidos.has(x.id) && (!grupoAtual || x.grupo === grupoAtual) && termos.every((t) => h.includes(t))).map(([x]) => x);
+      $('b-dica').textContent = lista.length ? `${lista.length} alimento(s)` : 'Nenhum alimento encontrado. Tente outra palavra ou use o rótulo.';
+    }
+    $('b-lista').innerHTML = lista.map((x) => `<li data-id="${x.id}"><button type="button" class="pt-res"><span>${x.nome}</span><small>${fmt(protMedida(x))} g por ${x.medidas[0][0]}</small></button></li>`).join('');
+  }
+
+  bq.addEventListener('input', renderBusca);
+  $('b-grupos').addEventListener('click', (e) => {
+    const b = (e.target as HTMLElement).closest('[data-g]') as HTMLElement | null;
+    if (!b) return;
+    grupoAtual = b.dataset.g || '';
+    renderBusca();
+  });
+  $('b-fechar').addEventListener('click', () => dlg.close());
+  dlg.addEventListener('click', (e) => { if (e.target === dlg) dlg.close(); });
+
+  function atualizaPick(li: HTMLElement) {
+    const x = alimentos.find((a) => a.id === li.dataset.id)!;
+    const med = (li.querySelector('select') as HTMLSelectElement).value;
+    const q = Number(li.dataset.q);
+    const g = med === 'g' ? q * 10 : x.medidas[Number(med)][1] * q;
+    li.querySelector('output')!.textContent = med === 'g' ? `${g} g` : fmt(q);
+    li.querySelector('[data-total]')!.textContent = `= ${fmt(Math.round(((g * x.p100) / 100) * 10) / 10)} g de proteína`;
+  }
+
+  $('b-lista').addEventListener('click', (e) => {
+    const t = e.target as HTMLElement;
+    const li = t.closest('li[data-id]') as HTMLElement | null;
+    if (!li) return;
+    const x = alimentos.find((a) => a.id === li.dataset.id)!;
+    if (t.closest('.pt-res')) {
+      if (li.querySelector('.pt-pick')) { li.querySelector('.pt-pick')!.remove(); return; }
+      $('b-lista').querySelectorAll('.pt-pick').forEach((p) => p.remove());
+      li.dataset.q = '1';
+      li.insertAdjacentHTML('beforeend', `<div class="pt-pick">
+        <select aria-label="Medida">${x.medidas.map(([r, g], i) => `<option value="${i}">${r} (~${g} g)</option>`).join('')}<option value="g">em gramas (de 10 em 10 g)</option></select>
+        <div class="pt-step-qty"><button type="button" data-d="-1" aria-label="Menos">−</button><output>1</output><button type="button" data-d="1" aria-label="Mais">+</button></div>
+        <div class="pt-pick-total"><strong data-total></strong><button type="button" class="btn" data-ok>Adicionar</button></div>
+      </div>`);
+      atualizaPick(li);
+      return;
+    }
+    if (t.dataset.d) {
+      const med = (li.querySelector('select') as HTMLSelectElement).value;
+      const passo = med === 'g' ? 1 : 0.5;
+      li.dataset.q = String(Math.max(passo, Number(li.dataset.q) + Number(t.dataset.d) * passo));
+      atualizaPick(li);
+      return;
+    }
+    if (t.hasAttribute('data-ok')) {
+      const med = (li.querySelector('select') as HTMLSelectElement).value;
+      const q = Number(li.dataset.q);
+      const gramas = med === 'g' ? q * 10 : x.medidas[Number(med)][1] * q;
+      const qtdTxt = med === 'g' ? `${gramas} g` : `${fmt(q)} ${x.medidas[Number(med)][0]}`;
+      addItem(refAtual, { nome: x.nome, g: Math.round(((gramas * x.p100) / 100) * 10) / 10, qtd: qtdTxt });
+      track('proteina_alimento');
+      dlg.close();
+    }
+  });
+  $('b-lista').addEventListener('change', (e) => {
+    const li = (e.target as HTMLElement).closest('li[data-id]') as HTMLElement;
+    li.dataset.q = (e.target as HTMLSelectElement).value === 'g' ? '10' : '1';
+    atualizaPick(li);
+  });
+
+  function irParaRotulo(ref: string) {
+    if (dlg.open) dlg.close();
+    ($('c-ref') as HTMLSelectElement).value = ref;
+    const box = $('pt-rotulo');
+    box.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    box.classList.remove('pisca'); void box.offsetWidth; box.classList.add('pisca');
+    setTimeout(() => $('c-nome').focus({ preventScroll: true }), 400);
+  }
+  $('b-rotulo').addEventListener('click', () => irParaRotulo(refAtual));
 
   function renderDiario() {
     const dias = lerDias();
     const dia: Dia = dias[data] || {};
-    const lista = filtrados();
-    const datalist = `<datalist id="pt-alimentos">${grupos.flatMap((g) => lista.filter((x) => x.grupo === g).map((x) => `<option value="${rotuloAlimento(x)}"></option>`)).join('')}</datalist>`;
-    $('d-refeicoes').innerHTML = datalist + REFEICOES.map(([k, nome]) => {
+    const meta = res?.porRefeicao || 20;
+    $('d-refeicoes').innerHTML = REFEICOES.map(([k, nome]) => {
       const itens = dia[k] || [];
       const tot = itens.reduce((s, i) => s + i.g, 0);
-      return `<div class="pt-meal" data-ref="${k}">
-        <h3><span>${nome}</span><span>${fmt(tot)} g</span></h3>
-        <ul>${itens.map((i, n) => `<li><span>${i.qtd ? i.qtd + ' · ' : ''}${i.nome}</span><span>${fmt(i.g)} g <button type="button" data-del="${n}" aria-label="Remover">×</button></span></li>`).join('')}</ul>
-        <div class="pt-add">
-          <label>Alimento<input list="pt-alimentos" data-f="alim" placeholder="Digite: frango, ovo, feijão..." /></label>
-          <label>Medida<select data-f="med"><option value="">escolha o alimento</option></select></label>
-          <label>Qtd.<input type="number" data-f="qtd" value="1" min="0.25" max="20" step="0.25" inputmode="decimal" /></label>
-          <button class="btn" type="button" data-f="add">+</button>
+      const principal = PRINCIPAIS.includes(k);
+      const badge = principal ? `<span class="pt-badge ${tot >= meta ? 'ok' : ''}">${fmt(Math.round(tot))} de ${meta} g</span>` : `<span class="pt-badge">${fmt(Math.round(tot))} g</span>`;
+      return `<div class="pt-meal ${principal ? 'pt-meal--principal' : ''}" data-ref="${k}">
+        <div class="pt-meal-head"><h3>${nome}</h3>${badge}</div>
+        <div class="pt-meal-body">
+          ${itens.length ? `<ul>${itens.map((i, n) => `<li><span>${i.qtd ? i.qtd + ' · ' : ''}${i.nome}</span><span>${fmt(i.g)} g <button type="button" data-del="${n}" aria-label="Remover ${i.nome}">×</button></span></li>`).join('')}</ul>` : `<p class="pt-vazio">Nada registrado.</p>`}
+          <div class="pt-meal-actions">
+            <button class="btn" type="button" data-f="buscar">+ Alimento</button>
+            <button class="btn pt-btn-rotulo" type="button" data-f="rotulo">+ Pelo rótulo</button>
+          </div>
         </div>
       </div>`;
     }).join('');
-    ($('c-ref') as HTMLSelectElement).innerHTML = REFEICOES.map(([k, n]) => `<option value="${k}" ${k === 'extra' ? 'selected' : ''}>${n}</option>`).join('');
+    const cref = $('c-ref') as HTMLSelectElement;
+    const atual = cref.value || 'extra';
+    cref.innerHTML = REFEICOES.map(([k, n]) => `<option value="${k}" ${k === atual ? 'selected' : ''}>${n}</option>`).join('');
     renderPainel();
   }
-
-  const acharAlimento = (txt: string) => alimentos.find((x) => rotuloAlimento(x).toLowerCase() === txt.trim().toLowerCase());
-
-  $('d-refeicoes').addEventListener('input', (e) => {
-    const t = e.target as HTMLInputElement;
-    if (t.dataset.f !== 'alim') return;
-    const box = t.closest('.pt-add')!;
-    const sel = box.querySelector('[data-f="med"]') as HTMLSelectElement;
-    const al = acharAlimento(t.value);
-    sel.innerHTML = al
-      ? al.medidas.map(([r, g], i) => `<option value="${i}">${r} (~${g} g)</option>`).join('') + `<option value="g">gramas (peso)</option>`
-      : '<option value="">escolha o alimento</option>';
-  });
 
   function addItem(ref: string, item: Item) {
     const dias = lerDias();
@@ -503,25 +662,20 @@ const faq = [
       renderDiario();
       return;
     }
-    if (t.dataset.f !== 'add') return;
-    const box = t.closest('.pt-add')!;
-    const al = acharAlimento((box.querySelector('[data-f="alim"]') as HTMLInputElement).value);
-    const medV = (box.querySelector('[data-f="med"]') as HTMLSelectElement).value;
-    const qtd = Number((box.querySelector('[data-f="qtd"]') as HTMLInputElement).value) || 0;
-    if (!al || qtd <= 0 || medV === '') { (box.querySelector('[data-f="alim"]') as HTMLInputElement).focus(); return; }
-    const gramas = medV === 'g' ? qtd : al.medidas[Number(medV)][1] * qtd;
-    const qtdTxt = medV === 'g' ? `${fmt(qtd)} g` : `${fmt(qtd)} ${al.medidas[Number(medV)][0]}`;
-    addItem(ref, { nome: al.nome, g: Math.round(((gramas * al.p100) / 100) * 10) / 10, qtd: qtdTxt });
-    track('proteina_alimento');
+    if (t.dataset.f === 'buscar') abrirBusca(ref);
+    if (t.dataset.f === 'rotulo') irParaRotulo(ref);
   });
 
   $('c-add').addEventListener('click', () => {
-    const nome = ($('c-nome') as HTMLInputElement).value.trim() || 'Item do rótulo';
+    const nome = ($('c-nome') as HTMLInputElement).value.trim() || 'Produto';
     const g = Number(($('c-g') as HTMLInputElement).value);
+    const p = Number(($('c-porcoes') as HTMLInputElement).value) || 1;
     if (!(g > 0)) { $('c-g').focus(); return; }
-    addItem(($('c-ref') as HTMLSelectElement).value, { nome: `${nome} (rótulo)`, g });
+    addItem(($('c-ref') as HTMLSelectElement).value, { nome: `${nome} (rótulo)`, g: Math.round(g * p * 10) / 10, qtd: p !== 1 ? `${fmt(p)} porções` : undefined });
+    track('proteina_rotulo');
     ($('c-nome') as HTMLInputElement).value = '';
     ($('c-g') as HTMLInputElement).value = '';
+    ($('c-porcoes') as HTMLInputElement).value = '1';
   });
 
   // Etapa 5: painel
