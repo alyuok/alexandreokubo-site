@@ -49,7 +49,11 @@ const config = JSON.stringify({ ga4, googleAds, adsConversions });
         else if (href.startsWith('tel:')) kind = 'telefone';
         // Rota no mapa: evento próprio, sem conversão no Google Ads.
         else if (href.includes('google.com/maps')) kind = 'rota';
-        if (!kind) return;
+        // Links internos marcados com data-event (ex.: cartão da calculadora na home): evento próprio, sem conversão.
+        if (!kind) {
+          if (a.dataset.event) gtag('event', 'clique_interno', { link_url: href, page_path: location.pathname, origem: a.dataset.event });
+          return;
+        }
         gtag('event', 'contato_' + kind, { link_url: href, page_path: location.pathname, origem: a.dataset.event || '' });
         const label = cfg.adsConversions && cfg.adsConversions[kind];
         if (cfg.googleAds && label) gtag('event', 'conversion', { send_to: cfg.googleAds + '/' + label });
