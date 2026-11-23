@@ -44,7 +44,7 @@ A genética e a origem étnica pesam mais do que qualquer outro fator. Em um lev
 
 Você talvez já tenha ouvido a "regra dos 50": aos 50 anos, metade das pessoas teria metade do cabelo branco. O mesmo estudo mostrou que, aos 50 anos, só de 6% a 23% das pessoas têm metade do cabelo branco, conforme a origem e a cor natural do cabelo.
 
-Quando os pais começaram a branquear cedo, é comum que os filhos sigam o mesmo caminho.
+Quando os pais começaram a branquear cedo, é comum que os filhos também branqueiem cedo.
 
 ## O que está associado ao cabelo branco precoce?
 
@@ -56,13 +56,13 @@ Uma revisão sistemática com meta-análise de 2020 reuniu os fatores mais ligad
 - **Ferro e cálcio baixos:** quem tem canície precoce costuma ter ferritina (o estoque de ferro) e cálcio no sangue mais baixos.
 - **Outras condições:** doenças da tireoide, colesterol alterado, obesidade e sedentarismo.
 
-Esses dados vêm, na maioria, de estudos observacionais. Eles mostram associação, não provam que um fator causa o branqueamento.
+Esses dados vêm, na maioria, de estudos observacionais, que mostram associação.
 
 ## Estresse deixa o cabelo branco?
 
 Há evidência de que sim, mas a maior parte vem de estudos em animais. Em camundongos, o estresse agudo ativa os nervos que chegam à raiz do fio. Eles liberam noradrenalina, um hormônio do estresse, e esgotam as células-tronco que repõem os melanócitos. Nesses animais, a perda foi permanente.
 
-Em humanos, um estudo de 2021 analisou fio por fio e encontrou cabelos que ficaram brancos em períodos de estresse e voltaram a escurecer depois. O estudo foi pequeno, mas mostra que, no início, o branqueamento pode se reverter.
+Em humanos, um estudo de 2021 analisou fio por fio e encontrou cabelos que ficaram brancos em períodos de estresse e voltaram a escurecer depois. O estudo foi pequeno, mas sugere que, no início, o branqueamento de alguns fios pode se reverter.
 
 A história de alguém que ficou de cabelo branco "da noite para o dia" quase sempre tem outra explicação: uma alopecia areata, por exemplo, em que caem os fios escuros e ficam os brancos.
 
@@ -93,7 +93,9 @@ Desconfie de xampus, cápsulas e loções que prometem "acabar com os brancos". 
 
 ## Tingir o cabelo faz mal?
 
-A tintura é a forma mais usada de lidar com os brancos. O efeito colateral mais comum é a dermatite de contato, uma alergia no couro cabeludo, em geral causada pela parafenilenodiamina (PPD), presente na maioria das tinturas escuras. Faça o teste de mecha e de pele antes de cada aplicação, como diz a embalagem.
+A tintura é a forma mais usada de lidar com os brancos. O efeito colateral mais comum é a dermatite de contato, uma alergia no couro cabeludo, em geral causada pela parafenilenodiamina (PPD), presente na maioria das tinturas escuras. Na consulta, oriento o teste de pele antes de cada aplicação, como manda a embalagem, e o teste de mecha para conferir a cor.
+
+Quem já teve alergia à PPD precisa de orientação para escolher outra tintura. A henna pura também pode causar alergia, e a chamada henna preta costuma conter PPD.
 
 Sobre câncer: um estudo que acompanhou 117.200 enfermeiras americanas por 36 anos não encontrou aumento do risco da maioria dos cânceres nem da mortalidade por câncer entre quem usava tintura permanente. Houve pequenos aumentos em alguns tipos específicos, que ainda estão sendo estudados.
 
