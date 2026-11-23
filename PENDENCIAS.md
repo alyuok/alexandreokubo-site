@@ -17,11 +17,9 @@ Tudo o que é da Prime (site primedermatologia.com, perfil do Google da clínica
 O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da auditoria (CFM) se resolveu com a troca.
 
 ### Google Ads e GA4
-- [ ] GA4: marcar como eventos principais `contato_whatsapp`, `contato_doctoralia` e `contato_telefone` (em 07/11, eram 0 eventos principais).
-- [ ] Vincular o GA4 ao Google Ads (conta "Prime Dermato"). Se importar eventos do GA4 como conversão, deixá-los como secundários: as principais são as da tag do site.
-- [ ] GA4: rodar no Chrome o prompt `docs/prompt-ga4-2026-11-22.md` (dimensão `origem`, eventos principais, anotação de 21/11, conferência em tempo real) e mandar o relatório ao Claude. Desde 22/11, links internos com `data-event` geram o evento `clique_interno` (sem conversão).
-- [ ] GA4: criar a dimensão personalizada `origem` (escopo de evento, parâmetro `origem`). Sem ela, não dá para separar os cliques por botão: `agendar_sao_paulo_whatsapp`, `agendar_sao_paulo_doctoralia`, `agendar_santo_andre_telefone`, `agendar_santo_andre_doctoralia`, `agendar_teleconsulta_doctoralia`, `onde_atendo_<clinica>_<canal>` (novos em 21/11), além dos antigos (`whatsapp_encravada` etc.).
-- [ ] GA4: anotar em 21/11/2026 "Agendar do menu passa a abrir escolha de unidade". Antes, todo clique no Agendar do menu contava como `contato_doctoralia` (e conversão Clique Doctoralia no Ads), mesmo sem agendar; agora só conta o canal escolhido. Queda nessa conversão a partir de 21/11 não é queda de agendamento.
+- GA4 conferido em 23/11 (relatório do Chrome): dimensão "Origem do clique" (`origem`) criada; `contato_whatsapp`, `contato_doctoralia` e `contato_telefone` marcados como eventos principais; anotação de 21/11 criada (texto encurtado, limite de 150 caracteres); `clique_interno` com `origem` e `proteina_calculo` vistos no Tempo real. Vínculo com o Google Ads já existia desde 07/11, sem eventos importados.
+- [ ] **Decisão dele:** o vínculo GA4 e Google Ads está com a publicidade personalizada ATIVADA. Recomendação do Claude: desativar (site de saúde; política do Google para anúncios personalizados e LGPD). Só mexer com o "pode desativar" dele.
+- [ ] GA4 (opcional): testar o aviso de cookies e o botão "Aceitar" numa janela anônima (no teste de 23/11 o consentimento já estava salvo).
 - [ ] GA4: os eventos da calculadora (`proteina_calculo`, `proteina_alimento`, `proteina_rotulo`, `proteina_pdf`, `proteina_triagem_bloqueio`) aparecem sozinhos; não marcar como principais nem importar no Ads (são uso da ferramenta, não agendamento).
 - [ ] Google Ads: nada a criar nem mudar nas conversões (mesmos rótulos). Na análise de 02/12, ler a conversão Clique Doctoralia levando em conta a mudança de 21/11.
 - [ ] Google Ads (opcional): extensão de frase de destaque "Teleconsulta e segunda opinião" e, se houver sitelinks, conferir os textos: os endereços não mudaram, só os nomes do menu ("Como atendo", "Tratamentos").
