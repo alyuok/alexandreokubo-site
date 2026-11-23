@@ -18,7 +18,7 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 
 ### Google Ads e GA4
 - GA4 conferido em 23/11 (relatório do Chrome): dimensão "Origem do clique" (`origem`) criada; `contato_whatsapp`, `contato_doctoralia` e `contato_telefone` marcados como eventos principais; anotação de 21/11 criada (texto encurtado, limite de 150 caracteres); `clique_interno` com `origem` e `proteina_calculo` vistos no Tempo real. Vínculo com o Google Ads já existia desde 07/11, sem eventos importados.
-- [ ] **Decisão dele:** o vínculo GA4 e Google Ads está com a publicidade personalizada ATIVADA. Recomendação do Claude: desativar (site de saúde; política do Google para anúncios personalizados e LGPD). Só mexer com o "pode desativar" dele.
+- [ ] Desativar a publicidade personalizada no vínculo GA4 e Google Ads (autorizado por ele em 23/11): rodar no Chrome o prompt `docs/prompt-ga4-publicidade-personalizada-2026-11-23.md` e mandar o relatório ao Claude.
 - [ ] GA4 (opcional): testar o aviso de cookies e o botão "Aceitar" numa janela anônima (no teste de 23/11 o consentimento já estava salvo).
 - [ ] GA4: os eventos da calculadora (`proteina_calculo`, `proteina_alimento`, `proteina_rotulo`, `proteina_pdf`, `proteina_triagem_bloqueio`) aparecem sozinhos; não marcar como principais nem importar no Ads (são uso da ferramenta, não agendamento).
 - [ ] Google Ads: nada a criar nem mudar nas conversões (mesmos rótulos). Na análise de 02/12, ler a conversão Clique Doctoralia levando em conta a mudança de 21/11.
