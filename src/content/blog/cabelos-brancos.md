@@ -2,8 +2,8 @@
 title: 'Cabelos brancos: por que aparecem, o que acelera e quando investigar'
 description: 'Por que os cabelos brancos aparecem, o que o estresse, o cigarro e a falta de vitaminas têm a ver com isso, quando o cabelo branco precoce merece exames e o que existe de tratamento.'
 answer: 'Os cabelos brancos aparecem quando as células que fabricam o pigmento do fio (melanócitos) diminuem ou param de trabalhar. A genética e a idade são as causas principais. Cigarro, falta de vitamina B12, ferro baixo e alterações da tireoide estão associados ao branqueamento precoce. Não há tratamento comprovado que devolva a cor de forma duradoura.'
-pubDate: 2026-11-22
-reviewedDate: 2026-11-22
+pubDate: 2026-11-23
+reviewedDate: 2026-11-23
 category: 'Cabelos'
 about: ['Canície', 'Canície precoce', 'Melanócitos', 'Vitamina B12']
 sources:
@@ -25,7 +25,7 @@ sources:
     url: 'https://doi.org/10.1136/bmj.m2942'
   - label: 'Herdiana Y. Gray hair: from preventive to treatment. Clin Cosmet Investig Dermatol, 2025'
     url: 'https://doi.org/10.2147/CCID.S526263'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, tenho 28 anos e já estou cheio de cabelo branco. Isso é normal?" A resposta depende da família, dos hábitos e de alguns exames simples.
