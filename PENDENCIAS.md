@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-11-23. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-25. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 **Dono de cada assunto:** este arquivo é o único dono do Google Ads (todas as campanhas, conta "Prime Dermato", ID em `analytics.adsAccount` de `src/data/site.ts`) e do GA4 `G-PYB8EG1D9J`. O `PENDENCIAS.md` do clinicaprime só aponta para cá.
 
@@ -19,7 +19,7 @@ O site novo está no ar desde 09/11/2026 e substituiu o WordPress; a Fase 0 da a
 ### Google Ads e GA4
 - GA4 conferido em 23/11 (relatório do Chrome): dimensão "Origem do clique" (`origem`) criada; `contato_whatsapp`, `contato_doctoralia` e `contato_telefone` marcados como eventos principais; anotação de 21/11 criada (texto encurtado, limite de 150 caracteres); `clique_interno` com `origem` e `proteina_calculo` vistos no Tempo real. Vínculo com o Google Ads já existia desde 07/11, sem eventos importados.
 - Publicidade personalizada desativada no vínculo GA4 e Google Ads em 23/11 (15:05; vínculo continua ativo). Indicadores do Google desativados.
-- [ ] Por volta de 24/11: conferir se a coluna "Publicidade personalizada" da lista de contas vinculadas do Google Ads também passou a "Desativada" (em 23/11 a lista ainda mostrava "Ativada", e o painel do vínculo já mostrava desligado).
+- [ ] Publicidade personalizada: em 25/11 a tela de contas vinculadas do Google Ads não tem mais a coluna "Publicidade personalizada" (mostra só "Importar públicos-alvo do Google Analytics: Desativada" nas três propriedades). Conferir pelo GA4 (Administrador, vínculos do Google Ads, G-PYB8EG1D9J): Parte C do prompt de aplicação.
 - [ ] GA4 (opcional): testar o aviso de cookies e o botão "Aceitar" numa janela anônima (no teste de 23/11 o consentimento já estava salvo).
 - [ ] GA4: os eventos da calculadora (`proteina_calculo`, `proteina_alimento`, `proteina_rotulo`, `proteina_pdf`, `proteina_triagem_bloqueio`) aparecem sozinhos; não marcar como principais nem importar no Ads (são uso da ferramenta, não agendamento).
 - [ ] Google Ads: nada a criar nem mudar nas conversões (mesmos rótulos). Na análise de 02/12, ler a conversão Clique Doctoralia levando em conta a mudança de 21/11.
@@ -68,9 +68,9 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - [ ] Próximos temas: olheiras, melanoma, carcinoma basocelular (os de fios de PDO, dermatite, psoríase e urticária estão no item dos subitens).
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).
-  Atrasado (era para 11 ou 12/11): conferir a força do anúncio e a política da Unha encravada. Prompt pronto em `docs/prompt-pendencias-atrasadas-google-ads-2026-11-18.md` (Passo 1); tirar a fixação dos títulos 1 e 2 só se ele escrever "pode tirar a fixação".
-  A exportação de termos de 17/11 foi absorvida pela de 21/11 (período 08/11 a 21/11). Por volta de 24/11: comparar o custo por conversão com o da campanha de cisto.
-  Os recursos de mensagem de WhatsApp que o Google anexou às duas campanhas ficaram pausados. Idioma não configurável na interface atual.
+  Força do anúncio e política conferidas em 25/11: Micose "Ruim" (R$ 130 com 1 conversão), "Laser" "Bom", Unha "Ruim"; todos aprovados. Tirar a fixação dos títulos 1 e 2 só se ele escrever "pode tirar a fixação".
+  Custo por conversão de 08 a 24/11: Micose R$ 103,39 (3 conversões), Unha R$ 74,21 (4) e Cisto R$ 54,70. A Micose passou do gatilho de R$ 50: decidir em 02/12 se concentra no grupo "Laser".
+  Os recursos de mensagem de WhatsApp que o Google anexou às duas campanhas ficaram pausados. Idioma não configurável na interface atual. Em 25/11, a Micose tinha uma mensagem ativa, criada pelo anunciante em 18/11 ("Gostaria de obter mais informações sobre a consulta para micose de unha…"): ver quem criou.
 - [ ] Conversões principais (resultado de 11/11, `docs/prompt-conversoes-secundarias-2026-11-11.md`): as ações criadas pelo Google (perfil da empresa, campanhas inteligentes, "Clicks to call") não podem ser reclassificadas ("criada pelo Google Ads e não pode ser editada").
   Corrigido o que importa: as campanhas de consultas e cisto passaram a usar as metas padrão da conta, e as metas padrão filtram por origem (Contato: só Site; Lead telefônico: só chamadas de anúncios).
   De 04 a 10/11, a coluna Conversões só contou WhatsApp, Doctoralia e telefone. Falta conferir, em Metas > Resumo, se só "Contato" e "Lead telefônico" estão como metas padrão da conta (Rotas, Engajamento, Página, Agendamento e Formulário fora).
@@ -83,22 +83,22 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
   Em 2026-10-26 a URL passou de `.../santo-andre3` para `.../sao-paulo` (já atualizada). O trecho "especialista-em-medicina-estetica" continua nela.
 
 ### Google Ads: negativas aplicadas em 18/11 (autorizadas por ele)
-- [ ] Conferir se o Chrome aplicou (Passo 2 do prompt de 18/11 acima): 44 negativas de frase em "Micose de unha - Pesquisa" (remédio, produtos, nomes de remédio, tratamento em casa, podologia); 24 em "Unha encravada - Pesquisa" (aparelhos, produtos caseiros, pdf, antes e depois, bebê, podóloga, pós-operatório); retirada de "tempo de recuperação" e "cuidados após" de "Cisto sebáceo – Pesquisa".
+- [ ] Negativas de 18/11 conferidas em 25/11: Marcação 56 (ok), Micose 78 e Unha 52 (totais). Falta "podóloga" com acento na Unha (existe só "podologa"); entra no prompt de aplicação.
 - Em 10 a 16/11, 72% do gasto visível de micose foi em busca de remédio ou tratamento caseiro, sem conversão (R$ 74,45 por conversão). Se continuar acima de R$ 50 por conversão em 2 semanas, avaliar concentrar a campanha no laser Lunula.
 - Unha encravada: a única conversão visível veio de "o que fazer para aliviar a dor"; não negativar "o que fazer", dor, pus, inflamada. Reavaliar "remédio", "antibiótico" e "anti-inflamatório" em 21/11.
-- Conversões (18/11): Clique WhatsApp, Doctoralia e telefone funcionam (telefone registrou em 17/11). O "Requer atenção" é só a sugestão de conversões otimizadas com código na página, que não se aplica (o site não tem formulário com e-mail ou telefone). "Lead WhatsApp" e "agendamento" estão com configuração incorreta: conferir se alguma campanha usa e, se não, remover. Cisto e Marcação de consultas com aviso "Não há palavras-chave relevantes suficientes".
+- Conversões (18/11): Clique WhatsApp, Doctoralia e telefone funcionam (telefone registrou em 17/11). O "Requer atenção" é só a sugestão de conversões otimizadas com código na página, que não se aplica (o site não tem formulário com e-mail ou telefone). "Lead WhatsApp" e "agendamento" estão com configuração incorreta; em 25/11 nenhuma campanha usava (secundárias, último sinal em 15/02/2023). Remover só com o OK dele. Cisto e Marcação de consultas com aviso "Não há palavras-chave relevantes suficientes".
 
 ### Google Ads: Marcação de consultas (análise de 18/11)
 - 10 a 16/11: R$ 749 em 7 dias (cerca de R$ 107/dia, contra R$ 16,49/dia na linha de base), 20 conversões, R$ 37,46 por conversão. "consulta com dermatologista": R$ 237 por 1 conversão. Melhores: [dermatologista], "clinica dermatologica sp", "medico de pele" (baixa qualidade), "dermatologista consulta", "dermatologista em sao paulo".
 - Palavra-chave "dr alexandre okubo" pausada em 18/11 (ele rodou o prompt).
 - Aplicadas em 18/11 (56 negativas no total): dr, dra, doutora, itaquaquecetuba, mairinque, carapicuíba, carapicuiba, jundiaí, jundiai, posto de saúde, posto de saude, ubs. Orçamento caiu de R$ 110 para R$ 30/dia em 13/11 (explica o gasto alto de 10 a 16/11).
 - [ ] Teste de 2 semanas aplicado em 18/11 (reavaliar por volta de 02/12): reativada "melhores dermatologistas sp"; acrescentar "melhores dermatologistas" e "dermatologista particular" (frase). Volumes OpenSEO (Brasil): 170, 90 e 320 buscas/mês. Anúncios seguem sem superlativo.
-- [ ] Micose de unha (18/11): grupo "Laser" criado (anúncio qualificado; força a conferir; negativas: 78). Avaliar em 02/12: (anúncio sem superlativo, destino /micose-de-unha/, palavras de frase: tratamento a laser para micose de unha, laser para micose de unha, laser micose unha, lunula laser, laser lunula) e negativas "caneta" e "dispositivo". Volumes OpenSEO (Brasil): tratamento a laser 90/mês, lunula laser 30/mês. Artigo de micose ganhou a seção "Qual o melhor tratamento para micose de unha?" (110 + 70 buscas/mês).
-- [ ] Imagens novas (1200x628 e 1200x1200, sem texto) enviadas em 18/11 para a campanha de consultas, em análise; a reprovada foi removida. Conferir em 21/11 se foram aprovadas.
-- [ ] Ele mandar o CSV de termos de pesquisa, o orçamento diário e o histórico de alterações desde 01/11 (prompt do Chrome de 18/11). Depois, decidir sobre "consulta com dermatologista" e as negativas convênio, plano de saúde, hospital, residência, curso, vaga, emprego, salário.
+- [ ] Micose de unha (18/11): grupo "Laser" criado (anúncio qualificado, força "Bom" em 25/11; negativas: 78). Avaliar em 02/12: (anúncio sem superlativo, destino /micose-de-unha/, palavras de frase: tratamento a laser para micose de unha, laser para micose de unha, laser micose unha, lunula laser, laser lunula) e negativas "caneta" e "dispositivo". Volumes OpenSEO (Brasil): tratamento a laser 90/mês, lunula laser 30/mês. Artigo de micose ganhou a seção "Qual o melhor tratamento para micose de unha?" (110 + 70 buscas/mês).
+- [ ] Imagens novas (1200x628 e 1200x1200, sem texto) enviadas em 18/11 para a campanha de consultas, em análise; a reprovada foi removida. Em 25/11 o Chrome só viu uma imagem de 600x314 no anúncio e não procurou na biblioteca de recursos: conferir de novo (prompt de aplicação, A5).
+- [ ] Termos, orçamento e histórico lidos pelo Chrome em 25/11, sem CSV. "consulta com dermatologista": 131 cliques, R$ 365 e 2 conversões (R$ 182 por conversão; antes R$ 237; última semana R$ 47,72 por 1 conversão). Decidir sobre ela e sobre as negativas convênio, plano de saúde, hospital, residência, curso, vaga, emprego e salário (hospital e posto de saúde somaram 6 cliques e R$ 16,73).
 
-### Google Ads: nova análise em 21/11/2026 (2 semanas depois dos ajustes de 07/11)
-Ele exporta os dados do período de 08/11 a 21/11 e o relatório de termos de pesquisa em CSV. O Claude compara com a linha de base abaixo.
+### Google Ads: análise de 25/11/2026 (período 08/11 a 24/11)
+Feita em 25/11 (período 08/11 a 24/11), lida direto no Google Ads pelo Chrome. A linha de base abaixo serve para a próxima comparação (02/12).
 A linha de base é a semana de 31/10 a 06/11, a primeira com as conversões novas do site medindo. Compare taxas e médias por dia, porque os períodos têm tamanhos diferentes.
 A força do anúncio não entra na comparação. Ela caiu de "Excelente" para "Médio" com a correção do CFM, e isso já era esperado.
 
@@ -113,15 +113,19 @@ A força do anúncio não entra na comparação. Ela caiu de "Excelente" para "M
 | Taxa de conversão | 15,4% | 11,7% |
 | Custo por conversão | R$ 28,86 | R$ 25,76 |
 
-O que comparar e como ler:
-- [ ] **Marcação, CTR:** se cair abaixo de 5%, rever os títulos, sem voltar aos superlativos.
-- [ ] **Marcação, custo por conversão e conversões por dia:** o efeito de Maximizar cliques (CPC máximo de R$ 6) e do raio de 15 km. Se o gasto por dia subir sem conversões, baixar o CPC máximo.
-- [ ] **Marcação, termos de pesquisa:** quantos cliques vieram de fora do raio, de nomes de outros médicos ou de buscas por "grátis"/"barato". Deve ser zero.
-- [ ] **Cisto, termos de pesquisa:** a parte dos cliques que vem de buscas informacionais ("como tirar", "antibiótico" etc.). Antes, cerca de 1 em cada 4 cliques com termo visível. Deve cair.
-- [ ] **Cisto, custo por conversão:** com menos cliques informacionais, deve ficar igual ou menor com o mesmo orçamento.
-- [ ] **Conversões:** só as 4 principais contam (Clique WhatsApp, Clique Doctoralia, Clique telefone, Call clicks from ads). Conferir se a "Clique telefone" saiu de "Inativo".
-- [ ] **Status:** anúncios da Marcação aprovados, sem reprovação nova nos recursos, e o aviso da tag resolvido depois de adicionar os domínios.
-- [ ] **Decisão:** com 15 a 30 conversões por mês em uma campanha, avaliar a troca para lances por conversão. Antes disso, manter Maximizar cliques.
+Resultado em 25/11 (período 08/11 a 24/11, lido pelo Chrome; prompt em `docs/prompt-analise-google-ads-2026-11-25.md`). Conversão = clique em botão (WhatsApp, Doctoralia, telefone), não consulta marcada. O Google oculta 56% dos cliques nos termos de pesquisa: os termos visíveis cobrem de 23% a 55% do gasto, conforme a campanha, e os percentuais de termos valem só para essa parte.
+- **Marcação:** o orçamento caiu de R$ 110 para R$ 50 e R$ 30 em 13/11. Antes do corte (08 a 12/11): R$ 210/dia e R$ 58,35 por conversão. Depois (13 a 24/11): R$ 32,90/dia, CPC R$ 2,11, taxa de conversão 10,7% e R$ 19,74 por conversão (última semana: R$ 18,89). A taxa da linha de base (15,4%) não serve de comparação: eram 4 conversões. Parcela de impressões 11,85%, perdida por orçamento 32,2% e por classificação 55,9%.
+  Fora do alvo: 76 cliques e R$ 220,19 (nomes de outros médicos e clínicas: 50 cliques, R$ 145,73; cidades distantes: 20 cliques, R$ 57,73; hospital e posto de saúde: 6 cliques, R$ 16,73). Pirituba converteu (2,33): não negativar.
+- **Cisto:** R$ 54,70 por conversão (base R$ 25,76), 8 conversões em 17 dias, CTR 10,49%. Na última semana, R$ 89,76 com cerca de 2 conversões. Amostra pequena, e o "Clique Doctoralia" mudou em 21/11: esperar 02/12. Termos informacionais: 22% dos cliques (antes 25%); nenhum termo visível converteu.
+- **Micose:** R$ 103,39 por conversão (3 conversões), acima do gatilho de R$ 50. Anúncio principal "Ruim" (R$ 130 com 1 conversão). Remédio e tratamento caseiro: 44% do gasto visível (antes 72%). Grupo "Laser": 10 cliques, R$ 13,77, 0 conversões, força "Bom".
+- **Unha:** R$ 74,21 por conversão (4 conversões); anúncio "Ruim". "o que fazer para aliviar a dor" ainda converte; "remédio": 11 cliques e R$ 21,55 sem conversão. Uma conversão veio de busca pelo nome de uma podóloga concorrente.
+- **Conversões:** "Clique telefone" saiu de "Inativo" (13 conversões; aviso "Requer atenção"); Call clicks from ads: 0. Metas padrão: Contato e Lead telefônico ("Download" e "Outro" também estão marcados, sem ação principal). "Lead WhatsApp" e "agendamento": configuração incorreta, secundárias, nenhuma campanha usa. "Requer atenção" continua (conversão otimizada com código na página, que não se aplica).
+- **Anúncios:** todos aprovados. Marcação com os dois anúncios "Excelente" (era "Média": conferir se alguém editou). Sem marca de medicamento, superlativo, preço nem promessa. Nome da empresa "Dr. Alexandre Okubo" reprovado na Marcação (irrelevância do nome). Sitelinks limitados: "Preenchimento e lasers" (medicamentos restritos) e "Dermatologia Clínica" (requisitos legais); os demais, "Qualificada (limitada)" por Saúde na publicidade personalizada (esperado).
+- **Negativas conferidas:** Marcação 56 (ok); Micose 78 e Unha 52 são totais, com as antigas. Falta "podóloga" com acento na Unha.
+- [ ] **Decisões dele:** (1) negativas novas na Marcação (nomes de outros médicos e clínicas, cidades distantes) e "podóloga" na Unha: prompt pronto em `docs/prompt-aplicar-negativas-google-ads-2026-11-25.md`, que só aplica com o "pode aplicar as negativas" dele; (2) orçamento da Marcação: não voltar a R$ 110; sugestão de R$ 40/dia só depois das negativas, reavaliando em 7 dias; (3) Micose: concentrar no grupo "Laser" em 02/12?; (4) mensagem de WhatsApp ativa na Micose (criada pelo anunciante em 18/11): saber quem criou e manter ou pausar; (5) nome da empresa reprovado e sitelinks limitados; (6) "pode tirar a fixação" para melhorar os anúncios "Ruim" de Micose e Unha; (7) desmarcar "Download" e "Outro" como metas padrão.
+- [ ] Conferir (Parte A do prompt de aplicação): tipo de correspondência das palavras-chave da Marcação e opção de local ("Presença ou interesse" x "Presença"), que podem explicar as cidades fora do raio de 15 km; imagens novas da Marcação (só havia uma de 600x314); histórico de alterações desde 18/11.
+- [ ] Ideia, precisa do OK dele: perguntar à recepção quantas consultas vieram do Google Ads, já que a conversão é clique em botão.
+- [ ] Reavaliar em 02/12: Cisto, Micose, grupo "Laser" e o teste de 18/11 ("melhores dermatologistas sp": 1 clique; "melhores dermatologistas": 1 impressão; "dermatologista particular": 0 impressões).
 
 ### Revisão de linguagem por agentes (10/11)
 Itens 1 a 19 publicados em 10/11 (CFM, padrões de IA, H1 descritivos, seções "Nem todo" e "Quando procurar", botões, psoríase nas unhas reescrita).
