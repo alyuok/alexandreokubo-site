@@ -1,5 +1,5 @@
 ---
-title: 'Acne na mulher adulta: por que aparece depois dos 25 anos, é hormonal e como tratar'
+title: 'Acne na mulher adulta: por que aparece depois dos 25 anos, quando é hormonal e como tratar'
 description: 'O que é a acne adulta (acne tarda), por que aparece no queixo e na mandíbula depois dos 25 anos, quando investigar hormônios e como é o tratamento, da pele sensível à espironolactona.'
 answer: 'A acne na mulher adulta é a que aparece ou continua depois dos 25 anos, com espinhas inflamadas que se concentram no queixo, na linha da mandíbula e no pescoço. Costuma ser chamada de acne hormonal, mas só ter acne não prova excesso de hormônio: os exames entram quando há outros sinais, como menstruação irregular ou aumento de pelos. Ela tende a durar e responde a um tratamento mantido por meses, escolhido conforme a gravidade e o desejo de engravidar.'
 pubDate: 2026-11-27
@@ -41,17 +41,17 @@ A maioria dos autores usa o corte de 25 anos, mas as definições variam entre o
 
 ## Como a acne adulta é diferente da acne da adolescência?
 
-O local e o tipo de lesão mudam. Nos adultos, as lesões inflamadas, como pápulas, pústulas e nódulos, aparecem mais na parte de baixo do rosto: no queixo, na linha da mandíbula e no pescoço. Os cravos mais comuns são os fechados (microcistos), e não os cravos pretos.
+O local e o tipo de lesão mudam. Nos adultos, as lesões inflamadas, como pápulas, pústulas e nódulos, aparecem mais na parte de baixo do rosto: no queixo, na linha da mandíbula e no pescoço. Os cravos mais comuns são os fechados (microcistos).
 
-A acne adulta costuma ser leve a moderada, mas pode ser difícil de tratar. A pele adulta também é mais sensível e se irrita mais com os produtos. E a resposta é mais lenta: a melhora costuma aparecer só depois de cerca de 3 meses de tratamento.
+A acne adulta costuma ser leve a moderada, mas pode ser difícil de tratar. A pele adulta é mais sensível e se irrita com mais facilidade. E a resposta é mais lenta: a melhora costuma aparecer só depois de cerca de 3 meses de tratamento.
 
 ## Por que a acne aparece depois dos 25 anos?
 
-Não há uma causa única. Os hormônios e a genética têm papel importante. Os hormônios sexuais masculinos (androgênios), que todas as mulheres produzem em pequena quantidade, agem sobre as glândulas de oleosidade (sebáceas) da pele.
+Não há uma causa única. Hormônios e genética influenciam a acne adulta. Os hormônios sexuais masculinos (androgênios), que todas as mulheres produzem em pequena quantidade, agem sobre as glândulas de oleosidade (sebáceas) da pele.
 
 Outros fatores pioram ou mantêm a acne:
 
-- **Estresse e sono ruim:** o estresse no trabalho e na vida pessoal, a ansiedade e o sono ruim estão ligados a mais acne, nos dois sentidos: a acne também piora o estresse.
+- **Estresse e sono ruim:** estresse, ansiedade e sono ruim estão associados a mais acne, e a acne também piora o estresse.
 - **Mexer nas lesões:** espremer e cutucar aumenta o risco de infecção, de cicatrizes e de manchas.
 - **Alimentação:** o que os estudos mostram sobre açúcar, leite e outros alimentos está no artigo sobre [alimentação e acne](/blog/alimentacao-e-acne/).
 
@@ -72,22 +72,25 @@ Esses sinais podem indicar, por exemplo, a síndrome dos ovários policísticos.
 
 O tratamento segue a gravidade da acne e leva em conta a pele sensível, o histórico da paciente e se ela pensa em engravidar. Segundo uma revisão de 2021, a escolha dos remédios depende do desejo de engravidar e da gravidez ou amamentação em curso.
 
-- **Cremes e géis:** retinoides e peróxido de benzoíla são a base. Em pele adulta e sensível, o esquema precisa ser simples e ajustado à rotina da paciente.
-- **Tratamentos hormonais:** a espironolactona reduz o efeito dos androgênios na pele. Num ensaio francês de 2024, com 133 mulheres com acne moderada, a espironolactona com peróxido de benzoíla teve mais sucesso do que a doxiciclina (usada por 3 meses) com peróxido de benzoíla depois de 6 meses. Num ensaio britânico, com 410 mulheres com acne no rosto havia pelo menos 6 meses, a espironolactona melhorou mais do que o placebo, e a diferença foi maior na semana 24 do que na semana 12. A dor de cabeça foi mais comum com o remédio (20,4% contra 12,0%). A espironolactona não pode ser usada na gravidez. Os anticoncepcionais combinados são outra opção, e a escolha é feita junto com o ginecologista quando necessário.
-- **Isotretinoína em dose baixa:** usada em casos selecionados, e pode ser necessária quando a acne é grave ou não responde a outros tratamentos.
-- **Infiltração de corticoide nos nódulos:** para os nódulos profundos e dolorosos.
+- **Cremes e géis:** retinoides (derivados da vitamina A) e peróxido de benzoíla são a base. Em pele adulta e sensível, o esquema precisa ser simples e ajustado à rotina da paciente.
+- **Espironolactona:** prescrevo para reduzir o efeito dos androgênios na pele. Ela não pode ser usada na gravidez.
+- **Anticoncepcionais combinados:** são outra opção hormonal, com decisão junto ao ginecologista quando necessário.
+- **Isotretinoína em dose baixa:** uso em acne grave ou que não responde a outros tratamentos.
+- **Infiltração de corticoide nos nódulos:** faço nos nódulos profundos e dolorosos.
 
-Como a acne adulta é crônica e pode voltar, o tratamento muitas vezes continua em fase de manutenção. O tratamento completo, com cada opção em detalhe, está no artigo sobre [tratamento da acne](/blog/tratamento-da-acne/).
+O que dizem os estudos sobre a espironolactona: num ensaio (estudo com sorteio) francês de 2024, 133 mulheres com acne moderada receberam espironolactona com peróxido de benzoíla ou doxiciclina (um antibiótico) com peróxido de benzoíla. Depois de 6 meses, a espironolactona teve mais sucesso de tratamento, segundo uma escala de gravidade da acne. Num ensaio britânico, 410 mulheres tinham acne no rosto havia pelo menos 6 meses. A espironolactona melhorou mais do que o placebo (comprimido sem remédio), e a diferença foi maior na semana 24 do que na semana 12. A dor de cabeça foi mais comum com o remédio (20,4% contra 12,0%).
+
+Como a acne adulta é crônica e pode voltar, o tratamento muitas vezes continua em fase de manutenção. Os outros tratamentos estão no artigo sobre [tratamento da acne](/blog/tratamento-da-acne/).
 
 ## O que fazer no dia a dia?
 
 - Não esprema nem cutuque as lesões.
-- Use produtos para pele sensível, o protetor solar de uso diário e a maquiagem que a sua pele tolera. A maquiagem faz parte do plano e não precisa ser cortada.
+- Use produtos para pele sensível, o protetor solar de uso diário e a maquiagem que a sua pele tolera. A maquiagem faz parte do plano.
 - Mantenha o tratamento por pelo menos 3 meses antes de decidir se funcionou.
 
 ## Acne adulta e saúde emocional
 
-A acne pesa mais na vida das mulheres adultas do que na das adolescentes, segundo os estudos. Ela aparece no rosto, no trabalho e nas relações, e pode deixar manchas e cicatrizes que duram mais do que as espinhas. Esse impacto conta na hora de decidir o tratamento, mesmo quando a acne é leve.
+Segundo revisões, a acne pode pesar mais na vida das mulheres adultas do que na das adolescentes. Ela aparece no rosto, no trabalho e nas relações, e pode deixar manchas e cicatrizes que duram mais do que as espinhas. Esse impacto conta na hora de decidir o tratamento, mesmo quando a acne é leve.
 
 ## Nem toda espinha no queixo é acne
 
@@ -102,7 +105,9 @@ Marque uma consulta se a acne:
 
 - deixa cicatrizes ou manchas escuras;
 - tem nódulos profundos e dolorosos;
-- não melhorou depois de 3 meses de tratamento correto;
+- não melhorou com o tratamento correto;
 - vem com menstruação irregular, aumento de pelos ou queda de cabelo.
 
-Procure o dermatologista também se você está grávida, amamentando ou planeja engravidar, para escolher o tratamento. Atendo nas duas clínicas, com agendamento pela Doctoralia. Saiba mais sobre a [dermatologia clínica e o tratamento da acne](/dermatologia-clinica/).
+Procure o dermatologista também se você está grávida, amamentando ou planeja engravidar, para escolher o tratamento. Atendo nas duas clínicas, com agendamento pela Doctoralia.
+
+Saiba mais sobre a [dermatologia clínica e o tratamento da acne](/dermatologia-clinica/).
