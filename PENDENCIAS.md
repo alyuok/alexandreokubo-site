@@ -5,6 +5,7 @@ Atualizado em 2026-11-27. Ao concluir um item, apague-o. Ao surgir um novo, acre
 **Dono de cada assunto:** este arquivo é o único dono do Google Ads (todas as campanhas, conta "Prime Dermato", ID em `analytics.adsAccount` de `src/data/site.ts`) e do GA4 `G-PYB8EG1D9J`. O `PENDENCIAS.md` do clinicaprime só aponta para cá.
 
 ## Do lado do Dr. Alexandre
+- [ ] Responder às perguntas e aprovar o rascunho de verrugas (`/blog/verrugas/`, prévia em `rascunhos.alexandreokubo-site.pages.dev/blog/verrugas/`, 27/11). Na publicação: link no `Related` e no cartão "Lesões benignas" da cirurgia dermatológica, e link a partir da página do Plasmage da Prime.
 
 ### Doctoralia
 - [ ] Tirar "Especialista em Medicina Estética" do perfil. Medicina estética não é especialidade reconhecida e isso é risco no CFM.
