@@ -25,7 +25,7 @@ sources:
     url: 'https://doi.org/10.2340/actadv.v104.26002'
   - label: 'Santer M et al. Clinical and cost-effectiveness of spironolactone in treating persistent facial acne in women: SAFA double-blinded RCT. Health Technol Assess, 2024'
     url: 'https://doi.org/10.3310/MYJT6804'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, na adolescência eu quase não tive espinha. Agora, aos 32 anos, elas aparecem no queixo todo mês." É uma queixa frequente no consultório.
