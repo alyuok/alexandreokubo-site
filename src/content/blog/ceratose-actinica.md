@@ -5,7 +5,7 @@ answer: 'A ceratose actínica (também escrita queratose actínica, ou chamada d
 pubDate: 2026-11-27
 reviewedDate: 2026-11-27
 category: 'Pele'
-about: ['Ceratose actínica', 'Queratose actínica', 'Carcinoma espinocelular', 'Câncer de pele', 'Crioterapia', 'Imiquimode', 'Dano solar']
+about: ['Ceratose actínica', 'Queratose actínica', 'Carcinoma espinocelular', 'Câncer de pele', 'Crioterapia', 'Imiquimode', 'Campo de cancerização', 'Nicotinamida', 'Dano solar']
 sources:
   - label: 'Eisen DB et al. Guidelines of care for the management of actinic keratosis: executive summary. J Am Acad Dermatol, 2021'
     url: 'https://doi.org/10.1016/j.jaad.2021.05.056'
@@ -17,6 +17,12 @@ sources:
     url: 'https://doi.org/10.1007/s00403-022-02490-5'
   - label: 'Thompson SC, Jolley D, Marks R. Reduction of solar keratoses by regular sunscreen use. N Engl J Med, 1993'
     url: 'https://doi.org/10.1056/NEJM199310143291602'
+  - label: 'Patel P et al. Systematic review of randomized controlled trials of topicals for actinic keratosis field therapy. Arch Dermatol Res, 2024'
+    url: 'https://doi.org/10.1007/s00403-024-02839-y'
+  - label: 'Chen AC et al. A phase 3 randomized trial of nicotinamide for skin-cancer chemoprevention. N Engl J Med, 2015'
+    url: 'https://doi.org/10.1056/NEJMoa1506197'
+  - label: 'Allen NC et al. Nicotinamide for skin-cancer chemoprevention in transplant recipients. N Engl J Med, 2023'
+    url: 'https://doi.org/10.1056/NEJMoa2203086'
   - label: 'Salmon N, Tidman MJ. Managing actinic keratosis in primary care. Practitioner, 2016'
     url: 'https://pubmed.ncbi.nlm.nih.gov/29016090/'
 status: rascunho
@@ -66,21 +72,29 @@ A diretriz da Academia Americana de Dermatologia (AAD), de 2021, faz recomendaç
 
 Uma revisão de 80 estudos, com 6.748 pacientes, encontrou eficácia parecida entre terapia fotodinâmica, crioterapia, imiquimode, 5-fluorouracila, ácido tricloroacético (um ácido aplicado na lesão) e laser ablativo fracionado. A menor taxa de desaparecimento das lesões foi a do diclofenaco.
 
-A escolha depende de quantas lesões há, onde estão e de quanto a pele ao redor está danificada. Na minha prática, trato principalmente com duas opções.
+A escolha depende de quantas lesões há, onde estão e de quanto a pele ao redor está danificada. Na minha prática, uso sobretudo duas opções: a crioterapia, na maioria dos casos, e o imiquimode, para o campo de cancerização.
 
 ### Crioterapia
 
-É o congelamento da lesão com nitrogênio líquido, feito no consultório. É indicada para lesões isoladas. A área fica vermelha e pode formar bolha e crosta antes de cicatrizar.
+É o congelamento da lesão com nitrogênio líquido, feito no consultório. Na maioria dos casos, é a minha escolha. A área fica vermelha e pode formar bolha e crosta antes de cicatrizar, e explico ao paciente o que esperar durante a cicatrização.
 
 ### Imiquimode em creme
 
-É um creme aplicado em casa, que estimula a imunidade da própria pele a eliminar as células alteradas. Ele trata a lesão visível e também a pele ao redor, por isso é útil quando há várias ceratoses na mesma região. Causa vermelhidão, descamação e crostas na área tratada, e isso mostra que o creme está agindo.
+Uso o imiquimode para o campo de cancerização: a área de pele danificada pelo sol, com ceratoses e células alteradas ao redor das lesões. É um creme aplicado em casa, de segunda a sexta, que estimula a imunidade da própria pele a eliminar as células alteradas. Ele trata a lesão visível e também a pele ao redor, por isso é útil quando há várias ceratoses na mesma região. Causa vermelhidão, descamação e crostas na área tratada, e isso mostra que o creme está agindo.
 
-Nas duas opções, examino a pele de novo para ver se a lesão sumiu e se surgiram outras.
+Trato do mesmo jeito as lesões do lábio e do couro cabeludo. No início, reavalio a pele todo mês, para ver se a lesão sumiu e se surgiram outras.
+
+## A nicotinamida (vitamina B3) ajuda?
+
+Em casos selecionados, prescrevo nicotinamida, uma forma de vitamina B3, por via oral. Ela não substitui o tratamento da lesão nem o protetor solar.
+
+O principal estudo é um ensaio com 386 pessoas que tiveram pelo menos dois cânceres de pele não melanoma nos 5 anos anteriores. Elas tomaram 500 mg de nicotinamida duas vezes ao dia, ou placebo, por 12 meses. O grupo da nicotinamida teve 23% menos cânceres de pele novos e de 11% a 20% menos ceratoses actínicas, conforme a avaliação. Depois que o remédio foi suspenso, o benefício não se manteve.
+
+Em transplantados de órgão, um ensaio com 158 pessoas não mostrou diferença. Por isso a indicação é individual. Não tome por conta própria: a nicotinamida é prescrita depois de avaliar a pele e o histórico de cada pessoa.
 
 ## Como é feito o diagnóstico?
 
-O diagnóstico é clínico, na consulta: o dermatologista olha e toca a lesão. A dermatoscopia (exame da lesão com lente de aumento e luz) ajuda a diferenciá-la de outras lesões, como o carcinoma basocelular. Quando a lesão é espessa, sangra, cresce rápido ou deixa dúvida, faço uma biópsia no consultório, com envio do fragmento para exame.
+O diagnóstico é clínico, na consulta: o dermatologista olha e toca a lesão. A dermatoscopia (exame da lesão com lente de aumento e luz) ajuda a diferenciá-la de outras lesões, como o carcinoma basocelular. Quando a dermatoscopia deixa a lesão suspeita, faço uma biópsia no consultório, com envio do fragmento para exame.
 
 ## Como prevenir?
 
