@@ -38,7 +38,7 @@ Ela não é câncer. Mas as diretrizes a tratam como lesão pré-cancerosa, porq
 
 ## Como reconhecer a ceratose actínica?
 
-O sinal mais útil é a textura: uma superfície áspera, como uma lixa, que se sente melhor passando o dedo do que olhando. Costuma aparecer assim:
+O sinal mais útil é a textura: uma superfície áspera, como uma lixa, que se sente melhor passando o dedo do que olhando. Outros sinais:
 
 - **Avermelhada, rosada ou da cor da pele**, às vezes com uma crosta fina.
 - **Pequena**, e pode ter vários pontos juntos na mesma região.
@@ -48,17 +48,17 @@ Algumas lesões coçam ou ardem. Outras não incomodam e só são notadas ao toq
 
 ## Quem tem mais risco?
 
-- **Pele clara,** que queima com facilidade e quase não bronzeia.
+- **Pele clara**, que queima com facilidade e quase não bronzeia.
 - **Idade mais avançada** e muitos anos de exposição ao sol, com ou sem queimaduras.
-- **Imunidade baixa,** como em quem faz uso de remédios depois de um transplante.
-- **Já ter tido câncer de pele.**
-- **Trabalho ao ar livre,** com sol todos os dias.
+- **Imunidade baixa**, como em quem faz uso de remédios depois de um transplante.
+- **Câncer de pele anterior.**
+- **Trabalho ao ar livre**, com sol todos os dias.
 
 ## Ceratose actínica vira câncer?
 
 Pode, mas o risco de cada lesão é baixo. Numa revisão sistemática de 2013, a evolução para carcinoma espinocelular variou de 0% a 0,075% por lesão ao ano, e chegou a 0,53% por lesão em quem já tinha tido câncer de pele não melanoma (como o espinocelular e o basocelular). Os próprios autores avisam que os dados são limitados e que não há uma estimativa confiável.
 
-Mesmo assim, não dá para ignorar. Não existe sinal seguro que mostre qual lesão vai evoluir, e quem tem uma ceratose costuma ter várias, sobre uma pele inteira danificada pelo sol. Então examino a pele da região inteira, além da lesão que o paciente notou.
+Não existe sinal seguro que mostre qual lesão vai evoluir, e quem tem uma ceratose costuma ter várias, sobre uma pele inteira danificada pelo sol. Então examino a pele da região inteira, além da lesão que você notou.
 
 ## Precisa tratar a ceratose actínica?
 
@@ -76,11 +76,11 @@ A escolha depende de quantas lesões há, onde estão e de quanto a pele ao redo
 
 ### Crioterapia
 
-É o congelamento da lesão com nitrogênio líquido, feito no consultório. A área fica vermelha e pode formar bolha e crosta antes de cicatrizar, e explico ao paciente o que esperar durante a cicatrização.
+É o congelamento da lesão com nitrogênio líquido, feito no consultório. A área fica vermelha e pode formar bolha e crosta antes de cicatrizar. Explico o que esperar antes do procedimento.
 
 ### Imiquimode em creme
 
-Uso o imiquimode para o campo de cancerização: a área de pele danificada pelo sol, com ceratoses e células alteradas ao redor das lesões. É um creme aplicado em casa, de segunda a sexta, conforme a prescrição, que estimula a imunidade da própria pele a eliminar as células alteradas. Ele atua também na pele ao redor da lesão visível. Causa vermelhidão, descamação e crostas na área tratada. Essas reações são esperadas e costumam indicar que o creme está agindo; se forem intensas, procure o consultório.
+Uso o imiquimode para o campo de cancerização: a área de pele com dano solar, com ceratoses e células alteradas ao redor das lesões. É um creme aplicado em casa, de segunda a sexta, conforme a prescrição, que estimula a imunidade da própria pele a eliminar as células alteradas. Causa vermelhidão, descamação e crostas na área tratada. Essas reações são comuns; se forem intensas, procure o consultório.
 
 Trato do mesmo jeito as lesões do lábio e do couro cabeludo. No começo do tratamento, reavalio a pele todo mês, para ver se a lesão sumiu e se surgiram outras.
 
@@ -90,7 +90,7 @@ Em casos selecionados, prescrevo nicotinamida, uma forma de vitamina B3, por via
 
 O principal estudo é um ensaio com 386 pessoas que tiveram pelo menos dois cânceres de pele não melanoma nos 5 anos anteriores. Elas tomaram 500 mg de nicotinamida duas vezes ao dia, ou placebo, por 12 meses. O grupo da nicotinamida teve 23% menos cânceres de pele novos e de 11% a 20% menos ceratoses actínicas, conforme a avaliação. Depois que o remédio foi suspenso, o benefício não se manteve.
 
-Em transplantados de órgão, um ensaio com 158 pessoas não mostrou diferença. Nesse grupo, a decisão é caso a caso. Não tome por conta própria: a nicotinamida é prescrita depois de avaliar a pele e o histórico de cada pessoa.
+Em transplantados de órgão, um ensaio com 158 pessoas não mostrou diferença. Nesse grupo, a decisão é caso a caso. Não tome por conta própria.
 
 ## Como é feito o diagnóstico?
 
@@ -98,11 +98,7 @@ O diagnóstico é clínico, na consulta: examino a lesão a olho nu e ao toque. 
 
 ## Como prevenir?
 
-O protetor solar de uso diário pode reduzir as lesões. Num ensaio australiano com 588 pessoas de 40 anos ou mais, o uso diário de protetor com fator 17 durante um verão levou a menos lesões novas (cerca de 38% a menos) e a mais lesões que desapareceram, em comparação com um creme sem filtro. Ainda ajudam:
-
-- Reaplicar o protetor ao longo do dia, nas áreas expostas.
-- Usar chapéu de aba larga e roupas que cubram os braços.
-- Procurar sombra nos horários de sol mais forte.
+O protetor solar de uso diário pode reduzir as lesões. Num ensaio australiano com 588 pessoas de 40 anos ou mais, o uso diário de protetor com fator 17 durante um verão levou a menos lesões novas (cerca de 38% a menos) e a mais lesões que desapareceram, em comparação com um creme sem filtro. Ajudam também reaplicar o protetor ao longo do dia nas áreas expostas, usar chapéu de aba larga e roupas que cubram os braços e procurar sombra nos horários de sol mais forte.
 
 Para quem tem pele clara e muitas pintas, recomendo o exame da pele uma vez por ano.
 
