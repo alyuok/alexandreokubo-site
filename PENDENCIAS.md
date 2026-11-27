@@ -1,6 +1,6 @@
 # Pendências
 
-Atualizado em 2026-11-25. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
+Atualizado em 2026-11-27. Ao concluir um item, apague-o. Ao surgir um novo, acrescente-o aqui.
 
 **Dono de cada assunto:** este arquivo é o único dono do Google Ads (todas as campanhas, conta "Prime Dermato", ID em `analytics.adsAccount` de `src/data/site.ts`) e do GA4 `G-PYB8EG1D9J`. O `PENDENCIAS.md` do clinicaprime só aponta para cá.
 
@@ -64,6 +64,7 @@ Medição no ar depois da publicação: home no celular com desempenho 91 (era 6
 - [ ] Câncer de pele publicado em 16/11 (`/blog/cancer-de-pele/`, Dezembro Laranja): indexação pedida; falta ele linkar o artigo no post do Instagram do início de dezembro.
 - [ ] Bioestimulador de colágeno publicado em 16/11 (`/blog/bioestimulador-de-colageno/`): ele pedir a indexação no Search Console.
 - [ ] Cabelos brancos publicado em 23/11 (`/blog/cabelos-brancos/`, link no "Leia também" da dermatologia clínica, agora com 9 links): ele pedir a indexação no Search Console.
+- [ ] Ceratose actínica publicada em 27/11 (`/blog/ceratose-actinica/`, link no "Leia também" da dermatologia clínica, agora com 11 links): ele pedir a indexação no Search Console. Termo principal "ceratose actínica" (22.200 buscas por mês no Brasil, contra 8.100 de "queratose actínica"); conferir no Search Console em janeiro. Ainda sem resposta dele: semanas de uso do imiquimode e intervalo de reavaliação depois do primeiro mês (o texto não traz número).
 - [ ] Próximos temas: olheiras, melanoma, carcinoma basocelular (os de fios de PDO, dermatite, psoríase e urticária estão no item dos subitens).
 - [ ] Repetir a medição de `docs/medicao-2026-10-30.md` em janeiro de 2027, com os mesmos termos e pontos.
 - [ ] Campanhas "Micose de unha - Pesquisa" e "Unha encravada - Pesquisa" ativas desde 10/11 (R$ 20/dia cada, Maximizar cliques, CPC máx. R$ 6; relatório de 10/11).

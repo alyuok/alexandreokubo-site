@@ -25,7 +25,7 @@ sources:
     url: 'https://doi.org/10.1056/NEJMoa2203086'
   - label: 'Salmon N, Tidman MJ. Managing actinic keratosis in primary care. Practitioner, 2016'
     url: 'https://pubmed.ncbi.nlm.nih.gov/29016090/'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, tenho uma casquinha áspera no rosto que sai e volta no mesmo lugar. Já passei hidratante e não adiantou." Pode ser uma ceratose actínica.
