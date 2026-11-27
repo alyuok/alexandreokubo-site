@@ -64,6 +64,8 @@ No consultório, uso três métodos, nas duas clínicas:
 - **Eletrocoagulação:** uma corrente elétrica fina destrói a verruga.
 - **Plasma:** o aparelho vaporiza a verruga de forma localizada.
 
+Na eletrocoagulação e no plasma, uso anestesia local.
+
 A eletrocoagulação e o plasma têm poucos ensaios comparativos, segundo uma revisão de 2022 sobre os tratamentos que destroem a verruga. A escolha depende do local, do tamanho, do número de verrugas e da idade. O número de sessões varia de caso a caso: reavalio a cada 15 a 20 dias e, conforme a resposta, faço uma nova sessão.
 
 ### Remédios de farmácia e receitas caseiras funcionam?
@@ -76,9 +78,9 @@ A fita adesiva sobre a verruga, uma receita muito difundida, não foi melhor do 
 
 Uso as mesmas técnicas: crioterapia, eletrocoagulação e plasma. A verruga plantar costuma ser mais difícil porque a pele da sola é grossa e a lesão cresce para dentro.
 
-Uma meta-análise de 2026, com 31 ensaios randomizados e 2.313 pacientes, comparou a crioterapia com outros tratamentos para a verruga plantar. Não houve diferença na chance de cura completa nem na volta da verruga. Nenhum método foi claramente melhor do que o outro, e a crioterapia teve vantagem só na melhora parcial.
+Uma meta-análise de 2026, com 31 ensaios randomizados e 2.313 pacientes, comparou a crioterapia com outros tratamentos para a verruga plantar. Não houve diferença na chance de cura completa nem na volta da verruga. Nenhum método foi claramente melhor do que o outro, e a crioterapia teve vantagem só na melhora parcial. Por isso, quando a verruga não responde, troco ou combino as técnicas.
 
-Nem todo "olho de peixe" é verruga. O calo (calosidade) também aparece nos pontos de apoio do pé. Na consulta, a dermatoscopia ajuda a diferenciar os dois: a verruga mostra os pontinhos de vasos que o calo não tem.
+Nem todo "olho de peixe" é verruga. O calo (calosidade) também aparece nos pontos de apoio do pé. Na consulta, uso a dermatoscopia para diferenciar os dois: a verruga mostra os pontinhos de vasos que o calo não tem.
 
 ## Verruga na unha: por que precisa de mais atenção
 
@@ -90,13 +92,17 @@ A verruga perto da unha também pode ser confundida com a [unha encravada](/blog
 
 ## Verruga em criança: como tratar
 
-A verruga é muito comum na infância e, como mostrou o estudo holandês, muitas somem sozinhas. Também atendo crianças. Dependendo da idade, prefiro começar por um tratamento mais conservador: um ácido para aplicar em casa ou fitoterápicos.
+A verruga é muito comum na infância e, como mostrou o estudo holandês, muitas somem sozinhas. Também atendo crianças. Dependendo da idade, prefiro começar por um tratamento mais conservador: uma solução de ácido salicílico com ácido lático para aplicar em casa ou fitoterápicos.
+
+A crioterapia, a eletrocoagulação e o plasma entram conforme a sensibilidade da criança à dor e a colaboração dela durante o procedimento.
 
 ## Verruga genital (condiloma): o que saber
 
 A verruga genital, também chamada de condiloma acuminado, aparece no pênis, na vulva, na vagina, no ânus e ao redor deles. Ela é transmitida pelo contato sexual. Segundo a diretriz europeia de 2019, mais de 95% das verrugas genitais são causadas por dois tipos de HPV, o 6 e o 11, e a vacina contra o HPV protege contra os dois.
 
-Trato a verruga genital no consultório. Como nas outras verrugas, ela pode voltar, porque o tratamento tira a lesão, mas não elimina o vírus da pele. Por isso, faço o acompanhamento depois do tratamento.
+Trato a verruga genital no consultório, com as mesmas técnicas e sobretudo com a crioterapia. Na gravidez, uso a crioterapia.
+
+A verruga genital volta com frequência, porque o tratamento tira a lesão, mas não elimina o vírus da pele. Por isso, marco retornos depois do tratamento.
 
 - **Parceria sexual:** vale avaliar também, porque a verruga passa de uma pessoa para a outra.
 - **Preservativo:** diminui a transmissão, mas não cobre toda a pele da região.
