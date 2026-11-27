@@ -137,6 +137,7 @@ Glossário completo: `docs/glossario-cliches-ia.md`. O que denuncia texto de IA 
 - **Melasma:** ácido tranexâmico oral quando indicado e com microagulhamento (drug delivery); Nd:YAG toning; peelings superficiais.
   Evita luz intensa pulsada no melasma.
 - **Acne:** prescreve espironolactona; usa isotretinoína em dose baixa; faz infiltração de corticoide em nódulos.
+- **Acne na mulher adulta (confirmado em 27/11/2026):** investiga hormônios quando há menstruação irregular, aumento de pelos, queda de cabelo ou acne que não melhora com o tratamento. Pede perfil hormonal completo, inclusive adrenal. Anticoncepcional: encaminha ao ginecologista. Para a isotretinoína, pede os cuidados de gravidez. Usa bastante a minidose (isotretinoína em dose baixa). Na consulta, analisa o tipo de pele e os produtos que a paciente já usou. Não confirmou: quais exames hormonais específicos, e teste de gravidez ou contracepção antes da espironolactona (citar só que ela não pode ser usada na gravidez).
 - **Cicatrizes de acne:** subcisão com agulha, em mais de uma sessão, com recuperação de menos de 1 semana; CROSS com ácido tricloroacético.
   As técnicas combinadas são feitas em sessões separadas.
 - **Unha encravada:** cantoplastia com matricectomia cirúrgica, com anestesia local, nas duas clínicas. Não usa fenol (proibido no Brasil).

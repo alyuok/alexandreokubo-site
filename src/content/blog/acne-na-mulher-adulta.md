@@ -59,23 +59,23 @@ Outros fatores pioram ou mantêm a acne:
 
 Nem sempre. O termo "acne hormonal" é usado para a acne adulta, mas acne isolada não prova excesso de androgênios. Segundo uma revisão de 2025, os exames hormonais são indicados quando há outros sinais, e não só pela acne.
 
-O dermatologista fica atento a sinais como:
+Fico atento a sinais como:
 
 - menstruação irregular ou que some por meses;
 - aumento de pelos no rosto, no peito ou no abdome;
 - queda de cabelo com afinamento no topo da cabeça;
 - acne que não melhora com o tratamento.
 
-Esses sinais podem indicar, por exemplo, a síndrome dos ovários policísticos. Nesses casos, o dermatologista decide quais exames pedir. Segundo uma revisão de 2024, nem todos os exames são necessários em todas as pacientes. A queda de cabelo ligada a hormônios aparece no artigo sobre [queda de cabelo](/blog/queda-de-cabelo/).
+Esses sinais podem indicar, por exemplo, a síndrome dos ovários policísticos. Nesses casos, peço um perfil hormonal completo, inclusive das glândulas adrenais, que também produzem androgênios. Segundo uma revisão de 2024, nem todos os exames são necessários em todas as pacientes, então a lista é montada caso a caso. A queda de cabelo ligada a hormônios aparece no artigo sobre [queda de cabelo](/blog/queda-de-cabelo/).
 
 ## Qual é o tratamento da acne na mulher adulta?
 
-O tratamento segue a gravidade da acne e leva em conta a pele sensível, o histórico da paciente e se ela pensa em engravidar. Segundo uma revisão de 2021, a escolha dos remédios depende do desejo de engravidar e da gravidez ou amamentação em curso.
+O tratamento segue a gravidade da acne e leva em conta a pele sensível, o histórico da paciente e se ela pensa em engravidar. Na consulta, analiso o tipo de pele e os produtos que você já usou. Segundo uma revisão de 2021, a escolha dos remédios depende do desejo de engravidar e da gravidez ou amamentação em curso.
 
 - **Cremes e géis:** retinoides (derivados da vitamina A) e peróxido de benzoíla são a base. Em pele adulta e sensível, o esquema precisa ser simples e ajustado à rotina da paciente.
 - **Espironolactona:** prescrevo para reduzir o efeito dos androgênios na pele. Ela não pode ser usada na gravidez.
-- **Anticoncepcionais combinados:** são outra opção hormonal, com decisão junto ao ginecologista quando necessário.
-- **Isotretinoína em dose baixa:** uso em acne grave ou que não responde a outros tratamentos.
+- **Anticoncepcionais combinados:** são outra opção hormonal. Quando indicados, encaminho a paciente ao ginecologista.
+- **Isotretinoína em dose baixa (minidose):** uso bastante, em acne grave ou que não responde a outros tratamentos. A isotretinoína pode causar malformações no bebê, por isso peço os cuidados para evitar a gravidez antes de começar. Veja mais no artigo sobre [tratamento da acne](/blog/tratamento-da-acne/).
 - **Infiltração de corticoide nos nódulos:** faço nos nódulos profundos e dolorosos.
 
 O que dizem os estudos sobre a espironolactona: num ensaio (estudo com sorteio) francês de 2024, 133 mulheres com acne moderada receberam espironolactona com peróxido de benzoíla ou doxiciclina (um antibiótico) com peróxido de benzoíla. Depois de 6 meses, a espironolactona teve mais sucesso de tratamento, segundo uma escala de gravidade da acne. Num ensaio britânico, 410 mulheres tinham acne no rosto havia pelo menos 6 meses. A espironolactona melhorou mais do que o placebo (comprimido sem remédio), e a diferença foi maior na semana 24 do que na semana 12. A dor de cabeça foi mais comum com o remédio (20,4% contra 12,0%).
