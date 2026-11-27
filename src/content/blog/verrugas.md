@@ -21,7 +21,7 @@ sources:
     url: 'https://doi.org/10.3390/cancers17183029'
   - label: 'Gilson R et al. 2019 IUSTI-Europe guideline for the management of anogenital warts. J Eur Acad Dermatol Venereol, 2020'
     url: 'https://doi.org/10.1111/jdv.16522'
-status: rascunho
+status: aprovado
 ---
 
 "Doutor, eu já queimei essa verruga com remédio de farmácia três vezes e ela sempre volta." Ouço isso com frequência no consultório. A verruga é comum e benigna, mas volta com frequência.
@@ -92,7 +92,7 @@ A verruga perto da unha também pode ser confundida com a [unha encravada](/blog
 
 ## Verruga em criança: como tratar
 
-A verruga é muito comum na infância e, como mostrou o estudo holandês, muitas somem sozinhas. Também atendo crianças. Dependendo da idade, prefiro começar por um tratamento mais conservador: uma solução de ácido salicílico com ácido lático para aplicar em casa ou fitoterápicos.
+A verruga é muito comum na infância e, como mostrou o estudo holandês, muitas somem sozinhas. Também atendo crianças. Dependendo da idade, prefiro começar por um tratamento mais conservador: uma solução de ácido salicílico com ácido lático para aplicar em casa.
 
 A crioterapia, a eletrocoagulação e o plasma entram conforme a sensibilidade da criança à dor e a colaboração dela durante o procedimento.
 
