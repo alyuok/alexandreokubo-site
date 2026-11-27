@@ -1,7 +1,7 @@
 ---
 title: 'Ceratose actínica (queratose actínica): o que é, se vira câncer de pele e como tratar'
 description: 'O que é a ceratose actínica (ou queratose actínica, ceratose solar), como reconhecer as manchas ásperas do sol, quanto elas aumentam o risco de câncer de pele, quando tratar e como é o tratamento.'
-answer: 'A ceratose actínica (também escrita queratose actínica, ou chamada de ceratose solar) é uma mancha áspera, como uma lixa, avermelhada ou da cor da pele, que surge em áreas expostas ao sol por dano acumulado ao longo dos anos. Não é câncer, mas é uma lesão pré-cancerosa: o risco de cada lesão evoluir é baixo, porém não dá para saber qual vai evoluir. Por isso o dermatologista examina e, em geral, trata, com crioterapia, creme de imiquimode ou outras opções.'
+answer: 'A ceratose actínica (também escrita queratose actínica, ou chamada de ceratose solar) é uma mancha áspera, como uma lixa, avermelhada ou da cor da pele, que surge em áreas expostas ao sol por dano acumulado ao longo dos anos. Não é câncer, mas é uma lesão pré-cancerosa: o risco de cada lesão virar câncer é baixo, mas não dá para saber qual vai virar. Por isso o dermatologista examina e, em geral, trata com crioterapia, creme de imiquimode ou outras opções.'
 pubDate: 2026-11-27
 reviewedDate: 2026-11-27
 category: 'Pele'
@@ -22,7 +22,7 @@ sources:
 status: rascunho
 ---
 
-"Doutor, tenho uma casquinha áspera no rosto que sai e volta no mesmo lugar. Já passei hidratante e não adiantou." Muitas vezes, essa casquinha é uma ceratose actínica.
+"Doutor, tenho uma casquinha áspera no rosto que sai e volta no mesmo lugar. Já passei hidratante e não adiantou." Pode ser uma ceratose actínica.
 
 ## O que é a ceratose actínica?
 
@@ -32,10 +32,10 @@ Ela não é câncer. Mas as diretrizes a tratam como lesão pré-cancerosa, porq
 
 ## Como reconhecer a ceratose actínica?
 
-O sinal mais útil é a textura: uma superfície áspera, como uma lixa, que se sente melhor passando o dedo do que olhando. Ela costuma ser:
+O sinal mais útil é a textura: uma superfície áspera, como uma lixa, que se sente melhor passando o dedo do que olhando. Costuma aparecer assim:
 
-- **Avermelhada, rosada ou da cor da pele,** às vezes com uma crosta fina.
-- **Pequena,** e pode ter vários pontos juntos na mesma região.
+- **Avermelhada, rosada ou da cor da pele**, às vezes com uma crosta fina.
+- **Pequena**, e pode ter vários pontos juntos na mesma região.
 - **Em áreas de sol:** rosto, orelhas, couro cabeludo (principalmente em quem tem calvície), lábio inferior, pescoço, dorso das mãos e antebraços.
 
 Algumas lesões coçam ou ardem. Outras não incomodam e só são notadas ao toque.
@@ -50,17 +50,21 @@ Algumas lesões coçam ou ardem. Outras não incomodam e só são notadas ao toq
 
 ## Ceratose actínica vira câncer?
 
-Pode, mas o risco de cada lesão é baixo. Numa revisão sistemática de 2013, a evolução para carcinoma espinocelular variou de 0% a 0,075% por lesão ao ano, e chegou a 0,53% por lesão em quem já tinha tido câncer de pele não melanoma. Os próprios autores avisam que os dados são limitados e que não há uma estimativa confiável.
+Pode, mas o risco de cada lesão é baixo. Numa revisão sistemática de 2013, a evolução para carcinoma espinocelular variou de 0% a 0,075% por lesão ao ano, e chegou a 0,53% por lesão em quem já tinha tido câncer de pele não melanoma (como o espinocelular e o basocelular). Os próprios autores avisam que os dados são limitados e que não há uma estimativa confiável.
 
-Isso não significa que dá para ignorar. Não existe sinal seguro que mostre qual lesão vai evoluir, e quem tem uma ceratose costuma ter várias, sobre uma pele inteira danificada pelo sol. Por isso a avaliação é da pele da região, não só da lesão que o paciente notou.
+Mesmo assim, não dá para ignorar. Não existe sinal seguro que mostre qual lesão vai evoluir, e quem tem uma ceratose costuma ter várias, sobre uma pele inteira danificada pelo sol. Então examino a pele da região inteira, além da lesão que o paciente notou.
 
 ## Precisa tratar a ceratose actínica?
 
-Em geral, sim. Algumas lesões somem sozinhas: de 15% a 63% das lesões isoladas regrediram em um ano, segundo a revisão de 2013, mas também recidivam, em 15% a 53%. Na análise dos grupos que receberam placebo em ensaios clínicos, só 8% dos participantes tiveram sumiço completo das lesões, e nenhum transplantado de órgão teve. Por isso a recomendação é tratar cedo, com atenção especial a quem tem imunidade baixa.
+Em geral, sim. Algumas lesões somem sozinhas: de 15% a 63% das lesões isoladas desapareceram em um ano, segundo a revisão de 2013. Mas de 15% a 53% voltam.
+
+Na análise dos grupos que receberam placebo em ensaios clínicos, só 8% dos participantes tiveram desaparecimento completo das lesões, e nenhum transplantado de órgão teve. Daí a recomendação de tratar cedo, com atenção especial a quem tem imunidade baixa.
 
 ## Qual é o tratamento da ceratose actínica?
 
-A diretriz da Academia Americana de Dermatologia, de 2021, recomenda com força a proteção contra a radiação ultravioleta, o imiquimode em creme, a 5-fluorouracila em creme e a criocirurgia. A terapia fotodinâmica e o diclofenaco têm recomendação condicional. Uma revisão de 80 estudos, com 6.748 pacientes, encontrou eficácia parecida entre terapia fotodinâmica, crioterapia, imiquimode, 5-fluorouracila, ácido tricloroacético e laser ablativo fracionado, e a menor taxa de limpeza com o diclofenaco.
+A diretriz da Academia Americana de Dermatologia (AAD), de 2021, faz recomendação forte para a proteção contra a radiação ultravioleta, o imiquimode em creme, a 5-fluorouracila em creme e a criocirurgia (crioterapia). A terapia fotodinâmica (um creme que deixa a pele sensível à luz, seguido de luz específica) e o diclofenaco têm recomendação condicional.
+
+Uma revisão de 80 estudos, com 6.748 pacientes, encontrou eficácia parecida entre terapia fotodinâmica, crioterapia, imiquimode, 5-fluorouracila, ácido tricloroacético (um ácido aplicado na lesão) e laser ablativo fracionado. A menor taxa de desaparecimento das lesões foi a do diclofenaco.
 
 A escolha depende de quantas lesões há, onde estão e de quanto a pele ao redor está danificada. Na minha prática, trato principalmente com duas opções.
 
@@ -72,15 +76,15 @@ A escolha depende de quantas lesões há, onde estão e de quanto a pele ao redo
 
 É um creme aplicado em casa, que estimula a imunidade da própria pele a eliminar as células alteradas. Ele trata a lesão visível e também a pele ao redor, por isso é útil quando há várias ceratoses na mesma região. Causa vermelhidão, descamação e crostas na área tratada, e isso mostra que o creme está agindo.
 
-Nas duas opções, o acompanhamento é importante: a pele é examinada de novo para ver se a lesão sumiu e se surgiram outras.
+Nas duas opções, examino a pele de novo para ver se a lesão sumiu e se surgiram outras.
 
 ## Como é feito o diagnóstico?
 
-O diagnóstico é clínico, na consulta: o dermatologista olha e toca a lesão. A dermatoscopia ajuda a diferenciá-la de outras lesões, como o carcinoma basocelular. Quando a lesão é espessa, sangra, cresce rápido ou deixa dúvida, faço uma biópsia no consultório, com envio do fragmento para exame.
+O diagnóstico é clínico, na consulta: o dermatologista olha e toca a lesão. A dermatoscopia (exame da lesão com lente de aumento e luz) ajuda a diferenciá-la de outras lesões, como o carcinoma basocelular. Quando a lesão é espessa, sangra, cresce rápido ou deixa dúvida, faço uma biópsia no consultório, com envio do fragmento para exame.
 
 ## Como prevenir?
 
-O protetor solar de uso diário reduz as lesões. Num ensaio australiano com 588 pessoas de 40 anos ou mais, o uso diário de protetor com fator 17 durante um verão levou a menos lesões novas (cerca de 38% a menos) e a mais lesões que desapareceram, em comparação com um creme sem filtro. Ainda ajudam:
+O protetor solar de uso diário pode reduzir as lesões. Num ensaio australiano com 588 pessoas de 40 anos ou mais, o uso diário de protetor com fator 17 durante um verão levou a menos lesões novas (cerca de 38% a menos) e a mais lesões que desapareceram, em comparação com um creme sem filtro. Ainda ajudam:
 
 - Reaplicar o protetor ao longo do dia, nas áreas expostas.
 - Usar chapéu de aba larga e roupas que cubram os braços.
